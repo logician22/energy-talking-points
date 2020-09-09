@@ -17,7 +17,7 @@ class BlogRoll extends React.Component {
                 className={`blog-list-item tile is-child box notification`}
               >
                 <header>
-                  {/* {post.frontmatter.featuredimage ? (
+                  {post.frontmatter.featuredimage ? (
                     <div className="featured-thumbnail">
                       <PreviewCompatibleImage
                         imageInfo={{
@@ -26,22 +26,25 @@ class BlogRoll extends React.Component {
                         }}
                       />
                     </div>
-                  ) : null} */}
+                  ) : null}
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
-                      {post.frontmatter.title}
+                      {post.frontmatter.displaytitle ||
+                        `${new Date().getFullYear()} Talking Points on ${
+                          post.frontmatter.title
+                        }`}
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      by Alex Epstein
                     </span>
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -83,6 +86,15 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
+                description
+                displaytitle
+                featuredimage {
+                  childImageSharp {
+                    fluid(maxWidth: 120, quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+                }
               }
             }
           }

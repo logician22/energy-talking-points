@@ -3,7 +3,9 @@ import PropTypes from "prop-types";
 import { kebabCase } from "lodash";
 import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
+
 import Layout from "../components/Layout";
+import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
 
 export const BlogPostTemplate = ({
@@ -13,11 +15,19 @@ export const BlogPostTemplate = ({
   title,
   displayTitle,
   helmet,
+  image,
 }) => {
   const PostContent = contentComponent || Content;
 
   return (
-    <div>
+    <div className="document">
+      <PreviewCompatibleImage
+        imageInfo={{
+          image,
+          alt: `featured image thumbnail for post ${title}`,
+        }}
+        imageStyle={{ maxHeight: 400, borderRadius: 0 }}
+      />
       <div className="has-background-light">
         <section className="section">
           <div className="container content">
@@ -61,7 +71,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-  console.log(post.frontmatter);
+
   return (
     <Layout>
       <BlogPostTemplate
@@ -79,6 +89,7 @@ const BlogPost = ({ data }) => {
         }
         title={post.frontmatter.title}
         displayTitle={post.frontmatter.displaytitle}
+        image={post.frontmatter.featuredimage}
       />
     </Layout>
   );
@@ -102,6 +113,13 @@ export const pageQuery = graphql`
         title
         description
         displaytitle
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 120, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

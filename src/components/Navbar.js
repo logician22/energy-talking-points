@@ -44,9 +44,9 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <div>
-              <Link to="/" className="navbar-item" title="Logo">
-                <img src={logo} alt="CIP" style={{ maxHeight: 70 }} />
+            <div className="level" style={{ marginBottom: 0 }}>
+              <Link to="/" className="navbar-item level-item" title="Logo">
+                <img src={logo} alt="CIP" style={{ maxHeight: 60 }} />
                 <div className="ml-2">
                   <p className="has-text-weight-bold">Energy Talking Points</p>
                   <p>by Alex Epstein</p>
@@ -57,6 +57,7 @@ const Navbar = class extends React.Component {
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
+              style={{ height: 84, width: 84 }}
               onClick={() => this.toggleHamburger()}
             >
               <span />
@@ -74,7 +75,7 @@ const Navbar = class extends React.Component {
                   <Link
                     key={post.fields.slug}
                     className="navbar-item"
-                    to={`/${post.fields.slug}`}
+                    to={post.fields.slug}
                   >
                     {post.frontmatter.title}
                   </Link>
