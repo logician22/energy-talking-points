@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
+displaytitle: 2020 Talking Points on American Energy Policy
 title: Energy Policy
 date: 2020-09-09T20:18:17.660Z
 description: In the last 15 years America has become the world’s leading energy
-  producer thanks to energy freedom--allowing all sources of energy to compete
-  and innovate. To make even more progress we need more energy freedom--not
+  producer thanks to energy freedom -- allowing all sources of energy to compete
+  and innovate. To make even more progress we need more energy freedom -- not
   mandates of renewables or bans of fossil fuels and nuclear.
 ---
 ### Quick summary
