@@ -1,7 +1,7 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link, graphql, StaticQuery } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/cip.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -33,6 +33,9 @@ const Navbar = class extends React.Component {
   };
 
   render() {
+    const { data } = this.props;
+    const { edges: posts } = data.allMarkdownRemark;
+
     return (
       <nav
         className="navbar is-transparent"
@@ -41,9 +44,15 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
-            </Link>
+            <div>
+              <Link to="/" className="navbar-item" title="Logo">
+                <img src={logo} alt="CIP" style={{ maxHeight: 70 }} />
+                <div className="ml-2">
+                  <p className="has-text-weight-bold">Energy Talking Points</p>
+                  <p>by Alex Epstein</p>
+                </div>
+              </Link>
+            </div>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -59,22 +68,17 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/documents">
-                Documents
-              </Link>
-            </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
-              </a>
+              {posts &&
+                posts.map(({ node: post }) => (
+                  <Link
+                    key={post.fields.slug}
+                    className="navbar-item"
+                    to={`/${post.fields.slug}`}
+                  >
+                    {post.frontmatter.title}
+                  </Link>
+                ))}
             </div>
           </div>
         </div>
@@ -83,4 +87,28 @@ const Navbar = class extends React.Component {
   }
 };
 
-export default Navbar;
+export default () => (
+  <StaticQuery
+    query={graphql`
+      query NavBarQuery {
+        allMarkdownRemark(
+          sort: { order: DESC, fields: [frontmatter___date] }
+          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+        ) {
+          edges {
+            node {
+              id
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+              }
+            }
+          }
+        }
+      }
+    `}
+    render={(data, count) => <Navbar data={data} count={count} />}
+  />
+);
