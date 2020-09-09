@@ -7,6 +7,7 @@ description: In the last 15 years America has become the world’s leading energ
   producer thanks to energy freedom -- allowing all sources of energy to compete
   and innovate. To make even more progress we need more energy freedom -- not
   mandates of renewables or bans of fossil fuels and nuclear.
+featuredimage: /img/city-skyline-during-night-time.jpg
 ---
 ### Quick summary
 
