@@ -9,6 +9,7 @@ description: 10s of millions of Americans live in energy poverty--a growing
 # Choose a high-quality, large image.
 featuredimage: /img/energy-poverty.jpg
 ---
+
 ### Quick summary
 
 1. 10s of millions of Americans live in energy poverty, meaning they experience hardship paying for their basic energy needs. 25 million US households say they've gone without food or medicine to pay for energy. 12 million say they’ve kept their home at an unsafe temperature.[^1]
