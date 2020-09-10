@@ -69,17 +69,13 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-robots-txt',
+      resolve: "gatsby-plugin-robots-txt",
       options: {
-        host: 'https://www.example.com',
-        sitemap: 'https://www.example.com/sitemap.xml',
-        env: {
-          production: {
-            policy: [{ userAgent: 'Twitterbot', disallow: '*', allow: '/img' }]
-          }
-        }
-      }
-    }
+        host: "https://www.example.com",
+        sitemap: "https://www.example.com/sitemap.xml",
+        policy: [{ userAgent: "Twitterbot", allow: "/img" }],
+      },
+    },
     {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
