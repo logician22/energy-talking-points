@@ -38,8 +38,8 @@ const Footer = class extends React.Component {
       addNode(postGroups, node);
     });
 
-    addNode(postGroups, { to: "/admin", text: "Admin", external: true });
-    addNode(postGroups, { to: "/sign-up", text: "Contact" });
+    addNode(postGroups, { to: "/admin/", text: "Admin", external: true });
+    addNode(postGroups, { to: "/sign-up/", text: "Contact" });
 
     return (
       <footer className="footer has-background-black has-text-white-ter">

@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 export default () => (
   <div className="sign-up-bar text-is-centered">
-    <Link to="/sign-up">
+    <Link to="/sign-up/">
       <section className="section">
         <div className="container">
           <div className="columns">
