@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: Start Here - Talking Points Overview
 title: Overview
-date: 2020-09-10T00:22:07.979Z
+date: 2020-09-09T12:22:00.000Z
 description: >-
   Energy policy, including climate policy, will be one of the main issues of the
   2020 elections.
