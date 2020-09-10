@@ -1,12 +1,11 @@
 ---
 templateKey: blog-post
 title: Energy Poverty
-date: 2020-09-10T00:12:13.923Z
+date: 2020-09-16T00:12:13.923Z
 description: 10s of millions of Americans live in energy poverty--a growing
   problem thanks to wasteful, unreliable solar and wind infrastructure. If we
   want to stop making our poorest citizens choose between food and heat or
   medicine and electricity we must end favoritism for “unreliables.”
-# Choose a high-quality, large image.
 featuredimage: /img/energy-poverty.jpg
 ---
 
