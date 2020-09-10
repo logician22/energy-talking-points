@@ -36,8 +36,10 @@ const Navbar = class extends React.Component {
 
   render() {
     const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
-
+    const { edges } = data.allMarkdownRemark;
+    const posts = edges.filter(
+      (edge) => edge.node.frontmatter.title !== "Overview"
+    );
     return (
       <nav
         className="navbar is-transparent"
@@ -78,6 +80,7 @@ const Navbar = class extends React.Component {
                     key={post.fields.slug}
                     className="navbar-item"
                     to={removeTrailingSlash(post.fields.slug)}
+                    style={{ fontWeight: 500, fontSize: 14 }}
                   >
                     {post.frontmatter.title}
                   </Link>

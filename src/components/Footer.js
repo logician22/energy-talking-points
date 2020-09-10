@@ -12,7 +12,16 @@ const Footer = class extends React.Component {
   render() {
     const { data } = this.props;
     const { edges } = data.allMarkdownRemark;
-    const postGroups = [[{ to: "/", text: "Home" }]];
+    const postGroups = [
+      [
+        {
+          to: "https://industrialprogress.com",
+          text: "Center for Industrial Progress",
+          external: true,
+        },
+        { to: "/", text: "Home" },
+      ],
+    ];
 
     const addNode = (postGroups, node) => {
       if (postGroups[postGroups.length - 1].length < 5) {

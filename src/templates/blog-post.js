@@ -75,7 +75,7 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-
+  console.log(post);
   return (
     <Layout>
       <BlogPostTemplate
@@ -83,8 +83,8 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
+          <Helmet titleTemplate="Energy Talking Points | %s">
+            <title>{post.frontmatter.title}</title>
             <meta
               name="description"
               content={`${post.frontmatter.description}`}

@@ -38,7 +38,11 @@ class BlogRoll extends React.Component {
                         post.frontmatter.displaytitle
                       )}
                     </Link>
-                    <span className="subtitle is-size-5 is-block">
+                    <br />
+                    <span
+                      className="subtitle is-size-5 is-block"
+                      style={{ marginTop: 5 }}
+                    >
                       by Alex Epstein
                     </span>
                   </p>
