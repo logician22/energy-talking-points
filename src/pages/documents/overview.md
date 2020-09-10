@@ -17,10 +17,6 @@ I want to use my years of experience studying energy and persuading people about
 
 Thus, I will be sharing what I think are the best talking points, along with references, on every major energy and environmental issue this election.
 
-![](/img/energy-poverty.jpg)
-
-
-
 ### How to use these talking points
 
 You are welcome to use these talking points however you wish. (Each is the length of a Tweet, so Twitter is one great place.)  Where appropriate, I'd request that you attribute them to me and direct people to [EnergyTalkingPoints.com](https://energytalkingpoints.com).
