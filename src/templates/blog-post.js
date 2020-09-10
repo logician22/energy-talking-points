@@ -7,6 +7,7 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
+import { fullTitle } from "../utils";
 
 export const BlogPostTemplate = ({
   content,
@@ -34,8 +35,7 @@ export const BlogPostTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-                  {displayTitle ||
-                    `${new Date().getFullYear()} Talking Points on ${title}`}
+                  {fullTitle(title, displayTitle)}
                 </h1>
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">
                   By Alex Epstein
@@ -51,7 +51,7 @@ export const BlogPostTemplate = ({
         {helmet || ""}
         <div className="container content">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-8 is-offset-2">
               <PostContent content={content} />
             </div>
           </div>

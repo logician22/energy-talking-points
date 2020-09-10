@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
+import { fullTitle } from "../utils";
 
 class BlogRoll extends React.Component {
   render() {
@@ -32,10 +33,10 @@ class BlogRoll extends React.Component {
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
-                      {post.frontmatter.displaytitle ||
-                        `${new Date().getFullYear()} Talking Points on ${
-                          post.frontmatter.title
-                        }`}
+                      {fullTitle(
+                        post.frontmatter.title,
+                        post.frontmatter.displaytitle
+                      )}
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
