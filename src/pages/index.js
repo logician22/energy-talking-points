@@ -3,6 +3,7 @@ import { Link } from "gatsby";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
+import SignUpBar from "../components/SignUpBar";
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -28,13 +29,16 @@ export default class BlogIndexPage extends React.Component {
           <div className="container">
             <div className="content" style={{ textAlign: "center" }}>
               <h3 className="is-size-3">Start Here</h3>
-              <p className="is-size-5">
-                Read <Link to="/overview">this overview document</Link> for info
-                on these talking points and how to use them.
-              </p>
+              <div className="columns">
+                <p className="is-size-5 column is-6 is-offset-3">
+                  Read <Link to="/overview">this overview document</Link> for
+                  info on these talking points and how to use them.
+                </p>
+              </div>
             </div>
           </div>
         </section>
+        <SignUpBar />
         <section className="section">
           <div className="container">
             <div className="content">

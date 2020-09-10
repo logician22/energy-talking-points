@@ -137,14 +137,23 @@ article.blog-list-item
     min-width: 35%
 
 .next-button
-  background-color: $brand-blue
-  transition: background-color 0.3s ease
-  text-align: right
-  h2
+  text-align: left
+  .section
+    padding-top: 0rem
+  .content h3
+    color: $brand-blue
     margin-bottom: 0 !important
+    transition: color 0.3s ease
+  .arrow
+    margin-left: 10px
+    transition: margin-left 0.3s ease
+
   &:hover
-    background-color: darken($brand-blue, 5)
     cursor: pointer
+    h3
+      color: darken($brand-blue, 5)
+    .arrow
+      margin-left: 15px
 
 .document
   ol li
@@ -153,6 +162,22 @@ article.blog-list-item
     font-size: 14px
     p ~ .footnote-backref
       margin-bottom: 0
+
+.sign-up-bar
+  background-color: $primary
+  transition: background-color 0.5s ease
+  cursor: pointer
+  text-align: center
+
+  section.section
+    padding-top: 1.5rem
+    padding-bottom: 1.5rem
+
+  h4
+    color: white
+
+  &:hover
+    background-color: darken($primary, 5)
 
 @import "~bulma"
 

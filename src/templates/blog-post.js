@@ -7,6 +7,7 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
+import SignUpBar from "../components/SignUpBar";
 import { fullTitle, removeTrailingSlash } from "../utils";
 
 export const BlogPostTemplate = ({
@@ -64,18 +65,21 @@ export const BlogPostTemplate = ({
       </section>
 
       <div className="next-button">
-        <Link to={removeTrailingSlash(next.fields.slug)}>
-          <section className="section">
-            <div className="container content">
-              <div className="column is-10 is-offset-1">
-                <h2 className="is-size-2" style={{ color: "white" }}>
-                  Next up: {next.frontmatter.title} →
-                </h2>
-              </div>
+        <section className="section">
+          <div className="container content">
+            <div className="column is-10 is-offset-1">
+              <Link to={removeTrailingSlash(next.fields.slug)}>
+                <h3 className="is-size-3">
+                  Next up: {next.frontmatter.title}{" "}
+                  <span className="arrow">→</span>
+                </h3>
+              </Link>
             </div>
-          </section>
-        </Link>
+          </div>
+        </section>
       </div>
+
+      <SignUpBar />
     </div>
   );
 };
