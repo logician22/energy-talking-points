@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Wind Production Tax Credit
-date: 2020-09-10T00:40:41.109Z
+date: 2020-09-24T00:40:41.109Z
 description: The Wind Production Tax Credit is a perverse policy that pays
   utilities to slow down or shut down reliable power plants whenever the wind
   blows. It is driving reliable power plants out of business, leading to higher
