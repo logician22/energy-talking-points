@@ -19,9 +19,9 @@ Thus, I will be sharing what I think are the best talking points, along with ref
 
 How to use these talking points
 
-You are welcome to use these talking points however you wish. (Each is the length of a Tweet, so Twitter is one great place.)  Where appropriate, I'd request that you attribute them to me and direct people to [EnergyTalkingPoints.com](energytalkingpoints.com).
+You are welcome to use these talking points however you wish. (Each is the length of a Tweet, so Twitter is one great place.)  Where appropriate, I'd request that you attribute them to me and direct people to [EnergyTalkingPoints.com](https://energytalkingpoints.com).
 
-If you are a candidate and would like to request custom talking points, I'll do my best to help you. Email me at alex@alexepstein.com subject "I'm a candidate"
+If you are a candidate and would like to request custom talking points, I'll do my best to help you. Email me at [alex@alexepstein.com](mailto:alex@alexepstein.com) subject "I'm a candidate"
 
 If you would like to interview me about energy policy in 2020, email me at [alex@alexepstein.com](mailto:alex@alexepstein.com) subject "I want to interview you"
 
