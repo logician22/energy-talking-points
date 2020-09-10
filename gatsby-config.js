@@ -71,7 +71,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-robots-txt",
       options: {
-        policy: [{ userAgent: "Twitterbot", allow: "/img" }],
+        policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/img" }],
       },
     },
     {
