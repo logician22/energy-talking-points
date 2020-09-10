@@ -2,9 +2,9 @@
 templateKey: blog-post
 displaytitle: 2020 Talking Points on Fracking
 title: Fracking
-date: 2020-09-09T23:11:43.198Z
+date: 2020-09-11T23:11:43.198Z
 description: >-
-
+  
   Fracking is one of the most important technologies in our economy and can be done very safely. Government should ban only dangerous misuses of fracking, not all fracking. A fracking ban is the fastest way to create a global recession and an American depression.
 featuredimage: /img/lighted-gas-range-oven.jpg
 ---
