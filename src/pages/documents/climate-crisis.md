@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: 2020 Talking Points on the So-Called Climate Crisis
 title: Climate Crisis
-date: 2020-09-10T00:33:24.161Z
+date: 2020-09-18T00:33:24.161Z
 description: While climate catastrophists claim that our climate is less livable
   than ever because of fossil fuels, it is actually more livable than ever
   thanks to our fossil fuel powered climate protection systems. Rising CO2
