@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, graphql, StaticQuery } from "gatsby";
 
-import { removeTrailingSlash } from "../utils";
 import logo from "../img/cip.png";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
@@ -31,7 +30,7 @@ const Footer = class extends React.Component {
       }
     };
     edges.forEach((edge) => {
-      const slug = removeTrailingSlash(edge.node.fields.slug);
+      const slug = edge.node.fields.slug;
       const node = {
         to: slug,
         text: edge.node.frontmatter.title,

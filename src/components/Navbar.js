@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, graphql, StaticQuery } from "gatsby";
 
-import { removeTrailingSlash } from "../utils";
 import github from "../img/github-icon.svg";
 import logo from "../img/cip.png";
 
@@ -79,7 +78,7 @@ const Navbar = class extends React.Component {
                   <Link
                     key={post.fields.slug}
                     className="navbar-item"
-                    to={removeTrailingSlash(post.fields.slug)}
+                    to={post.fields.slug}
                     style={{ fontWeight: 500, fontSize: 14 }}
                   >
                     {post.frontmatter.title}

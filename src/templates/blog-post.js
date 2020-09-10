@@ -8,7 +8,7 @@ import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
 import SignUpBar from "../components/SignUpBar";
-import { fullTitle, removeTrailingSlash } from "../utils";
+import { fullTitle } from "../utils";
 
 export const BlogPostTemplate = ({
   content,
@@ -68,7 +68,7 @@ export const BlogPostTemplate = ({
         <section className="section">
           <div className="container content">
             <div className="column is-10 is-offset-1">
-              <Link to={removeTrailingSlash(next.fields.slug)}>
+              <Link to={next.fields.slug}>
                 <h3 className="is-size-3">
                   Next up: {next.frontmatter.title}{" "}
                   <span className="arrow">→</span>

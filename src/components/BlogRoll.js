@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
-import { fullTitle, removeTrailingSlash } from "../utils";
+import { fullTitle } from "../utils";
 
 class BlogRoll extends React.Component {
   render() {
@@ -31,7 +31,7 @@ class BlogRoll extends React.Component {
                   <p className="post-meta">
                     <Link
                       className="title has-text-primary is-size-4"
-                      to={removeTrailingSlash(post.fields.slug)}
+                      to={post.fields.slug}
                     >
                       {fullTitle(
                         post.frontmatter.title,
