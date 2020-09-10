@@ -7,7 +7,7 @@ import { graphql, Link } from "gatsby";
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
-import { fullTitle } from "../utils";
+import { fullTitle, removeTrailingSlash } from "../utils";
 
 export const BlogPostTemplate = ({
   content,
@@ -17,6 +17,7 @@ export const BlogPostTemplate = ({
   displayTitle,
   helmet,
   image,
+  next,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -61,6 +62,20 @@ export const BlogPostTemplate = ({
           </div>
         </div>
       </section>
+
+      <div className="next-button">
+        <Link to={removeTrailingSlash(next.fields.slug)}>
+          <section className="section">
+            <div className="container content">
+              <div className="column is-10 is-offset-1">
+                <h2 className="is-size-2" style={{ color: "white" }}>
+                  Next up: {next.frontmatter.title} →
+                </h2>
+              </div>
+            </div>
+          </section>
+        </Link>
+      </div>
     </div>
   );
 };
@@ -74,11 +89,17 @@ BlogPostTemplate.propTypes = {
 };
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data;
-  console.log(post);
+  const { markdownRemark: post, allMarkdownRemark } = data;
+  const currentIndex = allMarkdownRemark.edges.findIndex((edge) => {
+    return edge.node.frontmatter.title === post.frontmatter.title;
+  });
+  const nextIndex =
+    currentIndex === allMarkdownRemark.edges.length - 1 ? 0 : currentIndex + 1;
+  const next = allMarkdownRemark.edges[nextIndex].node;
   return (
     <Layout>
       <BlogPostTemplate
+        next={next}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -109,6 +130,22 @@ export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
+    allMarkdownRemark(
+      sort: { order: ASC, fields: [frontmatter___date] }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+    ) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+          }
+        }
+      }
+    }
     markdownRemark(id: { eq: $id }) {
       id
       html
