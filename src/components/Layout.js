@@ -60,7 +60,7 @@ const TemplateWrapper = ({ children }) => {
               <meta name="twitter:description" content={description} />
               <meta
                 name="twitter:image"
-                content={`${origin}${withPrefix("/")}img/og-image.jpg`}
+                content={`${origin}${withPrefix("/")}img/twitter-image.jpg`}
               />
             </Helmet>
             <Navbar />
