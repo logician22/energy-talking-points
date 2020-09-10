@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: CO2 Emissions
-date: 2020-09-10T00:55:30.465Z
+date: 2020-09-20T00:55:30.465Z
 description: The only practical way to lower global CO2 emissions is to
   encourage innovation that could make low-carbon energy cheap for everyone.
   Policies like the Green New Deal and the Biden Plan that would outlaw American
