@@ -14,8 +14,7 @@ const TemplateWrapper = ({ children }) => {
   return (
     <Location>
       {({ location }) => {
-        console.log(location);
-        const origin = removeTrailingSlash(location.origin);
+        const origin = removeTrailingSlash(location.origin || "");
         return (
           <div>
             <Helmet>
