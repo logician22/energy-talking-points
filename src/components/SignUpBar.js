@@ -8,7 +8,7 @@ export default () => (
         <div className="container">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <h4 className="is-size-4">Sign up for notifications!</h4>
+              <h4 className="is-size-4">Sign up for updates!</h4>
             </div>
           </div>
         </div>
