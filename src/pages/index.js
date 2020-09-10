@@ -31,8 +31,8 @@ export default class BlogIndexPage extends React.Component {
               <h3 className="is-size-3">Start Here</h3>
               <div className="columns">
                 <p className="is-size-5 column is-6 is-offset-3">
-                  Read <Link to="/overview">this overview document</Link> for
-                  info on these talking points and how to use them.
+                  Read <Link to="/overview/">the overview</Link> for info on
+                  these talking points and how to use them.
                 </p>
               </div>
             </div>
