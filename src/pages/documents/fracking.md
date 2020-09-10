@@ -4,7 +4,7 @@ displaytitle: 2020 Talking Points on Fracking
 title: Fracking
 date: 2020-09-11T23:11:43.198Z
 description: >-
-  
+
   Fracking is one of the most important technologies in our economy and can be done very safely. Government should ban only dangerous misuses of fracking, not all fracking. A fracking ban is the fastest way to create a global recession and an American depression.
 featuredimage: /img/lighted-gas-range-oven.jpg
 ---
@@ -30,10 +30,10 @@ featuredimage: /img/lighted-gas-range-oven.jpg
     Joe Biden’s [energy plan](https://joebiden.com/clean-energy/) also calls for a net-zero CO2 emissions economy wide by no later than 2050. His [climate plan](https://joebiden.com/climate/) also promises aggressive new methane emission limits. Effectively, this amounts to a ban and early retirement of coal, gas, and oil for electricity generation ([over 60%](https://www.eia.gov/tools/faqs/faq.php?id=427&t=3) of the current total), as there is no cost-effective technology available to capture CO2 from fuel combustion, even though Biden tried to [backpedal](https://www.forbes.com/sites/davidblackmon/2020/07/11/joe-biden-tries-to-clean-up-his-fracking-problem-in-pennsylvania/) on the direct attacks against fracking recently.
 
 [^2]:
-    “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”
+    “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”\
+    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847&t=6)
 
-    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847&t=6)“The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.”
-
+    “The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.”\
     [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
 
     “More than 95% of U.S. natural gas and oil wells today are developed using hydraulic fracturing.” American Petroleum Institute - [AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
@@ -54,13 +54,11 @@ featuredimage: /img/lighted-gas-range-oven.jpg
     [U.S. Energy Information Administration - Petroleum and other Liquids, Weekly Imports & Exports](https://www.eia.gov/dnav/pet/pet_move_wkly_dc_NUS-Z00_mbblpd_4.htm)
 
 [^6]:
-    “In September 2019, the United States exported 89,000 barrels per day (b/d) more petroleum (crude oil and petroleum products) than it imported, the first month this has happened since monthly records began in 1973.”
-
+    “In September 2019, the United States exported 89,000 barrels per day (b/d) more petroleum (crude oil and petroleum products) than it imported, the first month this has happened since monthly records began in 1973.”\
     [U.S. Energy Information Administration, December 5, 2019](https://www.eia.gov/todayinenergy/detail.php?id=42176)
 
 [^7]:
-    “When, in 1973, Saudi Arabia implemented an oil embargo and took some 4 mmbd off world markets (approximately 7% of the total at that time), world oil prices jumped 400% and triggered a global recession. Similarly, in 1979, the Iranian revolution took a comparable 5% of oil off world markets and prices spiked over 200%, sparking another global recession.”
-
+    “When, in 1973, Saudi Arabia implemented an oil embargo and took some 4 mmbd off world markets (approximately 7% of the total at that time), world oil prices jumped 400% and triggered a global recession. Similarly, in 1979, the Iranian revolution took a comparable 5% of oil off world markets and prices spiked over 200%, sparking another global recession.”\
     [Mark P. Mills - Issues 2020: A Fracking Ban Would Trigger Global Recession](https://www.manhattan-institute.org/issues-2020-economic-consequences-fracking-ban-recession)
 
 [^8]:
@@ -73,29 +71,25 @@ featuredimage: /img/lighted-gas-range-oven.jpg
 
 [^10]:
     “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”\
-    This is slightly over 118 billion gallons of oil (one barrel = 42 gallons).
+    This is slightly over 118 billion gallons of oil (one barrel = 42 gallons).\
+    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847&t=6)
 
-    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847&t=6)“The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.”
-
+    “The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.”\
     25 trillion cubic feet of natural gas can be converted into gallons of oil using energy [conversion factors](https://www.eia.gov/energyexplained/units-and-calculators/):\
-    25 trillion cf of natural gas = 25,925 trillion Btu ≈ 4.5 billion barrels of oil ≈ 190 billion gallons of oil
-
+    25 trillion cf of natural gas = 25,925 trillion Btu ≈ 4.5 billion barrels of oil ≈ 190 billion gallons of oil.\
     [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
 
 [^11]:
-    Between 2008, when the shale gas production took off, and 2018, US shale gas development produced an estimated total of 126,677 billion cubic feet or over 130,000 trillion Btu (using the [conversion factor](https://www.eia.gov/energyexplained/units-and-calculators/) 1 cubic foot of natural gas = 1,037 Btu).
-
+    Between 2008, when the shale gas production took off, and 2018, US shale gas development produced an estimated total of 126,677 billion cubic feet or over 130,000 trillion Btu (using the [conversion factor](https://www.eia.gov/energyexplained/units-and-calculators/) 1 cubic foot of natural gas = 1,037 Btu).\
     [U.S. Energy Information Administration - Shale Gas estimated production](https://www.eia.gov/dnav/ng/NG_ENR_SHALEGAS_A_EPG0_R5302_BCF_A.htm)
 
-    US electricity generation from solar and wind from 2008 to 2018 was 2,090,690 gigawatt hours or over 7,000 trillion Btu (using the [conversion factor](https://www.eia.gov/energyexplained/units-and-calculators/) 1 kilowatt hour of electricity = 3,412 Btu).
-
+    US electricity generation from solar and wind from 2008 to 2018 was 2,090,690 gigawatt hours or over 7,000 trillion Btu (using the [conversion factor](https://www.eia.gov/energyexplained/units-and-calculators/) 1 kilowatt hour of electricity = 3,412 Btu).\
     [U.S. Energy Information Administration - Electricity Annual, Table 3.1.B. Net Generation from Renewable Sources: Total (All Sectors), 2008 - 2018](https://www.eia.gov/electricity/annual/html/epa_03_01_b.html)
 
     This means shale gas production created about 18 times (or 1,800%) as much energy for the US as did solar and wind combined.
 
 [^12]:
-    “More than 25 scientific, peer-reviewed studies and expert assessments have concluded that hydraulic fracturing is not a major threat to groundwater. In fact, many studies have examined groundwater pollution and specifically ruled out fracking as the cause.”
-
+    “More than 25 scientific, peer-reviewed studies and expert assessments have concluded that hydraulic fracturing is not a major threat to groundwater. In fact, many studies have examined groundwater pollution and specifically ruled out fracking as the cause.”\
     [Independent Petroleum Association of America](https://www.ipaa.org/fracking/#studies)
 
 [^13]:
@@ -104,6 +98,5 @@ featuredimage: /img/lighted-gas-range-oven.jpg
     [U.S. Geological Survey - Quality of Water from Domestic Wells in Principal Aquifers of the United States, 1991–2004](https://pubs.usgs.gov/circ/circ1332/includes/circ1332.pdf)
 
 [^14]:
-    Most of the geological activity related to frac’ing comes from the disposal of waste water in so-called injection wells. The requirement to dispose of waste water in such wells meant a dramatic increase in injection well capacity use due to increasing hydraulic fracturing.
-
+    Most of the geological activity related to frac’ing comes from the disposal of waste water in so-called injection wells. The requirement to dispose of waste water in such wells meant a dramatic increase in injection well capacity use due to increasing hydraulic fracturing.\
     [U.S. Geological Survey - Myths and Misconceptions About Induced Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/science/myths-and-misconceptions-about-induced-earthquakes)

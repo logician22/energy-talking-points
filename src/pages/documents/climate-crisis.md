@@ -10,6 +10,7 @@ description: While climate catastrophists claim that our climate is less livable
   greening--not a crisis.
 featuredimage: /img/sunset.jpg
 ---
+
 ### Quick summary
 
 1. When you hear scary claims about a “climate crisis,” keep in mind that climate catastrophists have been claiming climate crisis for 40 years. For example, Obama science advisor John Holdren predicted in the 1980s that we’d have up to 1 billion climate deaths today.[^1]
@@ -24,9 +25,10 @@ featuredimage: /img/sunset.jpg
 
 [^1]: “As University of California physicist John Holdren has said, it is possible that carbon-dioxide climate-induced famines could kill as many as a billion people before the year 2020.” -Paul Ehrlich, The Machinery of Nature (1986), p. 27
 [^2]:
-    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.\
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).\
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
+
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.
 
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
@@ -48,4 +50,4 @@ featuredimage: /img/sunset.jpg
 
     “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.\
     …\
-    Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” -Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020). <https://doi.org/10.1038/s43017-019-0001-x>
+    Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” - [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020).](https://doi.org/10.1038/s43017-019-0001-x)

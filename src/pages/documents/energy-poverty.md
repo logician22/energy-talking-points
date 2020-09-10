@@ -27,7 +27,8 @@ featuredimage: /img/energy-poverty.jpg
     [U.S. Energy Information Administration - Natural Gas Prices](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm)
 
 [^3]:
-    Natural gas, solar, and wind capacity additions dominate in US grid areas. But despite falling natural gas prices and improving natural gas power plant technology, electricity prices do not fall.\
+    Natural gas, solar, and wind capacity additions dominate in US grid areas. But despite falling natural gas prices and improving natural gas power plant technology, electricity prices do not fall.
+
     [U.S. Energy Information Administration, April 21, 2020](https://www.eia.gov/todayinenergy/detail.php?id=43415)
 
 [^4]:
