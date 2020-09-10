@@ -23,18 +23,23 @@ featuredimage: /img/dark-city.jpg
 ### References
 
 [^1]:
-    Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%). [Fraunhofer ISE energy-charts.de](https://www.energy-charts.de/energy_pie.htm?year=2019)German household electricity prices have more than doubled to over 0.3€ per kWh (\$0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid. [BDEW Strompreisanalyse Jan 2020 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)]
+    Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%). [Fraunhofer ISE energy-charts.de](https://www.energy-charts.de/energy_pie.htm?year=2019)
+
+    German household electricity prices have more than doubled to over 0.3€ per kWh (\$0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid. [BDEW Strompreisanalyse Jan 2020 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
     The average US household price in 2018 was \$0.1287 per kWh. [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
 [^2]:
-    “Biden will make a \$2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.” Joe Biden’s Build Back Better plan [<https://joebiden.com/clean-energy/>]\
+    “Biden will make a \$2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.” [Joe Biden’s Build Back Better plan](https://joebiden.com/clean-energy/)
 
     “Biden’s climate and environmental justice proposal will make a federal investment of $1.7 trillion over the next ten years, leveraging additional private sector and state and local investments to total to more than $5 trillion.” -[Joe Biden’s Plan for a Clean Energy Revolution and Environmental Justice](https://joebiden.com/climate/)
 
-[^3]: “Together, these steps will unleash a clean energy revolution in America, create good paying union jobs that cannot be outsourced, and spur the installation of millions of solar panels – including utility-scale, rooftop, and community solar systems – and tens of thousands of wind turbines – including thousands of turbines off our coasts – in Biden’s first term.” Joe Biden’s Build Back Better plan [<https://joebiden.com/clean-energy/>]
+[^3]: “Together, these steps will unleash a clean energy revolution in America, create good paying union jobs that cannot be outsourced, and spur the installation of millions of solar panels – including utility-scale, rooftop, and community solar systems – and tens of thousands of wind turbines – including thousands of turbines off our coasts – in Biden’s first term.” [Joe Biden’s Build Back Better plan](https://joebiden.com/clean-energy/)
+
 [^4]:
-    In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.” -[Utility Drive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/) For example, a 2019 story concerning Texas notes, “As wind power slowed, ERCOT instituted its first level of emergency alerts, calling on small industrial and commercial generators to pour power onto the grid, and requesting power from Mexico from which an additional 60 MW were imported on Aug. 15. Installed capacity numbers for electricity from intermittent sources such as wind and solar mean very little when they fail to produce as wind did in the middle of the hot Texas summer.” -[Power Magazine, September 19, 2019](https://www.powermag.com/texas-impending-reliability-issues-with-wind-power/)
+    In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.” -[Utility Drive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/) 
+
+    For example, a 2019 story concerning Texas notes, “As wind power slowed, ERCOT instituted its first level of emergency alerts, calling on small industrial and commercial generators to pour power onto the grid, and requesting power from Mexico from which an additional 60 MW were imported on Aug. 15. Installed capacity numbers for electricity from intermittent sources such as wind and solar mean very little when they fail to produce as wind did in the middle of the hot Texas summer.” -[Power Magazine, September 19, 2019](https://www.powermag.com/texas-impending-reliability-issues-with-wind-power/)
 
     In the U.S. northeast, grid operator ISO-NE warned, the grid is likely to be at risk of fuel shortages and rolling blackouts thanks to limited natural gas pipeline capacity. “In the coming years as more oil, coal, and nuclear leave the system, keeping the lights on in New England will become an even more tenuous proposition.” -ISO New England, [2018 Regional Electricity Outlook](https://www.iso-ne.com/static-assets/documents/2018/02/2018_reo.pdf).
 
@@ -52,7 +57,8 @@ featuredimage: /img/dark-city.jpg
     An analysis by the American Petroleum Institute estimates that a ban on hydraulic fracturing and federal leasing would create over \$7 trillion in economic damages between 2020 and 2030 and cost over 7 million jobs.\
     American Petroleum Institute - [AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
 
-[^8]: OPEC and especially Saudi Arabia have had a big impact on the price of internationally traded oil. <https://www.eia.gov/finance/markets/crudeoil/supply-opec.php>
+[^8]: OPEC and especially Saudi Arabia have had a big impact on the price of internationally traded oil. [OPEC Crude Oil Supply](https://www.eia.gov/finance/markets/crudeoil/supply-opec.php)
+
 [^9]:
     China is already the leading emitter of greenhouse gases, at twice the emissions of the US. All reasonable predictions of future emissions anticipate the overwhelming majority of future emissions coming from developing countries that are trying to close the gap in wealth and energy consumption.
 
