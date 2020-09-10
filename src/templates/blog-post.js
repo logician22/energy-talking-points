@@ -40,7 +40,11 @@ export const BlogPostTemplate = ({
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">
                   By Alex Epstein
                 </h2>
-                <p className="is-size-5">{description}</p>
+                {description.split("\n").map((p) => (
+                  <p className="is-size-5" key={p.slice(0, 2)}>
+                    {p}
+                  </p>
+                ))}
               </div>
             </div>
           </div>
