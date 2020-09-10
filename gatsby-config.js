@@ -68,12 +68,12 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    {
-      resolve: "gatsby-plugin-robots-txt",
-      options: {
-        policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/img" }],
-      },
-    },
+    // {
+    //   resolve: "gatsby-plugin-robots-txt",
+    //   options: {
+    //     policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/img" }],
+    //   },
+    // },
     {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
