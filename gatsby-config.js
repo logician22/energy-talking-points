@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: ".env",
+});
+console.log(process.env);
 module.exports = {
   siteMetadata: {
     title: "Energy Talking Points - Alex Epstein",
@@ -74,6 +78,20 @@ module.exports = {
     //     policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/img" }],
     //   },
     // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId:
+          process.env.NODE_ENV === "development"
+            ? null
+            : process.env.GA_TRACKING_ID,
+        // Setting this parameter is optional
+        anonymize: true,
+        // Setting this parameter is also optional
+        respectDNT: true,
+      },
+    },
     {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
