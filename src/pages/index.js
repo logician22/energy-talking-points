@@ -32,13 +32,14 @@ export default class BlogIndexPage extends React.Component {
               <div className="columns">
                 <p className="is-size-5 column is-6 is-offset-3">
                   Read <Link to="/overview/">the overview</Link> for info on
-                  these talking points and how to use them.
+                  these talking points and how to use them, or{" "}
+                  <Link to="/sign-up/">sign up</Link> for more energy info.
                 </p>
               </div>
             </div>
           </div>
         </section>
-        <SignUpBar />
+
         <section className="section">
           <div className="container">
             <div className="content">
@@ -46,6 +47,7 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
+        <SignUpBar />
       </Layout>
     );
   }

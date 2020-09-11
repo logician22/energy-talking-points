@@ -36,9 +36,12 @@ const Navbar = class extends React.Component {
   render() {
     const { data } = this.props;
     const { edges } = data.allMarkdownRemark;
-    const posts = edges.filter(
-      (edge) => edge.node.frontmatter.title !== "Overview"
-    );
+
+    // Show first 5 non-overview pages in header
+    const posts = edges
+      .filter((edge) => edge.node.frontmatter.title !== "Overview")
+      .slice(0, 5);
+
     return (
       <nav
         className="navbar is-transparent"
