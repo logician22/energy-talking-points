@@ -7,7 +7,7 @@ description: The only practical way to lower global CO2 emissions is to
   Policies like the Green New Deal and the Biden Plan that would outlaw American
   fossil fuel use  won’t stop global CO2 emissions from rising--but they will
   ruin America.
-featuredimage: /img/emissions.jpg
+featuredimage: /img/forest.jpg
 ---
 ### Quick summary
 
