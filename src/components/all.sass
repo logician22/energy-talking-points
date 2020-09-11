@@ -89,6 +89,37 @@ $link: $primary
   fill: currentColor
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
+
+.navbar-end .navbar-item
+  font-weight: 500
+  font-size: 14px
+
+.navbar-more
+  transition: transform 0.3s ease, marginTop 0.3s ease
+  svg
+    margin-top: 5px
+  svg path
+    fill: $black
+    transition: fill 0.3s ease
+  &:hover
+    svg path
+      fill: $brand-blue
+
+  &.open svg
+    margin-top: -2px
+
+.navbar .extra-posts
+  padding-bottom: 10px
+  position: absolute
+  top: 82px
+  right: -48px
+  width: 195px
+  display: flex
+  flex-direction: column
+  align-items: flex-start
+  background: white
+  text-align: left
+
 footer.footer
   padding: 3rem 0rem
   background-color: transparent
