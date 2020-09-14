@@ -48,7 +48,7 @@ class BlogRoll extends React.Component {
                   </p>
                 </header>
                 <p>
-                  {post.frontmatter.description}
+                  {post.frontmatter.description || post.excerpt}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
