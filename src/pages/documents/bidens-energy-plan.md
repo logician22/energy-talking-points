@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: 2020 Talking Points on Joe Biden's Energy Plan
 title: Biden's Energy Plan
-date: 2020-09-10T01:00:40.484Z
+date: 2020-09-10T01:00:41.494Z
 description: Joe Biden’s energy plan calls for outlawing reliable fossil fuel
   electricity and mandating unreliable solar and wind electricity. This will not
   stop CO2 emissions from rising but it will destroy American industry,
