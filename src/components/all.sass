@@ -21,6 +21,12 @@ a, p, h1, h2, h3, h4, h5, h6, label, input, span, blockquote, li, b, em
   font-family: 'Lato', sans-serif
   color: $grey
 
+a
+  color: $link
+  transition: color 0.3s ease
+  &:hover
+    color: darken($brand-blue, 5)
+
 .navbar .navbar-menu
   box-shadow: none !important
 
@@ -199,7 +205,7 @@ article.blog-list-item
       color: darken($brand-blue, 5)
     .arrow
       margin-left: 15px
-      color: darken($brand-blue, 4)
+      color: darken($brand-blue, 5)
 
 .document
   ol li
