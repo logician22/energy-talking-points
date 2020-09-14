@@ -1,23 +1,35 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-// Brand color: #4DAA9F
-$brand-blue: #4DAA9F
+// Brand color: #0e7eaf
+$brand-blue: #0e7eaf
 $brand-blue-invert: #fff
 
 $primary: $brand-blue
 $primary-invert: $brand-blue-invert
-$body-color: #333
-$black: #2b2523
+$grey: #202020
+$body-color: $grey
+$black: $grey
 
 // Override link color
 $link: $primary
+
+.box
+  color: $grey
+
+a, p, h1, h2, h3, h4, h5, h6, label, input, span, blockquote, li, b, em
+  font-family: 'Lato', sans-serif
+  color: $grey
 
 .navbar .navbar-menu
   box-shadow: none !important
 
 .navbar-brand
   height: 84px
+
+.banner-text
+  boxShadow: 0.5rem 0 0 $brand-blue, -0.5rem 0 0 $brand-blue
+  padding: 1rem
 
 .content .taglist
   list-style: none
@@ -163,6 +175,7 @@ $menu-label-color: $white-ter
 
 article.blog-list-item
   min-height: 100%
+  background-color: white
 
   .featured-thumbnail
     min-width: 35%
@@ -177,7 +190,8 @@ article.blog-list-item
     transition: color 0.3s ease
   .arrow
     margin-left: 10px
-    transition: margin-left 0.3s ease
+    transition: margin-left 0.3s ease, color 0.3s ease
+    color: $brand-blue
 
   &:hover
     cursor: pointer
@@ -185,6 +199,7 @@ article.blog-list-item
       color: darken($brand-blue, 5)
     .arrow
       margin-left: 15px
+      color: darken($brand-blue, 4)
 
 .document
   ol li

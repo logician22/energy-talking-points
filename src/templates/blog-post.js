@@ -24,13 +24,13 @@ export const BlogPostTemplate = ({
 
   return (
     <div className="document">
-      <PreviewCompatibleImage
+      {/* <PreviewCompatibleImage
         imageInfo={{
           image,
           alt: `featured image thumbnail for post ${title}`,
         }}
         imageStyle={{ maxHeight: 400, borderRadius: 0 }}
-      />
+      /> */}
       <div className="has-background-light">
         <section className="section">
           <div className="container content">

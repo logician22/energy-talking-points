@@ -15,32 +15,30 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: `url('/img/blog-index.jpg')`,
           }}
         >
-          <h1
-            className="has-text-weight-bold is-size-1 has-background-primary has-text-white"
-            style={{
-              boxShadow: "0.5rem 0 0 #4DAA9F, -0.5rem 0 0 #4DAA9F",
-              padding: "1rem",
-            }}
-          >
+          <h1 className="has-text-weight-bold is-size-1 has-background-primary has-text-white banner-text">
             Energy Talking Points
           </h1>
         </div>
-        <section className="section has-background-light">
+        <section className="section has-background-white has-">
           <div className="container">
             <div className="content" style={{ textAlign: "center" }}>
-              <h3 className="is-size-3">Start Here</h3>
+              <h3 className="is-size-3">Welcome to EnergyTalkingPoints.com</h3>
               <div className="columns">
                 <p className="is-size-5 column is-6 is-offset-3">
-                  Read <Link to="/overview/">the overview</Link> for info on
-                  these talking points and how to use them, or{" "}
-                  <Link to="/sign-up/">sign up</Link> for more energy info.
+                  The goal of this site is to give you true, powerful, and
+                  succinct talking points on this year's most important energy,
+                  environmental, and climate issues.
+                  <br />
+                  <p style={{ fontStyle: "italic", marginTop: "15px" }}>
+                    - Alex Epstein
+                  </p>
                 </p>
               </div>
             </div>
           </div>
         </section>
 
-        <section className="section">
+        <section className="section has-background-light">
           <div className="container">
             <div className="content">
               <BlogRoll />
