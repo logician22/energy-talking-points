@@ -12,7 +12,12 @@ export default class BlogIndexPage extends React.Component {
         <section className="section has-background-white has-">
           <div className="container">
             <div className="content" style={{ textAlign: "center" }}>
-              <h3 className="is-size-3">Welcome to EnergyTalkingPoints.com</h3>
+              <h2
+                className="is-size-2 is-color-primary"
+                style={{ marginTop: 20 }}
+              >
+                Welcome to EnergyTalkingPoints.com
+              </h2>
               <div className="columns">
                 <p className="is-size-5 column is-6 is-offset-3">
                   The goal of this site is to give you true, powerful, and

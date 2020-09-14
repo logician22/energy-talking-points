@@ -17,6 +17,9 @@ $link: $primary
 .box
   color: $grey
 
+.is-color-primary
+  color: $primary !important
+
 a, p, h1, h2, h3, h4, h5, h6, label, input, span, blockquote, li, b, em
   font-family: 'Lato', sans-serif
   color: $grey
@@ -98,8 +101,23 @@ a
 .margin-bottom-0
   margin-bottom: 0 !important
 
-.navbar-item .icon
-  color: $primary
+.navbar
+  .navbar-item, .navbar-brand, .navbar-brand p
+    transition: color 0.3s ease
+    color: $grey !important
+    .icon
+      transition: color 0.3s ease
+      color: $grey !important
+      svg path
+        transition: color 0.3s ease
+        fill: $grey
+    &:hover
+      color: darken($primary, 5) !important
+      .icon
+        color: darken($primary, 5) !important
+        svg path
+          fill: darken($primary, 5)
+
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
   width: 1.5rem
