@@ -10,6 +10,8 @@ featuredimage: /img/fire.jpg
 ---
 ### Quick summary
 
+
+
 1. Gavin Newsom and other California leaders are blaming the dangerous, out-of-control wildfires in CA on climate change. But temperatures have risen 1 degree C in the last 150 years. Is it really possible that that amount of warming makes dangerous wildfires inevitable? No.[^1]
 2. With proper forest management we can prevent anything resembling the dangerous, out-of-control wildfires we are experiencing today. And we could do so even if the CA climate were far more fire-prone than it is today. (It has actually been far more fire-prone in the past.)[^2]
 3. The key to limiting the danger of wildfires is managing the forest so as to lower the "fuel load"--the amount of dead wood debris that exists in a given area. This can be done by regular "controlled burns" or by manually removing the debris as is often done in logging operations.
@@ -31,13 +33,9 @@ featuredimage: /img/fire.jpg
 
     The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019 globally.
 
-
-
     In California the instrumental record goes only back to the year 1895. The Temperature increased by 0.2°F (about 0.1°C) per decade.
 
     [National Oceanic and Atmospheric Administration’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/cag/statewide/time-series/4/tavg/12/12/1895-2019?base_prd=true&begbaseyear=1901&endbaseyear=2019&trend=true&trend_base=10&begtrendyear=1895&endtrendyear=2019)
-
-
 
 [^2]: “Approximately 1.8 million ha burned annually in California prehistorically (pre 1800).”\
     [Stephens et al. (2007) - Prehistoric fire area and emissions from California's forests, woodlands, shrublands, and grasslands](https://www.sciencedirect.com/science/article/abs/pii/S0378112707004379) <https://doi.org/10.1016/j.foreco.2007.06.005>1.8 million ha ≈ 4.4 million acres
@@ -49,8 +47,6 @@ featuredimage: /img/fire.jpg
     [CAL FIRE - 2019 Fire Statistics](https://www.fire.ca.gov/stats-events/)
 
     [LA Times - Over 1 million California acres have burned since July as monster fires rage in Bay Area](https://www.latimes.com/california/story/2020-08-22/more-than-a-million-acres-have-burned-in-california-since-july-as-monster-fires-rage-around-bay-area)
-
-
 
 [^3]: [Chuck DeVore - How Refusing To Wisely Manage California’s Resources Led To Incessant Blackouts, The Federalist, September 7, 2020](https://thefederalist.com/2020/09/07/how-refusing-to-wisely-manage-californias-resources-led-to-incessant-blackouts/)
 
