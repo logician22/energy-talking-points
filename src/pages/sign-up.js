@@ -18,6 +18,7 @@ export default () => (
     </section>
 
     <iframe
+      title="sign-up"
       id="innerFrame"
       name="innerFrame"
       sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads"

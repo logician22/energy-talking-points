@@ -105,14 +105,13 @@ const Navbar = class extends React.Component {
                   </Link>
                 ))}
               {extraPosts.length > 0 && !active ? (
-                <a
-                  href="#"
+                <span
                   className={`navbar-item navbar-more ${more ? "open" : ""}`}
                   onClick={() => this.toggleMore()}
                   style={more ? { transform: "rotate(180deg)" } : {}}
                 >
                   <DownChevron />
-                </a>
+                </span>
               ) : null}
               {!active && more ? (
                 <div className="extra-posts">

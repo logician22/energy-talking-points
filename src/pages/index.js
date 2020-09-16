@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "gatsby";
 
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
@@ -13,7 +12,7 @@ export default class BlogIndexPage extends React.Component {
           <div className="container">
             <div className="content" style={{ textAlign: "center" }}>
               <h2
-                className="is-size-2 is-color-primary"
+                className="welcome-text is-color-primary"
                 style={{ marginTop: 20 }}
               >
                 Welcome to EnergyTalkingPoints.com
