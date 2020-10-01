@@ -7,7 +7,7 @@ description: Quick and direct answers to common questions you're likely to encou
 featuredimage: /img/energy.jpg
 ---
 
-##### Q: Aren't solar and wind cheaper than fossil fuels?
+#### Q: Aren't solar and wind cheaper than fossil fuels?
 
 **A:** Solar and wind are "unreliables" that depend on reliable fossil fuels, nuclear, and hydro infrastructure. They don't replace the cost of fossil fuels, they add to the cost of fossil fuels. More solar+wind = higher prices.
 
@@ -30,7 +30,7 @@ Denmark and Germany, the two most aggressive pursuers of solar and wind electric
 
 </br>
 
-##### Q: Isn't [@Apple](https://twitter.com/Apple) 100% renewable? That's what they tell us.
+#### Q: Isn't [@Apple](https://twitter.com/Apple) 100% renewable? That's what they tell us.
 
 **A:** Apple is lying to you. They use mostly non-renewable energy, but pay utilities to give them credit for the renewable energy you use--and give you the blame for the non-renewable energy they use.
 
@@ -38,7 +38,7 @@ Denmark and Germany, the two most aggressive pursuers of solar and wind electric
 
 </br>
 
-##### Q: Aren't the CA wildfires proof that we need to switch to green energy as fast as possible?
+#### Q: Aren't the CA wildfires proof that we need to switch to green energy as fast as possible?
 
 **A**: The CA \*blackouts\* are proof that we need to \*stop\* switching to unreliable green energy. CA wildfires are proof that we need to remove huge amounts of excess fuel from CA forests.
 
@@ -50,7 +50,7 @@ Denmark and Germany, the two most aggressive pursuers of solar and wind electric
 
 </br>
 
-##### Q: Isn't nuclear too expensive?
+#### Q: Isn't nuclear too expensive?
 
 **A:** Nuclear costs have skyrocketed despite declining fuel costs because of \*criminalization\*. If nuclear were decriminalized and held to the same safety standards as other forms of energy it would likely be one of the cheapest forms of energy.
 
@@ -64,13 +64,13 @@ Denmark and Germany, the two most aggressive pursuers of solar and wind electric
 
 </br>
 
-##### Q: What is the biggest obstacle to low-carbon energy?
+#### Q: What is the biggest obstacle to low-carbon energy?
 
 **A:** The green movement, including most of the anti-fossil fuel movement, which opposes reliable nuclear and hydro while insisting on unreliable solar and wind.
 
 </br>
 
-##### Q: What do we do about nuclear waste?
+#### Q: What do we do about nuclear waste?
 
 **A:** We keep storing it safely and compactly. Because nuclear is such concentrated energy its waste is tiny compared to the alternatives. A better question is: What do we do about solar panel, wind turbine, and battery waste?
 
