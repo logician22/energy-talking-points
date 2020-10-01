@@ -2,12 +2,14 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
-import { fullTitle } from "../utils";
+import { fullTitle, orderPostEdges } from "../utils";
 
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { edges } = data.allMarkdownRemark;
+
+    const posts = orderPostEdges(edges);
 
     return (
       <div className="columns is-multiline">
@@ -16,45 +18,58 @@ class BlogRoll extends React.Component {
             <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification`}
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "space-between",
+                }}
               >
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {fullTitle(
-                        post.frontmatter.title,
-                        post.frontmatter.displaytitle
-                      )}
-                    </Link>
+                <div>
+                  <header>
+                    {post.frontmatter.featuredimage ? (
+                      <div className="featured-thumbnail">
+                        <PreviewCompatibleImage
+                          imageInfo={{
+                            image: post.frontmatter.featuredimage,
+                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                          }}
+                        />
+                      </div>
+                    ) : null}
+                    <p className="post-meta">
+                      <Link
+                        className="title has-text-primary is-size-4"
+                        to={post.fields.slug}
+                      >
+                        {fullTitle(
+                          post.frontmatter.title,
+                          post.frontmatter.displaytitle
+                        )}
+                      </Link>
+                      <br />
+                      <span
+                        className="subtitle is-size-5 is-block"
+                        style={{ marginTop: 5 }}
+                      >
+                        by Alex Epstein
+                      </span>
+                    </p>
+                  </header>
+                  <p>
+                    {post.frontmatter.description || post.excerpt}
                     <br />
-                    <span
-                      className="subtitle is-size-5 is-block"
-                      style={{ marginTop: 5 }}
-                    >
-                      by Alex Epstein
-                    </span>
+                    <br />
                   </p>
-                </header>
-                <p>
-                  {post.frontmatter.description || post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
+                </div>
+                <div>
+                  <Link
+                    className="button"
+                    to={post.fields.slug}
+                    // style={{ justifySelf: "flex-end", maxWidth: 200 }}
+                  >
                     Keep Reading →
                   </Link>
-                </p>
+                </div>
               </article>
             </div>
           ))}

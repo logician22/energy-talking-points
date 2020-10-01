@@ -1,28 +1,41 @@
 import React from "react";
 import { Link, graphql, StaticQuery } from "gatsby";
+import { orderPostEdges } from "../utils";
 
 const Footer = class extends React.Component {
   render() {
     const { data } = this.props;
-    const { edges } = data.allMarkdownRemark;
-    const postGroups = [
-      [
-        {
-          to: "https://industrialprogress.com",
-          text: "Center for Industrial Progress",
-          external: true,
-        },
-        { to: "/", text: "Home" },
-      ],
-    ];
+    let edges = orderPostEdges(data.allMarkdownRemark.edges);
+    edges = [...edges];
 
+    const padStartLinks = [
+      {
+        to: "https://industrialprogress.com",
+        text: "Center for Industrial Progress",
+        external: true,
+      },
+      { to: "/", text: "Home" },
+    ];
+    const padEndLinks = [
+      { to: "/admin/", text: "Admin", external: true },
+      { to: "/sign-up/", text: "Contact" },
+    ];
+    const postGroups = [];
+    const itemsPerCol = Math.floor(
+      (edges.length + padStartLinks.length + padEndLinks.length) / 3
+    );
     const addNode = (postGroups, node) => {
-      if (postGroups[postGroups.length - 1].length < 5) {
+      if (!postGroups[0]) {
+        postGroups.push([node]);
+      } else if (postGroups[postGroups.length - 1].length < itemsPerCol) {
         postGroups[postGroups.length - 1].push(node);
       } else {
         postGroups.push([node]);
       }
     };
+
+    padStartLinks.forEach((link) => addNode(postGroups, link));
+
     edges.forEach((edge) => {
       const slug = edge.node.fields.slug;
       const node = {
@@ -32,8 +45,7 @@ const Footer = class extends React.Component {
       addNode(postGroups, node);
     });
 
-    addNode(postGroups, { to: "/admin/", text: "Admin", external: true });
-    addNode(postGroups, { to: "/sign-up/", text: "Contact" });
+    padEndLinks.forEach((link) => addNode(postGroups, link));
 
     return (
       <footer className="footer has-background-black has-text-white-ter">

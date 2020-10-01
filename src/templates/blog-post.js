@@ -7,7 +7,7 @@ import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
 import SignUpBar from "../components/SignUpBar";
-import { fullTitle } from "../utils";
+import { fullTitle, orderPostEdges } from "../utils";
 
 export const BlogPostTemplate = ({
   content,
@@ -94,12 +94,12 @@ BlogPostTemplate.propTypes = {
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post, allMarkdownRemark } = data;
-  const currentIndex = allMarkdownRemark.edges.findIndex((edge) => {
+  const posts = orderPostEdges(allMarkdownRemark.edges);
+  const currentIndex = posts.findIndex((edge) => {
     return edge.node.frontmatter.title === post.frontmatter.title;
   });
-  const nextIndex =
-    currentIndex === allMarkdownRemark.edges.length - 1 ? 0 : currentIndex + 1;
-  const next = allMarkdownRemark.edges[nextIndex].node;
+  const nextIndex = currentIndex === posts.length - 1 ? 0 : currentIndex + 1;
+  const next = posts[nextIndex].node;
   return (
     <Layout>
       <BlogPostTemplate

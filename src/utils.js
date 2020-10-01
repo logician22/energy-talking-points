@@ -3,3 +3,10 @@ export const removeTrailingSlash = (slug) =>
 
 export const fullTitle = (title, displayTitle) =>
   displayTitle || `${new Date().getFullYear()} Talking Points on ${title}`;
+
+export const orderPostEdges = (edges, startWithOverview = true) => {
+  const overview = edges.find((e) => e.node.frontmatter.title === "Overview");
+  const others = edges.filter((e) => e.node.frontmatter.title !== "Overview");
+
+  return startWithOverview ? [overview, ...others] : [...others, overview];
+};
