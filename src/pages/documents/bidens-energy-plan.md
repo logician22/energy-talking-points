@@ -13,7 +13,7 @@ featuredimage: /img/dark-city.jpg
 ### Quick summary
 
 1. Energy schemes around the world based on “unreliables”—solar and wind—have been driving up electricity costs, harming economies, destroying domestic industries, and harming consumers. Germans pay 3X US electricity prices to get just 1/3 of their electricity from solar and wind.[^1]
-2. Instead of learning from the failures of unreliable energy schemes, the Biden Plan seeks to do far worse by outlawing reliable fossil fuel electricity and forcing Americans to pay $2 trillion--$7,500 a household--for a solar and wind-based grid that can’t possibly work.[^2]
+2. Instead of learning from the failures of unreliable energy schemes, the Biden Plan seeks to do far worse by outlawing reliable fossil fuel electricity and forcing Americans to pay $2 trillion--$15,000 a household--for a solar and wind-based grid that can’t possibly work.[^2]
 3. Joe Biden says that forcing Americans to rely on unreliable solar and wind will create jobs. But making electricity unreliable and unaffordable doesn’t create jobs, it destroys them. Just ask the UK aluminum industry, which “green energy” schemes are driving out of business.[^3]
 4. Joe Biden says that forcing Americans to rely on unreliable solar and wind will help middle-class Americans. But the cost of energy affects the cost of everything. Skyrocketing energy costs will drive skyrocketing food, housing, healthcare, and transportation costs.
 5. America is already too reliant on unreliable solar and wind. That’s why utilities are already blacking out many of their industrial customers. And grids in Texas and the Northeast are warning of blackouts for everyone if policies don’t change. Biden’s Plan will guarantee blackouts.[^4]
