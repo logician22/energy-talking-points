@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: A Carbon Tax
+displaytitle: Carbon Tax Proposals
 title: Carbon Tax
 date: 2020-08-04T01:22:00.000Z
 description: Many suggest a carbon tax would be a reasonable compromise, but it would only offshore our CO2 emissions — while damaging our economy and making us less competitive internationally.
@@ -69,7 +69,7 @@ featuredimage: /img/carbon-tax.jpg
 [^5]:
     Fossil fuel infrastructure like natural gas pipelines face increasing resistance from green activists and politicians who see this as an opportunity to attack the economic viability of fossil fuel production in the US.\
     [Institute for Energy Research - While U.S. Pipelines Are Under Siege, China Streamlines Its Oil and Gas Network](https://www.instituteforenergyresearch.org/fossil-fuels/gas-and-oil/while-u-s-pipelines-are-under-siege-china-streamlines-its-oil-and-gas-network/)\
-    [Institute for Energy Research - Natural Gas Moratorium in New York Due to Lack of Gas Pipelines](https://www.instituteforenergyresearch.org/fossil-fuels/gas-and-oil/while-u-s-pipelines-are-under-siege-china-streamlines-its-oil-and-gas-network/)
+    [Institute for Energy Research - Natural Gas Moratorium in New York Due to Lack of Gas Pipelines](https://www.instituteforenergyresearch.org/fossil-fuels/natural-gas-moratorium-in-new-york-due-to-lack-of-gas-pipelines/)
 
     California’s San Onofre nuclear power plant was shut down in 2013 despite only requiring the replacement of a steam generator for less than \$700 million.\
     [Mark Nelson and Minshu Deng - California Nuclear Closures Resulted in 250% Higher Emissions from Electricity](https://environmentalprogress.org/big-news/2017/1/16/new-california-nuclear-closures-resulted-in-250-increase-in-california-emissions)
