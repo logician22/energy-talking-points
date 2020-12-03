@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { graphql, Link } from "gatsby";
+import Markdown from "react-markdown";
 
 import Layout from "../components/Layout";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
@@ -41,12 +42,9 @@ export const BlogPostTemplate = ({
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">
                   By Alex Epstein
                 </h2>
-                {description &&
-                  description.split("\n").map((p) => (
-                    <p className="is-size-5" key={p.slice(0, 2)}>
-                      {p}
-                    </p>
-                  ))}
+                <div className="is-size-5">
+                  <Markdown children={description} />
+                </div>
               </div>
             </div>
           </div>

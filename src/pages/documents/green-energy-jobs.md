@@ -3,13 +3,14 @@ templateKey: blog-post
 displaytitle: Green Energy Jobs
 title: Green Energy Jobs
 date: 2020-08-03T01:22:00.000Z
-description: Biden's misguided energy plan promises "green jobs" — but it will only result in green joblessness.
+description: |
+  _**Q: Won’t Joe Biden’s energy plan create enough “green energy jobs” to offset millions of lost jobs in the fossil fuel industry?**_
+
+  **A:** No. By making energy unreliable and unaffordable for every American industry, the Biden Plan would create mass "green joblessness."
 featuredimage: /img/green-joblessness.jpg
 ---
 
-#### Q: Won’t Joe Biden’s energy plan create enough “green energy jobs” to offset millions of lost jobs in the fossil fuel industry?
-
-**A:** No. By making energy unreliable and unaffordable for every American industry, the Biden Plan would create mass "green joblessness."
+### Quick Summary
 
 - "Creating jobs" is only a good thing if those jobs are productive jobs. If the government pays people to produce inferior products and services or pays people to produce inefficiently, that is "welfare work" that hurts American consumers and American competitiveness.
 

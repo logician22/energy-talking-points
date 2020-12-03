@@ -3,13 +3,14 @@ templateKey: blog-post
 displaytitle: Carbon Tax Proposals
 title: Carbon Tax
 date: 2020-08-04T01:22:00.000Z
-description: Many suggest a carbon tax would be a reasonable compromise, but it would only offshore our CO2 emissions — while damaging our economy and making us less competitive internationally.
+description: |
+  _**Q: Won't a carbon tax reduce CO2 emissions without hurting our economy?**_
+
+  **A:** No. A carbon tax would raise energy prices, make every American industry less competitive, and offshore our CO2 emissions to the countries that outcompete us.
 featuredimage: /img/carbon-tax.jpg
 ---
 
-#### Q: Won't a carbon tax reduce CO2 emissions without hurting our economy?
-
-**A:** No. A carbon tax would raise energy prices, make every American industry less competitive, and offshore our CO2 emissions to the countries that outcompete us.
+### Quick Summary
 
 - Any policy toward CO2 must recognize that CO2 emissions are a global issue--and that global emissions are rising because of the developing world's increasing use of fossil fuels. The US causes less than 1/6 of global emissions—and falling.[^1]
 

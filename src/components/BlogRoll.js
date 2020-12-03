@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql, StaticQuery } from "gatsby";
+import Markdown from "react-markdown";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import { fullTitle, orderPostEdges } from "../utils";
 
@@ -56,7 +57,9 @@ class BlogRoll extends React.Component {
                     </p>
                   </header>
                   <p>
-                    {post.frontmatter.description || post.excerpt}
+                    <Markdown
+                      children={post.frontmatter.description || post.excerpt}
+                    />
                     <br />
                     <br />
                   </p>

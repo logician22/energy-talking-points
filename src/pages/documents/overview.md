@@ -6,15 +6,15 @@ date: 2020-09-09T12:22:00.000Z
 featuredimage: /img/overview.jpg
 ---
 
-Energy policy, including climate policy, will be one of the main issues of the 2020 elections.
+Energy policy, including climate policy, will be one of the main issues of 2021.
 
 I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.
 
-I am extremely worried that a large percentage of candidates running for office are advocating “renewables only” policies that, if actually implemented, would quickly turn America into a third-world country.
+I am extremely worried that much of our government is advocating “renewables only” policies that, if actually implemented, would quickly turn America into a third-world country.
 
-I want to use my years of experience studying energy and persuading people about energy to help pro-freedom, pro-energy candidates and citizens as much as I can.
+I want to use my years of experience studying energy and persuading people about energy to help pro-freedom, pro-energy citizens and elected officials as much as I can.
 
-Thus, I will be sharing what I think are the best talking points, along with references, on every major energy and environmental issue this election.
+Thus, I will be sharing what I think are the best talking points, along with references, on every major energy and environmental issue.
 
 ### How to use these talking points
 

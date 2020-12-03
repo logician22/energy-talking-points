@@ -3,13 +3,14 @@ templateKey: blog-post
 displaytitle: Energy Transition
 title: Energy Transition
 date: 2020-08-02T01:22:00.000Z
-description: The truth about the "free-market" transition from fossil fuels to solar and wind is that it is anything but free-market.
+description: |
+  _**Q: Aren't we in a rapid free-market energy transition from fossil fuels to solar and wind?**_
+
+  **A:** No. The 3.8% of American energy that comes from solar and wind is due mostly to anti-market policies that force utilities and consumers to buy unreliable, cost-increasing energy.
 featuredimage: /img/wind-transition.jpg
 ---
 
-#### Q: Aren't we in a rapid free-market energy transition from fossil fuels to solar and wind?
-
-**A:** No. The 3.8% of American energy that comes from solar and wind is due mostly to anti-market policies that force utilities and consumers to buy unreliable, cost-increasing energy.
+### Quick Summary
 
 - Claims that we are in a rapid transition away from fossil fuels are wrong. In the past several decades, solar and wind have gone from providing virtually 0% of American energy to 9.7% of American electricity and just 3.8% of American energy overall.[^1]
 
