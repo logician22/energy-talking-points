@@ -25,7 +25,6 @@ featuredimage: /img/wind-transition.jpg
 - The modest rise of unreliable solar and wind energy is not a free-market transition that will continue rapidly. It is an anti-competitive, destructive, and therefore unsustainable solar-and-wind welfare program.
 
 - If policymakers want to encourage cleaner or lower-carbon forms of energy they should decriminalize reliable nuclear energy, stop attacking modern natural gas production methods such as fracking, and stop opposing hydroelectric dams.
-  ]
 
 ### References
 
