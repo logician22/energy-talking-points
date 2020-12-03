@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: 2020 Talking Points on Joe Biden's Energy Plan
+displaytitle: Talking Points on Joe Biden's Energy Plan
 title: Biden's Energy Plan
 date: 2020-09-10T01:00:41.494Z
 description: Joe Biden’s energy plan calls for outlawing reliable fossil fuel

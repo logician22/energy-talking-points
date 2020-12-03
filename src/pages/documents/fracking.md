@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: 2020 Talking Points on Fracking
+displaytitle: Talking Points on Fracking
 title: Fracking
 date: 2020-09-11T23:11:43.198Z
 description: >-

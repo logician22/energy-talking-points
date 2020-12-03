@@ -26,7 +26,7 @@ class BlogRoll extends React.Component {
                 }}
               >
                 <div>
-                  <header>
+                  <header style={{ marginBottom: 30 }}>
                     {post.frontmatter.featuredimage ? (
                       <div className="featured-thumbnail">
                         <PreviewCompatibleImage

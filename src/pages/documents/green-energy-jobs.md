@@ -4,7 +4,7 @@ displaytitle: Green Energy Jobs
 title: Green Energy Jobs
 date: 2020-08-03T01:22:00.000Z
 description: |
-  _**Q: Won’t Joe Biden’s energy plan create enough “green energy jobs” to offset millions of lost jobs in the fossil fuel industry?**_
+  _**Q:** Won’t Joe Biden’s energy plan create enough “green energy jobs” to offset millions of lost jobs in the fossil fuel industry?_
 
   **A:** No. By making energy unreliable and unaffordable for every American industry, the Biden Plan would create mass "green joblessness."
 featuredimage: /img/green-joblessness.jpg

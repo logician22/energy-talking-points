@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: 2020 Talking Points on American Energy Policy
+displaytitle: Talking Points on American Energy Policy
 title: Energy Policy
 date: 2020-09-09T20:18:17.660Z
 description: In the last 15 years America has become the world’s leading energy

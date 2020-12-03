@@ -2,7 +2,7 @@ export const removeTrailingSlash = (slug) =>
   slug[slug.length - 1] === "/" ? slug.slice(0, slug.length - 1) : slug;
 
 export const fullTitle = (title, displayTitle) =>
-  displayTitle || `${new Date().getFullYear()} Talking Points on ${title}`;
+  displayTitle || `Talking Points on ${title}`;
 
 export const orderPostEdges = (edges, startWithOverview = true) => {
   const overview = edges.find((e) => e.node.frontmatter.title === "Overview");

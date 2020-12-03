@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: 2020 Talking Points on the So-Called Climate Crisis
+displaytitle: Talking Points on the So-Called Climate Crisis
 title: Climate Crisis
 date: 2020-09-18T00:33:24.161Z
 description: While climate catastrophists claim that our climate is less livable
