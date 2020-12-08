@@ -1,18 +1,20 @@
 import React from "react";
 import { Link } from "gatsby";
 
-export default () => (
-  <div className="sign-up-bar text-is-centered">
-    <Link to="/sign-up/">
-      <section className="section">
-        <div className="container">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
-              <h4 className="is-size-4">Sign up for updates!</h4>
+export default () => {
+  return (
+    <div className="sign-up-bar text-is-centered">
+      <Link to="/sign-up/">
+        <section className="section">
+          <div className="container">
+            <div className="columns">
+              <div className="column is-10 is-offset-1">
+                <h4 className="is-size-4">Sign up for updates!</h4>
+              </div>
             </div>
           </div>
-        </div>
-      </section>
-    </Link>
-  </div>
-);
+        </section>
+      </Link>
+    </div>
+  );
+};

@@ -6,7 +6,7 @@ module.exports = {
   siteMetadata: {
     title: "Energy Talking Points - Alex Epstein",
     description:
-      "Energy policy, including climate policy, will be one of the main issues of the 2020 elections. I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.",
+      "Energy policy, including climate policy, is one of the most important political issues today. I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

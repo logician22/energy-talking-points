@@ -32,6 +32,8 @@ export default class BlogIndexPage extends React.Component {
           </div>
         </section>
 
+        <SignUpBar />
+
         <section className="section has-background-light">
           <div className="container">
             <div className="content">
@@ -39,7 +41,6 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
-        <SignUpBar />
       </Layout>
     );
   }
