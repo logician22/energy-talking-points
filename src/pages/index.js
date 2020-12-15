@@ -20,7 +20,7 @@ export default class BlogIndexPage extends React.Component {
               <div className="columns">
                 <p className="is-size-5 column is-6 is-offset-3">
                   The goal of this site is to give you true, powerful, and
-                  succinct talking points on this year's most important energy,
+                  succinct talking points on today's most important energy,
                   environmental, and climate issues.
                   <br />
                   <p style={{ fontStyle: "italic", marginTop: "15px" }}>
