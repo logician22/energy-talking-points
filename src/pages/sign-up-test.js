@@ -26,6 +26,7 @@ export default () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
+    console.log(form);
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
