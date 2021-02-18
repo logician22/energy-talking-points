@@ -35,13 +35,14 @@ export default () => {
         ...form,
       }),
     })
-      .then((s) => {
-        if (s.statusCode && s.statusCode >= 300) {
-          console.log("ERROR", s);
+      .then((res) => res.json())
+      .then((json) => {
+        if ((json.status && json.status >= 300) || res.status >= 300) {
+          console.log("ERROR", json);
           setForm({ ...form, error: true });
           return;
         }
-        console.log("SUCCESS", s);
+        console.log("SUCCESS", json);
         setForm({ ...emptySet, success: true });
       })
       .catch((err) => {
