@@ -13,6 +13,16 @@ export default () => {
     setForm({ ...form, [key]: val, error: undefined, success: undefined });
   };
 
+  const emptySet = Object.keys(form)
+    .filter((k) => !["success", "error"].includes(k))
+    .reduce(
+      (obj, key) => ({
+        ...obj,
+        [key]: "",
+      }),
+      {}
+    );
+
   const handleSubmit = (e) => {
     e.preventDefault();
 
@@ -25,14 +35,10 @@ export default () => {
       }),
     })
       .then(() => {
-        setTimeout(() => {
-          setForm({ success: true });
-        }, 100);
+        setForm({ ...emptySet, success: true });
       })
       .catch(() => {
-        setTimeout(() => {
-          setForm({ ...form, error: true });
-        }, 100);
+        setForm({ ...form, error: true });
       });
   };
 
