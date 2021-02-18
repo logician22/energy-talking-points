@@ -40,6 +40,9 @@ module.exports.handler = async function (event, context) {
     };
   } catch (err) {
     console.log("err", err);
-    console.log(payload);
+    return {
+      statusCode: 500,
+      body: err,
+    };
   }
 };

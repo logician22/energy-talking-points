@@ -29,7 +29,7 @@ export default () => {
     console.log(form);
     fetch("/", {
       method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      headers: { "Content-Type": "application/json" },
       body: encode({
         "form-name": "submission-created",
         ...form,
