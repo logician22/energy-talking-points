@@ -36,18 +36,10 @@ export default () => {
         ...form,
       }),
     })
-      .then((response) => {
-        res = response;
-        console.log("RES SENT");
-        return res.json();
-      })
-      .then((json) => {
-        console.log("HIT JSON", json);
-        if (
-          (json.status && json.status >= 300) ||
-          (res.status && res.status >= 300)
-        ) {
-          console.log("JSON ERROR", json, res);
+      .then((res) => {
+        console.log("HIT RES", res);
+        if (res.status && res.status >= 300) {
+          console.log("ERROR RESPONSE", res);
           setForm({ ...form, error: true });
           return;
         }
