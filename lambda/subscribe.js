@@ -5,6 +5,9 @@
 // For more info, check https://docs.netlify.com/functions/build-with-javascript
 module.exports.handler = async function (event, context) {
   console.log("queryStringParameters", event.queryStringParameters);
+  console.log("event", event.event);
+  console.log(context);
+  console.log(process.env);
   // const { HUBSPOT_FORM_ID, HUBSPOT_API_KEY } = process.env;
   // console.log("process.env", { HUBSPOT_API_KEY, HUBSPOT_FORM_ID });
 
@@ -12,7 +15,7 @@ module.exports.handler = async function (event, context) {
 
   return {
     statusCode: 200,
-    body: JSON.stringify({ hello: "world" }),
+    body: JSON.stringify({ hello: "world", event, context, env: process.env }),
   };
   // const fetch(
   //   `https://api.hubapi.com/forms/v2/forms/${HUBSPOT_FORM_ID}/?hapikey=${HUBSPOT_API_KEY}`
