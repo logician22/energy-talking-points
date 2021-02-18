@@ -23,8 +23,8 @@ module.exports.handler = async function (event) {
     },
   };
 
-  console.log("HERE");
   const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
+  console.log("HERE", url, data);
 
   try {
     const res = await fetch(url, {
@@ -34,7 +34,7 @@ module.exports.handler = async function (event) {
         "Content-Type": "application/json",
       },
     });
-    console.log("POST RES");
+    console.log("POST RES", res);
     const json = await res.json();
     console.log("POST JSON", json);
     return {
