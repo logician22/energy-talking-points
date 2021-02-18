@@ -67,6 +67,12 @@ export default () => {
                 Your information was submitted successfully.
               </p>
             ) : null}
+            {form.error ? (
+              <p className="is-size-6 mb-4">
+                Something went wrong! Please{" "}
+                <a href="mailto:alex@alexepstein.com">let us know</a>.
+              </p>
+            ) : null}
             <form
               name="submission-created"
               method="post"
