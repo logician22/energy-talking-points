@@ -84,8 +84,8 @@ export default () => {
                   className="input"
                   type="text"
                   name="first_name"
-                  value={form.firstName}
-                  onChange={(e) => setFormVal("firstName", e.target.value)}
+                  value={form.first_name}
+                  onChange={(e) => setFormVal("first_name", e.target.value)}
                 />
               </div>
 
@@ -95,8 +95,8 @@ export default () => {
                   className="input"
                   type="text"
                   name="last_name"
-                  value={form.lastName}
-                  onChange={(e) => setFormVal("lastName", e.target.value)}
+                  value={form.last_name}
+                  onChange={(e) => setFormVal("last_name", e.target.value)}
                 />
               </div>
 
@@ -118,8 +118,8 @@ export default () => {
                   className="input"
                   type="text"
                   name="job_title"
-                  value={form.jobTitle}
-                  onChange={(e) => setFormVal("jobTitle", e.target.value)}
+                  value={form.job_title}
+                  onChange={(e) => setFormVal("job_title", e.target.value)}
                 />
               </div>
 
@@ -129,8 +129,8 @@ export default () => {
                   className="input"
                   type="text"
                   name="company_name"
-                  value={form.companyName}
-                  onChange={(e) => setFormVal("companyName", e.target.value)}
+                  value={form.company_name}
+                  onChange={(e) => setFormVal("company_name", e.target.value)}
                 />
               </div>
 
