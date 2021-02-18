@@ -36,17 +36,10 @@ export default () => {
         ...form,
       }),
     })
-      .then((res) => {
-        if (res.status && res.status >= 300) {
-          console.log("HIDDEN ERROR", res);
-          setForm({ ...form, error: true });
-        } else {
-          console.log("SUCCESS", res);
-          setForm({ ...emptySet, success: true });
-        }
+      .then(() => {
+        setForm({ ...emptySet, success: true });
       })
-      .catch((err) => {
-        console.log("ERROR", err);
+      .catch(() => {
         setForm({ ...form, error: true });
       });
   };
