@@ -32,8 +32,21 @@ module.exports.handler = async function (event, context) {
       body: JSON.stringify(data),
     });
     console.log({ res });
-    const json = await res.json();
+    let json;
+    let text;
+    try {
+      json = await res.json();
+    } catch (e) {
+      console.log("jsone", e);
+    }
     console.log("json", json);
+
+    try {
+      text = await res.text();
+    } catch (e) {
+      console.log("texte", e);
+    }
+
     return {
       // return null to show no errors
       statusCode: 200, // http status code
