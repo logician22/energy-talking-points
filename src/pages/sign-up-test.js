@@ -35,12 +35,17 @@ export default () => {
         ...form,
       }),
     })
-      .then((e) => {
-        console.log("s", e);
+      .then((s) => {
+        if (r.statusCode && r.statusCode >= 300) {
+          console.log("ERROR", r);
+          setForm({ ...form, error: true });
+          return;
+        }
+        console.log("SUCCESS", s);
         setForm({ ...emptySet, success: true });
       })
       .catch((err) => {
-        console.log("e", err);
+        console.log("ERROR", err);
         setForm({ ...form, error: true });
       });
   };
@@ -113,7 +118,7 @@ export default () => {
               </div>
 
               <div className="field">
-                <label className="label">Email</label>
+                <label className="label">Email*</label>
                 <input
                   className="input"
                   type="email"
