@@ -19,32 +19,23 @@ module.exports.handler = async function (event) {
     fields,
     context: {
       pageUri: "https://energytalkingpoints.com/sign-up",
-      pageName: "Sign up",
+      pageName: "ETP - Sign up form",
     },
   };
 
   const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
-  try {
-    throw new Error("This will throw");
-    const res = await fetch(url, {
-      method: "POST",
-      body: JSON.stringify(data),
-      headers: {
-        "Content Type": "application/json",
-      },
-    });
-    const json = await res.json();
-    return {
-      // return null to show no errors
-      statusCode: 200, // http status code
-      body: JSON.stringify(json),
-    };
-  } catch (err) {
-    console.log("ERROR", err);
-    console.log("ERROR", err.message);
-    return {
-      statusCode: 500,
-      body: err,
-    };
-  }
+  throw new Error("This will throw");
+  const res = await fetch(url, {
+    method: "POST",
+    body: JSON.stringify(data),
+    headers: {
+      "Content Type": "application/json",
+    },
+  });
+  const json = await res.json();
+  return {
+    // return null to show no errors
+    statusCode: 200, // http status code
+    body: JSON.stringify(json),
+  };
 };
