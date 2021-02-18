@@ -25,10 +25,12 @@ module.exports.handler = async function (event, context) {
     },
   };
   console.log("data", data);
+  const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
   try {
-    const res = await fetch(
-      `https://api.hubapi.com/forms/v2/forms/${HUBSPOT_FORM_ID}/?hapikey=${HUBSPOT_API_KEY}`
-    );
+    const res = await fetch(url, {
+      method: "POST",
+      body: JSON.stringify(data),
+    });
     console.log({ res });
     const json = await res.json();
     console.log("json", json);
