@@ -23,35 +23,40 @@ export default () => {
       {}
     );
 
-  const handleSubmit = async (e) => {
+  const handleSubmit = (e) => {
     e.preventDefault();
 
+    let res;
     console.log(form);
-    const res = await fetch("/", {
+    fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: encode({
         "form-name": "submission-created",
         ...form,
       }),
-    });
-    console.log("RES SENT");
-    let json;
-    try {
-      json = await res.json();
-    } catch (err) {
-      console.log("JSON ERROR", err, res);
-      setForm({ ...form, error: true });
-    }
+    })
+      .then((response) => {
+        res = response;
+        console.log("RES SENT");
+        return res.json();
+      })
+      .then((json) => {
+        if (
+          (json.status && json.status >= 300) ||
+          (res.status && res.status >= 300)
+        ) {
+          console.log("ERROR", json);
+          setForm({ ...form, error: true });
+          return;
+        }
 
-    if ((json.status && json.status >= 300) || res.status >= 300) {
-      console.log("ERROR", json);
-      setForm({ ...form, error: true });
-      return;
-    }
-
-    console.log("SUCCESS", json);
-    setForm({ ...emptySet, success: true });
+        console.log("SUCCESS", json);
+        setForm({ ...emptySet, success: true });
+      })
+      .catch((err) => {
+        console.log("ERROR", err, res);
+      });
   };
 
   return (
