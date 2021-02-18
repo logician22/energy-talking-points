@@ -31,7 +31,7 @@ export default () => {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
-        "form-name": "subscribe",
+        "form-name": "submission-created",
         ...form,
       }),
     })
@@ -68,7 +68,7 @@ export default () => {
               </p>
             ) : null}
             <form
-              name="subscribe"
+              name="submission-created"
               method="post"
               className="form"
               data-netlify="true"
@@ -76,7 +76,11 @@ export default () => {
               onSubmit={handleSubmit}
             >
               <div className="field">
-                <input type="hidden" name="form-name" value="subscribe" />
+                <input
+                  type="hidden"
+                  name="form-name"
+                  value="submission-created"
+                />
               </div>
               <div className="field">
                 <label className="label">First name</label>
