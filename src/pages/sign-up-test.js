@@ -30,16 +30,18 @@ export default () => {
 
     fetch("/", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({
         "form-name": "submission-created",
         ...form,
       }),
     })
-      .then(() => {
+      .then((res) => {
+        console.log("RES", res);
         setForm({ ...emptySet, success: true });
       })
-      .catch(() => {
+      .catch((err) => {
+        console.log("ERR", err);
         setForm({ ...form, error: true });
       });
   };
