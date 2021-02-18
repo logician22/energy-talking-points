@@ -61,7 +61,7 @@ export default () => {
               </p>
             ) : null}
             <form
-              name="contact"
+              name="subscribe"
               method="post"
               className="form"
               data-netlify="true"
