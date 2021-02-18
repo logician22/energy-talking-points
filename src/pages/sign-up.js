@@ -23,7 +23,7 @@ export default () => (
       name="innerFrame"
       sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads"
       frameBorder="0"
-      allowFullscreen=""
+      allowFullScreen=""
       src="https://share.hsforms.com/1fX7Wqv5XQSy6dT897kDYOw1rpyx"
       style={{ overflow: "auto", width: "100%", minHeight: "700px" }}
     ></iframe>

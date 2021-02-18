@@ -1,6 +1,7 @@
 require("dotenv").config({
   path: ".env",
 });
+const proxy = require("http-proxy-middleware");
 
 module.exports = {
   siteMetadata: {
