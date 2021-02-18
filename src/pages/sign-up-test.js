@@ -42,11 +42,12 @@ export default () => {
         return res.json();
       })
       .then((json) => {
+        console.log("HIT JSON", json);
         if (
           (json.status && json.status >= 300) ||
           (res.status && res.status >= 300)
         ) {
-          console.log("ERROR", json);
+          console.log("JSON ERROR", json, res);
           setForm({ ...form, error: true });
           return;
         }
