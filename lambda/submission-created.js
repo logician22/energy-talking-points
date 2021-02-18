@@ -25,7 +25,7 @@ module.exports.handler = async function (event, context) {
     },
   };
   console.log("data", data);
-  const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
+  const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
   try {
     const res = await fetch(url, {
       method: "POST",
