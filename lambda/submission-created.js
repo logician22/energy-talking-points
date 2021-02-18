@@ -25,17 +25,25 @@ module.exports.handler = async function (event) {
 
   const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
 
-  const res = await fetch(url, {
-    method: "POST",
-    body: JSON.stringify(data),
-    headers: {
-      "Content Type": "application/json",
-    },
-  });
-  const json = await res.json();
+  try {
+    const res = await fetch(url, {
+      method: "POST",
+      body: JSON.stringify(data),
+      headers: {
+        "Content Type": "application/json",
+      },
+    });
+    const json = await res.json();
 
-  return {
-    statusCode: 200, // http status code
-    body: JSON.stringify(json),
-  };
+    return {
+      statusCode: 200,
+      body: JSON.stringify(json),
+    };
+  } catch (err) {
+    console.log("ERROR", err);
+    return {
+      statusCode: 400,
+      body: JSON.stringify(err, Object.getOwnPropertyNames(err)),
+    };
+  }
 };
