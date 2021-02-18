@@ -29,23 +29,15 @@ module.exports.handler = async function (event, context) {
     const res = await fetch(url, {
       method: "POST",
       body: JSON.stringify(data),
+      headers: {
+        "Content Type": "application/json",
+      },
     });
     console.log({ res });
-    let json;
-    let text;
-    try {
-      json = await res.json();
-    } catch (e) {
-      console.log("jsone", e);
-    }
+    const json = await res.json();
+
     console.log("json", json);
 
-    try {
-      text = await res.text();
-    } catch (e) {
-      console.log("texte", e);
-    }
-    console.log(text);
     return {
       // return null to show no errors
       statusCode: 200, // http status code
@@ -56,9 +48,3 @@ module.exports.handler = async function (event, context) {
     console.log(payload);
   }
 };
-
-// Now you are ready to access this API from anywhere in your Gatsby app! For example, in any event handler or lifecycle method, insert:
-// fetch("/.netlify/functions/hello")
-//    .then(response => response.json())
-//    .then(console.log)
-// For more info see: https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/#static-dynamic-is-a-spectrum
