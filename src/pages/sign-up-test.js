@@ -40,9 +40,7 @@ export default () => {
     try {
       json = await res.json();
     } catch (err) {
-      console.log("JSON ERROR", err);
-      json = await res.text();
-      console.log("TEXT", text);
+      console.log("JSON ERROR", err, res);
       setForm({ ...form, error: true });
     }
 
