@@ -26,8 +26,8 @@ export default () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    let res;
-    console.log(form);
+    console.log("SUBMITTING DATA", form);
+
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -37,18 +37,17 @@ export default () => {
       }),
     })
       .then((res) => {
-        console.log("HIT RES", res);
         if (res.status && res.status >= 300) {
-          console.log("ERROR RESPONSE", res);
+          console.log("HIDDEN ERROR", res);
           setForm({ ...form, error: true });
-          return;
+        } else {
+          console.log("SUCCESS", res);
+          setForm({ ...emptySet, success: true });
         }
-
-        console.log("SUCCESS", json);
-        setForm({ ...emptySet, success: true });
       })
       .catch((err) => {
-        console.log("ERROR", err, res);
+        console.log("ERROR", err);
+        setForm({ ...form, error: true });
       });
   };
 
@@ -120,7 +119,7 @@ export default () => {
               </div>
 
               <div className="field">
-                <label className="label">Email*</label>
+                <label className="label">Email</label>
                 <input
                   className="input"
                   type="email"
