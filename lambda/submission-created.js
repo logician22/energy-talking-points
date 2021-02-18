@@ -5,7 +5,6 @@ require("dotenv").config({
 
 // For more info, check https://docs.netlify.com/functions/build-with-javascript
 module.exports.handler = async function (event) {
-  console.log("IN FUNCTION");
   const payload = JSON.parse(event.body).payload.data;
   const { HUBSPOT_FORM_ID, HUBSPOT_API_KEY, HUBSPOT_PORTAL_ID } = process.env;
 
@@ -25,6 +24,7 @@ module.exports.handler = async function (event) {
   };
 
   const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
+
   console.log("ABOUT TO POST", url, data);
 
   try {
