@@ -43,7 +43,7 @@ module.exports.handler = async function (event) {
     console.log("ERROR", err);
     return {
       statusCode: 400,
-      body: JSON.stringify(err, Object.getOwnPropertyNames(err)),
+      body: err.message,
     };
   }
 };
