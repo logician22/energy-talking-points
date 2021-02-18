@@ -17,7 +17,6 @@ module.exports.handler = async function (event, context) {
   );
 
   const data = {
-    submittedAt: "1517927174000", // This millisecond timestamp is optional. Update the value from "1517927174000" to avoid an INVALID_TIMESTAMP error.
     fields,
     context: {
       pageUri: "https://energytalkingpoints.com/sign-up",
