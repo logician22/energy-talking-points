@@ -25,6 +25,7 @@ module.exports.handler = async function (event) {
 
   const url = `https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}?hapikey=${HUBSPOT_API_KEY}`;
   try {
+    throw new Error("This will throw");
     const res = await fetch(url, {
       method: "POST",
       body: JSON.stringify(data),
@@ -40,6 +41,7 @@ module.exports.handler = async function (event) {
     };
   } catch (err) {
     console.log("ERROR", err);
+    console.log("ERROR", err.message);
     return {
       statusCode: 500,
       body: err,
