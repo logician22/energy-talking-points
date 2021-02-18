@@ -35,11 +35,12 @@ export default () => {
         ...form,
       }),
     })
-      .then(() => {
+      .then((e) => {
+        console.log("s", e);
         setForm({ ...emptySet, success: true });
       })
       .catch((err) => {
-        console.log(err);
+        console.log("e", err);
         setForm({ ...form, error: true });
       });
   };
