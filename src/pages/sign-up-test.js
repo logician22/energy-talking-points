@@ -38,7 +38,8 @@ export default () => {
       .then(() => {
         setForm({ ...emptySet, success: true });
       })
-      .catch(() => {
+      .catch((err) => {
+        console.log(err);
         setForm({ ...form, error: true });
       });
   };
@@ -155,17 +156,6 @@ export default () => {
           </div>
         </div>
       </section>
-
-      {/* <iframe
-      title="sign-up"
-      id="innerFrame"
-      name="innerFrame"
-      sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads"
-      frameBorder="0"
-      allowFullscreen=""
-      src="https://share.hsforms.com/1fX7Wqv5XQSy6dT897kDYOw1rpyx"
-      style={{ overflow: "auto", width: "100%", minHeight: "700px" }}
-    ></iframe> */}
     </Layout>
   );
 };

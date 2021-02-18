@@ -4,7 +4,7 @@ require("dotenv").config({
 });
 
 // For more info, check https://docs.netlify.com/functions/build-with-javascript
-module.exports.handler = async function (event, context) {
+module.exports.handler = async function (event) {
   const payload = JSON.parse(event.body).payload.data;
   const { HUBSPOT_FORM_ID, HUBSPOT_API_KEY, HUBSPOT_PORTAL_ID } = process.env;
 
@@ -39,7 +39,7 @@ module.exports.handler = async function (event, context) {
       body: JSON.stringify(json),
     };
   } catch (err) {
-    console.log("err", err);
+    console.log("ERROR", err);
     return {
       statusCode: 500,
       body: err,
