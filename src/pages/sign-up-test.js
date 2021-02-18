@@ -36,8 +36,8 @@ export default () => {
       }),
     })
       .then((s) => {
-        if (r.statusCode && r.statusCode >= 300) {
-          console.log("ERROR", r);
+        if (s.statusCode && s.statusCode >= 300) {
+          console.log("ERROR", s);
           setForm({ ...form, error: true });
           return;
         }
