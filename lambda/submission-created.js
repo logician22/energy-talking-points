@@ -30,7 +30,7 @@ module.exports.handler = async function (event) {
       method: "POST",
       body: JSON.stringify(data),
       headers: {
-        "Content Type": "application/json",
+        "content-type": "application/json",
       },
     });
     const json = await res.json();
