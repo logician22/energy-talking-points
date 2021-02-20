@@ -50,25 +50,27 @@ featuredimage: /img/texas-blackouts.jpg
 
 - TX and America need to totally change direction in energy policy toward one of energy freedom, including freedom for the wonderful but demonized and criminalized ultra-reliable, non-carbon electricity source known as nuclear.[^7]
 
-### Figures
+### More Info
 
 <br />
 
-![texas energy grid](/img/6-ercot.png)
-
-<br />
+#### A two-sentence summary
 
 The truth about renewables and the Texas winter power shortages in two sentences:
 
 Unreliable renewables were only part of the problem. But they are none of the solution.
 
+![texas energy grid](/img/6-ercot.png)
+
 <br />
+
+#### The big picture
+
+Take a look at electricity use in New England, New York, the Mid-Atlantic, the Midwest, the Southwest, and Texas during this cold spell.
 
 ![energy grid collage](/img/collage-6.png)
 
 <br />
-
-Take a look at electricity use in New England, New York, the Mid-Atlantic, the Midwest, the Southwest, and Texas during this cold spell.
 
 All tell the same story: unreliable wind and solar electricity (green and yellow) completely fail to keep us warm or powered when needed the most.
 
