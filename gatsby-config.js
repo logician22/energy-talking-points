@@ -107,6 +107,12 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-TDDJQMJ",
+      },
+    },
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };
