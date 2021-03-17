@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: Talking Points on the Federal Electricity Regulation
+displaytitle: Talking Points on Federal Electricity Regulation
 title: Federal Electricity Regulation
 date: 2020-10-10T01:00:41.494Z
 description:  |
