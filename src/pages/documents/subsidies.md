@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-displaytitle: Talking Points on the Paris Climate Accords
-title: Paris Climate Accords
+displaytitle: Talking Points on the Energy Subsidies
+title: Subsidies
 date: 2020-10-10T01:00:41.494Z
-description: The Paris Climate Accords are ineffective and asymmetrical, and will prove hugely costly for the United States, while achieving negligible environmental impact. Reentering them is a huge mistake.
-featuredimage: /img/paris-accords.jpeg
+description: Unreliable energy sources receive dozens of times greater subsidies than fossil fuels, in addition to other unfair advantages. Without these, they would hardly be used at all.
+featuredimage: /img/subsidies.jpeg
 ---
 
 #### Q: Don't fossil fuels get more subsidies than solar and wind?
