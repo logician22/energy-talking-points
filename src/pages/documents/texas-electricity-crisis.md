@@ -78,6 +78,21 @@ Instead, the media are telling the story that "fossil fuels failed" because cert
 
 Don't be distracted from the fact that "unreliables" failed everywhere. That's the fact we need to keep in mind as we are pitched policies to eliminate reliable fossil fuels and nuclear, and to "replace" them with unreliable wind and solar.
 
+### The example of Alberta
+
+**A tale of two places: TX vs. Alberta, Canada. In TX, a spike in demand during cold temps led to devastating blackouts. In AB, a spike in demand during \*far colder temps\* led to... very little disruption. Why? AB has a reliable, resilient grid with 43% coal and 49% gas.**
+
+![Image](/img/alberta-example.jpeg)
+
+(Chart reference)[^8]
+
+- The media want you to believe that TX's failure to handle spiking demand during cold temps proves that a fossil fueled grid can't handle such a challenge. They don't want you to know about Alberta, CA--where a fossil fueled grid handled a far bigger challenge with relative ease.
+- Alberta was far colder than TX last week. Between Feb 14th and 17th, while Dallas, TX temperatures averaged between 10 and 25 degrees F, Calgary, AB temperatures AVERAGED between -13 and 16 degrees F! Alberta's 43% coal, 49% gas grid performed spectacularly.[^9]
+- Alberta, like TX, experienced demand that spiked to record highs. Why did AB handle it with relative ease, while TX plunged into frozen darkness? Because AB has invested in reliable, resilient fossil fuel infrastructure--and little unreliable wind.[^10]
+- Did Alberta succeed because it's connected to a national grid that bailed it out? Nope: "Both \[Texas and Alberta] have limited electrical connections to their neighbours, leaving it largely up to themselves to manage their reliability."[^11]
+- Alberta can handle spikes in demand during ultra-frigid temps with an "isolated" grid because they have done what TX hasn't: create pro-reliability policies that lead to a reliable and resilient grid.
+- Alberta proves with 100% certainty that coal and gas plants can easily run in far more adverse conditions than TX had. That's why the anti-fossil fuel media do not want you to know the story of Alberta. Let's spread this story far and wide.
+
 ### References
 
 [^1]:
@@ -98,3 +113,13 @@ Don't be distracted from the fact that "unreliables" failed everywhere. That's t
 [^5]: [U.S. Energy Information Administration - Electric Power Monthly (Nov 2020)](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=table_6_06)
 [^6]: [Talking Points on Joe Biden's Energy Plan](/bidens-energy-plan/)
 [^7]: [Talking Points on American Energy Policy](/energy-policy/)
+
+[^8]:
+    [Alberta.ca - Current and Historical Alberta Weather Station Data Viewer](https://acis.alberta.ca/weather-data-viewer.jsp)\
+    [NOAA, National Weather Service](https://w2.weather.gov/climate/xmacis.php?wfo=fwd)
+
+[^9]: [Canada Energy Regulator - Provincial and Territorial Energy Profiles – Alberta](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-alberta.html)
+
+[^10]: [CBC - Frigid weather sees Alberta break power demand record](https://www.cbc.ca/news/canada/calgary/electricity-usage-record-cold-weather-alberta-1.5908823)
+
+[^11]: [CBC - Lessons for Alberta from the Texas power blackout](https://www.cbc.ca/news/canada/calgary/texas-power-outages-alberta-1.5917052)
