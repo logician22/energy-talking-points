@@ -4,27 +4,23 @@ displaytitle: Green Energy Jobs
 title: Green Energy Jobs
 date: 2020-08-03T01:22:00.000Z
 description: |
-  _**Q:** Won’t Joe Biden’s energy plan create enough “green energy jobs” to offset millions of lost jobs in the fossil fuel industry?_
+  Joe Biden's energy plan would shift us from energy production that is low-cost, high-reliability, and *America-centered* to energy production that is high-cost, low-reliability, and *China-centered*.
 
-  **A:** No. By making energy unreliable and unaffordable for every American industry, the Biden Plan would create mass "green joblessness."
+  This would destroy, not create, millions of well-paying American jobs.
 featuredimage: /img/green-joblessness.jpg
 ---
 
 ### Quick Summary
 
-**Joe Biden's energy plan would shift us from energy production that is low-cost, high-reliability, and \*America-centered\* to energy production that is high-cost, low-reliability, and \*China-centered\*.**
-
-**This would destroy, not create, millions of well-paying American jobs.**
-
 - Joe Biden says that his policies to eliminate US CO2 emissions through a largely solar- and wind-based energy system will create millions of well-paying "green jobs"--far more than will be destroyed in the fossil fuel industry.
 
-    This is impossible.[^1]
+  This is impossible.[^1]
 
 - A largely solar-and wind-based energy system will necessarily destroy far more well-paying US jobs than it creates because the "green jobs" will be 1) far less productive, 2) largely in China, and 3) cause job losses in other industries via skyrocketing energy prices.[^2]
 
 - Reason #1 why Biden's energy policies will destroy productive US jobs: "green jobs" are far less productive than the fossil fuel jobs that Biden is destroying--so they cannot possibly pay as well.
 
-- The only way well-paying jobs are sustainable in the long-term is if they are highly productive. For example, the reason US oil-and-gas extractions jobs pay very well is that they produce an average of $2 million per worker annually. Nothing in wind or solar can compare.[^3]
+- The only way well-paying jobs are sustainable in the long-term is if they are highly productive. For example, the reason US oil-and-gas extractions jobs pay very well is that they produce an average of \$2 million per worker annually. Nothing in wind or solar can compare.[^3]
 
 - Workers involved in generating electricity from natural gas and coal produce \*9 times more electricity per person\* than workers generating electricity from wind and solar. And the fossil fuel electricity, unlike solar and wind, is highly reliable.[^4]
 
@@ -48,6 +44,12 @@ featuredimage: /img/green-joblessness.jpg
 
 - Biden's policies, by shifting us from productive, America-centered energy production to unproductive, China-centered energy production, would be the largest destroyer of productive jobs in American history. It's not a "green jobs" policy, it's a "green joblessness" policy.
 
+<br />
+
+#### Q: Won’t Joe Biden’s energy plan create enough “green energy jobs” to offset millions of lost jobs in the fossil fuel industry?
+
+**A:** _No. By making energy unreliable and unaffordable for every American industry, the Biden Plan would create mass "green joblessness."_
+
 - "Creating jobs" is only a good thing if those jobs are productive jobs. If the government pays people to produce inferior products and services or pays people to produce inefficiently, that is "welfare work" that hurts American consumers and American competitiveness.
 
 - Many of the jobs created by the Biden Plan would involve building new, unreliable solar and wind infrastructure.[^10] This infrastructure can't replace our reliable power plants--it will just add a lot of new costs that consumers and industry have to pay. Classic welfare work.[^11]
@@ -70,7 +72,6 @@ featuredimage: /img/green-joblessness.jpg
 
 ### References
 
-
 [^1]:
     China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
@@ -80,22 +81,19 @@ featuredimage: /img/green-joblessness.jpg
     [Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)\
     [Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)
 
-
 [^2]: [Talking Points on Joe Biden's Energy Plan](https://energytalkingpoints.com/bidens-energy-plan/)
-
 [^3]:
     [Institute for Energy Research - A Net-Zero Economy Puts Jobs at Risk](https://www.instituteforenergyresearch.org/regulation/a-net-zero-economy-puts-jobs-at-risk/)\
     [The objective Standard - Per-Worker Productivity Compared: Fossil Fuels versus Wind and Solar](https://theobjectivestandard.com/2021/02/per-worker-productivity-compared-fossil-fuels-versus-wind-and-solar/)\
     [Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
-    A common experience among early adopters of solar and wind is increasing prices for electricity. German electricity prices more than doubled over the last two decades to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) when they started to rapidly rise their share of solar and wind in electricity generation to over ⅓.
+    A common experience among early adopters of solar and wind is increasing prices for electricity. German electricity prices more than doubled over the last two decades to over 0.3€ per kWh (\$0.35 per kWh depending on currency exchange rate) when they started to rapidly rise their share of solar and wind in electricity generation to over ⅓.
 
     Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%).\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2019)\
     [BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2019 was $0.1301 per kWh.[U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
-
+    The average US household price in 2019 was \$0.1301 per kWh.[U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
 [^4]:
     In 2019 the US oil and gas extraction industry employed over 143,000 people (12 month arithmetic average) according to the Bureau of Labor Statistics.\
@@ -110,8 +108,6 @@ featuredimage: /img/green-joblessness.jpg
     [U.S. Energy Information Administration - Natural Gas Prices](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_a.htm)
 
 [^5]: [The objective Standard - Per-Worker Productivity Compared: Fossil Fuels versus Wind and Solar](https://theobjectivestandard.com/2021/02/per-worker-productivity-compared-fossil-fuels-versus-wind-and-solar/)
-
-
 [^6]:
     [Mark P. Mills - If You Want ‘Renewable Energy,’ Get Ready to Dig](https://www.wsj.com/articles/if-you-want-renewable-energy-get-ready-to-dig-11565045328)\
     [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)
@@ -119,7 +115,7 @@ featuredimage: /img/green-joblessness.jpg
     In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.[U.S. Energy Information Administration - Annual Solar Photovoltaic Module Shipments Report](https://www.eia.gov/renewable/annual/solar_photo/)\
     [U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)
 
-    [The Buffalo News - Tesla's Buffalo plant gets $884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)
+    [The Buffalo News - Tesla's Buffalo plant gets \$884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)
 
     New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than US average.\
     [ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)\
@@ -131,18 +127,15 @@ featuredimage: /img/green-joblessness.jpg
 
     [Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
-
 [^8]:
-    German electricity prices more than doubled over the last two decades to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) when they started to rapidly rise their share of solar and wind in electricity generation to over ⅓.\
+    German electricity prices more than doubled over the last two decades to over 0.3€ per kWh (\$0.35 per kWh depending on currency exchange rate) when they started to rapidly rise their share of solar and wind in electricity generation to over ⅓.\
     Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%).\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2019)\
     [BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-
 [^9]:
-
     “Plastics Granulating Services (PGS), based in Kilburn in Adelaide's inner-north, said it had seen its monthly power bills increase from $80,000 to $180,000 over the past 18 months.”\
-    [ABC News Australia - SA plastics recycling business closes due to $100k hike in power bills](https://www.abc.net.au/news/2017-06-27/sa-recycling-business-power-bills-rise-causing-closure/8654638)
+    [ABC News Australia - SA plastics recycling business closes due to \$100k hike in power bills](https://www.abc.net.au/news/2017-06-27/sa-recycling-business-power-bills-rise-causing-closure/8654638)
 
 [^10]:
     “Together, these steps will unleash a clean energy revolution in America, create good paying union jobs that cannot be outsourced, and spur the installation of millions of solar panels – including utility-scale, rooftop, and community solar systems – and tens of thousands of wind turbines – including thousands of turbines off our coasts – in Biden’s first term.”\
