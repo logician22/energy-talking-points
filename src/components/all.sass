@@ -180,7 +180,7 @@ $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
 $menu-item-active-color: $brand-blue-invert
-$menu-item-active-background-color:	$brand-blue-invert
+$menu-item-active-background-color: 	$brand-blue-invert
 $menu-list-border-left: 1px solid $brand-blue-invert
 $menu-label-color: $white-ter
 
@@ -253,6 +253,15 @@ article.blog-list-item
     font-size: 14px
     p ~ .footnote-backref
       margin-bottom: 0
+
+.article-content ul li + li
+  margin-top: 0.85em
+
+.document .footnotes p ~ .footnote-backref
+  font-weight: bolder
+
+.document .footnotes li p:last-of-type
+  margin-bottom: 0.2em
 
 .sign-up-bar
   background-color: $primary
