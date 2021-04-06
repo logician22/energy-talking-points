@@ -1,9 +1,11 @@
 ---
 templateKey: blog-post
-displaytitle: Talking Points on the Energy Subsidies
+displaytitle: Talking Points on Energy Subsidies
 title: Subsidies
 date: 2020-10-10T01:00:41.494Z
-description: Unreliable energy sources receive dozens of times greater subsidies than fossil fuels, in addition to other unfair advantages. Without these, they would hardly be used at all.
+description: Unreliable energy sources receive dozens of times greater subsidies
+  than fossil fuels, in addition to other unfair advantages. Without these, they
+  would hardly be used at all.
 featuredimage: /img/subsidies.jpeg
 ---
 
