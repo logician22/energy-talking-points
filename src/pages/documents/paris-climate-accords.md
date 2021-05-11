@@ -3,9 +3,7 @@ templateKey: blog-post
 displaytitle: Talking Points on the Paris Climate Accords
 title: Paris Climate Accords
 date: 2020-10-10T01:00:41.494Z
-description: The Paris Climate Accords promise to create enormous economic
-  damage to America without reducing the threat from the naturally dangerous
-  climate.
+description: " "
 featuredimage: /img/paris-accords.jpeg
 ---
 
