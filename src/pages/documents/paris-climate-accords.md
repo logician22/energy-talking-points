@@ -3,7 +3,9 @@ templateKey: blog-post
 displaytitle: Talking Points on the Paris Climate Accords
 title: Paris Climate Accords
 date: 2020-10-10T01:00:41.494Z
-description: The Paris Climate Accords are ineffective and asymmetrical, and will prove hugely costly for the United States, while achieving negligible environmental impact. Reentering them is a huge mistake.
+description: The Paris Climate Accords promise to create enormous economic
+  damage to America without reducing the threat from the naturally dangerous
+  climate.
 featuredimage: /img/paris-accords.jpeg
 ---
 
