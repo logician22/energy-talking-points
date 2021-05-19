@@ -149,7 +149,7 @@ Low-cost, reliable energy produced by the fossil fuel industry has made humanity
 
 Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable—1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^9]
 
-Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths--deaths from extreme temperatures, droughts, wildfires, storms, and floods--has decreased by 98% over the last century.
+Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths--deaths from extreme temperatures, droughts, wildfires, storms, and floods--has decreased by 98% over the last century.[^8]
 
 The global leader of the life-giving fossil fuel industry is the highly innovative US oil and gas industry, which has helped billions of people climb out of poverty and can help billions more--if our government stops unjustly punishing it.
 
@@ -159,7 +159,7 @@ This Administration and Congress promise to make the situation far worse by puni
 
 Punishing US oil and gas even more than we already do will harm America and harm most of the world--by preventing billions from having lower-cost, more reliable energy. The only people it won't harm are the leaders of dictatorships that seek to overtake America, such as China.
 
-China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind--that is made using Chinese fossil fuels, which produce 85% of Chinese energy. In 2020 China added 38 GW of coal plants and has 247 GW (enough to power 3 Texases) in development. All designed to last 40+ years.
+China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind--that is made using Chinese fossil fuels, which produce 85% of Chinese energy.[^17] In 2020 China added 38 GW of coal plants and has 247 GW (enough to power 3 Texases) in development.[^3] All designed to last 40+ years.[^26]
 
 America is not being a leader by punishing our ultra-productive oil and gas industry and rewarding the China-based, unreliable solar-and-wind industry. We are being a sucker--a sucker whose economy and security will collapse.
 
@@ -197,8 +197,7 @@ Global annual GDP is about $87 trillion.[World Bank Data](https://data.worldbank
 As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.\
 [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)[America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
 
-The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
-
+The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
 [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
 [^4]: [World Bank Data - Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)](https://data.worldbank.org/indicator/SI.POV.DDAY)
@@ -240,16 +239,30 @@ Latest population estimates from [World Bank Data](https://data.worldbank.org/in
 
 [^16]: In 2019 the US oil and gas extraction industry employed over 143,000 people (12 month arithmetic average) according to the [Bureau of Labor Statistics](https://www.bls.gov/iag/tgs/iag211.htm).\
 This workforce produced an estimated [4.49 billion bbl of oil and condensate](https://www.eia.gov/dnav/pet/pet_crd_cplc_dcu_NUS_a.htm) and [40,892,458 million cf of natural gas](https://www.eia.gov/dnav/ng/ng_prod_sum_a_EPG0_FGW_mmcf_a.htm) in 2019.\
-At an average price of [$40 per bbl](https://www.eia.gov/dnav/pet/pet_pri_spt_s1_a.htm), the oil had a market value of $179 billion.At an average export price of [$3 per Mcf](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_a.htm), the gas had a market value of $122 billion.This means the workforce of the US oil & gas sector created about $2 million per worker annually.
+At an average price of [$40 per bbl](https://www.eia.gov/dnav/pet/pet_pri_spt_s1_a.htm), the oil had a market value of $179 billion.\
+At an average export price of [$3 per Mcf](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_a.htm), the gas had a market value of $122 billion.\
+This means the workforce of the US oil & gas sector created about $2 million per worker annually.
 
-[^17]: China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.[BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.[Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)[Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)[Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.[U.S. Energy Information Administration - Annual Solar Photovoltaic Module Shipments Report](https://www.eia.gov/renewable/annual/solar_photo/)[U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)
+[^17]: China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
+[BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
+\
+China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.\
+[Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)\
+[Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)\
+[Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)\
+\
+In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.\
+[U.S. Energy Information Administration - Annual Solar Photovoltaic Module Shipments Report](https://www.eia.gov/renewable/annual/solar_photo/)\
+[U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)
 
 [^18]: [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)\
 [Mark P. Mills - If You Want ‘Renewable Energy,’ Get Ready to Dig](https://www.wsj.com/articles/if-you-want-renewable-energy-get-ready-to-dig-11565045328)
 
 [^19]: Alaska’s Pebble mining project, originally discovered in 1988. The deposit features high yields in gold, copper, and other crucial metals. After many years of struggle and re-planning to accommodate environmentalist concerns, the project is now abandoned.[Mining Technology - The end of the road for Alaska’s Pebble Mine project](https://www.mining-technology.com/features/pebble-mine-alaska/)
 
-[^20]: **[The Buffalo News - Tesla's Buffalo plant gets $884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)**New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than the US average.[ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)[Politico - For some users, cheap electricity in high-priced New York](https://www.politico.com/states/new-york/albany/story/2015/05/for-some-users-cheap-electricity-in-high-priced-new-york-088975)[U.S. energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_02_10.html)
+[^20]: **[The Buffalo News - Tesla's Buffalo plant gets $884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)**\
+\
+New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than the US average.[ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)[Politico - For some users, cheap electricity in high-priced New York](https://www.politico.com/states/new-york/albany/story/2015/05/for-some-users-cheap-electricity-in-high-priced-new-york-088975)[U.S. energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_02_10.html)
 
 [^21]: [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
 
