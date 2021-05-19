@@ -20,43 +20,43 @@ As a philosopher, I believe passionately in objective thinking methods. One cruc
 
 When I became interested in energy 14 years ago, I was disturbed that most media and politicians didn't look at the full impact of the oil and gas industry, but just looked at the negatives. Whereas for the solar and wind industry, they just looked at the positive impacts.
 
-When I decided to look at the full impact of the oil and gas industry myself, without the bias of most media and politicians, I found that the positive impacts far, far outweigh the negative impacts--and will continue to do so for generations to come.
+When I decided to look at the full impact of the oil and gas industry myself, without the bias of most media and politicians, I found that the positive impacts far, far outweigh the negative impacts — and will continue to do so for generations to come.
 
-What are the positives of the oil and gas industry? Along with the coal industry, the other part of the fossil fuel industry, they are the only industry that in the near future can produce the low-cost, reliable energy that 8 billion people need to survive and flourish--to live to their highest potential.
+What are the positives of the oil and gas industry? Along with the coal industry, the other part of the fossil fuel industry, they are the only industry that in the near future can produce the low-cost, reliable energy that 8 billion people need to survive and flourish — to live to their highest potential.
 
-While we are told that wind and solar can provide low-cost, reliable energy just as well as fossil fuels, nothing could be further from the truth. Because solar and wind are unreliable, they don't replace reliable power plants--they add to the cost of reliable power plants.
+While we are told that wind and solar can provide low-cost, reliable energy just as well as fossil fuels, nothing could be further from the truth. Because solar and wind are unreliable, they don't replace reliable power plants — they add to the cost of reliable power plants.
 
-The more wind and solar that grids use, the higher their electricity prices. German households have seen prices double in 20 years due to wasteful, unreliable solar and wind infrastructure. Their electricity prices are 3X ours--which are already too high due to wind and solar.[^1]
+The more wind and solar that grids use, the higher their electricity prices. German households have seen prices double in 20 years due to wasteful, unreliable solar and wind infrastructure. Their electricity prices are 3X ours — which are already too high due to wind and solar.[^1]
 
-But wait, what about the claim by Elon Musk and others that with enough batteries, unreliable wind/solar will work? Using Musk's best battery prices, the batteries necessary to store just 3 days of the world's energy would cost \***400 trillion dollars**\*--that's 4.5 times global GDP![^2]
+But wait, what about the claim by Elon Musk and others that with enough batteries, unreliable wind/solar will work? Using Musk's best battery prices, the batteries necessary to store just 3 days of the world's energy would cost \***400 trillion dollars**\* — that's 4.5 times global GDP![^2]
 
-The fossil fuel industry is the only industry that can produce low-cost, reliable energy for 8 billion people in the next several decades. That's why globally, fossil fuel use is 4X all other energy use combined--and why oil, gas, and coal use is exploding in the developing world.[^3]
+The fossil fuel industry is the only industry that can produce low-cost, reliable energy for 8 billion people in the next several decades. That's why globally, fossil fuel use is 4X all other energy use combined — and why oil, gas, and coal use is exploding in the developing world.[^3]
 
 How important is an industry that produces low-cost, reliable energy for billions of people? If you care about human life, nothing is more important. Energy is the industry that powers every other industry. The lower cost energy is, the lower cost everything is.
 
-Low-cost, reliable energy enables billions of people to enjoy the miracle of modern machines that make us productive and prosperous--such as the oil-based agricultural machines that enable one modern farmer to do the work it used to take hundreds of farmers to do.
+Low-cost, reliable energy enables billions of people to enjoy the miracle of modern machines that make us productive and prosperous — such as the oil-based agricultural machines that enable one modern farmer to do the work it used to take hundreds of farmers to do.
 
-Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty--less than $2 a day--has gone from more than 4 in 10 to less than 1 in 10.[^4]
+Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty — less than $2 a day — has gone from more than 4 in 10 to less than 1 in 10.[^4]
 
 While billions of people today get low-cost, reliable energy from the fossil fuel industry, billions more need it. For example, there are 800 million people who have no electricity and 2.6 billion people are still using wood or dung for heating and cooking. 4.5 billion live on less than $10/day.[^5]
 
-The global leader of the fossil fuel industry is the US oil and gas industry, which, through incredible innovation, has become a world leader in producing oil--the essential fuel for mobility--and natural gas, an amazing fuel for electricity, industrial heat, and residential heat.[^6]
+The global leader of the fossil fuel industry is the US oil and gas industry, which, through incredible innovation, has become a world leader in producing oil — the essential fuel for mobility — and natural gas, an amazing fuel for electricity, industrial heat, and residential heat.[^6]
 
 The US oil and gas industry has helped billions of people climb out of poverty. What could be a more positive impact on the world? And yet so few in our media and government ever even talk about this impact, denigrating this life-giving industry as "polluters."
 
-What about the idea that the oil and gas industry should be condemned for the CO2 emissions that are supposedly causing a climate crisis? This is another example of bad thinking--wildly exaggerating negative impacts and ignoring positive impacts.
+What about the idea that the oil and gas industry should be condemned for the CO2 emissions that are supposedly causing a climate crisis? This is another example of bad thinking — wildly exaggerating negative impacts and ignoring positive impacts.
 
 When you hear scary claims about a “climate crisis,” keep in mind that climate catastrophists have been claiming climate crisis for 40 years. For example, President Obama's science advisor John Holdren predicted in the 1980s that we could have up to 1 billion climate deaths today.[^7]
 
-After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths--deaths from extreme temperatures, droughts, wildfires, storms, and floods--has decreased by \***98%**\* over the last century.[^8]
+After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths—deaths from extreme temperatures, droughts, wildfires, storms, and floods—has decreased by \***98%**\* over the last century.[^8]
 
 Fossil fuels were supposed to make climate far more dangerous in the last 40 years but they have actually made it far safer by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought.
 
-Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and manageable—1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were at least 5 times higher than today's.[^9]
+Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and manageable — 1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were at least 5 times higher than today's.[^9]
 
 Let me be clear: fossil fuels do impact the climate. Climate change is real. But “climate crisis” is a fiction that comes from wildly exaggerating fossil fuels' negative climate-related impacts and ignoring fossil fuels' massive positive climate-related impacts.
 
-The fossil fuel industry, led by the US oil and gas industry, makes the world a far better place to live--and is needed by billions more. We don't have a moral obligation to shrink this industry, we have an obligation to liberate and expand it.
+The fossil fuel industry, led by the US oil and gas industry, makes the world a far better place to live—and is needed by billions more. We don't have a moral obligation to shrink this industry, we have an obligation to liberate and expand it.
 
 To restrict the fossil fuel industry is to oppress billions. As Indian energy researcher Vijay Jayaraj wrote to John Kerry: “you have asked India to reduce its dependency on these life-saving fossil fuels! But your policy recommendations...threaten the energy security and livelihood of my people.”[^10]
 
@@ -72,27 +72,27 @@ For example, a comprehensive analysis of federal subsidies per unit of electrici
 
 Claims that fossil fuels get more subsidies than solar/wind involve many distortions, such as using "total subsidies," not per-unit subsidies. By that logic Walmart is more expensive than Nordstrom because Walmart has more total revenue than Nordstrom.
 
-Or take mandates. Dozens of states, including my home state of California, mandate that we use unreliable wind and solar electricity at exorbitant cost--no matter how much more expensive than natural gas it is. These mandates are leading us to shut down natural gas and nuclear plants, making blackouts more and more likely every year.[^12]
+Or take mandates. Dozens of states, including my home state of California, mandate that we use unreliable wind and solar electricity at exorbitant cost—no matter how much more expensive than natural gas it is. These mandates are leading us to shut down natural gas and nuclear plants, making blackouts more and more likely every year.[^12]
 
 Oil and gas companies are also penalized by unfair payment policies that force consumers to pay the same amount of money for unreliable solar and wind electricity as they do for reliable natural gas electricity. That's like paying the same wage to someone who only shows up to work a third of the time, and someone who has never missed a day in 5 years.
 
-Finally, the oil and gas industry is penalized by anti-development policies -- including those on federal lands. We have already seen this year that the Federal government has given itself the power to shut down a major pipeline project and shut down all new leasing on Federal lands. Such punishments to oil and gas companies make it harder and harder for them to develop.[^13]
+Finally, the oil and gas industry is penalized by anti-development policies — including those on federal lands. We have already seen this year that the Federal government has given itself the power to shut down a major pipeline project and shut down all new leasing on Federal lands. Such punishments to oil and gas companies make it harder and harder for them to develop.[^13]
 
 One of the policies at issue in this hearing is whether the government should increase the onshore royalty rate of 12.5% to 18.75%. But this is exactly the wrong direction. What the government should be focused on is liberating development on Federal lands.
 
 Drilling on Federal lands already has huge costs that don't exist on private or State lands. It can be stopped at the stroke of a pen. Even when drilling is approved, the approval takes far longer on Federal lands than on private or State lands.
 
-Now, many elected officials, including those complaining about the 12.5% royalty rate, say we should ban oil and gas leasing forever. Well, if you ban it forever that's a royalty rate of 0%--which means huge tax losses. In 2019 it would have meant $8.6 billion in lost taxes.[^14]
+Now, many elected officials, including those complaining about the 12.5% royalty rate, say we should ban oil and gas leasing forever. Well, if you ban it forever that's a royalty rate of 0% — which means huge tax losses. In 2019 it would have meant $8.6 billion in lost taxes.[^14]
 
 That’s just the lost royalties from federal lands. Economic damage from suffocating the oil and gas industry would be much higher. Industry estimates show that just a federal ban would cost hundreds of thousands of jobs, hundreds of billions in GDP, and half a trillion dollars sent to foreign suppliers.[^15]
 
 Everything we do to punish oil and gas in this country makes our energy more expensive and moves it to other countries, depriving Americans of job opportunities.
 
-This Administration and many in Congress assure us that their fossil fuel elimination policies will create millions of well-paying "green jobs" -- far more than will be destroyed in the fossil fuel industry. This is impossible.
+This Administration and many in Congress assure us that their fossil fuel elimination policies will create millions of well-paying "green jobs" — far more than will be destroyed in the fossil fuel industry. This is impossible.
 
 A largely solar-and wind-based energy system will necessarily destroy far more well-paying US jobs than it creates because the "green jobs" will be 1) far less productive, 2) largely in China, and 3) cause job losses in other industries via skyrocketing energy prices.
 
-Reason #1 why this Administration’s energy policies will destroy productive US jobs: "green jobs" are far less productive than the fossil fuel jobs that Biden is destroying -- so they cannot possibly pay as well.
+Reason #1 why this Administration’s energy policies will destroy productive US jobs: "green jobs" are far less productive than the fossil fuel jobs that Biden is destroying — so they cannot possibly pay as well.
 
 The only way well-paying jobs are sustainable in the long-term is if they are highly productive. For example, the reason US oil-and-gas extraction jobs pay very well is that they produce an average of $2 million per worker annually. Nothing in wind or solar can compare.[^16]
 
@@ -102,9 +102,9 @@ The main jobs involved in solar and wind energy are mining jobs (to get the raw 
 
 China's dominance of "green energy" is due to a combination of vices (low environmental standards, human rights abuses) and virtues (lower energy costs, valuing mining and manufacturing). The anti-mining, anti-fossil fuel Biden administration will make us even less competitive.[^19]
 
-Consider Tesla's "green jobs" debacle in Buffalo. Tesla got almost $1 billion plus artificially low electricity rates (at other customers' expense) in exchange for a promise of 1460 jobs -- that's over $650,000 a job! This kind of welfare work is totally unsustainable.[^20]
+Consider Tesla's "green jobs" debacle in Buffalo. Tesla got almost $1 billion plus artificially low electricity rates (at other customers' expense) in exchange for a promise of 1460 jobs — that's over $650,000 a job! This kind of welfare work is totally unsustainable.[^20]
 
-Now that Joe Biden is destroying US fossil fuel projects, Climate envoy John Kerry says the unemployed workers "can be the people that go to work to make the solar panels." But solar panel makers will remain in China -- because China's mines and factories are cheaply powered by fossil fuels.[^21]
+Now that Joe Biden is destroying US fossil fuel projects, Climate envoy John Kerry says the unemployed workers "can be the people that go to work to make the solar panels." But solar panel makers will remain in China — because China's mines and factories are cheaply powered by fossil fuels.[^21]
 
 Reason #3 why Biden's energy policies will destroy productive US jobs: by making American energy unaffordable and unreliable, it will destroy American industry and with it, American jobs.
 
@@ -118,15 +118,15 @@ This Administration’s policies, by shifting us from productive, America-center
 
 Penalizing US oil and gas even more than we already do will harm America and harm most of the world. The only people it won't harm are the leaders of dictatorships that seek to overtake America, such as China.
 
-China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind--that is made using Chinese fossil fuels, which produce 85% of Chinese energy.[^24]
+China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind—that is made using Chinese fossil fuels, which produce 85% of Chinese energy.[^24]
 
-China's electricity grid is overwhelmingly low-cost, reliable coal--a major reason why China generates 5 times more industrial electricity than we do. In 2020 China added 38 GW of coal plants and has 247 GW[^25] (enough to power 3 Texases) in development. All designed to last 40+ years.[^26]
+China's electricity grid is overwhelmingly low-cost, reliable coal — a major reason why China generates 5 times more industrial electricity than we do. In 2020 China added 38 GW of coal plants and has 247 GW[^25] (enough to power 3 Texases) in development. All designed to last 40+ years.[^26]
 
-In 2020 they imported record amounts of oil--and announced a 25-year partnership with Iran to get more oil. In just the next 4 years China is planning 15,000 miles of new oil/gas pipelines--enough to travel halfway around the world--along with new oil refineries and new gas processing facilities.[^27]
+In 2020 they imported record amounts of oil—and announced a 25-year partnership with Iran to get more oil. In just the next 4 years China is planning 15,000 miles of new oil/gas pipelines — enough to travel halfway around the world—along with new oil refineries and new gas processing facilities.[^27]
 
-America is not being a leader by punishing our ultra-productive oil and gas industry and rewarding the China-based, unreliable solar-and-wind industry. We are being a sucker--a sucker whose economy and security will collapse.
+America is not being a leader by punishing our ultra-productive oil and gas industry and rewarding the China-based, unreliable solar-and-wind industry. We are being a sucker — a sucker whose economy and security will collapse.
 
-It's not too late to change course. If we liberate every energy industry, including oil, gas, coal, and nuclear, America can make the world a better place to live--and continue being a prosperous and secure country for generations to come. I welcome your questions.
+It's not too late to change course. If we liberate every energy industry, including oil, gas, coal, and nuclear, America can make the world a better place to live — and continue being a prosperous and secure country for generations to come. I welcome your questions.
 
 ## 5-minute spoken testimony
 
@@ -138,33 +138,33 @@ What has led me to the conclusion that the oil and gas industry is life-giving a
 
 As a philosopher, I believe passionately in objective thinking methods. One crucial thinking method is "full-impact thinking." This means that when we are evaluating an industry, like oil and gas or solar, we look carefully at the full impact, positive and negative, of that industry.
 
-When I decided to look at the full impact of the oil and gas industry myself, without the bias of most media and politicians, I found that the positive impacts far, far outweigh the negative impacts--and will continue to do so for generations to come.
+When I decided to look at the full impact of the oil and gas industry myself, without the bias of most media and politicians, I found that the positive impacts far, far outweigh the negative impacts — and will continue to do so for generations to come.
 
-What are the positives of the oil and gas industry? Along with the coal industry, the other part of the fossil fuel industry, they are the only industry that can in the near future produce the low-cost, reliable energy that 8 billion people need to survive and flourish--to live to their highest potential.
+What are the positives of the oil and gas industry? Along with the coal industry, the other part of the fossil fuel industry, they are the only industry that can in the near future produce the low-cost, reliable energy that 8 billion people need to survive and flourish — to live to their highest potential.
 
-Unreliable solar and wind can’t come close to fossil fuels. That's why globally, fossil fuel use is 4 times all other energy use combined--and why oil, gas, and coal use is exploding in the developing world.[^3]
+Unreliable solar and wind can’t come close to fossil fuels. That's why globally, fossil fuel use is 4 times all other energy use combined — and why oil, gas, and coal use is exploding in the developing world.[^3]
 
 How positive is the impact of an industry that produces low-cost, reliable energy for billions of people? If you care about human life, nothing is more positive. Energy is the industry that powers every other industry. The lower cost energy is, the lower cost everything is.
 
-Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty--less than $2 a day--has gone from more than 4 in 10 to less than 1 in 10.[^4]
+Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty — less than $2 a day — has gone from more than 4 in 10 to less than 1 in 10.[^4]
 
-Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable—1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^9]
+Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable — 1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^9]
 
-Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths--deaths from extreme temperatures, droughts, wildfires, storms, and floods--has decreased by 98% over the last century.[^8]
+Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths — deaths from extreme temperatures, droughts, wildfires, storms, and floods — has decreased by 98% over the last century.[^8]
 
-The global leader of the life-giving fossil fuel industry is the highly innovative US oil and gas industry, which has helped billions of people climb out of poverty and can help billions more--if our government stops unjustly punishing it.
+The global leader of the life-giving fossil fuel industry is the highly innovative US oil and gas industry, which has helped billions of people climb out of poverty and can help billions more — if our government stops unjustly punishing it.
 
 While the focus of this hearing is the alleged unfair preferences that the US oil and gas industry gets, the full impact of our energy and environmental policies is to unjustly punish the oil and gas industry via numerous prohibitions on development along with mandates and exorbitant subsidies for wind and solar.
 
-This Administration and Congress promise to make the situation far worse by punishing the US oil and gas industry, to the point of trying to eliminate it, which would cause skyrocketing energy prices--which means the mass-destruction of American industry and jobs.
+This Administration and Congress promise to make the situation far worse by punishing the US oil and gas industry, to the point of trying to eliminate it, which would cause skyrocketing energy prices — which means the mass-destruction of American industry and jobs.
 
-Punishing US oil and gas even more than we already do will harm America and harm most of the world--by preventing billions from having lower-cost, more reliable energy. The only people it won't harm are the leaders of dictatorships that seek to overtake America, such as China.
+Punishing US oil and gas even more than we already do will harm America and harm most of the world — by preventing billions from having lower-cost, more reliable energy. The only people it won't harm are the leaders of dictatorships that seek to overtake America, such as China.
 
-China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind--that is made using Chinese fossil fuels, which produce 85% of Chinese energy.[^17] In 2020 China added 38 GW of coal plants and has 247 GW (enough to power 3 Texases) in development.[^3] All designed to last 40+ years.[^26]
+China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind — that is made using Chinese fossil fuels, which produce 85% of Chinese energy.[^17] In 2020 China added 38 GW of coal plants and has 247 GW (enough to power 3 Texases) in development.[^3] All designed to last 40+ years.[^26]
 
-America is not being a leader by punishing our ultra-productive oil and gas industry and rewarding the China-based, unreliable solar-and-wind industry. We are being a sucker--a sucker whose economy and security will collapse.
+America is not being a leader by punishing our ultra-productive oil and gas industry and rewarding the China-based, unreliable solar-and-wind industry. We are being a sucker — a sucker whose economy and security will collapse.
 
-It's not too late to change course. If we liberate every energy industry, including oil, gas, coal, and nuclear, America can make the world a better place to live--and continue being a prosperous and secure country for generations to come.
+It's not too late to change course. If we liberate every energy industry, including oil, gas, coal, and nuclear, America can make the world a better place to live — and continue being a prosperous and secure country for generations to come.
 
 ### References
 
@@ -218,7 +218,7 @@ It's not too late to change course. If we liberate every energy industry, includ
     Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274.
 
 [^8]:
-    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
 
