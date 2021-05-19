@@ -141,13 +141,13 @@ When I decided to look at the full impact of the oil and gas industry myself, wi
 
 What are the positives of the oil and gas industry? Along with the coal industry, the other part of the fossil fuel industry, they are the only industry that can in the near future produce the low-cost, reliable energy that 8 billion people need to survive and flourish--to live to their highest potential.
 
-Unreliable solar and wind can’t come close to fossil fuels. That's why globally, fossil fuel use is 4 times all other energy use combined--and why oil, gas, and coal use is exploding in the developing world.
+Unreliable solar and wind can’t come close to fossil fuels. That's why globally, fossil fuel use is 4 times all other energy use combined--and why oil, gas, and coal use is exploding in the developing world.[^3]
 
 How positive is the impact of an industry that produces low-cost, reliable energy for billions of people? If you care about human life, nothing is more positive. Energy is the industry that powers every other industry. The lower cost energy is, the lower cost everything is.
 
-Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty--less than $2 a day--has gone from more than 4 in 10 to less than 1 in 10.
+Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty--less than $2 a day--has gone from more than 4 in 10 to less than 1 in 10.[^4]
 
-Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable—1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.
+Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable—1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^9]
 
 Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths--deaths from extreme temperatures, droughts, wildfires, storms, and floods--has decreased by 98% over the last century.
 
@@ -194,7 +194,7 @@ Global annual GDP is about $87 trillion.[World Bank Data](https://data.worldbank
 [^3]: Oil, coal, and natural gas provided over 80% of the global energy consumed in 2019.\
 [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
-As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 158 GW.\
+As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.\
 [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)[America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
 
 The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
