@@ -168,7 +168,7 @@ It's not too late to change course. If we liberate every energy industry, includ
 ## References
 
 [^1]:
-    Renewable Portfolio Standards, which require electric grids to procure increasing amounts of solar and wind, systematically drive up costs across the United States.\
+    Renewable Portfolio Standards, which require electric grids to procure increasing amounts of solar and wind, systematically drive up costs across the United States.\\
 [Greenstone and Nath (2019) - Do Renewable Portfolio Standards Deliver Cost-Effective Carbon Abatement?](https://bfi.uchicago.edu/working-paper/do-renewable-portfolio-standards-deliver-cost-effective-carbon-abatement/)
 
 
