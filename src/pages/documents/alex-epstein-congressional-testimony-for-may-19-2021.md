@@ -127,8 +127,6 @@ America is not being a leader by punishing our ultra-productive oil and gas indu
 
 It's not too late to change course. If we liberate every energy industry, including oil, gas, coal, and nuclear, America can make the world a better place to live--and continue being a prosperous and secure country for generations to come. I welcome your questions.
 
-
-
 ## **5-minute spoken testimony**
 
 Thank you for inviting me to testify. I want to begin by challenging the basic assumption of this hearing, which is that the US government is harming Americans and the world by giving unjust preferences to the highly destructive oil and gas industry. I believe this is 100% wrong.
@@ -172,12 +170,16 @@ It's not too late to change course. If we liberate every energy industry, includ
 [^1]: Renewable Portfolio Standards, which require electric grids to procure increasing amounts of solar and wind, systematically drive up costs across the United States.
 [Greenstone and Nath (2019) - Do Renewable Portfolio Standards Deliver Cost-Effective Carbon Abatement?](https://bfi.uchicago.edu/working-paper/do-renewable-portfolio-standards-deliver-cost-effective-carbon-abatement/)
 
-Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
+```
+Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
 [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
+```
 
 German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
 
-[BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)The average US household price in 2019 was $0.1301 per kWh.\
+[BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)\
+\
+The average US household price in 2019 was $0.1301 per kWh.\
 [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
 California, where solar & wind generation increased from 1.5% in 2001 to 14.5% in 2018 (and imports increased from 24% to 31%), residential electricity prices escalated 70% since 2000, almost 30% faster than in the US as a whole. That doesn’t even include the costs of the 2020 blackout debacle, caused by the system operators inability to secure enough electricity imports when solar and wind failed.[U.S. energy Information Administration - Electricity data browser](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=g00000000004&endsec=vg&linechart=ELEC.PRICE.US-ALL.A~ELEC.PRICE.CA-RES.A~ELEC.PRICE.CA-ALL.A~ELEC.PRICE.US-RES.A&columnchart=ELEC.PRICE.US-ALL.A&map=ELEC.PRICE.US-ALL.A&freq=A&start=2001&end=2020&ctype=linechart&ltype=sourcekey&rtype=s&pin=&rse=0&maptype=0)[California Energy Commission - California Electrical Energy Generation](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-electrical-energy-generation)
@@ -247,7 +249,7 @@ At an average price of [$40 per bbl](https://www.eia.gov/dnav/pet/pet_pri_spt_s1
 
 [^19]: Alaska’s Pebble mining project, originally discovered in 1988. The deposit features high yields in gold, copper, and other crucial metals. After many years of struggle and re-planning to accommodate environmentalist concerns, the project is now abandoned.[Mining Technology - The end of the road for Alaska’s Pebble Mine project](https://www.mining-technology.com/features/pebble-mine-alaska/)
 
-[^20]: [**The Buffalo News - Tesla's Buffalo plant gets $884 million write-down**](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than the US average.[ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)[Politico - For some users, cheap electricity in high-priced New York](https://www.politico.com/states/new-york/albany/story/2015/05/for-some-users-cheap-electricity-in-high-priced-new-york-088975)[U.S. energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_02_10.html)
+[^20]: **[The Buffalo News - Tesla's Buffalo plant gets $884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)**New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than the US average.[ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)[Politico - For some users, cheap electricity in high-priced New York](https://www.politico.com/states/new-york/albany/story/2015/05/for-some-users-cheap-electricity-in-high-priced-new-york-088975)[U.S. energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_02_10.html)
 
 [^21]: [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
 
