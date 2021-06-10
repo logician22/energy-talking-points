@@ -1,6 +1,6 @@
 ---
-displaytitle: ESG Divestment
-title: Talking Points on ESG Divestment
+displaytitle: Talking Points on ESG Divestment
+title: ESG Divestment
 date: 2021-06-10T04:40:22.962Z
 description: The ESG divestment movement poses as a long-range, financially
   savvy, and moral movement. In reality it is a short-range, financially
