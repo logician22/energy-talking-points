@@ -51,13 +51,13 @@ featuredimage: /img/energy-security.jpeg
 [^1]:
     In 2019 11.3% of energy consumption came from coal. Over 80% of energy came from fossil fuels.\
 [U.S. Energy Information Administration](https://www.eia.gov/totalenergy/data/monthly/pdf/sec1_7.pdf)\
+    \
+    Recently, US almost 2/3 of US oil production and 3/4 of US gas production came from shale:\
+    “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”\
+    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847)\
 \
-Recently, US almost 2/3 of US oil production and 3/4 of US gas production came from shale:\
-“The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”\
-[U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847)\
-\
-"The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.29 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019."\
-[U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
+    "The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.29 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019."\
+    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
 
 [^2]: [U.S. Department of State - Oil Embargo, 1973–1974](https://history.state.gov/milestones/1969-1976/oil-embargo#:~:text=NOTE%20TO%20READERS-,Oil%20Embargo%2C%201973%E2%80%931974,the%20post%2Dwar%20peace%20negotiations.)
 
