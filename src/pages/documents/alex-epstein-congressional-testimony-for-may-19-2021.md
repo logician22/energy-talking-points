@@ -71,28 +71,48 @@ The anti-energy, anti-freedom ESG movement should be replaced with a voluntary \
 
 ## References
 
-[^1]:
+[^1]:\
+    [Betsy Atkins - Demystifying ESG: Its History & Current Status](https://www.forbes.com/sites/betsyatkins/2020/06/08/demystifying-esgits-history--current-status/)\
+    [UNPRI](https://www.unpri.org/pri/about-the-pri)
 
-[^2]:
+[^2]: [Alex Epstein - Congressional testimony for May 19, 2021](https://energytalkingpoints.com/alex-epstein-congressional-testimony-for-may-19-2021/)
 
-[^3]:
+[^3]:\
+    As  of January 2021, China and India are planning or constructing over 280 new coal-fired power plants with a combined capacity of over 188 GW.\
+    [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
 
-[^4]:
+[^4]:\
+    [Alex Epstein - Talking Points on the So-Called Climate Crisis](https://energytalkingpoints.com/climate-crisis/)\
+\
+    “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
+    [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
-[^5]:
+[^5]:\
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
-[^6]:
+\    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\
+    Population estimates for the 1920s from the Maddison Database 2010 come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.Latest population estimates from World Bank Data. \
+    [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010)\
+    [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
-[^7]:
+[Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)
 
-[^8]:
+[^6]: [Alex Epstein - Talking Points on Energy Poverty](https://energytalkingpoints.com/energy-poverty/)
 
-[^9]:
+[^7]: [Power Engineering International](https://www.powerengineeringint.com/coal-fired/south-koreas-kepco-cancels-foreign-coal-power-investment/)
 
-[^10]:
+[^8]: [ETBFSI - Indian banks do balancing act between green commitments and coal financing](https://bfsi.economictimes.indiatimes.com/news/banking/indian-banks-do-balancing-act-between-green-commitments-and-coal-financing/83223963)
 
-[^11]:
+[^9]: [ESGClarity - HSBC feels the heat for financing coal plants](https://esgclarity.com/hsbc-feels-the-heat-for-financing-coal-plants/)
 
-[^12]:
+[^10]:\
+    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)    [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
 
-[^13]:
+[^11]:\
+    China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.\
+    [Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)    [Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)    [Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)
+
+[^12]: [Alex Epstein - Talking Points on how the Biden Administration threatens energy security](https://energytalkingpoints.com/biden-energy-security/)
+
+[^13]: [Larry Fink's 2021 letter to CEOs](https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter)
