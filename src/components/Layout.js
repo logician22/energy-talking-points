@@ -64,7 +64,7 @@ const TemplateWrapper = ({ children, passedData = {} }) => {
               <meta property="og:url" content={href} />
               <meta property="og:image" content={`${withPrefix("/")}${img}`} />
               <meta name="twitter:url" content={href} />
-              <meta name="twitter:card" content="summary" />
+              <meta name="twitter:card" content="summary_large_image" />
               <meta name="twitter:creator" content="@AlexEpstein" />
               <meta name="twitter:title" content={title} />
               <meta name="twitter:description" content={description} />
