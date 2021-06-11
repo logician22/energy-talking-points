@@ -73,11 +73,7 @@ const TemplateWrapper = ({ children, passedData = {} }) => {
               <meta name="twitter:description" content={description} />
               <meta
                 name="twitter:image"
-                content={
-                  title.includes("Texas")
-                    ? "https://images.ctfassets.net/enls6777jgmn/1f7AUUP4XBlYnH3XWaqYrZ/15b466b883292b0b5e833f6a9b17dcbc/WayfinderRevAero.jpg?q=100&fm=jpg&fl=progressive&w=1200&h=630&fit=fill"
-                    : `${origin}${withPrefix("/")}${img}`
-                }
+                content={`${origin}${withPrefix("/")}${img}`}
               />
             </Helmet>
             <Navbar />
