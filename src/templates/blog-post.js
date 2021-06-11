@@ -165,7 +165,7 @@ export const pageQuery = graphql`
         displaytitle
         featuredimage {
           childImageSharp {
-            fixed(width: 400) {
+            fixed(width: 480, quality: 95) {
               src
             }
             fluid(maxWidth: 1000, quality: 100) {

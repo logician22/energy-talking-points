@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: Alex Epstein Congressional Testimony for May 19, 2021
-title: Alex Epstein Congressional Testimony for May 19, 2021
+title: Congressional Testimony May 19, 2021
 date: 2020-07-30T12:13:22.798Z
 description: This is Alex Epstein's testimony for a hearing by the House Natural
   Resources Committee on May 19, 2021.
