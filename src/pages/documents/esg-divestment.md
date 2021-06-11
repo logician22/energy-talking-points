@@ -7,7 +7,7 @@ description: The ESG divestment movement poses as a long-range, financially
   savvy, and moral movement. In reality it is a short-range, financially
   ruinous, and deeply immoral movement that perpetuates poverty in the poorest
   places and threatens the security of the free world.
-featuredimage: https://c.pxhere.com/photos/36/f6/urban_urban_decay_decay_building_graffiti-103387.jpg!d
+featuredimage: /img/esg.jpeg
 ---
 
 ### Quick Summary
