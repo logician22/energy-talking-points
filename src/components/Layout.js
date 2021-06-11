@@ -9,7 +9,7 @@ import "./all.scss";
 import useSiteMetadata from "./SiteMetadata";
 import { removeTrailingSlash } from "../utils";
 
-const TemplateWrapper = ({ children, passedData }) => {
+const TemplateWrapper = ({ children, passedData = {} }) => {
   const siteMetadata = useSiteMetadata();
   const title = passedData.title
     ? `Energy Talking Points - ${passedData.title}`
