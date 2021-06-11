@@ -58,11 +58,13 @@ const TemplateWrapper = ({ children, passedData = {} }) => {
                 color="#ff4400"
               />
               <meta name="theme-color" content="#fff" />
+              <meta name="description" content={description} />
 
               <meta property="og:type" content="website" />
               <meta property="og:title" content={title} />
               <meta property="og:url" content={href} />
               <meta property="og:image" content={`${withPrefix("/")}${img}`} />
+
               <meta name="twitter:url" content={href} />
               <meta name="twitter:card" content="summary_large_image" />
               <meta name="twitter:creator" content="@AlexEpstein" />
