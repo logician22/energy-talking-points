@@ -90,10 +90,7 @@ export default () => (
   <StaticQuery
     query={graphql`
       query FooterQuery {
-        allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
+        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
           edges {
             node {
               id
