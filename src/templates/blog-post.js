@@ -102,7 +102,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout
       passedData={{
-        image: post.frontmatter.featuredimage.fixed.src,
+        image: post.frontmatter.featuredimage.childImageSharp.fixed.src,
         title: post.frontmatter.title,
         description: post.frontmatter.description,
       }}
