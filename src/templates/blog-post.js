@@ -98,8 +98,15 @@ const BlogPost = ({ data }) => {
   });
   const nextIndex = currentIndex === posts.length - 1 ? 0 : currentIndex + 1;
   const next = posts[nextIndex].node;
+
   return (
-    <Layout>
+    <Layout
+      passedData={{
+        image: post.frontmatter.featuredimage.childImageSharp.fluid.src,
+        title: post.frontmatter.title,
+        description: post.frontmatter.description,
+      }}
+    >
       <BlogPostTemplate
         next={next}
         content={post.html}

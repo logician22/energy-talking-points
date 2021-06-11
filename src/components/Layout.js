@@ -9,12 +9,24 @@ import "./all.scss";
 import useSiteMetadata from "./SiteMetadata";
 import { removeTrailingSlash } from "../utils";
 
-const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+const TemplateWrapper = ({ children, passedData }) => {
+  const siteMetadata = useSiteMetadata();
+  const title = passedData.title
+    ? `Energy Talking Points - ${passedData.title}`
+    : siteMetadata.title;
+  const description = passedData.description || siteMetadata.description;
+  const img = passedData.image
+    ? passedData.image[0] === "/"
+      ? passedData.image.slice(1)
+      : passedData.image
+    : "img/energy.jpg";
+
   return (
     <Location>
       {({ location }) => {
         const origin = removeTrailingSlash(location.origin || "");
+        const { href } = location;
+
         return (
           <div>
             <Helmet>
@@ -49,18 +61,16 @@ const TemplateWrapper = ({ children }) => {
 
               <meta property="og:type" content="website" />
               <meta property="og:title" content={title} />
-              <meta property="og:url" content={origin} />
-              <meta
-                property="og:image"
-                content={`${withPrefix("/")}img/og-image.jpg`}
-              />
+              <meta property="og:url" content={href} />
+              <meta property="og:image" content={`${withPrefix("/")}${img}`} />
+              <meta name="twitter:url" content={href} />
               <meta name="twitter:card" content="summary" />
-              <meta name="twitter:creator" content="@Alexepstein" />
+              <meta name="twitter:creator" content="@AlexEpstein" />
               <meta name="twitter:title" content={title} />
               <meta name="twitter:description" content={description} />
               <meta
                 name="twitter:image"
-                content={`${origin}${withPrefix("/")}img/twitter-image.jpg`}
+                content={`${origin}${withPrefix("/")}${img}`}
               />
             </Helmet>
             <Navbar />
