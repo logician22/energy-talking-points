@@ -94,7 +94,7 @@ featuredimage: /img/og-image.jpg
     [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010)\
     [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL)\
 
-[Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)\
+    [Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)\
 
 [^6]: [Alex Epstein - Talking Points on Energy Poverty](https://energytalkingpoints.com/energy-poverty/)\
 [^7]: [Power Engineering International](https://www.powerengineeringint.com/coal-fired/south-koreas-kepco-cancels-foreign-coal-power-investment/)\
