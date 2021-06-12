@@ -102,7 +102,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout
       passedData={{
-        image: post.frontmatter.featuredimage.childImageSharp.original.src,
+        image: post.frontmatter.featuredimage.childImageSharp.fixed.src,
         title: post.frontmatter.title,
         description: post.frontmatter.description,
       }}
@@ -165,7 +165,7 @@ export const pageQuery = graphql`
         displaytitle
         featuredimage {
           childImageSharp {
-            original {
+            fixed(width: 480, quality: 75) {
               src
             }
             fluid(maxWidth: 1000, quality: 85) {
