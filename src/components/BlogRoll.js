@@ -109,7 +109,7 @@ export default () => (
                 displaytitle
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 120, quality: 60) {
                       ...GatsbyImageSharpFluid
                     }
                   }
