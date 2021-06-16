@@ -22,19 +22,27 @@ featuredimage: /img/esg.jpeg
 
 - Modern ESG's obsession with unreliable "renewable" solar and wind, reflects its political nature. Any serious concern about CO2 emissions means embracing the only proven, reliable, globally scalable source of non-carbon energy: nuclear. But most ESG does not embrace nuclear.
 
-- Divesting from fossil fuels is immoral because:1. The world needs much more energy.2. Fossil fuels are the only way to provide most of that energy for the foreseeable future.3. Any problems associated with CO2 pale in comparison to problems of energy deprivation.
+- Divesting from fossil fuels is immoral because:
 
-- The world needs much more energy\
+  1. The world needs much more energy.
+  2. Fossil fuels are the only way to provide most of that energy for the foreseeable future.
+  3. Any problems associated with CO2 pale in comparison to problems of energy deprivation.
+
+- **The world needs much more energy**
+
   Low-cost, reliable energy enables billions of people to enjoy the miracle of modern machines that make us productive and prosperous. Yet 800M people have no electricity and 2.6B people are still using wood or dung for heating and cooking.[^2]
 
-- Fossil fuels are indispensable\
+- **Fossil fuels are indispensable**
+
   Only fossil fuels provide low-cost, reliable, versatile, global-scale energy.\
   Unreliable solar and wind can't come close. That's why fossil fuels continue to grow in the developing world; China and India have 100s of coal plants in development.[^3]
 
-- CO2 levels matter much less than energy availability, 1\
+- **CO2 levels matter much less than energy availability**, 1
+
   CO2 emissions have contributed to the warming of the last 170 years, but that warming has been minor and masterable—1 degree C, mostly in cold parts of the world. And life on Earth thrived when CO2 levels were >5X today's.[^4]
 
-- CO2 levels matter much less than energy availability, 2\
+- **CO2 levels matter much less than energy availability**, 2
+
   Fossil fuels have made climate far safer by powering a highly resilient civilization. That's why climate disaster deaths—from extreme temps, droughts, wildfires, storms, and floods—have decreased 98% over the last century.[^5]
 
 - A moral financial movement would do everything it could to increase capital for all cost-effective energy, including fossil fuels. And including nuclear, which is by far the most promising form of low-carbon energy. Instead, ESG is starving cost-effective energy of capital.
@@ -87,12 +95,12 @@ featuredimage: /img/esg.jpeg
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
 [^5]:
-    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.\
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\
     Population estimates for the 1920s from the Maddison Database 2010 come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.Latest population estimates from World Bank Data. \
     [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010)\
-    [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL)\
+    [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
     [Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)
 

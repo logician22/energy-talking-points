@@ -66,12 +66,7 @@ const plugins = [
       modulePath: `${__dirname}/src/cms/cms.js`,
     },
   },
-  // {
-  //   resolve: "gatsby-plugin-robots-txt",
-  //   options: {
-  //     policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/img" }],
-  //   },
-  // },
+  "gatsby-plugin-robots-txt",
   {
     resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
     options: {
@@ -117,6 +112,7 @@ const config = {
     title: "Energy Talking Points - Alex Epstein",
     description:
       "Energy policy, including climate policy, is one of the most important political issues today. I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.",
+    siteUrl: "https://energytalkingpoints.com/",
   },
   plugins,
 };
