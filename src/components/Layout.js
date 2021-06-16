@@ -74,10 +74,6 @@ const TemplateWrapper = ({ children, passedData = {} }) => {
               <meta name="twitter:creator" content="@AlexEpstein" />
               <meta name="twitter:title" content={title} />
               <meta name="twitter:description" content={description} />
-              <meta
-                name="twitter:image"
-                content={`${origin}${withPrefix("/")}${img}`}
-              />
             </Helmet>
             <Navbar />
             <div>{children}</div>
