@@ -69,7 +69,7 @@ const plugins = [
   {
     resolve: "gatsby-plugin-robots-txt",
     options: {
-      policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/img" }],
+      policy: [{ userAgent: "Twitterbot", disallow: "*", allow: "/static" }],
     },
   },
   {
