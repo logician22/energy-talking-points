@@ -66,12 +66,7 @@ const plugins = [
       modulePath: `${__dirname}/src/cms/cms.js`,
     },
   },
-  {
-    resolve: "gatsby-plugin-robots-txt",
-    options: {
-      policy: [{ userAgent: "Twitterbot", allow: "/static" }],
-    },
-  },
+  "gatsby-plugin-robots-txt",
   {
     resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
     options: {
