@@ -23,7 +23,6 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
   return (
     <div className="document">
-      <div style={{ display: "none" }}>{Math.random()}</div>
       <PreviewCompatibleImage
         imageInfo={{
           image,
