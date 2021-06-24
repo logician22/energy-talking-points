@@ -7,18 +7,21 @@ import Navbar from "../components/Navbar";
 import "./all.scss";
 import useSiteMetadata from "./SiteMetadata";
 
-const TemplateWrapper = ({ children, passedData = {} }) => {
-  const siteMetadata = useSiteMetadata();
+const TemplateWrapper = (props) => {
+  const { children, passedData = {} } = props;
+
+  const { site, defaultImage } = useSiteMetadata();
+
+  const { siteMetadata } = site;
+
   const { siteUrl } = siteMetadata;
+
   const title = passedData.title
     ? `Energy Talking Points - ${passedData.title}`
     : siteMetadata.title;
   const description = passedData.description || siteMetadata.description;
-  const img = passedData.image
-    ? passedData.image[0] === "/"
-      ? passedData.image.slice(1)
-      : passedData.image
-    : "img/energy.jpg";
+  const imageString = passedData.image || defaultImage;
+  const img = imageString[0] === "/" ? imageString.slice(1) : imageString;
 
   return (
     <div>
