@@ -107,7 +107,10 @@ if (process.env.NODE_ENV !== "development") {
 // make sure to keep it last in the array)
 plugins.push("gatsby-plugin-netlify");
 
-const siteUrl = process.env.DEPLOY_URL || "http://localhost:8000";
+const siteUrl =
+  (process.env.CONTEXT === "production"
+    ? process.env.URL
+    : process.env.DEPLOY_URL) || "http://localhost:8000";
 console.log("DEPLOY URL", siteUrl);
 
 const config = {
