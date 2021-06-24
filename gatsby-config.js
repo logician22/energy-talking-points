@@ -107,12 +107,15 @@ if (process.env.NODE_ENV !== "development") {
 // make sure to keep it last in the array)
 plugins.push("gatsby-plugin-netlify");
 
+const siteUrl = process.env.DEPLOY_URL || "http://localhost:8000";
+console.log("DEPLOY URL", siteUrl);
+
 const config = {
   siteMetadata: {
     title: "Energy Talking Points - Alex Epstein",
     description:
       "Energy policy, including climate policy, is one of the most important political issues today. I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.",
-    siteUrl: "https://energytalkingpoints.com/",
+    siteUrl,
   },
   plugins,
 };

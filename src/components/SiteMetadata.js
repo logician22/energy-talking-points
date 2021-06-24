@@ -1,19 +1,37 @@
-import { graphql, useStaticQuery } from 'gatsby'
+import { graphql, useStaticQuery } from "gatsby";
 
 const useSiteMetadata = () => {
-  const { site } = useStaticQuery(
+  const { site, allImageSharp } = useStaticQuery(
     graphql`
       query SITE_METADATA_QUERY {
         site {
           siteMetadata {
             title
             description
+            siteUrl
+          }
+        }
+        allImageSharp {
+          edges {
+            node {
+              fixed(quality: 75) {
+                originalName
+                src
+              }
+            }
           }
         }
       }
     `
-  )
-  return site.siteMetadata
-}
+  );
+  const defaultImageEdge = allImageSharp.edges.filter(
+    (e) => e.node.fixed.originalName == "energy.jpg"
+  )[0];
+  const defaultImage = defaultImageEdge
+    ? defaultImageEdge.node.fixed.src
+    : "/img/energy.jpg";
 
-export default useSiteMetadata
+  return { site, defaultImage };
+};
+
+export default useSiteMetadata;
