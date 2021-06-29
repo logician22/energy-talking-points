@@ -25,7 +25,7 @@ const useSiteMetadata = () => {
     `
   );
   const defaultImageEdge = allImageSharp.edges.filter(
-    (e) => e.node.fixed.originalName == "energy.jpg"
+    (e) => e.node.fixed.originalName === "energy.jpg"
   )[0];
   const defaultImage = defaultImageEdge
     ? defaultImageEdge.node.fixed.src
