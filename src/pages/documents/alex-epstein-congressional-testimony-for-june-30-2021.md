@@ -171,20 +171,20 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 [^3]: [Quartz, Puerto Rico's Center for Investigative Journalism, and the Associated Press - The Victims of Hurricane Maria database](https://hurricanemariasdead.com/database.html#eladia-davila-1121)
 [^4]:
     Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
-    [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)\
+    [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
 
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
-    [BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)\
+    [BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
     The average US household price in 2019 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 [^5]:
     “The battery pack portion of it is less than $200/kWh. Power electronics and servicing over 15 to 20 years take the price up to roughly $300/kWh.”\
-    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)\
+    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)
 
     World energy consumption is 583.9 Exajoule annually or 4.8 EJ per 3 days ≈ 1,330 TWh (1 EJ ≈ 278 TWh)\
     1,330 TWh * $300/kWh = $399 trillion.\
-    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
     Global annual GDP is about $87 trillion.\
     [World Bank Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
@@ -197,7 +197,7 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 [^10]: [Alex Epstein - Talking Points on the So-Called Climate Crisis](https://energytalkingpoints.com/climate-crisis/)
 [^11]:
     The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.\
-    [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)\
+    [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
 
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
@@ -226,6 +226,6 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 [^20]: [Written Statement of José F. Ortiz Vázquez - House Committee on Natural Resources Hearing on the Rebuilding and Privatization of the Puerto Rico Electric Power Authority, April 9, 2019](https://naturalresources.house.gov/imo/media/doc/Testimony%20Ortiz%204.96.19.pdf)
 [^21]: [Vijay Jayaraj - An Open Letter to John Kerry from People Living in Energy Poverty](https://townhall.com/columnists/vijayjayaraj/2021/04/17/untitled-n2588091)
 [^22]:
-    [Greenpeace - Renewable Energy for All: How an Indian Village Was Electrified](https://www.greenpeace.org.au/blog/renewable-energy-for-all-how-an-indian-village-was-electrified/)\
+    [Greenpeace - Renewable Energy for All: How an Indian Village Was Electrified](https://www.greenpeace.org.au/blog/renewable-energy-for-all-how-an-indian-village-was-electrified/)
     [Scientific American - Coal Trumps Solar in India](https://www.scientificamerican.com/article/coal-trumps-solar-in-india/)
 [^23]: [Alex Epstein - The Moral Case for Fossil Fuels](https://www.amazon.com/Moral-Case-Fossil-Fuels/dp/1591847443/)
