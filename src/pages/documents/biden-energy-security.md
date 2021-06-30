@@ -86,31 +86,16 @@ featuredimage: /img/energy-security.jpeg
     [The Guardian - Thousands of people in the UK are dying from the cold, and fuel poverty is to blame](https://www.theguardian.com/commentisfree/2020/feb/27/dying-cold-europe-fuel-poverty-energy-spending)\
     [Chirakijja et al. (2020) - Inexpensive Heating Reduces Winter Mortality](https://faculty.wcas.northwestern.edu/~sjv340/heating_mortality.pdf)
 [^10]:
-
-```
-"China indicated recently that it would impose sanctions on Lockheed Martin in retaliation for a U.S. decision to sell missiles to Taiwan. China could “cut off material supply including rare earths, which are crucial to advanced weapons production.” That would mark the latest phase in the weaponization of rare earths."
-
-[Institute for Energy Research - China Dominates the Rare Earths Supply Chain](https://www.instituteforenergyresearch.org/international-issues/china-dominates-the-rare-earths-supply-chain/)
-```
-
+    "China indicated recently that it would impose sanctions on Lockheed Martin in retaliation for a U.S. decision to sell missiles to Taiwan. China could “cut off material supply including rare earths, which are crucial to advanced weapons production.” That would mark the latest phase in the weaponization of rare earths."\
+    [Institute for Energy Research - China Dominates the Rare Earths Supply Chain](https://www.instituteforenergyresearch.org/international-issues/china-dominates-the-rare-earths-supply-chain/)
 [^11]:
+    China is still building and planning about 200 coal plants domestically.\
+    [Global Coal Plant Tracker - Coal Plants by Country, July 2020](https://endcoal.org/global-coal-plant-tracker/)\
 
-```
-China is still building and planning about 200 coal plants domestically.\
-[Global Coal Plant Tracker - Coal Plants by Country, July 2020](https://endcoal.org/global-coal-plant-tracker/)
-
-During the pandemic year 2020 China managed to increase its coal production to the highest level since 2014. This is necessary to keep Chinese citizens warm during winter and to manufacture the solar panels John Kerry said US workers should manufacture after losing their competitive oil & gas jobs.\
-[The Global Warming Policy Forum - China’s 2020 coal output rises to highest since 2015, undermining climate pledges](https://www.thegwpf.com/chinas-2020-coal-output-rises-to-highest-since-2015-undermining-climate-pledges/)
-```
-
+    During the pandemic year 2020 China managed to increase its coal production to the highest level since 2014. This is necessary to keep Chinese citizens warm during winter and to manufacture the solar panels John Kerry said US workers should manufacture after losing their competitive oil & gas jobs.\
+    [The Global Warming Policy Forum - China’s 2020 coal output rises to highest since 2015, undermining climate pledges](https://www.thegwpf.com/chinas-2020-coal-output-rises-to-highest-since-2015-undermining-climate-pledges/)
 [^12]:
-
-```
-[David Wojik - China loves coal far more than wind](https://www.cfact.org/2021/01/11/china-loves-coal-far-more-than-wind/)
-
-[Reuters - China has 250 GW of coal-fired power under development - study](https://www.reuters.com/article/china-coal-idUSL4N2E20HS)
-
-[The Guardian - Russia rules out cutting fossil fuel production in next few decades](https://www.theguardian.com/world/2020/nov/01/russia-rules-out-cutting-fossil-fuel-production-in-next-few-decades)
-```
-
+    [David Wojik - China loves coal far more than wind](https://www.cfact.org/2021/01/11/china-loves-coal-far-more-than-wind/)\
+    [Reuters - China has 250 GW of coal-fired power under development - study](https://www.reuters.com/article/china-coal-idUSL4N2E20HS)\
+    [The Guardian - Russia rules out cutting fossil fuel production in next few decades](https://www.theguardian.com/world/2020/nov/01/russia-rules-out-cutting-fossil-fuel-production-in-next-few-decades)
 [^13]: [Talking Points on American Energy Policy](https://energytalkingpoints.com/energy-policy/)
