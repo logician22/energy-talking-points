@@ -168,15 +168,39 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 
     The average US household price in 2019 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
-[^3]:
+[^3]: [Quartz, Puerto Rico's Center for Investigative Journalism, and the Associated Press - The Victims of Hurricane Maria database](https://hurricanemariasdead.com/database.html#eladia-davila-1121)
 [^4]:
+    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
+    [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)\
+
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
+    [BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)\
+
+    The average US household price in 2019 was $0.1301 per kWh.\
+    [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 [^5]:
-[^6]:
+    “The battery pack portion of it is less than $200/kWh. Power electronics and servicing over 15 to 20 years take the price up to roughly $300/kWh.”\
+    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)\
+
+    World energy consumption is 583.9 Exajoule annually or 4.8 EJ per 3 days ≈ 1,330 TWh (1 EJ ≈ 278 TWh)\
+    1,330 TWh * $300/kWh = $399 trillion.\
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
+
+    Global annual GDP is about $87 trillion.\
+    [World Bank Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+[^6]: [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 [^7]:
-[^8]:
-[^9]:
-[^10]:
+    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
+    [BP - Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+[^8]: [WSJ - How to Add Gas to U.S.-China Climate Cooperation](https://www.wsj.com/articles/how-to-add-gas-to-u-s-china-climate-cooperation-11619402874#:~:text=In%20early%202021%2C%20China%20had,of%20Germany's%20entire%20coal%20fleet)
+[^9]: [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
+[^10]: [Alex Epstein - Talking Points on the So-Called Climate Crisis](https://energytalkingpoints.com/climate-crisis/)
 [^11]:
+    The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.\
+    [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)\
+
+    “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
+    [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 [^12]:
 [^13]:
 [^14]:
