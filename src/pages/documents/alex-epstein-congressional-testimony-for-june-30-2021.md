@@ -202,14 +202,30 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 [^12]:
+     “As University of California physicist John Holdren has said, it is possible that carbon-dioxide climate-induced famines could kill as many as a billion people before the year 2020.”\
+    Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274
 [^13]:
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.\
+
+    Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
+
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.\
+
+    Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 [^14]:
-[^15]:
-[^16]:
-[^17]:
-[^18]:
-[^19]:
-[^20]:
-[^21]:
+    Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.\
+
+    Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
+
+    Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+[^15]: [U.S. Energy Information Administration - Puerto Rico Territory Profile and Energy Estimates](https://www.eia.gov/state/?sid=RQ)
+[^16]: [Puerto Rico Energy Public Policy Act of 2019](https://energia.pr.gov/wp-content/uploads/sites/7/2019/05/Act-17-2019.pdf)
+[^17]: [U.S. Energy Information Administration - Puerto Rico Territory Profile and Energy Estimates](https://www.eia.gov/state/?sid=RQ)
+[^18]: [U.S. Energy Information Administration - Puerto Rico Territory Energy Profile](https://www.eia.gov/state/print.php?sid=RQ)
+[^19]: [Competitive Enterprise Institute - America Last, The Grim Reality of the Jones Act](https://cei.org/studies/america-last/)
+[^20]: [Written Statement of José F. Ortiz Vázquez - House Committee on Natural Resources Hearing on the Rebuilding and Privatization of the Puerto Rico Electric Power Authority, April 9, 2019](https://naturalresources.house.gov/imo/media/doc/Testimony%20Ortiz%204.96.19.pdf)
+[^21]: [Vijay Jayaraj - An Open Letter to John Kerry from People Living in Energy Poverty](https://townhall.com/columnists/vijayjayaraj/2021/04/17/untitled-n2588091)
 [^22]:
-[^23]:
+    [Greenpeace - Renewable Energy for All: How an Indian Village Was Electrified](https://www.greenpeace.org.au/blog/renewable-energy-for-all-how-an-indian-village-was-electrified/)\
+    [Scientific American - Coal Trumps Solar in India](https://www.scientificamerican.com/article/coal-trumps-solar-in-india/)
+[^23]: [Alex Epstein - The Moral Case for Fossil Fuels](https://www.amazon.com/Moral-Case-Fossil-Fuels/dp/1591847443/)
