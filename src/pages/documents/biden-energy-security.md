@@ -62,7 +62,7 @@ featuredimage: /img/energy-security.jpeg
 [^3]:
     Domestic energy production shields from dependence on adversarial countries like Russia:\
 
-    "Earlier this year,New England — located just a few hundred miles from the Marcellus Shale, one of the world’s largest natural gas fields — was forced to import a cargo of Russian liquefied natural gas. This was necessary because anti-energy activists have convinced local elected leaders to block new energy infrastructure, including pipelines that could bring American gas to the region. This is making households in the Northeast more dependent on imported energy, and forcing them to pay among the highest energy bills in the country."\
+    "Earlier this year,New England — located just a few hundred miles from the Marcellus Shale, one of the world’s largest natural gas fields — was forced to import a cargo of Russian liquefied natural gas. This was necessary because anti-energy activists have convinced local elected leaders to block new energy infrastructure, including pipelines that could bring American gas to the region. This is making households in the Northeast more dependent on imported energy, and forcing them to pay among the highest energy bills in the country."
 
     [Washington Examiner](https://www.washingtonexaminer.com/opinion/op-eds/why-natural-gas-from-putins-russia-has-to-be-imported-to-new-england)
 [^4]: [Captain Paul E. Mawn USN (Retired) - Oil and War](https://defense.info/re-thinking-strategy/2018/10/oil-and-war/)
