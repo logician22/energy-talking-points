@@ -49,8 +49,8 @@ featuredimage: /img/energy-security.jpeg
 ### References
 
 [^1]:
-    In 2019 11.3% of energy consumption came from coal. Over 80% of energy came from fossil fuels.\
-[U.S. Energy Information Administration](https://www.eia.gov/totalenergy/data/monthly/pdf/sec1_7.pdf)\
+    In 2019 11.3% of energy consumption came from coal. Over 80% of energy came from fossil fuels.
+    [U.S. Energy Information Administration](https://www.eia.gov/totalenergy/data/monthly/pdf/sec1_7.pdf)\
 
     Recently, US almost 2/3 of US oil production and 3/4 of US gas production came from shale:\
     “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”\
