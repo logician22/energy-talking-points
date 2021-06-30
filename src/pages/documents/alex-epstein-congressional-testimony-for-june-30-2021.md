@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: Alex Epstein Congressional Testimony for June 30, 2021
 title: Alex Epstein Congressional Testimony for June 30, 2021
-date: 2020-07-29T08:22:40.453Z
+date: 2020-06-01T08:22:40.453Z
 description: This is Alex Epstein's testimony for a hearing by the House Natural
   Resources Committee on June 30, 2021.
 featuredimage: /img/alex-epstein.jpg
@@ -157,6 +157,8 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 ## References
 
 [^1]:
+    [U.S. Census Bureau - Quick Facts Puerto Rico](https://www.census.gov/quickfacts/fact/table/PR/INC910219)\
+    [U.S. Census Bureau - Quick Facts United States](https://www.census.gov/quickfacts/fact/table/US/INC910219)
 [^2]:
 [^3]:
 [^4]:
