@@ -205,17 +205,17 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
      “As University of California physicist John Holdren has said, it is possible that carbon-dioxide climate-induced famines could kill as many as a billion people before the year 2020.”\
     Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274
 [^13]:
-    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.\
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
+    Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
 
-    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.\
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
     Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 [^14]:
-    Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.\
+    Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.
 
-    Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
+    Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
 
     Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 [^15]: [U.S. Energy Information Administration - Puerto Rico Territory Profile and Energy Estimates](https://www.eia.gov/state/?sid=RQ)
