@@ -7,7 +7,8 @@ description: This is Alex Epstein's testimony for a hearing by the House Natural
   Resources Committee on June 30, 2021.
 featuredimage: /img/alex-epstein.jpg
 ---
-## Extended written testimony
+
+### Extended written testimony
 
 Thank you for the honor of testifying before this committee. What I will say today may shock many of you. My views on energy are indeed unconventional, but I hope you will hear me out with an open mind since we share the same goal: a prosperous and flourishing Puerto Rico.
 
@@ -37,7 +38,7 @@ We owe it to the people of Puerto Rico to give them the full context--the benefi
 
 Giving the people of Puerto Rico the full context also includes recognizing that fossil fuels' CO2 emissions do impact climate. But it also includes being precise, not hysterical, about that impact.
 
-As I explain in my written testimony, there is climate change, but not a climate crisis--and certainly not one that justifies condemning generations of Puerto Ricans to endless poverty by denying them low-cost, reliable fossil fuel energy. 
+As I explain in my written testimony, there is climate change, but not a climate crisis--and certainly not one that justifies condemning generations of Puerto Ricans to endless poverty by denying them low-cost, reliable fossil fuel energy.
 
 The stakes could not be higher. I think about Eladia Dávila, who was breathing with the help of a mechanical ventilator. During prolonged blackouts, her ventilator shut down and, tragically, she died. Her autopsy noted plainly that a ventilator “does not work without power.”[^3]
 
@@ -56,9 +57,7 @@ To expand on my explanation of why Puerto Rico needs more low-cost, reliable, fo
 3. How to empower Puerto Rico
 4. The consequences of pursuing fossil fuel elimination policies.
 
-
-
-### The true state of fossil fuels vs. alternatives in Puerto Rico and around the world
+#### The true state of fossil fuels vs. alternatives in Puerto Rico and around the world
 
 There is one and only one proven formula for low-cost, reliable electricity. You need to build reliable, resilient power plants and ensure a reliable fuel supply. Most of the time this means fossil fuels--natural gas, coal, or oil--sometimes it means hydro or nuclear.
 
@@ -78,9 +77,7 @@ China has a clear strategy of running its economy on fossil fuels, while encoura
 
 I believe the most promising thing American can do to lower emissions long-term is to decriminalize nuclear energy. Nuclear is actually the safest source of energy and the only way to provide reliable non-carbon electricity anywhere in the world. Yet the government is overregulating it to death. And by insisting on “renewable” solar and wind, governments are further harming nuclear.
 
-
-
-### The climate impacts of fossil fuels
+#### The climate impacts of fossil fuels
 
 What about the CO2 emissions from fossil fuels? Am I denying their impacts on climate? No. I am acknowledging that they do impact climate, but recognizing that the benefits of fossil fuels far, far outweigh any negative impacts.[^10]
 
@@ -96,13 +93,11 @@ Fossil fuels' CO2 emissions have contributed to the warming of the last 170 year
 
 When you hear scary claims about a “climate crisis,” keep in mind that climate catastrophists have been claiming climate crisis for 40 years. For example, President Obama's science advisor John Holdren predicted in the 1980s that we could have up to 1 billion climate deaths today.[^12]
 
-After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths—deaths from extreme temperatures, droughts, wildfires, storms, and floods—has decreased by *98%* over the last century.[^13]
+After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths—deaths from extreme temperatures, droughts, wildfires, storms, and floods—has decreased by _98%_ over the last century.[^13]
 
 Fossil fuels were supposed to make climate far more dangerous in the last 40 years but they have actually made it far safer by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought.
 
-
-
-### How to empower Puerto Rico
+#### How to empower Puerto Rico
 
 The fossil fuel industry makes the world a far better place to live—and is needed by billions more. We don't have a moral obligation to shrink this industry, we have an obligation to liberate and expand it. And that includes liberating fossil fuels in Puerto Rico.
 
@@ -130,9 +125,7 @@ There are myriad other irrational controls on Puerto Rican energy that need to b
 
 To give just one more example of irrational controls, an energy executive who works in Puerto Rico wrote to me about the following phenomenon: "A bunch of pharma manufacturers in Puerto Rico wanted to use back up diesel for their facilities since the grid there sucks. However, PR is in the same EPA region as New York, who refused to allow it for an obscure regulatory reason." The result? "Many of these manufacturers are now leaving the area because they can’t get access to reliable power." He concluded: “Rich, progressive states like California and New York should not be allowed to determine policies of less rich ones. Yet that’s exactly what happens."
 
-
-
-### The consequences of pursuing fossil fuel elimination policies around the world
+#### The consequences of pursuing fossil fuel elimination policies around the world
 
 The poverty-perpetuating attack on low-cost, reliable, fossil fuel energy in Puerto Rico is an immoral phenomenon that unfortunately many in the US and Europe are perpetrating around the world.
 
@@ -154,11 +147,12 @@ How many newborn girls will perish needlessly, and how many young, ambitious peo
 
 Please reconsider your hostility toward fossil fuels and your obsession with mandating unreliable solar and wind energy. Please join me in supporting a rapid increase in the availability of low-cost, reliable energy, including fossil fuels, so that everyone, from Puerto Rico to The Gambia to India, has the opportunity to flourish.
 
-## References
+### References
 
 [^1]:
     [U.S. Census Bureau - Quick Facts Puerto Rico](https://www.census.gov/quickfacts/fact/table/PR/INC910219)\
     [U.S. Census Bureau - Quick Facts United States](https://www.census.gov/quickfacts/fact/table/US/INC910219)
+
 [^2]:
     Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
@@ -168,6 +162,7 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 
     The average US household price in 2019 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
+
 [^3]: [Quartz, Puerto Rico's Center for Investigative Journalism, and the Associated Press - The Victims of Hurricane Maria database](https://hurricanemariasdead.com/database.html#eladia-davila-1121)
 [^4]:
     Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
@@ -178,20 +173,23 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 
     The average US household price in 2019 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
+
 [^5]:
     “The battery pack portion of it is less than $200/kWh. Power electronics and servicing over 15 to 20 years take the price up to roughly $300/kWh.”\
     [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)
 
     World energy consumption is 583.9 Exajoule annually or 4.8 EJ per 3 days ≈ 1,330 TWh (1 EJ ≈ 278 TWh)\
-    1,330 TWh * $300/kWh = $399 trillion.\
+    1,330 TWh \* $300/kWh = $399 trillion.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
     Global annual GDP is about $87 trillion.\
     [World Bank Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+
 [^6]: [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 [^7]:
     China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
     [BP - Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
 [^8]: [WSJ - How to Add Gas to U.S.-China Climate Cooperation](https://www.wsj.com/articles/how-to-add-gas-to-u-s-china-climate-cooperation-11619402874#:~:text=In%20early%202021%2C%20China%20had,of%20Germany's%20entire%20coal%20fleet)
 [^9]: [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
 [^10]: [Alex Epstein - Talking Points on the So-Called Climate Crisis](https://energytalkingpoints.com/climate-crisis/)
@@ -201,9 +199,11 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
+
 [^12]:
-     “As University of California physicist John Holdren has said, it is possible that carbon-dioxide climate-induced famines could kill as many as a billion people before the year 2020.”\
+    “As University of California physicist John Holdren has said, it is possible that carbon-dioxide climate-induced famines could kill as many as a billion people before the year 2020.”\
     Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274
+
 [^13]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
@@ -212,12 +212,14 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
     Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
 [^14]:
     Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.
 
     Data on disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
 
     Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
 [^15]: [U.S. Energy Information Administration - Puerto Rico Territory Profile and Energy Estimates](https://www.eia.gov/state/?sid=RQ)
 [^16]: [Puerto Rico Energy Public Policy Act of 2019](https://energia.pr.gov/wp-content/uploads/sites/7/2019/05/Act-17-2019.pdf)
 [^17]: [U.S. Energy Information Administration - Puerto Rico Territory Profile and Energy Estimates](https://www.eia.gov/state/?sid=RQ)
@@ -228,4 +230,5 @@ Please reconsider your hostility toward fossil fuels and your obsession with man
 [^22]:
     [Greenpeace - Renewable Energy for All: How an Indian Village Was Electrified](https://www.greenpeace.org.au/blog/renewable-energy-for-all-how-an-indian-village-was-electrified/)
     [Scientific American - Coal Trumps Solar in India](https://www.scientificamerican.com/article/coal-trumps-solar-in-india/)
+
 [^23]: [Alex Epstein - The Moral Case for Fossil Fuels](https://www.amazon.com/Moral-Case-Fossil-Fuels/dp/1591847443/)

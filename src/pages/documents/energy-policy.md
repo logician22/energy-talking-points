@@ -21,7 +21,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 7. If America tries to rapidly eliminate fossil fuel use through a Green New Deal or Biden Climate Plan we will not prevent a crisis, we will cause a crisis by making energy completely unreliable and unaffordable for American industry and American consumers.
 8. America needs more energy freedom across the board, including in nuclear energy, fracking, development of federal lands, development offshore, pipelines, and export terminals--all of which can be done safely and responsibly.
 
-## References
+### References
 
 [^1]:
     “The United States surpassed Russia in 2011 to become the world's largest producer of natural gas and surpassed Saudi Arabia in 2018 to become the world's largest producer of petroleum.”\

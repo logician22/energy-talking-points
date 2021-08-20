@@ -1,3 +1,6 @@
+import marked from "marked";
+import PlainTextRenderer from "marked-plaintext";
+
 export const removeTrailingSlash = (slug) =>
   slug[slug.length - 1] === "/" ? slug.slice(0, slug.length - 1) : slug;
 
@@ -9,4 +12,24 @@ export const orderPostEdges = (edges, startWithOverview = true) => {
   const others = edges.filter((e) => e.node.frontmatter.title !== "Overview");
 
   return startWithOverview ? [overview, ...others] : [...others, overview];
+};
+
+export const convertToPlainText = (
+  markdownText,
+  retainBullets = true,
+  options = {}
+) => {
+  const renderer = new PlainTextRenderer();
+  renderer.checkbox = (text) => {
+    return text;
+  };
+  if (retainBullets) {
+    renderer.listitem = (text) => {
+      return `\n- ${text}`;
+    };
+  }
+  marked.setOptions(options);
+  const plaintext = marked(markdownText, { renderer });
+  const withoutFootnotes = plaintext.replace(/\[\^\d+\]/g, "");
+  return withoutFootnotes;
 };
