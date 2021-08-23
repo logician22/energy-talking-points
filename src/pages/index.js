@@ -37,12 +37,22 @@ const BlogIndexPage = () => {
       <section className="section has-background-light">
         <div className="container">
           <div className="content">
-            <input
-              onChange={({ target }) => {
-                setSearch(target.value);
-              }}
-              value={search}
-            />
+            <div className="columns">
+              <div
+                className="column is-4 is-offset-4"
+                style={{ marginBottom: 30 }}
+              >
+                <input
+                  className="input is-large"
+                  type="text"
+                  placeholder="Search articles..."
+                  onChange={({ target }) => {
+                    setSearch(target.value);
+                  }}
+                  value={search}
+                />
+              </div>
+            </div>
             <BlogRoll search={search} />
           </div>
         </div>

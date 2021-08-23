@@ -36,7 +36,11 @@ const Excerpt = ({ post, search }) => {
     const text = isBullet ? line.slice(2) : line;
     excerpt = highlightMatch(text, search) || excerpt;
   }
-  return <Markdown children={excerpt} />;
+  return (
+    <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
+      <Markdown children={excerpt} />
+    </Link>
+  );
 };
 
 const BlogRoll = (props) => {
