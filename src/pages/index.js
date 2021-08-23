@@ -43,7 +43,7 @@ const BlogIndexPage = () => {
                 style={{ marginBottom: 30 }}
               >
                 <input
-                  className="input is-large"
+                  className="input is-large is-link"
                   type="text"
                   placeholder="Search articles..."
                   onChange={({ target }) => {

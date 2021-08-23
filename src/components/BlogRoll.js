@@ -26,7 +26,7 @@ const highlightMatch = (text, search) => {
 
 const Excerpt = ({ post, search }) => {
   let excerpt = post.frontmatter.description || post.excerpt;
-  if (search.length) {
+  if (search.length > 2) {
     const lineArray = post.body.split("\n");
     const lineIndex = lineArray.findIndex((line) =>
       line.toLowerCase().includes(search.toLowerCase())
@@ -59,9 +59,8 @@ const BlogRoll = (props) => {
     threshold: 0,
   });
 
-  const results = search.length
-    ? fuse.search(search).map((r) => r.item)
-    : nodes;
+  const results =
+    search.length > 2 ? fuse.search(search).map((r) => r.item) : nodes;
 
   return (
     <div className="columns is-multiline">
