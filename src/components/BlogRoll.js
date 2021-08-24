@@ -32,9 +32,12 @@ const Excerpt = ({ post, search }) => {
       line.toLowerCase().includes(search.toLowerCase())
     );
     const line = lineArray[lineIndex];
-    const isBullet = line.slice(0, 2) == "- ";
-    const text = isBullet ? line.slice(2) : line;
-    excerpt = highlightMatch(text, search) || excerpt;
+
+    if (line) {
+      const isBullet = line.slice(0, 2) == "- ";
+      const text = isBullet ? line.slice(2) : line;
+      excerpt = highlightMatch(text, search) || excerpt;
+    }
   }
   return (
     <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
