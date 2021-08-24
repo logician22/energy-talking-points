@@ -6,6 +6,8 @@ import Fuse from "fuse.js";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import { fullTitle, orderPostEdges, convertToPlainText } from "../utils";
 
+const SEARCH_THRESHOLD = 2;
+
 const getMatchIndex = (text, search) =>
   text.toLowerCase().indexOf(search.toLowerCase());
 
@@ -18,40 +20,174 @@ const highlightMatch = (text, search) => {
     return null;
   }
 
-  return `...${text.slice(0, matchIndex)}**${text.slice(
+  return `${text.slice(0, matchIndex)}**${text.slice(
     matchIndex,
     matchIndex + search.length
   )}**${text.slice(maxPoint)}${truncate ? "..." : ""}`;
 };
 
-const Excerpt = ({ post, search }) => {
-  let excerpt = post.frontmatter.description || post.excerpt;
-  if (search.length > 2) {
-    const lineArray = post.body.split("\n");
-    const lineIndex = lineArray.findIndex((line) =>
-      line.toLowerCase().includes(search.toLowerCase())
-    );
-    const line = lineArray[lineIndex];
+const TitleHighlight = ({ children }) => (
+  <em className="has-text-primary">{children}</em>
+);
 
-    if (line) {
-      const isBullet = line.slice(0, 2) == "- ";
-      const text = isBullet ? line.slice(2) : line;
-      excerpt = highlightMatch(text, search) || excerpt;
-    }
+const highlightMarkdown = (markdown, HighlightComponent = TitleHighlight) => {
+  return (
+    <>
+      {markdown
+        .split("**")
+        .map((string, index) =>
+          index % 2 === 0 ? (
+            <>{string}</>
+          ) : (
+            <HighlightComponent>{string}</HighlightComponent>
+          )
+        )}
+    </>
+  );
+};
+
+const articleTitle = (title, displayTitle, search) => {
+  const text = fullTitle(title, displayTitle);
+  if (
+    search.length <= SEARCH_THRESHOLD ||
+    !text.toLowerCase().includes(search.toLowerCase())
+  ) {
+    return text;
   }
+
+  const highlighted = highlightMatch(text, search);
+
+  return highlightMarkdown(highlighted);
+};
+
+const SearchExcerpt = ({ post, search }) => {
+  const lines = [];
+
+  if (search.length > SEARCH_THRESHOLD) {
+    const lineArray = post.body.split("\n");
+    lineArray.forEach((line) => {
+      if (line.toLowerCase().includes(search.toLowerCase())) {
+        const isBullet = line.slice(0, 2) == "- ";
+        const text = isBullet ? line.slice(2) : line;
+        lines.push(
+          highlightMarkdown(highlightMatch(text, search), (props) => (
+            <em>
+              <strong>{props.children}</strong>
+            </em>
+          ))
+        );
+      }
+    });
+  }
+
+  const content = lines.length ? (
+    <>
+      {lines.map((line, index) => {
+        return (
+          <>
+            {line}
+            {index === lines.length - 1 ? null : (
+              <p style={{ fontWeight: "bold" }}>...</p>
+            )}
+          </>
+        );
+      })}
+    </>
+  ) : (
+    <>
+      <p style={{ fontStyle: "italic", fontWeight: "bold" }}>
+        No matching text. Article description:
+      </p>
+      <Markdown source={post.frontmatter.description || post.excerpt} />
+    </>
+  );
+
   return (
     <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
-      <Markdown children={excerpt} />
+      {content}
     </Link>
   );
 };
 
-const BlogRoll = (props) => {
-  const { data, search } = props;
-  const { edges } = data.allMarkdownRemark;
+const ArticleCard = ({ post, search }) => {
+  const isSearch = search.length > SEARCH_THRESHOLD;
+  return (
+    <div
+      className={`is-parent column is-${isSearch ? "12" : "6"}`}
+      key={post.id}
+    >
+      <article
+        className={`blog-list-item tile is-child box notification`}
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "space-between",
+        }}
+      >
+        <div>
+          <header style={{ marginBottom: 30 }}>
+            {post.frontmatter.featuredimage ? (
+              <Link
+                to={post.fields.slug}
+                className={`featured-thumbnail ${isSearch ? "in-search" : ""}`}
+              >
+                <PreviewCompatibleImage
+                  imageStyle={{ maxWidth: isSearch ? "200px" : "none" }}
+                  imageInfo={{
+                    image: post.frontmatter.featuredimage,
+                    alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                  }}
+                />
+              </Link>
+            ) : null}
+            <p className="post-meta">
+              <Link
+                className="title has-text-primary is-size-4"
+                to={post.fields.slug}
+              >
+                {articleTitle(
+                  post.frontmatter.title,
+                  post.frontmatter.displaytitle,
+                  search
+                )}
+              </Link>
+              <br />
+              <span
+                className="subtitle is-size-5 is-block"
+                style={{ marginTop: 5 }}
+              >
+                by Alex Epstein
+              </span>
+            </p>
+          </header>
+          <p>
+            <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
+              {isSearch ? (
+                <SearchExcerpt search={search} post={post} />
+              ) : (
+                <Markdown
+                  children={post.frontmatter.description || post.excerpt}
+                />
+              )}
+            </Link>
+            <br />
+            <br />
+          </p>
+        </div>
+        <div>
+          <Link className="button" to={post.fields.slug}>
+            Keep Reading →
+          </Link>
+        </div>
+      </article>
+    </div>
+  );
+};
 
-  const posts = orderPostEdges(edges) || [];
-  const nodes = posts.map((p) => ({
+const SearchRoll = (props) => {
+  const { edges, search } = props;
+
+  const nodes = edges.map((p) => ({
     ...p.node,
     body: convertToPlainText(p.node.rawMarkdownBody.split("### References")[0]),
   }));
@@ -62,71 +198,32 @@ const BlogRoll = (props) => {
     threshold: 0,
   });
 
-  const results =
-    search.length > 2 ? fuse.search(search).map((r) => r.item) : nodes;
+  const results = fuse.search(search);
 
   return (
     <div className="columns is-multiline">
-      {posts &&
-        results.map((post) => (
-          <div className="is-parent column is-6" key={post.id}>
-            <article
-              className={`blog-list-item tile is-child box notification`}
-              style={{
-                display: "flex",
-                flexDirection: "column",
-                justifyContent: "space-between",
-              }}
-            >
-              <div>
-                <header style={{ marginBottom: 30 }}>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {fullTitle(
-                        post.frontmatter.title,
-                        post.frontmatter.displaytitle
-                      )}
-                    </Link>
-                    <br />
-                    <span
-                      className="subtitle is-size-5 is-block"
-                      style={{ marginTop: 5 }}
-                    >
-                      by Alex Epstein
-                    </span>
-                  </p>
-                </header>
-                <p>
-                  <Excerpt post={post} search={search} />
-                  <br />
-                  <br />
-                </p>
-              </div>
-              <div>
-                <Link
-                  className="button"
-                  to={post.fields.slug}
-                  // style={{ justifySelf: "flex-end", maxWidth: 200 }}
-                >
-                  Keep Reading →
-                </Link>
-              </div>
-            </article>
-          </div>
-        ))}
+      {results.map(({ item: post }) => {
+        return <ArticleCard post={post} search={search} />;
+      })}
+    </div>
+  );
+};
+
+const BlogRoll = (props) => {
+  const { data, search } = props;
+  const { edges } = data.allMarkdownRemark;
+
+  if (search.length > SEARCH_THRESHOLD) {
+    return <SearchRoll edges={edges} search={search} />;
+  }
+
+  const posts = orderPostEdges(edges) || [];
+
+  return (
+    <div className="columns is-multiline">
+      {posts.map(({ node: post }) => (
+        <ArticleCard post={post} search={search} />
+      ))}
     </div>
   );
 };

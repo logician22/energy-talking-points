@@ -288,6 +288,10 @@ $menu-label-color: $white-ter;
 .blog-list-item .featured-thumbnail {
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
+
+  &.in-search {
+    flex-basis: 20%;
+  }
 }
 
 article.blog-list-item {
@@ -296,6 +300,10 @@ article.blog-list-item {
 
   .featured-thumbnail {
     min-width: 35%;
+
+    &.in-search {
+      min-width: 20%;
+    }
   }
 
   @media only screen and (max-width: 700px) {

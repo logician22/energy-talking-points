@@ -30,6 +30,15 @@ export const convertToPlainText = (
   }
   marked.setOptions(options);
   const plaintext = marked(markdownText, { renderer });
-  const withoutFootnotes = plaintext.replace(/\[\^\d+\]/g, "");
-  return withoutFootnotes;
+  return (
+    plaintext
+      // Without footnotes
+      .replace(/\[\^\d+\]/g, "")
+      // Fancy quotes
+      .replace(/&quot;/g, '"')
+      // Apostrophes
+      .replace(/&#39;/g, "'")
+      // Breaks
+      .replace(/<br \/>/g, "")
+  );
 };
