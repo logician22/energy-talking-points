@@ -31,8 +31,8 @@ Instead of neutralizing the infrastructure blockers, Biden's plan calls for endl
 
 Americans should reject Biden's phony infrastructure push and demand the infrastructure reform that will allow us to build roads, bridges, and buildings quickly and cost-effectively.
 
-One piece of legislation that is a major step toward liberating infrastructure-building is @RepGarretGraves's BUILDER Act, which would significantly reform the crippling National Environmental Policy Act.\
-<\br>
+One piece of legislation that is a major step toward liberating infrastructure-building is @RepGarretGraves's BUILDER Act, which would significantly reform the crippling National Environmental Policy Act.
+
 [https://republicans-transportation.house.gov/builder-act/](https://republicans-transportation.house.gov/builder-act/)
 
 
