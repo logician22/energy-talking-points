@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: Energy Talking Points on Infrastructure
+displaytitle: Talking Points on Infrastructure
 title: Infrastructure
 date: 2020-05-25T14:40:29.147Z
 description: "The top priority of a proper infrastructure plan would be
