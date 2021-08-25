@@ -63,28 +63,28 @@ The only practical way to lower global CO2 emissions is to encourage innovation 
     [U.S. energy Information Administration - Electricity data browser](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=g00000000004&endsec=vg&linechart=ELEC.PRICE.US-ALL.A~ELEC.PRICE.CA-RES.A~ELEC.PRICE.CA-ALL.A~ELEC.PRICE.US-RES.A&columnchart=ELEC.PRICE.US-ALL.A&map=ELEC.PRICE.US-ALL.A&freq=A&start=2001&end=2020&ctype=linechart&ltype=sourcekey&rtype=s&pin=&rse=0&maptype=0)
     [California Energy Commission - California Electrical Energy Generation](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/california-electrical-energy-generation)
 
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
 
 [^3]: [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
 
 [^4]:
-    A CES would mandate 80% "clean electricity” by 2030--but does nothing substantial to reverse the criminalization and defunding of nuclear. So nuclear will decrease from its 20% share today. Hydro, at <7% today, has little room for growth. That means >50% solar/wind!
+    A CES would mandate 80% "clean electricity” by 2030--but does nothing substantial to reverse the criminalization and defunding of nuclear. So nuclear will decrease from its 20% share today. Hydro, at <7% today, has little room for growth. That means >50% solar/wind!\
     [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
 
 [^5]:
-    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
+    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
 
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
 [^6]: [Alex Epstein - Talking Points on Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
 
 [^7]:
     As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.
-    [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
+    [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)\
     [America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
 
 
@@ -92,7 +92,7 @@ The only practical way to lower global CO2 emissions is to encourage innovation 
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
 [^8]:
-    Oil, coal, and natural gas provided over 80% of the global energy consumed. 
+    Oil, coal, and natural gas provided over 80% of the global energy consumed.\ 
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^9]: [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
