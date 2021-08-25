@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-displaytitle: Carbon Tax Proposals
+displaytitle: Talking Points on the Carbon Tax Proposals
 title: Carbon Tax
 date: 2020-08-04T01:22:00.000Z
-description: |
+description: >
   _**Q:** Won't a carbon tax reduce CO2 emissions without hurting our economy?_
+
 
   **A:** No. A carbon tax would raise energy prices, make every American industry less competitive, and offshore our CO2 emissions to the countries that outcompete us.
 featuredimage: /img/carbon-tax.jpg
