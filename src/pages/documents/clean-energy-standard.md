@@ -54,28 +54,29 @@ The proper path forward for America is to fix our broken electricity system by e
 When we look at the decline of nations throughout history we wonder: How could they not have seen it coming? Today, we should clearly see it coming that a CES, destroying our grid with catastrophic amounts of unreliable solar+wind, produced by China, will mean our decline.
 
 
+
 ### References
 
-[^1]: In 2019 US net electricity generation from solar and wind was 9.7% of total.
-    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
-
+[^1]: 
+    In 2019 US net electricity generation from solar and wind was 9.7% of total.
+    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)\
     [Energy Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
     [Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^2]:
-    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
-    [Utility Dive - Clean electricity standard lands spot in $3.5 trillion Democratic-backed infrastructure deal](https://www.utilitydive.com/news/clean-electricity-standard-lands-spot-in-35-trillion-democratic-backed-in/603363/)
+    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)\
+    [Utility Dive - Clean electricity standard lands spot in $3.5 trillion Democratic-backed infrastructure deal](https://www.utilitydive.com/news/clean-electricity-standard-lands-spot-in-35-trillion-democratic-backed-in/603363/)\
     [U.S. Energy Information Administration - EIA projects generation from coal and nuclear power plants will plateau after 2025](https://www.eia.gov/todayinenergy/detail.php?id=42755)
 
 [^3]:
     Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
     [Fraunhofer ISE energy-charts.de]()
 
-German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    [The average US household price in 2018 was $0.1301 per kWh. 
-U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
+    The average US household price in 2018 was $0.1301 per kWh. 
+    [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
     Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.
     [Reuter - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
