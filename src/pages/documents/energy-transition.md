@@ -1,10 +1,12 @@
 ---
 templateKey: blog-post
-displaytitle: Energy Transition
+displaytitle: Talking Points on the Energy Transition
 title: Energy Transition
 date: 2020-08-02T01:22:00.000Z
-description: |
-  _**Q:** Aren't we in a rapid free-market energy transition from fossil fuels to solar and wind?_
+description: >
+  _**Q:** Aren't we in a rapid free-market energy transition from fossil fuels
+  to solar and wind?_
+
 
   **A:** No. The 3.8% of American energy that comes from solar and wind is due mostly to anti-market policies that force utilities and consumers to buy unreliable, cost-increasing energy.
 featuredimage: /img/wind-transition.jpg
