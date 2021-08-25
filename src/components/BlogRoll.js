@@ -71,7 +71,7 @@ const SearchExcerpt = ({ post, search }) => {
         const text = isBullet ? line.slice(2) : line;
         lines.push(
           highlightMarkdown(highlightMatch(text, search), (props) => (
-            <em>
+            <em key={props.children}>
               <strong>{props.children}</strong>
             </em>
           ))
@@ -80,16 +80,24 @@ const SearchExcerpt = ({ post, search }) => {
     });
   }
 
-  const content = lines.length ? (
+  return lines.length ? (
     <>
       {lines.map((line, index) => {
         return (
-          <>
+          <span key={index}>
             {line}
             {index === lines.length - 1 ? null : (
-              <p style={{ fontWeight: "bold" }}>...</p>
+              <span
+                style={{
+                  marginBottom: "1em",
+                  display: "block",
+                  fontWeight: "bold",
+                }}
+              >
+                ...
+              </span>
             )}
-          </>
+          </span>
         );
       })}
     </>
@@ -101,12 +109,6 @@ const SearchExcerpt = ({ post, search }) => {
       <Markdown source={post.frontmatter.description || post.excerpt} />
     </>
   );
-
-  return (
-    <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
-      {content}
-    </Link>
-  );
 };
 
 const ArticleCard = ({ post, search }) => {
@@ -114,7 +116,7 @@ const ArticleCard = ({ post, search }) => {
   return (
     <div
       className={`is-parent column is-${isSearch ? "12" : "6"}`}
-      key={post.id}
+      key={post.frontmatter.title}
     >
       <article
         className={`blog-list-item tile is-child box notification`}
@@ -160,7 +162,7 @@ const ArticleCard = ({ post, search }) => {
               </span>
             </p>
           </header>
-          <p>
+          <div style={{ marginBottom: "1em", display: "block" }}>
             <Link to={post.fields.slug} style={{ textDecoration: "none" }}>
               {isSearch ? (
                 <SearchExcerpt search={search} post={post} />
@@ -172,7 +174,7 @@ const ArticleCard = ({ post, search }) => {
             </Link>
             <br />
             <br />
-          </p>
+          </div>
         </div>
         <div>
           <Link className="button" to={post.fields.slug}>
@@ -203,7 +205,13 @@ const SearchRoll = (props) => {
   return (
     <div className="columns is-multiline">
       {results.map(({ item: post }) => {
-        return <ArticleCard post={post} search={search} />;
+        return (
+          <ArticleCard
+            post={post}
+            search={search}
+            key={post.frontmatter.title}
+          />
+        );
       })}
     </div>
   );
@@ -213,16 +221,17 @@ const BlogRoll = (props) => {
   const { data, search } = props;
   const { edges } = data.allMarkdownRemark;
 
-  if (search.length > SEARCH_THRESHOLD) {
+  const isSearch = search.length > SEARCH_THRESHOLD;
+  if (isSearch) {
     return <SearchRoll edges={edges} search={search} />;
   }
 
   const posts = orderPostEdges(edges) || [];
 
   return (
-    <div className="columns is-multiline">
+    <div className={`columns is-multiline ${isSearch ? "is-desktop" : ""}`}>
       {posts.map(({ node: post }) => (
-        <ArticleCard post={post} search={search} />
+        <ArticleCard post={post} search={search} key={post.frontmatter.title} />
       ))}
     </div>
   );

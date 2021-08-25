@@ -23,9 +23,15 @@ const BlogIndexPage = () => {
                 succinct talking points on today's most important energy,
                 environmental, and climate issues.
                 <br />
-                <p style={{ fontStyle: "italic", marginTop: "15px" }}>
+                <span
+                  style={{
+                    fontStyle: "italic",
+                    marginTop: "15px",
+                    display: "block",
+                  }}
+                >
                   - Alex Epstein
-                </p>
+                </span>
               </p>
             </div>
           </div>
