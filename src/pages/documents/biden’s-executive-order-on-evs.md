@@ -25,6 +25,7 @@ Consider the case of Germany, where at 37% solar and wind, the idea of “peak s
 
 Imagine if, during the recent freeze, Texas was far more dependent on unreliable solar and wind--and it had a massive fleet of EVs that needed charging. The blackouts would have lasted for weeks. That's what the Biden administration has in store for us.[^6]
 
+![texas energy grid](/img/6-ercot.png)
 
 The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc. And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind.
 
