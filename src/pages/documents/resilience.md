@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: Energy Talking Points on Resilience
+displaytitle: Talking Points on Resilience
 title: Resilience
 date: 2020-05-19T15:16:13.436Z
 description: " "
