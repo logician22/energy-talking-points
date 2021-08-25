@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: Energy Talking Points on LNG Exports
+displaytitle: Talking Points on LNG Exports
 title: LNG Exports
 date: 2020-05-20T14:55:05.180Z
 description: One of the most obvious opportunities the US is currently
