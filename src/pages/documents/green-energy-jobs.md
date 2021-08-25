@@ -1,10 +1,13 @@
 ---
 templateKey: blog-post
-displaytitle: Green Energy Jobs
+displaytitle: Talking Points on Green Energy Jobs
 title: Green Energy Jobs
 date: 2020-08-03T01:22:00.000Z
-description: |
-  Joe Biden's energy plan would shift us from energy production that is low-cost, high-reliability, and *America-centered* to energy production that is high-cost, low-reliability, and *China-centered*.
+description: >
+  Joe Biden's energy plan would shift us from energy production that is
+  low-cost, high-reliability, and *America-centered* to energy production that
+  is high-cost, low-reliability, and *China-centered*.
+
 
   This would destroy, not create, millions of well-paying American jobs.
 featuredimage: /img/green-joblessness.jpg
