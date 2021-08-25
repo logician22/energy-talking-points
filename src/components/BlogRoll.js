@@ -206,7 +206,10 @@ const SearchRoll = (props) => {
   const results = fuse.search(search);
 
   return (
-    <div className="columns is-multiline is-desktop">
+    <div
+      className="columns is-multiline is-desktop"
+      style={{ flexDirection: "column" }}
+    >
       {results.map(({ item: post }) => {
         return (
           <ArticleCard
