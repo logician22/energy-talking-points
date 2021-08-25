@@ -69,8 +69,8 @@ When we look at the decline of nations throughout history we wonder: How could t
     [U.S. Energy Information Administration - EIA projects generation from coal and nuclear power plants will plateau after 2025](https://www.eia.gov/todayinenergy/detail.php?id=42755)
 
 [^3]:
-    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
-    [Fraunhofer ISE energy-charts.de]()
+    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
+    [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
 
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
@@ -88,7 +88,7 @@ When we look at the decline of nations throughout history we wonder: How could t
 [^6]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/beta/electricity/gridmonitor/dashboard/electric_overview/balancing_authority/ERCO)
 
 [^7]:
-    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.
+    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^8]:
@@ -98,11 +98,11 @@ When we look at the decline of nations throughout history we wonder: How could t
     [Global energy Monitor - Global Coal Plant TrackerAmerica’s Power - China’s Coal Fleet Continues to Grow](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
 
 [^9]: 
-    The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
+    The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
-    In contrast to western economies seeing energy use contracting under SARS-COVID-2 policies, China imported record amounts of oil and increased coal production. America is currently on track to cripple its domestic coal and petroleum industries.
-    [Reuters - China's 2020 crude oil imports hit record on stockpiling, new refineries](https://www.reuters.com/article/china-economy-trade-crude-idUSL1N2JP07X)
+    In contrast to western economies seeing energy use contracting under SARS-COVID-2 policies, China imported record amounts of oil and increased coal production. America is currently on track to cripple its domestic coal and petroleum industries.\
+    [Reuters - China's 2020 crude oil imports hit record on stockpiling, new refineries](https://www.reuters.com/article/china-economy-trade-crude-idUSL1N2JP07X)\
     [Reuters - China's coal consumption seen rising in 2021, imports steady](https://www.reuters.com/article/china-coal-idUSL3N2L12A9)
 
 [^10]: [Energy Talking Points on Wind Production Tax Credit](https://energytalkingpoints.com/wind-production-tax-credit/)
