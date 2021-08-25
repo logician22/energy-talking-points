@@ -26,7 +26,7 @@ Wind/solar are not only non-resilient themselves, their rapid fluctuations creat
 
 Wind/solar also cause huge resiliency problems by *defunding resiliency*. In CA, power-line maintenance funding was cut to pay for solar. In TX, money that could have been used to weatherize plants was used for wind turbines that provided almost no power when it was needed most.[^3]
 
-![texas freeze](/img/tx-freeze.png)
+![texas freeze ](/img/tx-freeze.png)
 
 The TX blackouts should spark a national conversation about resilient power. Instead, we are shutting down more and more coal and nuclear plants, while mandating more resilience-destroying wind/solar. Tell your elected officials: support resilience or I won't support you.[^4]
 
