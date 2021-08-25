@@ -203,7 +203,7 @@ const SearchRoll = (props) => {
   const results = fuse.search(search);
 
   return (
-    <div className="columns is-multiline">
+    <div className="columns is-multiline is-desktop">
       {results.map(({ item: post }) => {
         return (
           <ArticleCard
@@ -229,7 +229,7 @@ const BlogRoll = (props) => {
   const posts = orderPostEdges(edges) || [];
 
   return (
-    <div className={`columns is-multiline ${isSearch ? "is-desktop" : ""}`}>
+    <div className={`columns is-multiline`}>
       {posts.map(({ node: post }) => (
         <ArticleCard post={post} search={search} key={post.frontmatter.title} />
       ))}
