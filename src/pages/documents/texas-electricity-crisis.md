@@ -1,10 +1,13 @@
 ---
 templateKey: blog-post
-displaytitle: Texas Electricity Crisis
+displaytitle: Talking Points on the Texas Electricity Crisis
 title: Texas Electricity Crisis
 date: 2020-08-01T01:22:00.000Z
-description: |
-  There is a lot of conflicting "information" about the TX blackouts. Here's the bottom line: the root cause of the TX blackouts is a national and state policy that has prioritized the adoption of unreliable wind/solar energy over reliable energy.
+description: >
+  There is a lot of conflicting "information" about the TX blackouts. Here's the
+  bottom line: the root cause of the TX blackouts is a national and state policy
+  that has prioritized the adoption of unreliable wind/solar energy over
+  reliable energy.
 featuredimage: /img/texas-blackouts.jpg
 ---
 
