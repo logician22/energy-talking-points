@@ -22,9 +22,11 @@ In fact, wind and solar are *particularly bad* for extreme weather. Wind works w
 
 Wind/solar are not only non-resilient themselves, their rapid fluctuations create resiliency challenges for reliable power plants. Example: gas plants in TX had to rapidly ramp down to accommodate high wind before the TX freeze and then rapidly ramp up to compensate for low wind.
 
-
+![texas unreliable generation](/img/tx-freeze.png)
 
 Wind/solar also cause huge resiliency problems by *defunding resiliency*. In CA, power-line maintenance funding was cut to pay for solar. In TX, money that could have been used to weatherize plants was used for wind turbines that provided almost no power when it was needed most.[^3]
+
+![texas unreliable generation](/img/tx-freeze.png)
 
 The TX blackouts should spark a national conversation about resilient power. Instead, we are shutting down more and more coal and nuclear plants, while mandating more resilience-destroying wind/solar. Tell your elected officials: support resilience or I won't support you.[^4]
 
