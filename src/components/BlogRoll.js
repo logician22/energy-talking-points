@@ -8,6 +8,11 @@ import { fullTitle, orderPostEdges, convertToPlainText } from "../utils";
 
 const SEARCH_THRESHOLD = 2;
 
+const defaultExcerpt = (post) =>
+  post.frontmatter.description && post.frontmatter.description.length > 2
+    ? post.frontmatter.description
+    : post.excerpt;
+
 const getMatchIndex = (text, search) =>
   text.toLowerCase().indexOf(search.toLowerCase());
 
@@ -106,7 +111,7 @@ const SearchExcerpt = ({ post, search }) => {
       <p style={{ fontStyle: "italic", fontWeight: "bold" }}>
         No matching text. Article description:
       </p>
-      <Markdown source={post.frontmatter.description || post.excerpt} />
+      <Markdown source={defaultExcerpt(post)} />
     </>
   );
 };
@@ -167,9 +172,7 @@ const ArticleCard = ({ post, search }) => {
               {isSearch ? (
                 <SearchExcerpt search={search} post={post} />
               ) : (
-                <Markdown
-                  children={post.frontmatter.description || post.excerpt}
-                />
+                <Markdown children={defaultExcerpt(post)} />
               )}
             </Link>
             <br />
