@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: Talking Points on the Carbon Tax Proposals
+displaytitle: Talking Points on Carbon Tax Proposals
 title: Carbon Tax
 date: 2020-08-04T01:22:00.000Z
 description: >
