@@ -51,7 +51,7 @@ const BlogIndexPage = () => {
                 <input
                   className="input is-large is-link"
                   type="text"
-                  placeholder="Search articles..."
+                  placeholder="Search talking points..."
                   onChange={({ target }) => {
                     setSearch(target.value);
                   }}

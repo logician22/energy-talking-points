@@ -6,8 +6,12 @@ import Fuse from "fuse.js";
 import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import { fullTitle, orderPostEdges, convertToPlainText } from "../utils";
 
+// Don't show search results below this char count
 const SEARCH_THRESHOLD = 2;
 
+// TODO: Come up w a better fallback excerpt than post.excerpt
+// A good version would turn headers into bold and maintain formatting,
+// truncating to a set length of characters.
 const defaultExcerpt = (post) =>
   post.frontmatter.description && post.frontmatter.description.length > 2
     ? post.frontmatter.description
@@ -66,13 +70,14 @@ const articleTitle = (title, displayTitle, search) => {
 };
 
 const SearchExcerpt = ({ post, search }) => {
+  // List of React nodes representing highlighted lines (w hits)
   const lines = [];
 
   if (search.length > SEARCH_THRESHOLD) {
     const lineArray = post.body.split("\n");
     lineArray.forEach((line) => {
       if (line.toLowerCase().includes(search.toLowerCase())) {
-        const isBullet = line.slice(0, 2) == "- ";
+        const isBullet = line.slice(0, 2) === "- ";
         const text = isBullet ? line.slice(2) : line;
         lines.push(
           highlightMarkdown(highlightMatch(text, search), (props) => (
@@ -208,6 +213,7 @@ const SearchRoll = (props) => {
   return (
     <div
       className="columns is-multiline is-desktop"
+      // Make list a single column, for full-width hits
       style={{ flexDirection: "column" }}
     >
       {results.map(({ item: post }) => {
@@ -229,6 +235,8 @@ const BlogRoll = (props) => {
 
   const isSearch = search.length > SEARCH_THRESHOLD;
   if (isSearch) {
+    // Displays cards as flat list (not grid)
+    // With all hits within an article separately listed and highlighted.
     return <SearchRoll edges={edges} search={search} />;
   }
 
