@@ -3,7 +3,8 @@ templateKey: blog-post
 displaytitle: Talking Points on Resilience
 title: Resilience
 date: 2020-05-19T15:16:13.436Z
-description: ""
+description: We need an electric grid that provides power when we need it, even
+  under adverse conditions.
 featuredimage: /img/dark-city.jpg
 ---
 
