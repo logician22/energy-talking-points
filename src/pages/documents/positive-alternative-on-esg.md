@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-displaytitle: Talking Points on a Positive Alternative on ESG
-title: Positive Alternative on ESG
+displaytitle: Talking Points on a Positive Alternative to ESG
+title: Positive Alternative to ESG
 date: 2020-05-14T17:18:08.534Z
 description: Introducing LVC -- Long-term Value Creation.
 featuredimage: /img/esg.jpeg
