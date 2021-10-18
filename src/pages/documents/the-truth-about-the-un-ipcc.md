@@ -26,20 +26,18 @@ The IPCC almost entirely ignores the incredible benefits of the low-cost, reliab
 - Low-cost, reliable, versatile, global-scale energy from fossil fuels has made humanity so productive that since 1980, the fraction of people living in extreme poverty—less than $2 a day—has gone from more than 4 in 10 to less than 1 in 10. Yet the IPCC totally ignores this.[^1]
 
 - The IPCC's denial of the benefits of fossil fuels is so massive that in its extensive 2018 report on the potential impacts of warming, it devoted a mere half-sentence to a vague, begrudging acknowledgment of the value of economic growth--then immediately undercut it.
-![texas energy grid](/img/6-ercot.png)
+![IPCC benefit denial](/img/1.jpg)
 
 - IPCC bad method 2:
 The IPCC totally ignores the incredible climate mastery benefits of fossil fuels. Nowhere in the IPCC's multi-thousand-page reports do they mention the fact that climate-related disaster deaths have plummeted.[^2]
-[image 2]
-![texas energy grid](/img/6-ercot.png)
+![climate deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
 - The IPCC totally ignores the fact that fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought.
 
 - The fact that the Intergovernmental Panel on *Climate Change* does not acknowledge the massive decrease in *climate-related* disaster deaths is as disreputable as a panel on polio that doesn't acknowledge the massive decrease in polio deaths. Clearly the IPCC is badly biased.
 
 - Why does the IPCC deny the massive benefits of fossil fuels for human flourishing? Because the IPCC's primary moral goal is not advancing human flourishing but eliminating human impact. Observe its denigration of the "human influence" that has made the world far better.[^3]
-[image 3]
-![texas energy grid](/img/6-ercot.png)
+![IPCC human influence](/img/3.png)
 
 - IPCC bad method 3:
 Instead of factoring in negative and positive impacts of CO2, the IPCC is almost exclusively focused on negatives--despite the huge positive impacts of CO2 fertilization as well as warming in a world where cold-related deaths far exceed heat-related deaths.[^4]
@@ -58,8 +56,7 @@ https://twitter.com/AlexEpstein/status/1424831152104239146
 - The UN's domination by power-lusting politicians helps explain its horrific track record of catastrophizing the already-distorted UN IPCC reports through its notorious "Summaries for Policymakers" and then to make media statements that catastrophize the summaries.
 
 - Here is an excellent summary by @ShellenbergerMD in Apocalypse Never, featuring leading climate economist @RichardTol, about how the IPCC's Summaries for Policymakers that the media rely on distort what is in the actual IPCC reports.[^5]
-[image 4]
-![texas energy grid](/img/6-ercot.png)
+![Shellenberger on Tol](/img/4.jpg)
 
 - And here's one of an unlimited supply of examples of media distorting the already-distorted Summaries for Policymakers: Twitter claiming that the IPCC says temps will rise 1.5C in two decades, and (as of this writing) still not correcting the error.
 https://twitter.com/AlexEpstein/status/1424820299346808833
