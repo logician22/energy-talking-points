@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: Talking Points on the truth about the UN IPCC
+displaytitle: Talking Points on the Truth about the UN IPCC
 title: The truth about the UN IPCC
 date: 2020-05-10T11:38:43.988Z
 description: The IPCC is not primarily a scientific organization, it is
@@ -16,11 +16,11 @@ featuredimage: /img/the-blowup-k6fyxynxzyy-unsplash.jpg
 - A pro-human, scientific evaluation of CO2 emissions requires following 3 principles:
   1. Factor in the benefits that come with them.
   2. Factor in the climate mastery abilities that come with them.
-  3. Factor in negative AND positive impacts\
+  3. Factor in negative AND positive impacts
   
   The IPCC violates all 3.
 
-- IPCC bad method 1:
+- IPCC bad method 1:\
 The IPCC almost entirely ignores the incredible benefits of the low-cost, reliable, global-scale energy that comes with the CO2. Looking only at the side-effects of something while ignoring its benefits is completely irrational, yet that's what the IPCC does.
 
 - Low-cost, reliable, versatile, global-scale energy from fossil fuels has made humanity so productive that since 1980, the fraction of people living in extreme poverty—less than $2 a day—has gone from more than 4 in 10 to less than 1 in 10. Yet the IPCC totally ignores this.[^1]
@@ -28,7 +28,7 @@ The IPCC almost entirely ignores the incredible benefits of the low-cost, reliab
 - The IPCC's denial of the benefits of fossil fuels is so massive that in its extensive 2018 report on the potential impacts of warming, it devoted a mere half-sentence to a vague, begrudging acknowledgment of the value of economic growth--then immediately undercut it.
 ![IPCC benefit denial](/img/1.jpg)
 
-- IPCC bad method 2:
+- IPCC bad method 2:\
 The IPCC totally ignores the incredible climate mastery benefits of fossil fuels. Nowhere in the IPCC's multi-thousand-page reports do they mention the fact that climate-related disaster deaths have plummeted.[^2]
 ![climate deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
@@ -39,7 +39,7 @@ The IPCC totally ignores the incredible climate mastery benefits of fossil fuels
 - Why does the IPCC deny the massive benefits of fossil fuels for human flourishing? Because the IPCC's primary moral goal is not advancing human flourishing but eliminating human impact. Observe its denigration of the "human influence" that has made the world far better.[^3]
 ![IPCC human influence](/img/3.png)
 
-- IPCC bad method 3:
+- IPCC bad method 3:\
 Instead of factoring in negative and positive impacts of CO2, the IPCC is almost exclusively focused on negatives--despite the huge positive impacts of CO2 fertilization as well as warming in a world where cold-related deaths far exceed heat-related deaths.[^4]
 
 - By ignoring the massive benefits, including climate mastery benefits of fossil fuels, and by almost exclusively focusing on negative side-effects, the IPCC reports totally deny the fact that fossil fuels are making the world better and better, including safer from climate.
