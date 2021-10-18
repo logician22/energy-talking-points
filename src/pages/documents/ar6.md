@@ -11,8 +11,7 @@ featuredimage: /img/paris-accords.jpeg
 ---
 ### Quick Summary
 
-- A new report of the UN's climate panel, the IPCC, supposedly proves catastrophe and justifies rapid fossil fuel elimination. UN head Antonio Guterres calls it "code red for humanity" that "must sound a death knell for...fossil fuels, before they destroy our planet."
-
+- A new report of the UN's climate panel, the IPCC, supposedly proves catastrophe and justifies rapid fossil fuel elimination. UN head Antonio Guterres calls it "code red for humanity" that "must sound a death knell for...fossil fuels, before they destroy our planet."\
 False.[^1]
 
 - The IPCC's Working Group 1 report engages in highly speculative projections of warming that even if true will simply mean that human beings have to continue to engage in more of the fossil fueled climate mastery has has driven climate-related disaster deaths to all-time lows.
