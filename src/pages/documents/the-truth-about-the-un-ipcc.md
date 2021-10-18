@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: Talking Points on the truth about the UN IPCC
 title: The truth about the UN IPCC
-date: 2021-10-18T11:38:43.988Z
+date: 2020-05-10T11:38:43.988Z
 description: The IPCC is not primarily a scientific organization, it is
   primarily a religious and political organization that manipulates
   science--including the work of many good scientists--to achieve the anti-human
@@ -37,12 +37,12 @@ The IPCC totally ignores the incredible climate mastery benefits of fossil fuels
 
 - The fact that the Intergovernmental Panel on *Climate Change* does not acknowledge the massive decrease in *climate-related* disaster deaths is as disreputable as a panel on polio that doesn't acknowledge the massive decrease in polio deaths. Clearly the IPCC is badly biased.
 
-- Why does the IPCC deny the massive benefits of fossil fuels for human flourishing? Because the IPCC's primary moral goal is not advancing human flourishing but eliminating human impact. Observe its denigration of the "human influence" that has made the world far better.
+- Why does the IPCC deny the massive benefits of fossil fuels for human flourishing? Because the IPCC's primary moral goal is not advancing human flourishing but eliminating human impact. Observe its denigration of the "human influence" that has made the world far better.[^3]
 [image 3]
 ![texas energy grid](/img/6-ercot.png)
 
 - IPCC bad method 3:
-Instead of factoring in negative and positive impacts of CO2, the IPCC is almost exclusively focused on negatives--despite the huge positive impacts of CO2 fertilization as well as warming in a world where cold-related deaths far exceed heat-related deaths.
+Instead of factoring in negative and positive impacts of CO2, the IPCC is almost exclusively focused on negatives--despite the huge positive impacts of CO2 fertilization as well as warming in a world where cold-related deaths far exceed heat-related deaths.[^4]
 
 - By ignoring the massive benefits, including climate mastery benefits of fossil fuels, and by almost exclusively focusing on negative side-effects, the IPCC reports totally deny the fact that fossil fuels are making the world better and better, including safer from climate.
 
@@ -57,7 +57,7 @@ https://twitter.com/AlexEpstein/status/1424831152104239146
 
 - The UN's domination by power-lusting politicians helps explain its horrific track record of catastrophizing the already-distorted UN IPCC reports through its notorious "Summaries for Policymakers" and then to make media statements that catastrophize the summaries.
 
-- Here is an excellent summary by @ShellenbergerMD in Apocalypse Never, featuring leading climate economist @RichardTol, about how the IPCC's Summaries for Policymakers that the media rely on distort what is in the actual IPCC reports.
+- Here is an excellent summary by @ShellenbergerMD in Apocalypse Never, featuring leading climate economist @RichardTol, about how the IPCC's Summaries for Policymakers that the media rely on distort what is in the actual IPCC reports.[^5]
 [image 4]
 ![texas energy grid](/img/6-ercot.png)
 
@@ -76,7 +76,7 @@ https://twitter.com/AlexEpstein/status/1424820299346808833
 - When you read any story about the UN IPCC, you can safely assume that there's a very biased report distorted by very biased bureaucrats distorted by a very biased media. All blinding us to the fact that fossil fuels make the world better and are needed by billions more people.
 
 - Here's how the false, primitive religious assumption that human impact on nature is bad distorts most people's thinking, including *most scientists' thinking*, and certainly the IPCC's thinking, about fossil fuels and climate.
-[Nation Speak Video August 10]
+https://twitter.com/AlexEpstein/status/1425159688006508546
 
 ### References
 
@@ -90,3 +90,9 @@ https://twitter.com/AlexEpstein/status/1424820299346808833
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.
 
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL). 
+
+[^3]: [IPCC Special Report 1.5°C, chapter 1](https://www.ipcc.ch/sr15/)
+
+[^4]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
+
+[^5]: [Michael Shellenberger - Apocalypse Never](https://www.amazon.com/Apocalypse-Never-Environmental-Alarmism-Hurts/dp/0063001691/)
