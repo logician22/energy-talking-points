@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: Talking Points on the Truth about the UN IPCC
-title: The truth about the UN IPCC
+title: UN IPCC
 date: 2020-05-10T11:38:43.988Z
 description: The IPCC is not primarily a scientific organization, it is
   primarily a religious and political organization that manipulates
