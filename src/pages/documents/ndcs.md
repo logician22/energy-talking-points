@@ -63,7 +63,7 @@ featuredimage: /img/emissions.jpg
 
     “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. …
     Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”\
-[Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
+    [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [^7]:
     [Euronews - U.N. sounds 'deafening' warning on climate change](https://www.euronews.com/2021/08/09/us-climate-change-ipcc-report)\
