@@ -39,7 +39,7 @@ featuredimage: /img/dark-city.jpg
 
 - Germany is currently starving for more Russian coal and gas, at skyrocketing prices, in expectation of a cold winter and with more nuclear capacity shutdowns looming by end of the year. They're paying the price for listening to solar+wind propagandists.[^7]
 
-- In California, where I live, we get <20% of our electricity from domestic wind and solar--and we have skyrocketing prices along with disastrous shortages and blackouts. And it would be far worse if we didn't import 30% of our electricity from neighbors.
+- In California, where I live, we get <20% of our electricity from domestic wind and solar--and we have skyrocketing prices along with disastrous shortages and blackouts. And it would be far worse if we didn't import 30% of our electricity from neighbors.\
 [Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 - There is no place in the world that gets a large share of its electricity from solar and wind without huge imports from its neighbors' reliable--not solar+wind--power plants. And yet the US, which cannot import most of its needed electricity, is considering 50%+ solar and wind!
