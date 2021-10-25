@@ -44,7 +44,7 @@ featuredimage: /img/viviana-rishe-uc8fvoyg5pu-unsplash.jpg
 
 [^2]:
     [OC Register - Oil spill: Newport and Dana Point harbors have reopened](https://www.ocregister.com/2021/10/08/oil-spill-more-beaches-reopened-newport-and-dana-point-harbors-to-follow-soon/)\
-    [Michael Shellenberger - Why Wind Turbines Threaten Endangered Species With Extinction](https://www.forbes.com/sites/michaelshellenberger/2019/06/26/why-wind-turbines-threaten-endangered-species-with-extinction/)
+    [Michael Shellenberger - Why Wind Turbines Threaten Endangered Species With Extinction](https://www.forbes.com/sites/michaelshellenberger/2019/06/26/why-wind-turbines-threaten-endangered-species-with-extinction/)\
     [California Department of Fish and Wildlife - Refugio](https://wildlife.ca.gov/OSPR/NRDA/Refugio)
 
 [^3]: [NOAA - Natural Oil Seeps in Southern California](https://incidentnews.noaa.gov/incident/8934/22546/26338)
