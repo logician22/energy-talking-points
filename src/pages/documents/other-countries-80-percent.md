@@ -51,7 +51,7 @@ featuredimage: /img/dark-city.jpg
 
 - In addition to @JesseJenkins, others who effectively lied to Congress in the recent open letter, and should apologize and recant immediately, are @DallasBurtraw, @DrChrisClack, @JeanneMFox, @gogginmichael, @RobGramlichDC, @DianGrueneich, @RicOConnell8, and @DanScripps.
 
-- All energy journalists who gave credibility to the recent open letter from green electricity advocates, without pointing out the letter's misrepresentation of other countries' electricity use--such as @Ben_Geman of @Axios--should also correct the record. 
+- All energy journalists who gave credibility to the recent open letter from green electricity advocates, without pointing out the letter's misrepresentation of other countries' electricity use--such as @Ben_Geman of @Axios--should also correct the record.\
 [Axios - Biden's climate agenda is hanging by a thread](https://www.axios.com/biden-climate-agenda-democrats-congress-4180f712-8c89-415f-957d-7aeecb3e0c5a.html)
 
 
@@ -70,39 +70,40 @@ featuredimage: /img/dark-city.jpg
     [U.S. Energy Information Administration - Electric Power Annual table 3.1.A](https://www.eia.gov/electricity/annual/html/epa_03_01_a.html)
 
 [^3]:
-    In 2019, the most recent year of “normal” electricity use, US net electricity generation from solar and wind was 9.7% of the total.
+    In 2019, the most recent year of “normal” electricity use, US net electricity generation from solar and wind was 9.7% of the total.\
     [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
 
     [Energy Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
     [Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^4]:
-    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
+    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
 
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid. 
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2018 was $0.1301 per kWh. 
+    The average US household price in 2018 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
-    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction. 
+    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.\
     [Reuters - German power export surplus shrank 46.2% in 2020](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
     [Alex Epstein - Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^5]: [Danish Energy Agency - Energy Statistics 2019](https://ens.dk/en/our-services/statistics-data-key-figures-and-energy-maps/annual-and-monthly-statistics)
 
-[^6]:    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
+[^6]:
+    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
 
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid. 
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2018 was $0.1301 per kWh. 
+    The average US household price in 2018 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
-    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction. 
+    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.\
     [Reuters - German power export surplus shrank 46.2% in 2020](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
     [Alex Epstein - Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
