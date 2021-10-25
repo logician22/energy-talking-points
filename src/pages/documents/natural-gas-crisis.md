@@ -19,7 +19,7 @@ featuredimage: /img/screen-shot-2021-10-25-at-15.04.57.png
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kyn4bpHrB6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 ### Quick Summary
 
-- Summary: On October 4 interviewed Toby Rice, the CEO of America's largest natural gas producer, about the causes of and solutions to the world's natural gas crisis. The takeaway: The US could alleviate most of this crisis--if not for anti-gas-infrastructure policies.
+- Summary: On October 4, I interviewed Toby Rice, the CEO of America's largest natural gas producer, about the causes of and solutions to the world's natural gas crisis. The takeaway: The US could alleviate most of this crisis--if not for anti-gas-infrastructure policies.
 
 - "At the end of the day, you look at this and all of this could have been prevented." Rice says that with sufficient natural gas transportation infrastructure, the US could easily produce 20 BCF more a day and "alleviate these extreme situations that the world is dealing with."
 
