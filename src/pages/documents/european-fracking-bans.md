@@ -23,7 +23,8 @@ featuredimage: /img/flaring.jpeg
 Gas-dependent France has banned fracking for natural gas since 2011. https://www.theguardian.com/environment/2017/dec/20/france-bans-fracking-and-oil-extraction-in-all-of-its-territories
 
 - Foolish fracking ban 2: Bulgaria\
-Gas-dependent Bulgaria has banned fracking for natural gas since 2012. https://www.bbc.com/news/world-europe-16626580
+Gas-dependent Bulgaria has banned fracking for natural gas since 2012.\
+https://www.bbc.com/news/world-europe-16626580
 
 - Foolish fracking ban 3: The Netherlands\
 The gas-dependent Netherlands has effectively banned fracking for natural gas since 2015.\
