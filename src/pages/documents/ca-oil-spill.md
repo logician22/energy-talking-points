@@ -34,7 +34,7 @@ featuredimage: /img/viviana-rishe-uc8fvoyg5pu-unsplash.jpg
 - Pipelines are an incredibly safe mode of transportation for oil, natural gas, ethanol, and many other important liquids and gases. Despite millions of miles of pipelines, there are fewer fatalities from pipelines than from lightning strikes.[^6]
 
 - Despite increasing oil+gas production and transport in the US, the number of incidents, including those impacting people or the environment (IPE), has decreased during the shale boom--a fact glaringly missing from the media portrayal of spills.[^7]
-![Pipeline safety](/img/80-im4.jpeg)
+![Pipeline safety](/img/ca-spill1.jpeg)
 
 - Let's take the occasion of the pipeline leak to have a real conversation about how to improve the safe production and transport of life-sustaining oil in California. And let's reject the charlatans who would make life far worse for Californians by restricting oil even more.
 
