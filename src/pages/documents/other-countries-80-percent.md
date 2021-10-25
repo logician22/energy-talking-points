@@ -35,7 +35,7 @@ featuredimage: /img/dark-city.jpg
 - Denmark also depends on large neighbors to be able to handle its excess electricity when there is too much wind for Denmark's electricity needs. In 2019 Denmark exported 30% as much power as it generated. Can Canada and Mexico absorb an erratic 30% of the power we generate?
 
 - Germans, to get 37% of their electricity from solar+wind, have doubled their prices--now 3X US prices. And they can only get away with 37% because they have neighbors to bail them out when solar/wind fall short. The US as a whole has no such neighbors.[^6]
-![German grid](/img/80-im5.jpg)
+![German grid](/img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png)
 
 - Germany is currently starving for more Russian coal and gas, at skyrocketing prices, in expectation of a cold winter and with more nuclear capacity shutdowns looming by end of the year. They're paying the price for listening to solar+wind propagandists.[^7]
 
