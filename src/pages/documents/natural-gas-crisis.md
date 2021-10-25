@@ -16,7 +16,7 @@ description: >-
   So I asked Toby Rice, the CEO of the US’s largest natural gas producer—EQT—to join me on this week’s Power Hour. Here’s the interview, followed by my key takeaways and quotes from the interview. I suggest using these when the subject of Europe’s natural gas crisis comes up.
 featuredimage: /img/screen-shot-2021-10-25-at-15.04.57.png
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kyn4bpHrB6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kyn4bpHrB6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 ### Quick Summary
 
 - Summary: On October 4 interviewed Toby Rice, the CEO of America's largest natural gas producer, about the causes of and solutions to the world's natural gas crisis. The takeaway: The US could alleviate most of this crisis--if not for anti-gas-infrastructure policies.
@@ -48,3 +48,5 @@ featuredimage: /img/screen-shot-2021-10-25-at-15.04.57.png
 - Rice says what is needed to unleash natural gas's potential is liberating infrastructure development: "we're not asking for the checkbook to help us become more successful." "All we're saying that we need to unleash US shale is pipeline infrastructure and LNG facilities."
 
 - Everyone who is talking about "infrastructure" and claiming that we need to spend $4.5T ($35K/household) on it should watch this interview, where the CEO of America's largest natural gas producer says we can liberate our most crucial infrastructure for $0.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kyn4bpHrB6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
