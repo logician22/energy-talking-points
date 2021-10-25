@@ -20,7 +20,7 @@ featuredimage: /img/flaring.jpeg
 - As you see stories of skyrocketing natural gas prices in Europe, and increasing dependence on Russia, know that all of this was totally preventable had so many European countries not foolishly banned the greatest natural gas producing technology ever invented: fracking.
 
 - Foolish fracking ban 1: France\
-Gas-dependent France has banned fracking for natural gas since 2011.\ https://www.theguardian.com/environment/2017/dec/20/france-bans-fracking-and-oil-extraction-in-all-of-its-territories
+Gas-dependent France has banned fracking for natural gas since 2011. https://www.theguardian.com/environment/2017/dec/20/france-bans-fracking-and-oil-extraction-in-all-of-its-territories
 
 - Foolish fracking ban 2: Bulgaria\
 Gas-dependent Bulgaria has banned fracking for natural gas since 2012.\ https://www.bbc.com/news/world-europe-16626580
