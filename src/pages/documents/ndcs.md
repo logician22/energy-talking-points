@@ -3,11 +3,10 @@ templateKey: blog-post
 displaytitle: Talking Points on Nations not Meeting their Climate Targets
 title: NDCs
 date: 2020-05-08T14:01:32.880Z
-description: Today the news is panicking over a UN report that says that even if
-  nations would meet their CO2 emission reduction targets (“NDCs”) and most
-  recent pledges this would only be 1/7 of what would be necessary to avoid
-  1.5°C total warming since the 1800s. But these targets were deadly and
-  impossible, so it’s good and unsurprising news.
+description: Today the news is panicking over a UN report that says nations are
+  not meeting the greenhouse gas reduction targets (“NDCs”) they said they would
+  to avoid 1.5 or 2° total warming since the 1800s. But these targets were
+  deadly and impossible, so it’s good and unsurprising news.
 featuredimage: /img/emissions.jpg
 ---
 ### Quick Summary
