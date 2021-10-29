@@ -21,7 +21,7 @@ featuredimage: /img/congress.jpg
 
 - Science thrives on the open, competitive exchange of evidence and arguments--not of suppressing dissenters. True scientists can win on the competitive market of ideas. Only those with fallacious conclusions are desperate for government to descend on their opponents.
 
-- While it is assumed that Exxon and others have been proven wrong after expressing or funding opinions that fossil fuels’ CO2 emissions would not be catastrophic, they have been proven right. Observe the rapid decline in climate-related disaster deaths.
+- While it is assumed that Exxon and others have been proven wrong after expressing or funding opinions that fossil fuels’ CO2 emissions would not be catastrophic, they have been proven right. Observe the rapid decline in climate-related disaster deaths.[^2]
 ![climate deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
 - The truth about fossil fuels and climate is that fossil fuels have emitted CO2 that has contributed to some warming as well as significant greening. Most importantly, fossil fuels have produced and powered the infrastructure that keeps us safer from climate than ever.
