@@ -13,6 +13,7 @@ description: >-
 featuredimage: /img/paris-accords.jpeg
 ---
 Also: I did an interview about COP 26 on GB News that is getting some amazingly positive feedback. Please watch it and share it with others.
+
     <iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Quick Summary
