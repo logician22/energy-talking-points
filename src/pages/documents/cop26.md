@@ -12,10 +12,6 @@ description: >-
   Here are some key talking points centered around the pseudoscientific 1.5°C threshold of warming that is used to justify so much destruction.
 featuredimage: /img/paris-accords.jpeg
 ---
-Also: I did an interview about COP 26 on GB News that is getting some amazingly positive feedback. Please watch it and share it with others.
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Quick Summary
 
 - At COP 26, politicians and celebrities are calling for the world to rapidly eliminate fossil fuels because otherwise we will pass the dreaded 1.5°C threshold of warming.
