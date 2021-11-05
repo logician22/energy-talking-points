@@ -12,13 +12,12 @@ description: >-
   Here are some key talking points centered around the pseudoscientific 1.5°C threshold of warming that is used to justify so much destruction.
 featuredimage: /img/paris-accords.jpeg
 ---
-Also: I did an interview about COP 26 on GB News that is getting some amazingly positive feedback. Please watch it and share it with others.
-https://youtu.be/9dIUYY_Dq4E
+Also: I did an interview about COP 26 on GB News that is getting some amazingly positive feedback. Please watch it and share it with others.\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Quick Summary
 
-- At COP 26, politicians and celebrities are calling for the world to rapidly eliminate fossil fuels because otherwise we will pass the dreaded 1.5°C threshold of warming.\
-
+- At COP 26, politicians and celebrities are calling for the world to rapidly eliminate fossil fuels because otherwise we will pass the dreaded 1.5°C threshold of warming.
 But we should not fear 1.5°C--we should fear the genocidal consequences of eliminating fossil fuels.
 
 - A goal of limiting warming to 1.5° since the 1800s has no scientific basis whatsoever. The 1800s were a very cold time (Little Ice Age) and the 1°C warming since then has coincided with the greatest improvement in human life in history—in large part due to fossil fuels.[^1]
@@ -48,7 +47,7 @@ But we should not fear 1.5°C--we should fear the genocidal consequences of elim
 - The actual catastrophe we face that will, to use the head of the UN’s words, “be measured in the massive loss of lives and livelihoods” is not slightly warmer temperatures but the banning of the fossil fuels that alone can provide low-cost, reliable energy to billions of people.
 
 - COP 26's goal of rapidly eliminating fossil fuel use is a crime against humanity, especially the poor, and should be condemned as pseudoscientific and genocidal. I did just this on @GBNEWS recently, and I encourage others to do the same.\
-  https://youtu.be/9dIUYY_Dq4E
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### References
 
@@ -72,35 +71,28 @@ But we should not fear 1.5°C--we should fear the genocidal consequences of elim
 [^6]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires,…) declined 98 percent—from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.\
 
-```
-Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium—[www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium—[www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
 
-Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) by the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen (for years not shown, the population is assumed to have grown at a steady rate).
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) by the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen (for years not shown, the population is assumed to have grown at a steady rate).
 
-Population estimates for the 2010s from [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL).
-```
+    Population estimates for the 2010s from [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^7]:
     Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.
 
-```
-Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium—[www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium—[www.emdat.be](www.emdat.be) (D. Guha-Sapir).\
 
-Population estimates for the 2010s from [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL).
-```
+    Population estimates for the 2010s from [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^8]: [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
 [^9]:
     Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
 
-```
-“Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.
+    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.
 …
 Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” 
-```
-
-[Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
+    [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [^10]:
     [Euronews - U.N. sounds 'deafening' warning on climate change](https://www.euronews.com/2021/08/09/us-climate-change-ipcc-report)
