@@ -96,6 +96,6 @@ But we should not fear 1.5°C--we should fear the genocidal consequences of elim
     [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [^10]:
-    [Euronews - U.N. sounds 'deafening' warning on climate change](https://www.euronews.com/2021/08/09/us-climate-change-ipcc-report)
-    [Ross McKitrick - New Confirmation that Climate Models Overstate Atmospheric Warming](https://judithcurry.com/2021/08/17/new-confirmation-that-climate-models-overstate-atmospheric-warming-2/)
+    [Euronews - U.N. sounds 'deafening' warning on climate change](https://www.euronews.com/2021/08/09/us-climate-change-ipcc-report)\
+    [Ross McKitrick - New Confirmation that Climate Models Overstate Atmospheric Warming](https://judithcurry.com/2021/08/17/new-confirmation-that-climate-models-overstate-atmospheric-warming-2/)\
     [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
