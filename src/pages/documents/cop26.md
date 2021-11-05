@@ -12,8 +12,8 @@ description: >-
   Here are some key talking points centered around the pseudoscientific 1.5°C threshold of warming that is used to justify so much destruction.
 featuredimage: /img/paris-accords.jpeg
 ---
-Also: I did an interview about COP 26 on GB News that is getting some amazingly positive feedback. Please watch it and share it with others.\
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Also: I did an interview about COP 26 on GB News that is getting some amazingly positive feedback. Please watch it and share it with others.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Quick Summary
 
@@ -46,8 +46,8 @@ But we should not fear 1.5°C--we should fear the genocidal consequences of elim
 
 - The actual catastrophe we face that will, to use the head of the UN’s words, “be measured in the massive loss of lives and livelihoods” is not slightly warmer temperatures but the banning of the fossil fuels that alone can provide low-cost, reliable energy to billions of people.
 
-- COP 26's goal of rapidly eliminating fossil fuel use is a crime against humanity, especially the poor, and should be condemned as pseudoscientific and genocidal. I did just this on @GBNEWS recently, and I encourage others to do the same.\
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- COP 26's goal of rapidly eliminating fossil fuel use is a crime against humanity, especially the poor, and should be condemned as pseudoscientific and genocidal. I did just this on @GBNEWS recently, and I encourage others to do the same.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9dIUYY_Dq4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### References
 
@@ -90,8 +90,8 @@ But we should not fear 1.5°C--we should fear the genocidal consequences of elim
     Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
 
     “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.
-…
-Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” 
+    …
+    Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” 
     [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [^10]:
