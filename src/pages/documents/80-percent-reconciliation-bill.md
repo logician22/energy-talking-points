@@ -64,13 +64,13 @@ https://twitter.com/AlexEpstein/status/1446554729169915907
 
 [^3]:
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
-    [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)\
+    [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
     The average US household price in 2020 was $0.1315 per kWh. In California it was $0.2045 per kWh.
-    [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)\
+    [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
-    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.
-    [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)\
+    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.\
+    [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
 
     [Alex Epstein - Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
@@ -91,18 +91,18 @@ https://twitter.com/AlexEpstein/status/1446554729169915907
 [^7]: [Alex Epstein - Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^8]:
-    China’s primary energy consumption from coal, oil, and natural gas was over 84% of the total in 2020.
-    [BP Statistical Review of World Energy 2021](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
+    China’s primary energy consumption from coal, oil, and natural gas was over 84% of the total in 2020.\
+    [BP Statistical Review of World Energy 2021](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
-    China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.
-    [Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)\
+    China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.\
+    [Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)
 
     [Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)\
-    [Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)\
+    [Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)
 
-    In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.
+    In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.\
     [U.S. Energy Information Administration - Annual Solar Photovoltaic Module Shipments Report](https://www.eia.gov/renewable/annual/solar_photo/)\
-    [U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)\
+    [U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)
 
     [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)\
     [Mark P. Mills - If You Want ‘Renewable Energy,’ Get Ready to Dig](https://www.wsj.com/articles/if-you-want-renewable-energy-get-ready-to-dig-11565045328)
