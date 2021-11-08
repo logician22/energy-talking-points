@@ -10,7 +10,7 @@ description: This is part 2 of my series “How passing the reconciliation bill
   passage—including the extension and increase of solar and wind subsidies.
 featuredimage: /img/wind-transition.jpg
 ---
-#The reconciliation bill's 10-year extension and increase of solar and wind subsidies will drive more and more reliable power plants off the grid, lead to skyrocketing prices and frequent blackouts.
+#### The reconciliation bill's 10-year extension and increase of solar and wind subsidies will drive more and more reliable power plants off the grid, lead to skyrocketing prices and frequent blackouts.
 
 ### Quick Summary
 
