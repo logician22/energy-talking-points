@@ -24,9 +24,9 @@ featuredimage: /img/wind-transition.jpg
 - Germans, to get 37% of their electricity from unreliable solar+wind, have doubled their prices--now 3X US prices. And they can only get away with 37% because they have neighbors to bail them out when solar/wind fall short. The US as a whole has no such neighbors.[^3]
 ![German power grid](/img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png)
 
-    The only reason utilities buy unnecessary, wasteful solar panels and wind turbines is government policies that force them to do so or reward them for doing so.
+- The only reason utilities buy unnecessary, wasteful solar panels and wind turbines is government policies that force them to do so or reward them for doing so.
 
-- “We get a tax credit if we build a lot of wind farms. That’s the only reason to build them.”--Warren Buffett.[^4]
+    “We get a tax credit if we build a lot of wind farms. That’s the only reason to build them.”--Warren Buffett.[^4]
 
 - The two worst solar/wind policies today are the solar Investment Tax Credit (ITC) subsidy and the wind Production Tax Credit (PTC) subsidy, which pay utilities to shut down or slow down reliable gas, coal, and nuclear power plants whenever the sun shines or the wind blows. 
 
