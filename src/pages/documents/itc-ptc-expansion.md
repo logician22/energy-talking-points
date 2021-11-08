@@ -60,7 +60,7 @@ featuredimage: /img/wind-transition.jpg
     [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)\
     The average US household price in 2020 was $0.1315 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)\
-    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.
+    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.\
     [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
 
 [^4]: [Warren Buffet cited by U.S. News/Nancy Pfotenhauer](https://www.usnews.com/opinion/blogs/nancy-pfotenhauer/2014/05/12/even-warren-buffet-admits-wind-energy-is-a-bad-investment)
