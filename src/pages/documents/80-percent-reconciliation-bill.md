@@ -33,14 +33,14 @@ https://twitter.com/AlexEpstein/status/1446554729169915907
 - Denmark also depends on large neighbors to be able to handle its excess electricity when there is too much wind for Denmark's electricity needs. In 2019 Denmark exported 30% as much power as it generated. Can Canada and Mexico absorb an erratic 30% of the power we generate?
 
 - Germans, to get 37% of their electricity from solar+wind, have doubled their prices--now 3X US prices. And they can only get away with 37% because they have neighbors to bail them out when solar/wind fall short. The US as a whole has no such neighbors.[^5]
-![German Power Grid](static/img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png)
+![German Power Grid](/img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png)
 
 - Germany is currently starving for more Russian coal and gas, at skyrocketing prices, in expectation of a cold winter and with more nuclear capacity shutdowns looming by end of the year. They're paying the price for listening to solar+wind propagandists.[^6]
 
 - In California, where I live, we get <20% of our electricity from domestic wind and solar--and we have skyrocketing prices along with disastrous shortages and blackouts. And it would be far worse if we didn't import 30% of our electricity from neighbors.[^7]
 
 - During TX's February cold spell, wind and solar disappeared when they were needed the most. Its expensive batteries, which couldn't even store minutes worth of electricity, didn’t help, either. What would they have done under the 50% solar and wind??!!
-![ERCOT Freeze](static/img/tx-freeze.png)
+![ERCOT Freeze](/img/tx-freeze.png)
 
 - No place in the world gets a large share of its electricity from solar and wind without huge imports from its neighbors' reliable--not solar+wind--power plants. For the US, which cannot import a lot of electricity, the reconciliation bill's 50% solar+wind is catastrophic.
 
