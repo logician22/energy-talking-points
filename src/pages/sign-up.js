@@ -21,6 +21,20 @@ export default () => {
       <div className="container columns">
         <div className="content column is-8 is-offset-2">
           <iframe
+            src="https://alexepstein.substack.com/embed"
+            // width="480"
+            // height="320"
+            style={{
+              background: "white",
+              // transform: "translateX: -50%",
+              // left: "50%",
+              position: "relative",
+              margin: "40px 0 40px 10px",
+            }}
+            frameBorder="0"
+            scrolling="no"
+          ></iframe>
+          {/* <iframe
             id="JotFormIFrame-211754736208053"
             title="Alex Epstein - Email Subscribe Form - Simple "
             onLoad={() => {
@@ -37,7 +51,7 @@ export default () => {
               border: "none",
             }}
             scrolling="no"
-          ></iframe>
+          ></iframe> */}
         </div>
       </div>
     </Layout>
