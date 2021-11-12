@@ -12,7 +12,7 @@ export default () => {
               Sign up for Alex Epstein's mailing list to get the latest talking
               points and other energy info, or{" "}
               <a href="https://alexepstein.substack.com">
-                sign up on Alex's Subtack
+                sign up on Alex's Substack
               </a>{" "}
               if the below form doesn't work.
             </p>
