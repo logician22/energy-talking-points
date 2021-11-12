@@ -11,8 +11,10 @@ export default () => {
             <p className="is-size-5">
               Sign up for Alex Epstein's mailing list to get the latest talking
               points and other energy info, or{" "}
-              <a href="mailto:alex@alexepstein.com">email Alex</a> if the below
-              form doesn't work.
+              <a href="https://alexepstein.substack.com">
+                sign up on Alex's Subtack
+              </a>{" "}
+              if the below form doesn't work.
             </p>
           </div>
         </div>
@@ -26,32 +28,12 @@ export default () => {
             // height="320"
             style={{
               background: "white",
-              // transform: "translateX: -50%",
-              // left: "50%",
               position: "relative",
               margin: "40px 0 40px 10px",
             }}
             frameBorder="0"
             scrolling="no"
           ></iframe>
-          {/* <iframe
-            id="JotFormIFrame-211754736208053"
-            title="Alex Epstein - Email Subscribe Form - Simple "
-            onLoad={() => {
-              window.parent.scrollTo(0, 0);
-            }}
-            allowtransparency="true"
-            allowFullScreen={true}
-            allow="geolocation; microphone; camera"
-            src="https://form.jotform.com/211754736208053"
-            frameBorder="0"
-            style={{
-              minWidth: "100%",
-              height: "539px",
-              border: "none",
-            }}
-            scrolling="no"
-          ></iframe> */}
         </div>
       </div>
     </Layout>
