@@ -21,7 +21,7 @@ const Footer = class extends React.Component {
       { to: "/sign-up/", text: "Contact" },
     ];
     const postGroups = [];
-    const itemsPerCol = Math.floor(
+    const itemsPerCol = Math.ceil(
       (edges.length + padStartLinks.length + padEndLinks.length) / 3
     );
     const addNode = (postGroups, node) => {
