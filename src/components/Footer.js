@@ -18,7 +18,7 @@ const Footer = class extends React.Component {
     ];
     const padEndLinks = [
       { to: "/admin/", text: "Admin", external: true },
-      { to: "/sign-up/", text: "Contact" },
+      { to: "/sign-up/", text: "Sign Up" },
     ];
     const postGroups = [];
     const itemsPerCol = Math.ceil(

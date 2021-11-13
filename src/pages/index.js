@@ -23,6 +23,13 @@ const BlogIndexPage = () => {
                 succinct talking points on today's most important energy,
                 environmental, and climate issues.
                 <br />
+                <br />
+                Sign up for Alex Epstein's mailing list to get the latest
+                talking points and other energy info, or{" "}
+                <a href="https://alexepstein.substack.com">
+                  sign up on Alex's Substack
+                </a>{" "}
+                if the form below doesn't work.
                 <span
                   style={{
                     fontStyle: "italic",
