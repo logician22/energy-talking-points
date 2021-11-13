@@ -14,7 +14,7 @@ export default () => {
               <a href="https://alexepstein.substack.com">
                 sign up on Alex's Substack
               </a>{" "}
-              if the below form doesn't work.
+              if the form below doesn't work.
             </p>
           </div>
         </div>
