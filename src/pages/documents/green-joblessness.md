@@ -31,6 +31,7 @@ featuredimage: /img/esg.jpeg
 - Reason #3 why the reconciliation bill will destroy productive US jobs: by making American energy unaffordable and unreliable through mandates of unreliable solar and wind, it will destroy American industry and with it, American jobs.
 
 - The biggest cost of "green jobs" is unaffordable and unreliable energy. Because unreliable solar and wind can't replace our reliable power plants, they always add costs to the grid. And if we try, like CA and TX, to cut costs by closing reliable power plants, we get blackouts.[^5]
+![Electricity prices](/img/80-im4.jpeg)
 
 - By driving up industrial energy costs, reconciliation's "green energy jobs" will make every American-made product more expensive and every American company less competitive. That means more productive jobs lost to other countries where energy costs less and is more reliable.
 
