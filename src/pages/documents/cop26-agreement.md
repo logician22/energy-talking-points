@@ -42,13 +42,14 @@ https://twitter.com/AlexEpstein/status/1458495785218154506
 [^2]: [UNFCCC - COP 26 Draft Agreement](https://unfccc.int/sites/default/files/resource/Overarching_decision_1-CP-26_0.pdf)
 
 [^3]:
-    [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
-    [World Bank Data](https://data.worldbank.org/)
+    [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)\
+    [World Bank Data](https://data.worldbank.org/)\
     [Scripps Institution of Oceanography - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
 [^4]:
     Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.\
-    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. … Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”
+
+    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. … Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”\
     [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
     [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
