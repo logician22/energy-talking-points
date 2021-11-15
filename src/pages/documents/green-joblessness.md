@@ -38,7 +38,7 @@ featuredimage: /img/esg.jpeg
 - For a preview of what reconciliation will do to American industry, consider rising "green joblessness" in Europe and Australia. Like the workers at the Australian recycling company that, after 37 profitable years, went under when "green" policies doubled power costs.[^6]
 
 - "South Australia's sky-high electricity prices have forced a...plastics recycling business to shut its doors....director Stephen Scherer said the high cost of power had crippled his business of 38 years and plans for expansion."
-Do we want this in the US?[^7]
+Do we want this in the US?
 
 - The reconciliation bill, by shifting us from productive, America-centered energy production to unproductive, China-centered energy production, would be the largest destroyer of productive jobs in American history. It's not a "green jobs" policy, it's a "green joblessness" policy.
 
@@ -48,32 +48,32 @@ Do we want this in the US?[^7]
 
 [^2]:
     [Institute for Energy Research - A Net-Zero Economy Puts Jobs at Risk](https://www.instituteforenergyresearch.org/regulation/a-net-zero-economy-puts-jobs-at-risk/)\
-    [The objective Standard - Per-Worker Productivity Compared: Fossil Fuels versus Wind and Solar](https://theobjectivestandard.com/2021/02/per-worker-productivity-compared-fossil-fuels-versus-wind-and-solar/)\
+    [The Objective Standard - Per-Worker Productivity Compared: Fossil Fuels versus Wind and Solar](https://theobjectivestandard.com/2021/02/per-worker-productivity-compared-fossil-fuels-versus-wind-and-solar/)\
     [Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^3]:
     In 2019 the US oil and gas extraction industry employed over 143,000 people (12 month arithmetic average) according to the Bureau of Labor Statistics.
-    [U.S. Bureau of Labor Statistics - Industries at a Glance, Oil and Gas Extraction: NAICS 211](https://www.bls.gov/iag/tgs/iag211.htm)\
+    [U.S. Bureau of Labor Statistics - Industries at a Glance, Oil and Gas Extraction: NAICS 211](https://www.bls.gov/iag/tgs/iag211.htm)
 
     This workforce produced an estimated 4.49 billion bbl of oil and condensate and 40,892,458 million cf of natural gas in 2019.\
-    [U.S. Energy Information Administration - Crude Oil plus Lease Condensate Proved Reserves, Reserves Changes, and Production](https://www.eia.gov/dnav/pet/pet_crd_cplc_dcu_NUS_a.htm)\
+    [U.S. Energy Information Administration - Crude Oil plus Lease Condensate Proved Reserves, Reserves Changes, and Production](https://www.eia.gov/dnav/pet/pet_crd_cplc_dcu_NUS_a.htm)
     [U.S. Energy Information Administration - Natural Gas Gross Withdrawals and Production](https://www.eia.gov/dnav/ng/ng_prod_sum_a_EPG0_FGW_mmcf_a.htm)\
 
     At an average price of $40 per bbl and $3 per Mcf, the oil had a market value of $179 billion and the gas had a market value of $122 billion.
     [U.S. Energy Information Administration - Petroleum and Other Liquids, Spot Prices](https://www.eia.gov/dnav/pet/pet_pri_spt_s1_a.htm)\
-    [U.S. Energy Information Administration - Natural Gas Prices](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_a.htm)\
+    [U.S. Energy Information Administration - Natural Gas Prices](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_a.htm)
 
-    [The objective Standard - Per-Worker Productivity Compared: Fossil Fuels versus Wind and Solar](https://theobjectivestandard.com/2021/02/per-worker-productivity-compared-fossil-fuels-versus-wind-and-solar/)
+    [The Objective Standard - Per-Worker Productivity Compared: Fossil Fuels versus Wind and Solar](https://theobjectivestandard.com/2021/02/per-worker-productivity-compared-fossil-fuels-versus-wind-and-solar/)
 
 [^4]:
     [Mark P. Mills - If You Want ‘Renewable Energy,’ Get Ready to Dig](https://www.wsj.com/articles/if-you-want-renewable-energy-get-ready-to-dig-11565045328)
     [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)\
 
-    In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.
+    In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.\
     [U.S. Energy Information Administration - Annual Solar Photovoltaic Module Shipments Report](https://www.eia.gov/renewable/annual/solar_photo/)\
-    [U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)\
+    [U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)
 
-    [The Buffalo News - Tesla's Buffalo plant gets $884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)\
+    [The Buffalo News - Tesla's Buffalo plant gets $884 million write-down](https://buffalonews.com/business/local/teslas-buffalo-plant-gets-884-million-write-down/article_fe1e6866-9dea-5c56-a217-b3bc35a69acd.html)
 
     New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than US average.\
     [ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)\
@@ -87,5 +87,3 @@ Do we want this in the US?[^7]
 [^6]:
     “Plastics Granulating Services (PGS), based in Kilburn in Adelaide's inner-north, said it had seen its monthly power bills increase from $80,000 to $180,000 over the past 18 months.”\
     [ABC News Australia - SA plastics recycling business closes due to $100k hike in power bills](https://www.abc.net.au/news/2017-06-27/sa-recycling-business-power-bills-rise-causing-closure/8654638)
-
-[^7]: [ABC News - SA plastics recycling business closes due to $100k hike in power bills](https://www.abc.net.au/news/2017-06-27/sa-recycling-business-power-bills-rise-causing-closure/8654638)
