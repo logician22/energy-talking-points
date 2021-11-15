@@ -52,7 +52,7 @@ Do we want this in the US?
     [Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^3]:
-    In 2019 the US oil and gas extraction industry employed over 143,000 people (12 month arithmetic average) according to the Bureau of Labor Statistics.
+    In 2019 the US oil and gas extraction industry employed over 143,000 people (12 month arithmetic average) according to the Bureau of Labor Statistics.\
     [U.S. Bureau of Labor Statistics - Industries at a Glance, Oil and Gas Extraction: NAICS 211](https://www.bls.gov/iag/tgs/iag211.htm)
 
     This workforce produced an estimated 4.49 billion bbl of oil and condensate and 40,892,458 million cf of natural gas in 2019.\
