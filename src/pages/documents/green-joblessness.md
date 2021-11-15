@@ -67,7 +67,7 @@ Do we want this in the US?
 
 [^4]:
     [Mark P. Mills - If You Want ‘Renewable Energy,’ Get Ready to Dig](https://www.wsj.com/articles/if-you-want-renewable-energy-get-ready-to-dig-11565045328)
-    [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)\
+    [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)
 
     In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.\
     [U.S. Energy Information Administration - Annual Solar Photovoltaic Module Shipments Report](https://www.eia.gov/renewable/annual/solar_photo/)\
