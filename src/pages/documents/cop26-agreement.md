@@ -30,7 +30,7 @@ featuredimage: /img/paris-accords.jpeg
 - Reason 5 the COP 26 Agreement is pseudoscientific and anti-human: It totally denies the fact that adaptation and mastery have made us far safer from climate than we've ever been. No mention of the fact that climate-related disaster deaths are down 98% over the last century![^5]
 ![Climate deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
-- Here's what I said about COP 26 on the 2nd day of the conference. I was ridiculed, yet the COP 26 Agreement did exactly what I predicted: called for the mass-genocidal policy of fossil fuel elimination, invoking pseudoscience and driven by anti-humanism.
+- Here's what I said about COP 26 on the 2nd day of the conference. I was ridiculed, yet the COP 26 Agreement did exactly what I predicted: called for the mass-genocidal policy of fossil fuel elimination, invoking pseudoscience and driven by anti-humanism.\
 https://twitter.com/AlexEpstein/status/1458495785218154506
 
 ### References
