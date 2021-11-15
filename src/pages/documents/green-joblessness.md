@@ -81,8 +81,8 @@ Do we want this in the US?[^7]
     [U.S. energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_02_10.html)
 
 [^5]:
-    [Energy Talking Points on Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)\
-    [Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
+    [Alex Epstein - Talking Points on Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)\
+    [Alex Epstein - Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^6]:
     “Plastics Granulating Services (PGS), based in Kilburn in Adelaide's inner-north, said it had seen its monthly power bills increase from $80,000 to $180,000 over the past 18 months.”\
