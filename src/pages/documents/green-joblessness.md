@@ -57,7 +57,7 @@ Do we want this in the US?
 
     This workforce produced an estimated 4.49 billion bbl of oil and condensate and 40,892,458 million cf of natural gas in 2019.\
     [U.S. Energy Information Administration - Crude Oil plus Lease Condensate Proved Reserves, Reserves Changes, and Production](https://www.eia.gov/dnav/pet/pet_crd_cplc_dcu_NUS_a.htm)
-    [U.S. Energy Information Administration - Natural Gas Gross Withdrawals and Production](https://www.eia.gov/dnav/ng/ng_prod_sum_a_EPG0_FGW_mmcf_a.htm)\
+    [U.S. Energy Information Administration - Natural Gas Gross Withdrawals and Production](https://www.eia.gov/dnav/ng/ng_prod_sum_a_EPG0_FGW_mmcf_a.htm)
 
     At an average price of $40 per bbl and $3 per Mcf, the oil had a market value of $179 billion and the gas had a market value of $122 billion.
     [U.S. Energy Information Administration - Petroleum and Other Liquids, Spot Prices](https://www.eia.gov/dnav/pet/pet_pri_spt_s1_a.htm)\
