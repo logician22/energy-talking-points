@@ -29,7 +29,7 @@ export default () => {
             style={{
               background: "white",
               position: "relative",
-              margin: "40px 0 40px 10px",
+              margin: "20px 0 20px 10px",
             }}
             frameBorder="0"
             scrolling="no"
