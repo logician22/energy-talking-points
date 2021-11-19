@@ -21,17 +21,8 @@ const BlogIndexPage = () => {
               <p className="is-size-5 column is-6 is-offset-3">
                 The goal of this site is to give you true, powerful, and
                 succinct talking points on today's most important energy,
-                environmental, and climate issues.
-                <br />
-                <span
-                  style={{
-                    fontStyle: "italic",
-                    marginTop: "15px",
-                    display: "block",
-                  }}
-                >
-                  - Alex Epstein
-                </span>
+                environmental, and climate issues. Subscribe to get the latest
+                talking points delivered to your Inbox.
               </p>
             </div>
           </div>

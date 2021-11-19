@@ -3,18 +3,21 @@ import { Link } from "gatsby";
 
 export default () => {
   return (
-    <div className="sign-up-bar text-is-centered">
-      <Link to="/sign-up/">
-        <section className="section">
-          <div className="container">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
-                <h4 className="is-size-4">Sign up for updates!</h4>
-              </div>
-            </div>
-          </div>
-        </section>
-      </Link>
+    <div className="text-is-centered">
+      <iframe
+        src="https://alexepstein.substack.com/embed"
+        // width="480"
+        // height="320"
+        style={{
+          background: "white",
+          position: "relative",
+          left: "50%",
+          transform: "translateX(-50%)",
+          margin: "-20px 0 20px 10px",
+        }}
+        frameBorder="0"
+        scrolling="no"
+      ></iframe>
     </div>
   );
 };

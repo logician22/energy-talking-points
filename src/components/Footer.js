@@ -18,10 +18,10 @@ const Footer = class extends React.Component {
     ];
     const padEndLinks = [
       { to: "/admin/", text: "Admin", external: true },
-      { to: "/sign-up/", text: "Contact" },
+      { to: "/sign-up/", text: "Sign Up" },
     ];
     const postGroups = [];
-    const itemsPerCol = Math.floor(
+    const itemsPerCol = Math.ceil(
       (edges.length + padStartLinks.length + padEndLinks.length) / 3
     );
     const addNode = (postGroups, node) => {
