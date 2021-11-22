@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: "Talking Points on the reconciliation bill, part 3: EV subsidies"
 title: Reconciliation EVs
-date: 2020-04-19T16:11:41.830Z
+date: 2020-04-18T16:11:41.830Z
 description: This is part 3 of my series “How passing the reconciliation bill
   will destroy American energy.” This horrific bill has at least 6
   energy-destroying policies that alone should disqualify it from
@@ -37,7 +37,7 @@ featuredimage: /img/energy.jpg
 
 - Thanks to government mandates and subsidies, solar and wind--"unreliables"--provide about 10% of American electricity. This 10% has already caused big electricity price increases and huge reliability problems. Politicians should admit their failure, apologize, and reverse course.[^7]
 
-- Instead of admitting that the US's 10% solar+wind electricity is causing huge cost and reliability problems, the reconciliation bill quintuples down on this disaster with the goal of "80% clean," which would mean minimum 50% solar+wind in 8 years!!
+- Instead of admitting that the US's 10% solar+wind electricity is causing huge cost and reliability problems, the reconciliation bill quintuples down on this disaster with the goal of "80% clean," which would mean minimum 50% solar+wind in 8 years!!\
 [https://twitter.com/AlexEpstein/status/1451308413137272862](https://twitter.com/AlexEpstein/status/1451308413137272862)
 
 - Too many EVs and not enough electricity is a recipe for immobility. Imagine if, this past February, the reconciliation bill was in effect and TX was far more dependent on unreliable solar+wind *and* had a massive fleet of EVs. The blackouts would have been far more devastating.[^8]
@@ -55,13 +55,13 @@ featuredimage: /img/energy.jpg
 ### References
 
 [^1]:
-    [U.S. House of Representatives Rules Committee - Build Back Better Act — Rules Committee Print, Section-By-Section](https://rules.house.gov/sites/democrats.rules.house.gov/files/Section_by_Section_BBB.pdf)
+    [U.S. House of Representatives Rules Committee - Build Back Better Act — Rules Committee Print, Section-By-Section](https://rules.house.gov/sites/democrats.rules.house.gov/files/Section_by_Section_BBB.pdf)\
     [Environmental Defense Fund - What We’re Watching in Reconciliation: Regular Updates from EDF](https://blogs.edf.org/climate411/2021/11/09/what-were-watching-in-reconciliation-regular-updates-from-edf/)
 
 [^2]: [Pew Research Center - Today’s electric vehicle market: Slow growth in U.S., faster in China, Europe](https://www.pewresearch.org/fact-tank/2021/06/07/todays-electric-vehicle-market-slow-growth-in-u-s-faster-in-china-europe/)
 
 [^3]:
-    “In 2019, the National Bureau of Economic Research published a study that found the average household income of EV buyers was about $140,000. That’s twice the median household income in the U.S., which was nearly $69,000 in 2019. The average owner of a Tesla Model S has a household income of about $153,000.“
+    “In 2019, the National Bureau of Economic Research published a study that found the average household income of EV buyers was about $140,000. That’s twice the median household income in the U.S., which was nearly $69,000 in 2019. The average owner of a Tesla Model S has a household income of about $153,000.“\
     [Robert Bryce - TESTIMONY BEFORE THE UNITED STATES CONGRESS House Select Committee on the Climate Crisis](https://docs.house.gov/meetings/CN/CN00/20210630/112853/HHRG-117-CN00-Wstate-BryceR-20210630.pdf)
 
 [^4]: [Alex Epstein - Talking Points on CO2 Emissions](https://energytalkingpoints.com/co2-emissions/)
@@ -71,13 +71,13 @@ featuredimage: /img/energy.jpg
 [^6]:
     [Swedish Environmental Research Institute - New report on climate impact of electric car batteries](https://www.ivl.se/english/ivl/topmenu/press/news-and-press-releases/press-releases/2019-12-04-new-report-on-climate-impact-of-electric-car-batteries.html)
 
-    ”Even in Europe, the overall life-cycle emissions savings are limited as "[a]n average electric vehicle in Europe produces 50% less life-cycle greenhouse gases over the first 150,000 kilometers of driving, although the relative benefit varies from 28% to 72%, depending on local electricity production" but this goes down to 29% "[w]hen comparing to the most efficient internal combustion engine vehicle."
+    ”Even in Europe, the overall life-cycle emissions savings are limited as "[a]n average electric vehicle in Europe produces 50% less life-cycle greenhouse gases over the first 150,000 kilometers of driving, although the relative benefit varies from 28% to 72%, depending on local electricity production" but this goes down to 29% "[w]hen comparing to the most efficient internal combustion engine vehicle."\
     [The International Council on Clean Transportation - Effects of battery manufacturing on electric vehicle life-cycle greenhouse gas emissions](https://theicct.org/publications/EV-battery-manufacturing-emissions)
 
     [Car and Driver - Average EV Owner Drives Half as Many Miles as Other Drivers—Study](https://www.caranddriver.com/news/a35498794/ev-owners-low-mileage-study/)
 
 [^7]:
-    In 2019 US net electricity generation from solar and wind was 9.7% of total.
+    In 2019 US net electricity generation from solar and wind was 9.7% of total.\
     [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
 
     [Alex Epstein- Energy Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
@@ -86,7 +86,7 @@ featuredimage: /img/energy.jpg
 [^8]: [Alex Epstein - Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
 
 [^9]:
-    [Alex Epstein - Talking Points on the reconciliation bill, part 1: "80% clean electricity by 2030"](https://energytalkingpoints.com/80-percent-reconciliation-bill/)
+    [Alex Epstein - Talking Points on the reconciliation bill, part 1: "80% clean electricity by 2030"](https://energytalkingpoints.com/80-percent-reconciliation-bill/)\
     [Alex Epstein - Talking Points on the "Other countries have 80% clean electricity" argument](https://energytalkingpoints.com/other-countries-80-percent/)
 
 [^10]: [Alex Epstein - Talking Points on CO2 Emissions](https://energytalkingpoints.com/co2-emissions/)
