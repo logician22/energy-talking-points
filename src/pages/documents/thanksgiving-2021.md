@@ -56,7 +56,7 @@ featuredimage: /img/turkey.jpg
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.
 
-Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^4]:
     The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.\
