@@ -4,7 +4,7 @@ displaytitle: Talking Points on Fracking
 title: Fracking
 date: 2020-09-11T23:11:43.198Z
 description: >-
-
+  
   Fracking is one of the most important technologies in our economy and can be done very safely. Government should ban only dangerous misuses of fracking, not all fracking. A fracking ban is the fastest way to create a global recession and an American depression.
 featuredimage: /img/lighted-gas-range-oven.jpg
 ---
@@ -99,4 +99,5 @@ featuredimage: /img/lighted-gas-range-oven.jpg
 
 [^14]:
     Most of the geological activity related to frac’ing comes from the disposal of waste water in so-called injection wells. The requirement to dispose of waste water in such wells meant a dramatic increase in injection well capacity use due to increasing hydraulic fracturing.\
-    [U.S. Geological Survey - Myths and Misconceptions About Induced Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/science/myths-and-misconceptions-about-induced-earthquakes)
+    [U.S. Geological Survey - Myths and Misconceptions About Induced Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/science/myths-and-misconceptions-about-induced-earthquakes)     
+    Canadian Association of Petroleum Producers - Induced Seismicity](https://www.capp.ca/explore/induced-seismicity/)
