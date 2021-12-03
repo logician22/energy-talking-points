@@ -100,4 +100,4 @@ featuredimage: /img/lighted-gas-range-oven.jpg
 [^14]:
     Most of the geological activity related to frac’ing comes from the disposal of waste water in so-called injection wells. The requirement to dispose of waste water in such wells meant a dramatic increase in injection well capacity use due to increasing hydraulic fracturing.\
     [U.S. Geological Survey - Myths and Misconceptions About Induced Earthquakes](https://www.usgs.gov/natural-hazards/earthquake-hazards/science/myths-and-misconceptions-about-induced-earthquakes)     
-    Canadian Association of Petroleum Producers - Induced Seismicity](https://www.capp.ca/explore/induced-seismicity/)
+    [Canadian Association of Petroleum Producers - Induced Seismicity](https://www.capp.ca/explore/induced-seismicity/)
