@@ -42,9 +42,9 @@ Decades of rising restrictions on oil production and transport from anti-oil pol
 - “Build Back Better,” aka "Make Everything Worse," promises to further restrict US oil production and increase prices via:
     1. new bans on offshore drilling,
     2. a costly methane tax that only applies to US production, and
-    3. many other oil taxes and penalties.\
+    3. many other oil taxes and penalties.
     
-    It must be stopped.
+It must be stopped.
 
 ### References
 
