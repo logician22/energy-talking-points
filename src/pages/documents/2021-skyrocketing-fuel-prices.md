@@ -11,8 +11,7 @@ featuredimage: /img/gas-pump.jpg
 
 ### Quick Summary
 
-- Elizabeth Warren says gasoline prices are rising "because giant oil companies like Chevron and ExxonMobil enjoy doubling their profits." Joe Biden says "companies have not ramped up the supply of oil quickly enough."
-
+- Elizabeth Warren says gasoline prices are rising "because giant oil companies like Chevron and ExxonMobil enjoy doubling their profits." Joe Biden says "companies have not ramped up the supply of oil quickly enough."\
 These anti-oil politicians should blame themselves instead.[^1]
 ![US motor fuel prices](/img/motor-fuels.png)
 
@@ -23,8 +22,7 @@ These anti-oil politicians should blame themselves instead.[^1]
 
 - There is no physical reason the oil industry can't meet rising demand. The world has hundreds of years' worth of oil deposits. There is no technical reason the oil industry can't meet rising demand. It is more capable than ever thanks to amazing technologies like fracking.
 
-- If there is no physical or technical reason the oil industry can't meet rising demand, what is inhibiting it?
-
+- If there is no physical or technical reason the oil industry can't meet rising demand, what is inhibiting it?\
 Decades of rising restrictions on oil production and transport from anti-oil politicians--including Biden's massive threats to punish oil production going forward.[^4]
 
 - Perhaps the greatest limiter of the supply of oil has been anti-oil politicians' constant threats to severely restrict or even ban oil production going forward. E.g., when Joe Biden promises "I will end fossil fuel" and then becomes President, oil investors run for the hills.[^5]
@@ -37,17 +35,14 @@ Decades of rising restrictions on oil production and transport from anti-oil pol
 
 - If not for Joe Biden and other anti-oil politicians around the world radically restricting the production/transport of oil, as well as threatening oil companies and investors, the global oil industry would have rapidly adjusted to rising demand—and prices would be far lower.
 
-- The cause-and-effect of unnecessarily high oil prices is simple:
-
-1. Anti-oil politicians around the world artificially restricted the *supply* of oil with massive restrictions/threats.
-
+- The cause-and-effect of unnecessarily high oil prices is simple:\
+1. Anti-oil politicians around the world artificially restricted the *supply* of oil with massive restrictions/threats.\
 2. These restrictions prevented supply from keeping up with demand, and prices went way up.
 
-- “Build Back Better,” aka "Make Everything Worse," promises to further restrict US oil production and increase prices via:
+- “Build Back Better,” aka "Make Everything Worse," promises to further restrict US oil production and increase prices via:\
 1. new bans on offshore drilling,
 2. a costly methane tax that only applies to US production, and
-3. many other oil taxes and penalties.
-
+3. many other oil taxes and penalties.\
 It must be stopped.
 
 ### References
