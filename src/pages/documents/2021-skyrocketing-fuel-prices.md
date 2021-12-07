@@ -49,9 +49,9 @@ Decades of rising restrictions on oil production and transport from anti-oil pol
 ### References
 
 [^1]:
-    [Senator Warren on Twitter](https://twitter.com/SenWarren/status/1462145283933016067)
-    [Reason - Elizabeth Warren Is Trying To Blame Inflation on 'Price Gouging.' Don't Buy It.](https://reason.com/2021/11/22/elizabeth-warren-is-trying-to-blame-inflation-on-price-gouging-dont-buy-it/)
-    [New York Post - Biden admits tapping oil reserve ‘won’t solve high gas prices overnight’](https://nypost.com/2021/11/23/joe-biden-says-oil-release-wont-solve-gas-problems-overnight/)
+    [Senator Warren on Twitter](https://twitter.com/SenWarren/status/1462145283933016067)\
+    [Reason - Elizabeth Warren Is Trying To Blame Inflation on 'Price Gouging.' Don't Buy It.](https://reason.com/2021/11/22/elizabeth-warren-is-trying-to-blame-inflation-on-price-gouging-dont-buy-it/)\
+    [New York Post - Biden admits tapping oil reserve ‘won’t solve high gas prices overnight’](https://nypost.com/2021/11/23/joe-biden-says-oil-release-wont-solve-gas-problems-overnight/)\
     [U.S. Energy Information Administration - Petroleum & Other Liquids, Weekly Retail Gasoline and Diesel Prices](https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm)
 
 [^2]: [Michael Lynch - Estimating The Possible Decline Of U.S. Shale Oil Production With Lower Prices](https://www.forbes.com/sites/michaellynch/2020/03/17/estimating-the-possible-decline-of-us-shale-oil-production-with-lower-prices/)
@@ -61,19 +61,19 @@ Decades of rising restrictions on oil production and transport from anti-oil pol
     [U.S. Energy Information Administration - Petroleum & Other Liquids, Spot Prices](https://www.eia.gov/dnav/pet/pet_pri_spt_s1_m.htm)
 
 [^4]:
-    [Wall Street Journal - Biden Has Been Wrong on Oil and Gas for Decades](https://www.wsj.com/articles/biden-pipeline-oil-gas-industry-fracking-energy-11634944872)
-    [CNBC - Biden administration proposes oil and gas drilling reform but stops short of ban](https://www.cnbc.com/2021/11/26/biden-recommends-reforms-to-oil-and-gas-drilling-stops-short-of-ban.html)
-    [Elizabeth Warren Senate website - Senator Warren Statement on President's Executive Orders to Advance the Keystone XL and Dakota Access Pipelines](https://www.warren.senate.gov/newsroom/press-releases/senator-warren-statement-on-president-and-039s-executive-orders-to-advance-the-keystone-xl-and-dakota-access-pipelines)
+    [Wall Street Journal - Biden Has Been Wrong on Oil and Gas for Decades](https://www.wsj.com/articles/biden-pipeline-oil-gas-industry-fracking-energy-11634944872)\
+    [CNBC - Biden administration proposes oil and gas drilling reform but stops short of ban](https://www.cnbc.com/2021/11/26/biden-recommends-reforms-to-oil-and-gas-drilling-stops-short-of-ban.html)\
+    [Elizabeth Warren Senate website - Senator Warren Statement on President's Executive Orders to Advance the Keystone XL and Dakota Access Pipelines](https://www.warren.senate.gov/newsroom/press-releases/senator-warren-statement-on-president-and-039s-executive-orders-to-advance-the-keystone-xl-and-dakota-access-pipelines)\
     [Institute for Energy Research - Biden Day 1 Executive Orders](https://www.instituteforenergyresearch.org/regulation/biden-day-1-executive-orders/)
 
 [^5]:
-    [Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)
+    [Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)\
     [Reuters - APPEC Lack of investment, more demand to drive oil price volatility -industry execs](https://www.reuters.com/business/energy/appec-lack-investment-more-demand-drive-oil-price-volatility-industry-execs-2021-09-28/)
 
 [^6]:
-    [Financial Times - Embrace high fossil fuel prices because they are here to stay](https://www.ft.com/content/a15e7ade-dad0-4ed3-a172-1974ac9d5b23)
+    [Financial Times - Embrace high fossil fuel prices because they are here to stay](https://www.ft.com/content/a15e7ade-dad0-4ed3-a172-1974ac9d5b23)\
     [Michael Shellenberger - How Climate Activists Caused the Global Energy Crisis](https://michaelshellenberger.substack.com/p/how-climate-activists-caused-the)
 
 [^7]:
-    [OPEC - Monthly Oil Market Report, November 2021](https://www.opec.org/opec_web/en/publications/338.htm)
+    [OPEC - Monthly Oil Market Report, November 2021](https://www.opec.org/opec_web/en/publications/338.htm)\
     [U.S. Energy Information Administration - The U.S. leads global petroleum and natural gas production with record growth in 2018](https://www.eia.gov/todayinenergy/detail.php?id=40973)
