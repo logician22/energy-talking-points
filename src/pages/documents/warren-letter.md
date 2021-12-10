@@ -81,13 +81,13 @@ https://twitter.com/AlexEpstein/status/1468198120886444033
 [^1]: [U.S. Energy Information Administration - Natural Gas Prices](https://www.eia.gov/dnav/ng/ng_pri_sum_dcu_nus_m.htm)
 
 [^2]:
-    “On my first day as president, I will sign an executive order that puts a total moratorium on all new fossil fuel leases for drilling offshore and on public lands. And I will ban fracking—everywhere.”
+    “On my first day as president, I will sign an executive order that puts a total moratorium on all new fossil fuel leases for drilling offshore and on public lands. And I will ban fracking—everywhere.”\
     https://twitter.com/ewarren/status/1170070887887986690
 
-    “Most of the production increases since 2005 are the result of horizontal drilling and hydraulic fracturing techniques, notably in shale, sandstone, carbonate, and other tight geologic formations.”
+    “Most of the production increases since 2005 are the result of horizontal drilling and hydraulic fracturing techniques, notably in shale, sandstone, carbonate, and other tight geologic formations.”\
     [U.S. Energy Information Administration - Natural gas explained, Where our natural gas comes from](https://www.eia.gov/energyexplained/natural-gas/where-our-natural-gas-comes-from.php)
 
-    “The U.S. Energy Information Administration (EIA) estimates that in 2020, U.S. dry shale gas production was about 26.3 trillion cubic feet (Tcf), and equal to about 79% of total U.S. dry natural gas production in 2020.”
+    “The U.S. Energy Information Administration (EIA) estimates that in 2020, U.S. dry shale gas production was about 26.3 trillion cubic feet (Tcf), and equal to about 79% of total U.S. dry natural gas production in 2020.”\
     [U.S. Energy Information Administration - FAQs, How much shale gas is produced in the United States?](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
 
     [U.S. Department of Energy - Gas Hydrates](https://www.energy.gov/fecm/science-innovation/oil-gas-research/methane-hydrate)
@@ -103,8 +103,8 @@ https://twitter.com/AlexEpstein/status/1468198120886444033
 [^4]: [Grist - Elizabeth Warren’s new plan would jail lying fossil fuel executives](https://grist.org/article/elizabeth-warrens-new-plan-would-jail-lying-fossil-fuel-executives/)
 
 [^5]:
-    “On my first day as president, I will sign an executive order that puts a total moratorium on all new fossil fuel leases for drilling offshore and on public lands. And I will ban fracking—everywhere.”
+    “On my first day as president, I will sign an executive order that puts a total moratorium on all new fossil fuel leases for drilling offshore and on public lands. And I will ban fracking—everywhere.”\
     https://twitter.com/ewarren/status/1170070887887986690
 
-    “The U.S. Energy Information Administration (EIA) estimates that in 2020, U.S. dry shale gas production was about 26.3 trillion cubic feet (Tcf), and equal to about 79% of total U.S. dry natural gas production in 2020.”
+    “The U.S. Energy Information Administration (EIA) estimates that in 2020, U.S. dry shale gas production was about 26.3 trillion cubic feet (Tcf), and equal to about 79% of total U.S. dry natural gas production in 2020.”\
     [U.S. Energy Information Administration - FAQs, How much shale gas is produced in the United States?](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
