@@ -26,23 +26,17 @@ But if you want to avoid unnecessarily high gas prices, you must recognize that 
 ![Warren letter2](/img/warren02.png)
 
 There are three basic facts that explain unnecessarily high natural gas prices:
-
-Prices are determined by supply and demand, not “greed.”
-
-America has an effectively unlimited supply of gas.
-
-You and other anti-gas politicians have artificially restricted the supply of gas.
+1. Prices are determined by supply and demand, not “greed.”
+2. America has an effectively unlimited supply of gas.
+3. You and other anti-gas politicians have artificially restricted the supply of gas.
 
 **Fact 1: Prices are determined by supply and demand, not “greed.”**
 
 If we could control natural gas prices in our favor, why didn’t we do so during unprofitable 2015-20? Our profits are determined by a) the market price for our product and b) our efficiency.[^1]
 
 When prices go up, it is crucial that companies can profit for two reasons.
-
-We earned our profit through efficiency.
-
-Profits motivate and make possible investment, which lowers long-term prices.
-
+1. We earned our profit through efficiency.
+2. Profits motivate and make possible investment, which lowers long-term prices.
 Your railing against our profits is unjust and shortsighted.
 
 **Fact 2: America has an effectively unlimited supply of gas**
