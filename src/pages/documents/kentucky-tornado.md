@@ -70,8 +70,7 @@ featuredimage: /img/tornado.jpg
 [^3]:
     [IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)). Cambridge University Press. In Press.](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
 
-[^4]: 
-[Washington Post - Researchers ponder why Friday’s tornadoes led to so many deaths, despite ample warning](https://www.washingtonpost.com/weather/2021/12/13/tornado-warnings/)
+[^4]: [Washington Post - Researchers ponder why Friday’s tornadoes led to so many deaths, despite ample warning](https://www.washingtonpost.com/weather/2021/12/13/tornado-warnings/)
 
 [^5]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
