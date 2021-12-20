@@ -101,32 +101,32 @@ Please, Senator Manchin, for the sake of this country and for your state, stop �
 Sincerely,
 ![Alex's signature](/img/alex-signature.png)
 
-Alex Epstein
-Founder and President, Center for Industrial Progress
+Alex Epstein\
+Founder and President, Center for Industrial Progress\
 Author, *[The Moral Case for Fossil Fuels](https://www.amazon.com/Moral-Case-Fossil-Fuels/dp/1591847443/)* and *[Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/)*
 
 
 ### References
 
 [^1]:
-    Because hydro and nuclear power capacity will be difficult to increase and the heavy favoritism for solar and wind in the legislation proposal, an 80% goal of “clean” energy sources would require solar and wind to be increased to about 50% of total electricity generation in a few years.
+    Because hydro and nuclear power capacity will be difficult to increase and the heavy favoritism for solar and wind in the legislation proposal, an 80% goal of “clean” energy sources would require solar and wind to be increased to about 50% of total electricity generation in a few years.\
     [Alex Epstein - Talking Points on the reconciliation bill, part 1: "80% clean electricity by 2030"](https://alexepstein.substack.com/p/talking-points-on-the-reconciliation)
 
 [^2]:
-    In 2020 coal generated 89% of West Virginia’s electricity.
-    [Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
+    In 2020 coal generated 89% of West Virginia’s electricity.\
+    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
 
-    “In 2020, West Virginia had the second-lowest average price for electricity, after Kentucky, among states east of the Mississippi River”
+    “In 2020, West Virginia had the second-lowest average price for electricity, after Kentucky, among states east of the Mississippi River”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^3]:
      [U.S. Energy Information Administration - ELECTRICITY DATA BROWSER](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=vvvvvvvvvvvvo&endsec=vg&linechart=ELEC.PRICE.CA-RES.A~~~~ELEC.PRICE.US-RES.A~ELEC.PRICE.WV-RES.A~~~&columnchart=ELEC.PRICE.TX-ALL.A~ELEC.PRICE.TX-RES.A~ELEC.PRICE.TX-COM.A~ELEC.PRICE.TX-IND.A&map=ELEC.PRICE.US-ALL.A&freq=A&start=2001&end=2020&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=)
 
-    “The industrial sector accounts for the largest share of end-use energy consumption in West Virginia, at 45% of the state's total.”
+    “The industrial sector accounts for the largest share of end-use energy consumption in West Virginia, at 45% of the state's total.”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^4]:
-    “Although coal-fired power plants with almost 2,800 megawatts of capacity retired during the past decade and another nearly 1,300 megawatts are scheduled for retirement in 2022, West Virginia still has more than 12,500 megawatts of coal-fired capacity.”
+    “Although coal-fired power plants with almost 2,800 megawatts of capacity retired during the past decade and another nearly 1,300 megawatts are scheduled for retirement in 2022, West Virginia still has more than 12,500 megawatts of coal-fired capacity.”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^5]: [Alex Epstein - Talking Points on the reconciliation bill, part 1: "80% clean electricity by 2030"](https://alexepstein.substack.com/p/talking-points-on-the-reconciliation)
@@ -143,42 +143,42 @@ Author, *[The Moral Case for Fossil Fuels](https://www.amazon.com/Moral-Case-Fos
     [Alex Epstein - Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
 
 [^8]:
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Nov 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2020 was $0.1315 per kWh. In California it was $0.2045 per kWh.
+    The average US household price in 2020 was $0.1315 per kWh. In California it was $0.2045 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
-    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.
+    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.\
     [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
 
     German grid data by [Bundesnetzagentur SMARD](https://www.smard.de/)
 
 [^9]:
-    In 2020 California solar and wind generated only 15.8% of the total electricity in the state power grid system. Net imports accounted for 30% of the total. The net imports only represent a fraction of the total transmission requirements necessary to keep the Californian power grid stable between excessive solar/wind generation and shortfalls due to lack of wind and sunlight.
+    In 2020 California solar and wind generated only 15.8% of the total electricity in the state power grid system. Net imports accounted for 30% of the total. The net imports only represent a fraction of the total transmission requirements necessary to keep the Californian power grid stable between excessive solar/wind generation and shortfalls due to lack of wind and sunlight.\
     [California Energy Commission - 2020 Total System Electric Generation](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/2020-total-system-electric-generation)
 
 [^10]: [U.S. Energy Information Administration - HOURLY ELECTRIC GRID MONITOR, Texas ERCOT grid area, February 2021](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
 [^11]:
-    “More than half of the households in West Virginia use electricity as their primary source for home heating, and the state's residential sector accounts for one-third of electricity retail sales.”
+    “More than half of the households in West Virginia use electricity as their primary source for home heating, and the state's residential sector accounts for one-third of electricity retail sales.”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^12]:
-    West Virginia’s crude oil production has taken off since 2012.
+    West Virginia’s crude oil production has taken off since 2012.\
     [U.S. Energy Information Administration - West Virginia Field Production of Crude Oil](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPWV2&f=M)
 
-    The Build Back Better Plan has the explicit goal of rapidly eliminating America’s greenhouse gas emissions. Among other measures, higher royalties for drilling on federal lands, methane fees, reclamation bonding requirements, inspection fees, severance fees will punish the oil & gas industry while billions in subsidies and regulatory favors will be granted to unreliable, non-scalable technologies.
+    The Build Back Better Plan has the explicit goal of rapidly eliminating America’s greenhouse gas emissions. Among other measures, higher royalties for drilling on federal lands, methane fees, reclamation bonding requirements, inspection fees, severance fees will punish the oil & gas industry while billions in subsidies and regulatory favors will be granted to unreliable, non-scalable technologies.\
     [U.S. House of Representatives  Rules Committee Build Back Better Act Section by Section print](https://rules.house.gov/sites/democrats.rules.house.gov/files/Section_by_Section_BBB.pdf)
 
 [^13]:
-    “West Virginia had 34 trillion cubic feet of shale gas reserves as of the end of 2019, which was 10% of the nation's total.”
+    “West Virginia had 34 trillion cubic feet of shale gas reserves as of the end of 2019, which was 10% of the nation's total.”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
-    Natural gas production has been booming in West Virginia since 2010, about 10-folding the in-state production over the last 11 years.
+    Natural gas production has been booming in West Virginia since 2010, about 10-folding the in-state production over the last 11 years.\
     [U.S. Energy Information Administration - West Virginia Dry Natural Gas Production](https://www.eia.gov/dnav/ng/hist/na1160_swv_2M.htm)
 
-    While natural gas is the primary cause for CO2 emissions reduction in the power sector by replacing coal, the plans of the administration for a zero emissions power sector and economy-wide zero emissions later on will require elimination of natural gas use and production. In particular, higher royalties for drilling on federal lands, methane fees and monitoring requirements, severance and other regulations and financial burdens will make it even more expensive to produce natural gas in West Virginia while billions in subsidies and regulatory favors for unreliable solar and wind will guarantee that West Virginia’s coal-fired electricity will not be replaced with natural gas.
+    While natural gas is the primary cause for CO2 emissions reduction in the power sector by replacing coal, the plans of the administration for a zero emissions power sector and economy-wide zero emissions later on will require elimination of natural gas use and production. In particular, higher royalties for drilling on federal lands, methane fees and monitoring requirements, severance and other regulations and financial burdens will make it even more expensive to produce natural gas in West Virginia while billions in subsidies and regulatory favors for unreliable solar and wind will guarantee that West Virginia’s coal-fired electricity will not be replaced with natural gas.\
     [U.S. House of Representatives  Rules Committee Build Back Better Act Section by Section print](https://rules.house.gov/sites/democrats.rules.house.gov/files/Section_by_Section_BBB.pdf)
 
 [^14]: [Christiadi; Bowen, Eric; and Deskins, John, "The Economic Impact of Coal and Coal-Fired Power Generation in West Virginia" (2021). Bureau of Business & Economic Research. 327.](https://researchrepository.wvu.edu/bureau_be/327)
