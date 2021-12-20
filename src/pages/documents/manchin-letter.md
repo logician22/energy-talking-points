@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: Why Build Back Better will be an unmitigated disaster for West Virginia
 title: Manchin letter
-date: 2021-12-20T16:06:57.695Z
+date: 2020-04-10T15:06:57.695Z
 description: An open letter to Senator Joe Manchin
 featuredimage: /img/joe_manchin_official_portrait_112th_congress.jpg
 ---
