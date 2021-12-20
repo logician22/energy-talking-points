@@ -96,7 +96,8 @@ featuredimage: /img/tornado.jpg
 [^8]: [The Hill - FEMA administrator on extreme weather: 'This is going to be our new normal'](https://thehill.com/homenews/state-watch/585459-fema-administrator-this-is-going-to-be-our-new-normal)
 
 [^9]: 
-    [](Bjorn Lomborg on Twitter)(https://twitter.com/BjornLomborg/status/1423571938463657987)
+    [Bjorn Lomborg on Twitter](https://twitter.com/BjornLomborg/status/1423571938463657987)
+
     [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
 [^10]:
