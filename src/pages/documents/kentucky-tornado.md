@@ -67,8 +67,8 @@ featuredimage: /img/tornado.jpg
 
 [^2]: [ustornadoes.com](https://www.ustornadoes.com/annual-tornadoes/)
 
-[^3]: 
-[IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)). Cambridge University Press. In Press.](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
+[^3]:
+    [IPCC, 2021: Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (Masson-Delmotte, V., P. Zhai, A. Pirani, S.L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M.I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J.B.R. Matthews, T.K. Maycock, T. Waterfield, O. Yelekçi, R. Yu, and B. Zhou (eds.)). Cambridge University Press. In Press.](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
 
 [^4]: 
 [Washington Post - Researchers ponder why Friday’s tornadoes led to so many deaths, despite ample warning](https://www.washingtonpost.com/weather/2021/12/13/tornado-warnings/)
@@ -96,7 +96,9 @@ featuredimage: /img/tornado.jpg
 
 [^8]: [The Hill - FEMA administrator on extreme weather: 'This is going to be our new normal'](https://thehill.com/homenews/state-watch/585459-fema-administrator-this-is-going-to-be-our-new-normal)
 
-[^9]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
+[^9]: 
+    [](Bjorn Lomborg on Twitter)(https://twitter.com/BjornLomborg/status/1423571938463657987)
+    [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
 [^10]:
     [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
