@@ -71,7 +71,7 @@ If we rapidly eliminate fossil fuels as Don't Look Up's creators advocate, most 
     [Gilfillan and Marland (2021) - global and national CO2 emissions from fossil fuel combustion and cement manufacture: 1751–2017](https://doi.org/10.5194/essd-13-1667-2021)
 
 [^3]: [Our World in Data - Energy Production and Consumption](https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume)
-     
+
 [^4]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
