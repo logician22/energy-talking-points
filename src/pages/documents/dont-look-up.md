@@ -15,9 +15,9 @@ featuredimage: /img/dontlookup.jpeg
 Politicians, media, and corporations refuse to "look up," acknowledge the comet, and take simple steps to stop it.
 The lesson: "look up" and stop using fossil fuels, already.
 
-- **Equating fossil fuels and "the comet" is backward for 3 reasons:**
-    **1. Fossil fuels' CO2 emissions are not a "planet-killing" threat.**
-    **2. Fossil fuels actually make the planet, including climate, livable.**
+- **Equating fossil fuels and "the comet" is backward for 3 reasons:**\
+    **1. Fossil fuels' CO2 emissions are not a "planet-killing" threat.**\
+    **2. Fossil fuels actually make the planet, including climate, livable.**\
     **3. Stopping fossil fuels ("the comet") would make the Earth unlivable for billions.**
 
 - 1: Fossil fuels' CO2 emissions are not a "planet-killing" threat.
