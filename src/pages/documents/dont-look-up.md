@@ -7,9 +7,9 @@ description: The big-budget Netflix movie's support for eliminating fossil
   fuels, not fossil fuels, is the threat to life on Earth
 featuredimage: /img/dontlookup.jpeg
 ---
-**Don’t Look Up uses talented actors and the world's biggest distribution channel (Netflix) to promote a deadly analogy between fossil fuels and an Earth-destroying comet.
+**Don’t Look Up uses talented actors and the world's biggest distribution channel (Netflix) to promote a deadly analogy between fossil fuels and an Earth-destroying comet.**
 
-In fact, the movie's goal of rapidly eliminating fossil fuels is "the comet."**
+**In fact, the movie's goal of rapidly eliminating fossil fuels is "the comet."**
 
 - Don't Look Up is an allegory about fossil fuels. Fossil fuels are represented by an Earth-destroying comet.
 Politicians, media, and corporations refuse to "look up," acknowledge the comet, and take simple steps to stop it.
