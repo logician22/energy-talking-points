@@ -20,32 +20,32 @@ The lesson: "look up" and stop using fossil fuels, already.
     **2. Fossil fuels actually make the planet, including climate, livable.**\
     **3. Stopping fossil fuels ("the comet") would make the Earth unlivable for billions.**
 
-- 1: Fossil fuels' CO2 emissions are not a "planet-killing" threat.
+- 1: Fossil fuels' CO2 emissions are not a "planet-killing" threat.\
 Fossil fuels' CO2 emissions have a warming impact, but that **impact is mostly in cold places and diminishes as CO2 levels increase. Life on Earth thrived when CO2 levels were at least 5X higher than today's**.[^1]
 ![Paleoclimate CO2 and temperature](/img/art-27-co2-and-temperature-used-to-be-much-much-higher-and-they-re-not-consistently-correlated.png)
 
-- 2: Fossil fuels actually make the planet, including climate, livable, part 1
+- 2: Fossil fuels actually make the planet, including climate, livable, part 1\
 Contrary to rhetoric that we've "destroyed the planet," **the world has never been a better place for human beings to live--after hundreds of thousands of years of being barely livable for humans**.[^2]
 ![Hydrocarbons and Human Flourishing](/img/art-07-the-hydrocarbons-and-human-flourishing-hockey-sticks.png)
 
-- 2: Fossil fuels actually make the planet, including climate, livable, part 2
+- 2: Fossil fuels actually make the planet, including climate, livable, part 2\
 A root cause of today's amazingly livable world is fossil fuel. **Low-cost, reliable energy from fossil fuels (80% of world energy) enables us to use machines to be productive and prosperous.**[^3]
 ![History of energy sources](/img/art-c-only-fossil-fuels-provide-low-cost-on-demand-versatile-global-scale-energy.png)
 
-- 2: Fossil fuels actually make the planet, including climate, livable, part 3
+- 2: Fossil fuels actually make the planet, including climate, livable, part 3\
 **Fossil fuels make us far safer from climate** by powering the amazing machines that protect us against the always-dangerous climate. Climate disaster deaths have decreased 98% over the last century.[^4]
 ![Decline of climate disaster deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
-- 3: Stopping fossil fuels ("the comet") would make the Earth unlivable for billions, part 1
+- 3: Stopping fossil fuels ("the comet") would make the Earth unlivable for billions, part 1\
 **Solar and wind can't come close to replacing fossil fuels.**
 Because solar and wind are unreliable, they don't replace reliable power plants--they add to the cost of reliable power plants.[^5]
 ![German power grid](/img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png)
 
-- 3: Stopping fossil fuels ("the comet") would make the Earth unlivable for billions, part 2
+- 3: Stopping fossil fuels ("the comet") would make the Earth unlivable for billions, part 2\
 **Billions of people desperately need low-cost, reliable energy from fossil fuels.** 3B people use less electricity than an average American refrigerator. 1/3 of the world uses wood and dung for energy.[^6]
 ![Use of primitive biomass](/img/art-b-33-of-the-world-uses-wood-and-dung.png)
 
-- 3: Stopping fossil fuels ("the comet") would make the Earth unlivable for billions, part 3
+- 3: Stopping fossil fuels ("the comet") would make the Earth unlivable for billions, part 3\
 If we rapidly eliminate fossil fuels as Don't Look Up's creators advocate, most of the machines that produce our food, clean water, heating, etc would stop working and our world would collapse.
 
 - **To assess fossil fuels (or anything else) you have to carefully weigh benefits and side-effects. The benefit of fossil fuels is to make the world livable for 8 billion people.** Fossil fuels aren’t the comet in Don’t Look Up, the movie's goal of rapidly eliminating them is the comet.
