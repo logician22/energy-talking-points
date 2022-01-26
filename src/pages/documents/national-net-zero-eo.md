@@ -55,16 +55,15 @@ This commitment is suicidal because 3/4 of government energy use is for defense�
 [^3]: [U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy - Comprehensive Annual Energy Data and Sustainability Performance](https://ctsedwweb.ee.doe.gov/Annual/Report/Report.aspx)
 
 [^4]:
-    DOE estimates that in an optimistic future scenario enough biomass could be harvested in the US to create over 50 billion gallons of biofuels annually. Global aviation fuel demand alone is already over 100 billion gallons and is expected to more than double until 2050. US gasoline consumption in 2020 was already over 120 billion gallons, more than twice the amount that could be created from US biomass.
-    [U.S. Energy Information Administration - How much gasoline does the United States consume?](https://www.eia.gov/tools/faqs/faq.php?id=23&t=10)
-    [U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy - Sustainable Aviation Fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels)
+    DOE estimates that in an optimistic future scenario enough biomass could be harvested in the US to create over 50 billion gallons of biofuels annually. Global aviation fuel demand alone is already over 100 billion gallons and is expected to more than double until 2050. US gasoline consumption in 2020 was already over 120 billion gallons, more than twice the amount that could be created from US biomass.\
+    [U.S. Energy Information Administration - How much gasoline does the United States consume?](https://www.eia.gov/tools/faqs/faq.php?id=23&t=10)\
+    [U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy - Sustainable Aviation Fuels](https://www.energy.gov/eere/bioenergy/sustainable-aviation-fuels)\
     [U.S. Department of Energy, Office of Energy Efficiency & Renewable Energy - Sustainable Aviation Fuel, Review of Technical Pathways](https://www.energy.gov/sites/prod/files/2020/09/f78/beto-sust-aviation-fuel-sep-2020.pdf)
 
 [^5]:
-    “Electrofuels will require very high public incentives. The equivalent of €2.50 or €3 per
-diesel equivalent liter subsidies would be needed to deliver significant volumes of electrofuels.
+    “Electrofuels will require very high public incentives. The equivalent of €2.50 or €3 per diesel equivalent liter subsidies would be needed to deliver significant volumes of electrofuels.
     …
-    Even in a best-case scenario with €3 per liter policy incentives and adequate environmental safeguards implemented by Member States, electrofuels can deliver only modest climate benefits of up to 4 million tonnes CO2e reduction annually by 2030, offsetting 0.5% of projected road transport GHG emissions in 2030 in the EU.“
+    Even in a best-case scenario with €3 per liter policy incentives and adequate environmental safeguards implemented by Member States, electrofuels can deliver only modest climate benefits of up to 4 million tonnes CO2e reduction annually by 2030, offsetting 0.5% of projected road transport GHG emissions in 2030 in the EU.“\
     [International Council on Clean Transportation - ECONOMIC AND ENVIRONMENTAL PERFORMANCE OF ELECTROFUELS IN EUROPE](https://theicct.org/sites/default/files/Electrofuels_Fact_Sheet_20181005.pdf)
 
 [^6]: [White House - Executive Order on Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/12/08/executive-order-on-catalyzing-clean-energy-industries-and-jobs-through-federal-sustainability/)
@@ -72,5 +71,5 @@ diesel equivalent liter subsidies would be needed to deliver significant volumes
 [^7]: [National Renewable Energy Laboratory - U.S. Navy, KIUC, AES, and NREL Innovate and Collaborate for Resilience and Cost-Effective Clean Energy Project on Kauai](https://www.nrel.gov/news/features/2021/us-navy-kiuc-aes-and-nrel-innovate-and-collaborate-for-resilience-and-cost-effective-clean-energy-project-on-kauai.html)
 
 [^8]:
-    “Growing the market faces several hurdles, primarily due to the cost of SAF, which is currently up to 8 times higher than regular jet fuel, and the limited availability of feedstock.“
+    “Growing the market faces several hurdles, primarily due to the cost of SAF, which is currently up to 8 times higher than regular jet fuel, and the limited availability of feedstock.“\
     [Reuters - Oil giant Shell sets sights on sustainable aviation fuel take-off](https://www.reuters.com/business/sustainable-business/oil-giant-shell-sets-sights-sustainable-aviation-fuel-take-off-2021-09-19/)
