@@ -3,7 +3,7 @@ templateKey: blog-post
 displaytitle: Talking Points on the anti-energy, anti-development, and
   anti-America ESG movement
 title: ESG Movement
-date: 2020-04-06T10:42:39.477Z
+date: 2020-04-07T10:42:39.477Z
 description: ESG poses as a moral and financially savvy movement. In reality it
   is an immoral and financially ruinous movement that is destroying the free
   world's ability to produce low-cost, reliable energy.
