@@ -81,7 +81,7 @@ featuredimage: /img/federal-regulation.jpeg
 - Energy security is national security, above all in wartime. War requires continuous high-energy manufacturing and continuous fueling of high-energy mobile machines such as planes and tanks. Both world wars were won by the side with the most oil, the fuel of mobility.
 
 - What does the modern ESG movement do about the danger of an energy-dominant China? Deny reality and serve as "useful idiots." Example: Larry Fink's sole mention of China in his influential letter to CEOs was to praise China's "historic commitments to achieve net zero emissions"![^14]
-![Larry Fink](/img/larry-fink.jpeg)
+![Larry Fink](/img/larryfink.png)
 
 ***Why the ESG divestment movement must be condemned and replaced***
 
@@ -100,7 +100,7 @@ featuredimage: /img/federal-regulation.jpeg
 [^2]: [Alex Epstein - Congressional testimony for May 19, 2021](https://energytalkingpoints.com/alex-epstein-congressional-testimony-for-may-19-2021/)
 
 [^3]:
-    As  of July 2021, China and India are planning or constructing over 280 new coal-fired power plants with a combined capacity of over 300 GW.
+    As  of July 2021, China and India are planning or constructing over 280 new coal-fired power plants with a combined capacity of over 300 GW.\
     [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
 
 [^4]:
@@ -112,7 +112,7 @@ featuredimage: /img/federal-regulation.jpeg
 [^5]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.\
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
-    Population estimates for the 1920s from the Maddison Database 2010 come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.Latest population estimates from World Bank Data.\ 
+    Population estimates for the 1920s from the Maddison Database 2010 come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.Latest population estimates from World Bank Data.
     [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010)\
     [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL)\
     [Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)
