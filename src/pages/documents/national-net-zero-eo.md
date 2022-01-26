@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: Talking Points on the dangerous Executive Order no one is talking about
 title: National Net Zero EO
-date: 2020-04-05T14:21:11.342Z
+date: 2020-04-04T14:21:11.342Z
 description: Last month, President Biden issued a "net zero" Executive Order
   that threatens the very existence of our nation. And yet he has received very
   little pushback.
