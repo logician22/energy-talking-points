@@ -3,7 +3,7 @@ templateKey: blog-post
 displaytitle: Talking Points on the media disinformation campaign to resurrect
   Build Back Better
 title: Manchin media campaign
-date: 2020-04-06T14:41:25.568Z
+date: 2020-04-05T14:41:25.568Z
 description: Senator Joe Manchin heroically opposed the "Build Back Better" plan
   of his fellow Democrats. Now the media is trying to make him fold by
   pretending that coal-destroying BBB is good for WV coal miners
