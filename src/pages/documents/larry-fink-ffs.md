@@ -10,7 +10,7 @@ featuredimage: /img/larry-fink.jpeg
 **Breaking: A previously-unreleased pro-oil/gas letter sent by BlackRock to Texas lawmakers and oil/gas executives reveals that the company is simultaneously 1) trying to gain status by supporting anti-oil/gas net zero goals, and 2) trying not to lose any pro-oil/gas investors.**
 ![BlackRockLetter01](/img/br01.png)
 
-- BlackRock's Larry Fink is the #1 leader in the financial world for the economically baseless idea that the global economy should and will be net-zero by 2050. This idea would mean the rapid and total or near-total destruction of the oil and gas industry.[^1]
+- BlackRock's Larry Fink is the #1 leader in the financial world for the economically baseless idea that the global economy should and will be net-zero by 2050. This idea would mean the rapid and total or near-total destruction of the oil and gas industry.[^1] 
 ![BlackRockLetter02](/img/br02.jpeg)
 
 - In response to BlackRock and others advocating anti-oil-and-gas "net zero" policies, TX pension funds have started refusing to do business with anti-oil/gas institutions. BlackRock's response: a covert PR campaign to tell TX lawmakers and oil execs that it's very pro oil/gas![^2]
