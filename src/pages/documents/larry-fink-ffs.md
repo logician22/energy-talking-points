@@ -5,7 +5,7 @@ title: Larry Fink FFs
 date: 2020-04-06T13:37:19.640Z
 description: A previously-unreleased pro-oil/gas letter sent by BlackRock to
   Texas lawmakers and oil/gas executives reveals a major contradiction
-featuredimage: /img/larry-fink.jpeg
+featuredimage: /img/larryfink.png
 ---
 **Breaking: A previously-unreleased pro-oil/gas letter sent by BlackRock to Texas lawmakers and oil/gas executives reveals that the company is simultaneously 1) trying to gain status by supporting anti-oil/gas net zero goals, and 2) trying not to lose any pro-oil/gas investors.**
 ![BlackRockLetter01](/img/br01.png)
