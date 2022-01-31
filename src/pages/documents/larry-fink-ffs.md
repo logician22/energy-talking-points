@@ -34,7 +34,7 @@ featuredimage: /img/larryfink.png
 
 - Instead of acknowledging oil/gas's immense value and apologizing for BlackRock's role in today's energy shortages, Larry Fink's 2022 letter makes a trivializing reference to their value and does not even mention today's energy crisis, let alone reflect on BlackRock's culpability.
 
-- Here is the full letter that BlackRock circulated among TX lawmakers and oil/gas executives. While I am the first to release this letter, I am not breaking any laws/confidentiality in doing so. Note: BlackRock mislabeled the year as 2021 instead of 2022.
+- Here is the full letter that BlackRock circulated among TX lawmakers and oil/gas executives. While I am the first to release this letter, I am not breaking any laws/confidentiality in doing so. Note: BlackRock mislabeled the year as 2021 instead of 2022.\
     [https://industrialprogress.com/blackrock/](https://industrialprogress.com/blackrock/)
 
 - Texans and others shouldn't be fooled by BlackRock's PR campaign to pretend to be big supporters of oil and gas while leading the ["net zero" policy push that will destroy oil and gas--and, as a result, the global economy](https://alexepstein.substack.com/p/the-esg-movement-is-anti-energy-anti) and standard of living.
