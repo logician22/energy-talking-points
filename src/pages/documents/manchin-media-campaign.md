@@ -29,7 +29,7 @@ Now The New York Times and others are pressuring Manchin to reverse his stance v
     **2. It would sabotage WV's growing oil production.**
     **3. It would sabotage WV's growing natural gas production.**[^4]
 
-- While supporters of BBB portray coal as inevitably dead, that is not true. While BBB would kill coal, without BBB coal has many decades left. Last year global coal demand rose faster than for any other form of energy. And in WV, coal is crucial to the state's industrial economy.[^5]
+- While supporters of BBB portray coal as inevitably dead, that is not true. While BBB would kill coal, without BBB coal has many decades left. Last year global coal demand rose faster than for any other form of energy. And in WV, coal is crucial to the state's industrial economy. 
 ![IEA coal outlook](/img/iea-coal-outlook.png)
 
 - Low-cost, reliable electricity is one of WV's great assets. Thanks to its overwhelmingly coal-fired electricity, West Virginia has some of the lowest electricity rates in the country—second only to coal-heavy Kentucky on the East Coast.[^6]
