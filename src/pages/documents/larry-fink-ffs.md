@@ -45,7 +45,7 @@ featuredimage: /img/larryfink.png
 [^1]: [Alex Epstein - The ESG movement is anti-energy, anti-development, and anti-America](https://alexepstein.substack.com/p/the-esg-movement-is-anti-energy-anti)
 
 [^2]:
-    [Phil King - Texas is standing up to Wall Street’s anti-energy agenda](https://www.texaspolicy.com/texas-is-standing-up-to-wall-streets-anti-energy-agenda/)
+    [Phil King - Texas is standing up to Wall Street’s anti-energy agenda](https://www.texaspolicy.com/texas-is-standing-up-to-wall-streets-anti-energy-agenda/)\
     [Texas Tribune - In oil-rich Texas, GOP lawmakers push bill to punish Wall Street for fossil fuel disinvestments](https://www.texastribune.org/2021/03/11/texas-oil-gas-legislature-wall-street/)
 
 [^3]: [Larry Fink - Letter to CEOs, 2021](https://corpgov.law.harvard.edu/2021/01/30/letter-to-ceos/)
