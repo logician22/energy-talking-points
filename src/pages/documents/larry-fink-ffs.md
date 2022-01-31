@@ -51,5 +51,5 @@ featuredimage: /img/larryfink.png
 [^3]: [Larry Fink - Letter to CEOs, 2021](https://corpgov.law.harvard.edu/2021/01/30/letter-to-ceos/)
 
 [^4]: [Alex Epstein - The ESG movement is anti-energy, anti-development, and anti-America](https://alexepstein.substack.com/p/the-esg-movement-is-anti-energy-anti)
-    
+
 [^5]: [Larry Fink - Letter to CEOs, 2021](https://corpgov.law.harvard.edu/2021/01/30/letter-to-ceos/)
