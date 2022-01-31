@@ -81,7 +81,7 @@ Low-cost, reliable electricity also makes WV a major exporter of electricity to 
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^8]:
-    “More than half of the households in West Virginia use electricity as their primary source for home heating, and the state's residential sector accounts for one-third of electricity retail sales.”
+    “More than half of the households in West Virginia use electricity as their primary source for home heating, and the state's residential sector accounts for one-third of electricity retail sales.”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^9]: [Alex Epstein - Intellectual Ammunition to keep Build Back Better dead](https://alexepstein.substack.com/p/intellectual-ammunition-to-keep-build)
