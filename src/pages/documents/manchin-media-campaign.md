@@ -62,7 +62,7 @@ Low-cost, reliable electricity also makes WV a major exporter of electricity to 
 [^3]: [UMWA - Coal pensions: Bill provides reassurance to miners](https://umwa.org/news-media/news/coal-pensions-bill-provides-reassurance-to-miners/)
 
 [^4]: [Alex Epstein - Why Build Back Better will be an unmitigated disaster for West Virginia](https://alexepstein.substack.com/p/why-build-back-better-will-be-an)
-    
+
 [^5]:
     [IEA - Electricity Market Report - January 2022](https://www.iea.org/reports/electricity-market-report-january-2022)\
     [Alex Epstein on Twitter](https://twitter.com/AlexEpstein/status/1482393410782724096)
