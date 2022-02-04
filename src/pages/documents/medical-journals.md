@@ -11,7 +11,7 @@ description: The editors of 220 medical journals called for the rapid
 featuredimage: /img/wsj-medial-journals-climate.png
 ---
 **Today is a dark day for the medical profession. The editors of 220 medical journals, with 0 expertise in energy and climate, have called for the rapid elimination of fossil fuel use--a course of action that would rapidly increase the biggest cause of health problems: poverty.**
-![Medical journals urge climate action](static/img/wsj-medial-journals-climate.png)
+![Medical journals urge climate action](/img/wsj-medial-journals-climate.png)
 
 - ​​The #1 cause of health problems in the world is poverty, and an absolute requirement for alleviating poverty is low-cost, reliable energy—most of which, for the foreseeable future, needs to come from fossil fuels.
 
