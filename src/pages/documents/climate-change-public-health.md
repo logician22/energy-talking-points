@@ -38,6 +38,7 @@ featuredimage: /img/emissions.jpg
 - The real "public health issue" is this Administration's irrational *climate change policies* that, by making energy more expensive and less reliable, promote health-destroying poverty and deprive us of the affordable heating and AC we need to be safe from dangerous temperatures.
 
 - I am in Austin today and it's 92°. If not for 170 years of fossil fuels maybe it would be 90°.
+
     Would any climate catastrophist trade 92° with AC for 90° with no AC--and without the abundant food, clothing, shelter, medical care, and free time fossil fuels make possible?
 
 ### References
