@@ -47,7 +47,7 @@ featuredimage: /img/emissions.jpg
     [WSJ - Climate Change to Be Treated as Public-Health Issue](https://www.wsj.com/articles/climate-change-to-be-treated-as-public-health-issue-11630315800)
 
 [^2]:
-    [Grumman/ Butkus Associates - 2017 Hospital Benchmarking Report Released](https://mailchi.mp/grummanbutkus.com/othzpxiqzw)
+    [Grumman/ Butkus Associates - 2017 Hospital Benchmarking Report Released](https://mailchi.mp/grummanbutkus.com/othzpxiqzw)\
     [U.S.Energy Information Administration - Energy Characteristics and Energy Consumed in Large Hospital Buildings in the United States in 2007](https://www.eia.gov/consumption/commercial/reports/2007/large-hospital.php)
 
 [^3]: [Alex Epstein on Twitter](https://twitter.com/AlexEpstein/status/1418243194727194626)
@@ -69,6 +69,6 @@ featuredimage: /img/emissions.jpg
 [^6]: [Alex Epstein - Talking Points on CO2 Emissions](https://energytalkingpoints.com/co2-emissions/)
 
 [^7]:
-    [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
+    [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)\
     [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
     [Bjorn Lomborg: Climate change and deaths from extreme heat and cold](https://financialpost.com/opinion/bjorn-lomborg-climate-change-and-deaths-from-extreme-heat-and-cold)
