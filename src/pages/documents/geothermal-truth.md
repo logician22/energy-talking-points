@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: Talking Points on the Truth About Geothermal Energy
 title: Geothermal Truth
-date: 2020-04-03T14:23:43.947Z
+date: 2020-04-02T14:23:43.947Z
 description: Geothermal cannot replace a significant percentage of fossil fuel
   use because it requires the rare geology of places like Iceland. "Deep
   geothermal" has promise, but is decades away from scalability.
