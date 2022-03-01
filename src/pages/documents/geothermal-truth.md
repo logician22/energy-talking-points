@@ -6,7 +6,7 @@ date: 2020-04-02T14:23:43.947Z
 description: Geothermal cannot replace a significant percentage of fossil fuel
   use because it requires the rare geology of places like Iceland. "Deep
   geothermal" has promise, but is decades away from scalability.
-featuredimage: /img/geothermal-plant.jpg
+featuredimage: /img/geothermal-plant.png
 ---
 **Myth: Geothermal energy can rapidly replace a significant percentage of fossil fuel use.**
 
