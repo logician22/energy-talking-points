@@ -6,7 +6,7 @@ date: 2020-04-02T09:51:11.945Z
 description: Geothermal cannot replace a significant percentage of fossil fuel
   use because it requires the rare geology of places like Iceland. "Deep
   geothermal" has promise, but is decades away from scalability.
-featuredimage: /img/og-image.jpg
+featuredimage: /img/energy.jpg
 ---
 **Myth: Geothermal energy can rapidly replace a significant percentage of fossil fuel use.**
 
@@ -69,7 +69,6 @@ featuredimage: /img/og-image.jpg
 
 [^4]: [New Scientist - Supercharged geothermal energy could power the planet](https://www.newscientist.com/article/mg24032000-300-supercharged-geothermal-energy-could-power-the-planet/)
 
-[^5]: [
-New Scientist - Supercharged geothermal energy could power the planet](https://www.newscientist.com/article/mg24032000-300-supercharged-geothermal-energy-could-power-the-planet/)
+[^5]: [New Scientist - Supercharged geothermal energy could power the planet](https://www.newscientist.com/article/mg24032000-300-supercharged-geothermal-energy-could-power-the-planet/)
 
 [^6]: [ORKUSTOFNUN (Island National Energy Authority) - The Iceland deep drilling project](https://nea.is/geothermal/the-iceland-deep-drilling-project/)
