@@ -3,7 +3,7 @@ templateKey: blog-post
 displaytitle: Talking Points on US Democrats engaging in epic denial on oil and
   gasoline prices
 title: Democrat Denial
-date: 2021-03-31T12:45:20.870Z
+date: 2020-03-30T12:45:20.870Z
 description: "Politicians around the world, including US Democrats, have opposed
   and threatened the oil and gas industry's existence. Now they are denying
   responsibility for the consequences: higher prices."
