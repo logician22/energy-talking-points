@@ -12,32 +12,44 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 **US Democrats are trying everything imaginable to lower oil/gasoline prices except the thing that would actually work**: STOP THREATENING THE EXISTENCE OF THE OIL INDUSTRY. **Instead of acknowledging their key role in increasing oil prices, Dems are engaging in epic denial tactics.**
 
 - ​​For 15+ years Democratic **politicians**, including Joe Biden, **have relentlessly attacked oil investment, oil production, and oil transport**—leading to **higher prices and lower security**.
+
     Instead of taking credit for their "success," they are **denying that they are anti-fossil fuels!**[^1]
 ![Biden denies responsibility](/img/dems-denial-01.jpg)
 
 - **The "business decisions" denial tactic**
+
     For 15+ years Democratic politicians have **pushed everything they can to threaten new oil production: net-zero, ESG, proposed bans**, etc.
+
     Now they are **blaming companies for "business decisions" to refrain from threatened oil production!**[^2]
 ![Psaki denial](/img/dems-denial-02.jpg)
 
 - **The "windfall profits" denial tactic**
+
     For 15+ years Democratic politicians have done **everything they can to make new oil production unprofitable**—leading to less investment.
+
     Now they are condemning companies for **not investing enough "windfall profits"!**[^3]
 ![Congressional Dems denial](/img/dems-denial-03.jpg)
 
 - **The “9000 leases” denial tactic**
+
     For 15+ years Dem politicians have driven up oil prices by delaying/destroying countless **economically viable oil projects.**
+
     To deny responsibility they are **attacking companies for not developing 9000 leases judged to be economically nonviable.**[^4]
 ![Biden 9,000 leases denial](/img/dems-denial-04.jpg)
 
 - **The "price gouging" denial tactic**
+
     For 15+ years Democratic politicians have driven up oil prices by **attacking oil investment, oil production, and oil transport.**
+
     To deny responsibility they are calling for **yet another worthless "price gouging" investigation.**[^5]
 ![Gouging inquiry by congress](/img/dems-denial-05.jpg)
 
 - **The energy crisis is simple.**
+
     Politicians around the world, including US Dems, have **restricted fossil fuel investment/production/transport on the false promise of replacement by unreliable solar/wind.**
-    The result: **higher prices and lower security.** 
+
+    The result: **higher prices and lower security.**
+
     Dems, **please stop the denial.**
 
 
