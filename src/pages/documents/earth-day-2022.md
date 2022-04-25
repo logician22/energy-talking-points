@@ -11,7 +11,7 @@ featuredimage: /img/fossil-future.png
 - ​​Contrary to rhetoric that we've “destroyed the planet,” **the world has never been a better place for human beings to live**. Life expectancy and income have been skyrocketing, with extreme poverty (<$2/day) plummeting from 42% in 1980 to <10% today.[^1]
 ![Human flourishing Hockey Sticks](/img/art-07-the-hydrocarbons-and-human-flourishing-hockey-sticks.png)
 
-- A *root cause of today's amazingly livable world is fossil fuel**. Low-cost, reliable energy **enables us to use machines to be productive and prosperous**. And **only fossil fuels (80% of energy) provide low-cost, reliable energy for all energy needs on a scale of billions** of people.[^2]
+- A **root cause of today's amazingly livable world is fossil fuel**. Low-cost, reliable energy **enables us to use machines to be productive and prosperous**. And **only fossil fuels (80% of energy) provide low-cost, reliable energy for all energy needs on a scale of billions** of people.[^2]
 ![Historic use of energy](/img/art-c-only-fossil-fuels-provide-low-cost-on-demand-versatile-global-scale-energy.png)
 
 - **Fossil fuels have actually made us far safer from climate** by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. **Climate disaster deaths have decreased *98%* over the last century**.[^3]
@@ -26,7 +26,7 @@ featuredimage: /img/fossil-future.png
 - **Billions of people desperately need low-cost, reliable energy**, which for the foreseeable future largely needs to come from fossil fuels. 3 billion people use less electricity than a typical American refrigerator. **1/3 of the world uses wood and dung for heating and cooking**.[^6]
 ![Biomass use](/img/art-b-33-of-the-world-uses-wood-and-dung.png)
 
-- **The world needs to continue and expand its massive use of fossil fuels**, while **ensuring we have the ***freedom*** necessary** for truly cost-effective alternatives to emerge. E.g., we need to **decriminalize reliable, non-carbon nuclear energy**.
+- **The world needs to continue and expand its massive use of fossil fuels**, while **ensuring we have the *freedom* necessary** for truly cost-effective alternatives to emerge. E.g., we need to **decriminalize reliable, non-carbon nuclear energy**.
     I prove this definitively in Fossil Future.
     ![Fossil Future](/img/fossil-future.png)
 
