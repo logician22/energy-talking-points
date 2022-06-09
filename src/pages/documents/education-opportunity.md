@@ -82,9 +82,9 @@ Here’s why I believe this, and what we can do to take advantage of this opport
 [^1]: [Alex Epstein - Talking Points on skyrocketing natural gas and coal prices](https://alexepstein.substack.com/p/talking-points-on-skyrocketing-natural)
 
 [^2]:
-    [E&E News - Republicans propose border carbon tax](https://www.eenews.net/articles/republicans-propose-border-carbon-tax/)
+    [E&E News - Republicans propose border carbon tax](https://www.eenews.net/articles/republicans-propose-border-carbon-tax/)\
     [Exxon Mobil - Why ExxonMobil supports carbon pricing](https://energyfactor.exxonmobil.com/perspectives/supports-carbon-pricing/)
 
 [^3]:
-    [Greenpeace - Greenpeace blocks Spanish gas tanker as EU ministers meet on energy crisis](https://www.greenpeace.org/eu-unit/issues/climate-energy/45886/greenpeace-blocks-spanish-gas-tanker-as-eu-ministers-meet-on-energy-crisis/)
+    [Greenpeace - Greenpeace blocks Spanish gas tanker as EU ministers meet on energy crisis](https://www.greenpeace.org/eu-unit/issues/climate-energy/45886/greenpeace-blocks-spanish-gas-tanker-as-eu-ministers-meet-on-energy-crisis/)\
     [Sierra Club - Halting the Gas Export Boom](https://www.sierraclub.org/sierra/2021-6-winter/feature/halting-gas-export-boom)
