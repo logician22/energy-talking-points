@@ -25,8 +25,8 @@ Here’s why I believe this, and what we can do to take advantage of this opport
 
 - A global energy crisis clearly caused by our thought leaders makes this a **perfect moment to educate the public** that:
 
-    **1) The world needs more fossil fuels.**
-    **2) The world needs more energy freedom.**
+    **1) The world needs more fossil fuels.**\
+    **2) The world needs more energy freedom.**\
     **3) This will lead not to climate crisis but continuing climate mastery.** (see image)
 ![Climate deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
@@ -60,7 +60,7 @@ Here’s why I believe this, and what we can do to take advantage of this opport
 
 - **The Washington Post and other anti-fossil fuel institutions have tried to cancel** ***Fossil Future***, because they are afraid of my ultra-logical, ultra-pro-science refutation of their views—and the attention it is getting.
 
-    **They are right to be afraid**.
+    **They are right to be afraid**.\
     [https://alexepstein.substack.com/p/how-i-stopped-the-washington-post](https://alexepstein.substack.com/p/how-i-stopped-the-washington-post)
 
 - **2 weeks before its 5/24 release,** ***Fossil Future*** **has already sold enough copies to make the NYT bestseller list** (NYT bias may prevent it) and will likely sell out before release day. That’s despite an unusually large first printing.
