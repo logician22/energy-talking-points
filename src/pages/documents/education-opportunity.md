@@ -5,7 +5,7 @@ title: education opportunity
 date: 2020-02-19T12:54:00.991Z
 description: Now is the perfect time to educate the world about the need for
   pro-fossil-fuel, pro-freedom energy policies.
-featuredimage: /img/ffjacket.jpeg
+featuredimage: /img/ffjacketwide.png
 ---
 ***Today’s energy crisis has proved that our anti-fossil-fuel, anti-freedom energy policies are destructive.***
 
