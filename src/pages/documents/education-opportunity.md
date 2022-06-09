@@ -63,7 +63,7 @@ Here’s why I believe this, and what we can do to take advantage of this opport
     **They are right to be afraid**.
     [https://alexepstein.substack.com/p/how-i-stopped-the-washington-post](https://alexepstein.substack.com/p/how-i-stopped-the-washington-post)
 
-- **2 weeks before its 5/24 release, ***Fossil Future*** has already sold enough copies to make the NYT bestseller list** (NYT bias may prevent it) and will likely sell out before release day. That’s despite an unusually large first printing.
+- **2 weeks before its 5/24 release,** ***Fossil Future*** **has already sold enough copies to make the NYT bestseller list** (NYT bias may prevent it) and will likely sell out before release day. That’s despite an unusually large first printing.
 
     **This is great news for energy education**.
 
