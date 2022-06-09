@@ -55,7 +55,7 @@ Here’s why I believe this, and what we can do to take advantage of this opport
 
 - My book ***Fossil Future***, **now available online and in bookstores, is the ultimate energy education resource**. Written for people who expect to disagree with it, it begins by totally discrediting today’s thought leaders, then systematically explores our energy future from a pro-human perspective.
 
-- I sent out 100s of advance copies of ***Fossil Future*** so that **other people, not me, can tell you how uniquely good it is at re-educating people about energy**—as one reader wrote “**It’s really that good and I promise you’ll think about energy very differently.**” Here are some of the many endorsements so far.
+- I sent out 100s of advance copies of ***Fossil Future*** so that **other people, not me, can tell you how uniquely good it is at re-educating people about energy**—as one reader wrote “**It’s really that good and I promise you’ll think about energy very differently.**” Here are some of the many endorsements so far.\
     [https://alexepstein.substack.com/p/endorsements-for-fossil-future](https://alexepstein.substack.com/p/endorsements-for-fossil-future)
 
 - **The Washington Post and other anti-fossil fuel institutions have tried to cancel** ***Fossil Future***, because they are afraid of my ultra-logical, ultra-pro-science refutation of their views—and the attention it is getting.
