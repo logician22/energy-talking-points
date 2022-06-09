@@ -7,11 +7,11 @@ description: Now is the perfect time to educate the world about the need for
   pro-fossil-fuel, pro-freedom energy policies.
 featuredimage: /img/ffjacket.jpeg
 ---
-    ***Today’s energy crisis has proved that our anti-fossil-fuel, anti-freedom energy policies are destructive.***
+***Today’s energy crisis has proved that our anti-fossil-fuel, anti-freedom energy policies are destructive.***
 
-    ***Now is the perfect time to educate the world about the need for pro-fossil-fuel, pro-freedom policies.***
+***Now is the perfect time to educate the world about the need for pro-fossil-fuel, pro-freedom policies.***
 
-    Here’s why I believe this, and what we can do to take advantage of this opportunity.
+Here’s why I believe this, and what we can do to take advantage of this opportunity.
 
 - ​​For the past 15+ years, **thought leaders have told us that their attacks on the freedom to invest in, produce, and transport fossil fuels wouldn’t cause problems**, because solar + wind could rapidly replace fossil fuels.
 
