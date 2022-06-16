@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: Talking Points on Medical Journal Editors’ false climate narrative
-title: MEdical journals
+title: Medical journals against fossil fuels
 date: 2020-04-16T11:48:32.272Z
 description: The editors of 220 medical journals called for the rapid
   elimination of fossil fuels because of their climate impacts. But even if they
