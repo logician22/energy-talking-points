@@ -16,7 +16,7 @@ featuredimage: /img/turbines.jpg
 3. The only reason utilities buy unnecessary, wasteful wind turbines is government policies that force them to do so or reward them for doing so. “We get a tax credit if we build a lot of wind farms. That’s the only reason to build them,” says Warren Buffett.[^2]
 4. One of the worst wind favoritism policies is the wind Production Tax Credit (PTC), which pays utilities to shut down or slow down reliable gas, coal, and nuclear power plants whenever the wind blows, driving many out of operation and threatening the grid’s future.[^3]
 5. The perverse incentives of the wind PTC and other wind favoritism are not only making electricity more expensive but less reliable. That’s why grids around the US are already blacking out industrial customers, and Texas and the Northeast are warning of residential blackouts.[^4]
-6. Congress needs to let the 28-year-old wind PTC expire, end all forms of energy favoritism, and let technologies compete on reliability and cost. That will reduce electricity prices, increase reliability, and increase innovation.
+6. Congress needs to let the 30-year-old wind PTC expire, end all forms of energy favoritism, and let technologies compete on reliability and cost. That will reduce electricity prices, increase reliability, and increase innovation.
 
 ### References
 
