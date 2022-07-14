@@ -14,7 +14,7 @@ featuredimage: /img/emissions.jpg
 
 - ​​The Wall Street Journal Reports that The Office of Climate Change and Health Equity "could eventually compel hospitals and other care facilities to reduce carbon emissions." Forced emissions reductions always make energy more expensive or less reliable.[^1]
 
-- Hospitals have huge energy costs--often 50% of their budgets--and they depend on ultra-reliable energy. Is the Administration going to raise their prices so they use less energy? Is this Administration going to force respirators and incubators to run on unreliable solar and wind?[^2]
+- Hospitals have huge energy costs--often 50% of their facility budgets--and they depend on ultra-reliable energy. Is the Administration going to raise their prices so they use less energy? Is this Administration going to force respirators and incubators to run on unreliable solar and wind?[^2]
 
 - As the Wall Street Journal reported, during the pandemic "many hospitals have had to run air-purification systems at a higher level, resulting in increased energy use and more carbon emissions." Would the Biden Administration have forbidden that, killing people to reduce CO2?
 
