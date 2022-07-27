@@ -4,20 +4,20 @@ displaytitle: 'Testimony: "How the Biden Administration and the Global
   Anti-Fossil-Fuel Movement Caused an Energy Crisis and Inflated Our Cost of
   Living"'
 title: energy crisis testimony
-date: 2020-03-02T12:45:40.295Z
+date: 2020-02-05T12:45:40.295Z
 description: "Testimony for the Congressional Off-Site Hearing: “Addressing
   Bidenflation and Biden’s Energy Crisis”"
 featuredimage: /img/alex-epstein.jpg
 ---
-***Today the House Freedom Caucus held an off-site hearing: “Addressing Bidenflation and Biden’s Energy Crisis.” I was a witness, along with former Texas Governor and Secretary of Energy Rick Perry, economist Stephen Moore, and Western Energy Alliance President Kathleen Sgamma. Here is the written testimony I submitted. You can watch my testimony, as well as my answers to all the Representatives’ questions, in the video below.***
+***On June 22, 2022 the House Freedom Caucus held an off-site hearing: “Addressing Bidenflation and Biden’s Energy Crisis.” I was a witness, along with former Texas Governor and Secretary of Energy Rick Perry, economist Stephen Moore, and Western Energy Alliance President Kathleen Sgamma. Here is the written testimony I submitted. You can watch my testimony, as well as my answers to all the Representatives’ questions, by [>clicking here<](https://youtu.be/lFZaUpXammo).***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFZaUpXammo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- **In 2016, I testified in front of the Senate Environment and Public Works Committee about how the anti-fossil-fuel policies of the Obama-Biden administration would lead to higher energy prices**, which would drive higher prices in every area of the global economy.[^1]
+**In 2016, I testified in front of the Senate Environment and Public Works Committee about how the anti-fossil-fuel policies of the Obama-Biden administration would lead to higher energy prices**, which would drive higher prices in every area of the global economy.[^1]
 
-- I explained that because fossil fuels provide low-cost, reliable, scalable energy that cannot be rapidly replaced by unreliable solar and wind, “…the President's anti-fossil fuel policies would harm billions of lives economically….” I explained that because **“The energy industry is the industry that powers every other industry”** therefore “the cost of your food, the cost of your clothing, the cost of your shelter, the success of your business, your ability to take a vacation, the cost of all the different modern miracles, the cost of your healthcare...they are all tied to energy.”
+I explained that because fossil fuels provide low-cost, reliable, scalable energy that cannot be rapidly replaced by unreliable solar and wind, “…the President's anti-fossil fuel policies would harm billions of lives economically….” I explained that because **“The energy industry is the industry that powers every other industry”** therefore “the cost of your food, the cost of your clothing, the cost of your shelter, the success of your business, your ability to take a vacation, the cost of all the different modern miracles, the cost of your healthcare...they are all tied to energy.”
 
-- As an energy expert and a philosopher—an expert on thinking methods—I explained to the Senators that **the basic mistake of the Obama administration was the failure to “integrate the big picture data.”** The Obama Administration was **ignoring the unique benefits of fossil fuels to the global economy and to global human flourishing.**
+As an energy expert and a philosopher—an expert on thinking methods—I explained to the Senators that **the basic mistake of the Obama administration was the failure to “integrate the big picture data.”** The Obama Administration was **ignoring the unique benefits of fossil fuels to the global economy and to global human flourishing.**
 
     Unfortunately, many of the Senators were unwilling to recognize this error in themselves and in the Administration.
 
