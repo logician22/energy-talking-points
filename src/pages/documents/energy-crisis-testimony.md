@@ -72,10 +72,10 @@ What we’ve been told about fossil fuels is exactly backward. We are told that 
 [^3]: [Alex Epstein - Talking Points on US Democrats engaging in epic denial on oil and gasoline prices](https://energytalkingpoints.com/democrat-denial/)
 
 [^4]:
-    [Energy Talking Points with Alex Epstein - Talking Points on skyrocketing natural gas and coal prices](https://alexepstein.substack.com/p/talking-points-on-skyrocketing-natural)
-    [Bundesanstalt für Geowissenschaften und Rohstoffe - Coal](https://www.bgr.bund.de/EN/Themen/Energie/Kohle/kohle_node_en.html)
-    [BP - Statistical Review of World Energy 2021](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
-    [Michael Lynch - The "Peak Oil" Scare and the Coming Oil Flood](https://www.amazon.com/Peak-Oil-Scare-Coming-Flood/dp/1440831866/)
+    [Energy Talking Points with Alex Epstein - Talking Points on skyrocketing natural gas and coal prices](https://alexepstein.substack.com/p/talking-points-on-skyrocketing-natural)\
+    [Bundesanstalt für Geowissenschaften und Rohstoffe - Coal](https://www.bgr.bund.de/EN/Themen/Energie/Kohle/kohle_node_en.html)\
+    [BP - Statistical Review of World Energy 2021](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
+    [Michael Lynch - The "Peak Oil" Scare and the Coming Oil Flood](https://www.amazon.com/Peak-Oil-Scare-Coming-Flood/dp/1440831866/)\
     [U.S. Department of Energy - Gas Hydrates Quick Facts](https://www.energy.gov/fecm/science-innovation/oil-gas-research/methane-hydrate)
 
 [^5]:[Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)
@@ -89,10 +89,10 @@ What we’ve been told about fossil fuels is exactly backward. We are told that 
     [SEI - 2020 Report, Summary of Key Findings](https://productiongap.org/2020report/)
 
 [^8]:
-    [Alex Epstein - Fossil Future](https://amzn.to/3MtCx6h)
+    [Alex Epstein - Fossil Future](https://amzn.to/3MtCx6h)\
     [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)\
     The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.\
-    [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
+    [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)\
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://alexepstein.substack.com/p/testimony-how-the-biden-administration#:~:text=Patrick%20Moore%20%2D%20THE%20POSITIVE%20IMPACT%20OF%20HUMAN%20CO2%20EMISSIONS%20ON%20THE%20SURVIVAL%20OF%20LIFE%20ON%20EARTH)
 
