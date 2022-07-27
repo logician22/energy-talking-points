@@ -11,7 +11,7 @@ featuredimage: /img/alex-epstein.jpg
 ---
 ***On June 22, 2022 the House Freedom Caucus held an off-site hearing: “Addressing Bidenflation and Biden’s Energy Crisis.” I was a witness, along with former Texas Governor and Secretary of Energy Rick Perry, economist Stephen Moore, and Western Energy Alliance President Kathleen Sgamma. Here is the written testimony I submitted. You can watch my testimony, as well as my answers to all the Representatives’ questions, in the video below.***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFZaUpXammo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lFZaUpXammo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 
 **In 2016, I testified in front of the Senate Environment and Public Works Committee about how the anti-fossil-fuel policies of the Obama-Biden administration would lead to higher energy prices**, which would drive higher prices in every area of the global economy.[^1]
 
