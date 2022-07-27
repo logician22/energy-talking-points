@@ -9,7 +9,7 @@ description: "Testimony for the Congressional Off-Site Hearing: “Addressing
   Bidenflation and Biden’s Energy Crisis”"
 featuredimage: /img/alex-epstein.jpg
 ---
-***On June 22, 2022 the House Freedom Caucus held an off-site hearing: “Addressing Bidenflation and Biden’s Energy Crisis.” I was a witness, along with former Texas Governor and Secretary of Energy Rick Perry, economist Stephen Moore, and Western Energy Alliance President Kathleen Sgamma. Here is the written testimony I submitted. You can watch my testimony, as well as my answers to all the Representatives’ questions, by [>clicking here<](https://youtu.be/lFZaUpXammo).***
+***On June 22, 2022 the House Freedom Caucus held an off-site hearing: “Addressing Bidenflation and Biden’s Energy Crisis.” I was a witness, along with former Texas Governor and Secretary of Energy Rick Perry, economist Stephen Moore, and Western Energy Alliance President Kathleen Sgamma. Here is the written testimony I submitted. You can watch my testimony, as well as my answers to all the Representatives’ questions, in the video below.***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lFZaUpXammo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
