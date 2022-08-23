@@ -8,6 +8,7 @@ description: In Fossil Future I refute literally hundreds of myths about fossil
   this year.
 featuredimage: /img/dessler.png
 ---
+Originally published on August 15, 2022
 ***In my book Fossil Future, I refute literally hundreds of myths about fossil fuels.***
 
 ***Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast this year from Andrew Dessler, a climate scientist/activist who misrepresented himself as an energy expert.***
@@ -112,7 +113,7 @@ featuredimage: /img/dessler.png
 
 - Today's energy crisis, which is threatening Europeans with freezing and industrial collapse this winter, and threatening 10s of millions with starvation, is the fault of the global anti-fossil-fuel movement. I will continue to debate/defeat these people until they are stopped.
 
-- If you want to learn the full truth about the future of energy, read my new book Fossil Future. It's been out for 2.5 months and despite its phenomenal success not one advocate of fossil fuel elimination has even attempted to refute it. (They've just smeared or straw-manned me.)
+- If you want to learn the full truth about the future of energy, read my new book [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411). It's been out for 2.5 months and despite its phenomenal success not one advocate of fossil fuel elimination has even attempted to refute it. (They've just smeared or straw-manned me.)
 
 
 ### References
