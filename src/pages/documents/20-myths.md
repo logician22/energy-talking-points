@@ -140,7 +140,7 @@ Originally published on August 15, 2022
     [Epstein’s unrefuted explanation to Dessler](https://youtu.be/4AIVpK4oACs?t=1794), from 29:54-31:28.
 
     “Other factors would also have a potentially significant effect on the results contained herein, but have not been examined in the scope of this current analysis. These additional factors, among others, could include: capacity value vs. energy value; network upgrades, transmission, congestion or other integration-related costs…”
-“This analysis does not take into account potential social and environmental externalities or reliability-related considerations”
+    “This analysis does not take into account potential social and environmental externalities or reliability-related considerations”
     [Lazard’s Levelized Cost of Energy Analysis — Version 14.0](https://www.lazard.com/media/451419/lazards-levelized-cost-of-energy-version-140.pdf)
 
 [^4]:
