@@ -107,6 +107,8 @@ featuredimage: /img/dessler.png
 - Tonight Andrew Dessler will be debating physicist Steve Koonin, author of Unsettled, whom Dessler unconscionably smeared on Joe Rogan as akin to a tobacco lobbyist. The debate will be live in NYC and streamed. Order your tickets here from The Soho Forum.
 
 - While you're waiting for the Dessler/Koonin debate to happen, watch my two debates with Dessler and see why neither he nor any other leading anti-fossil-fuel activist will agree to a long-form debate with me in a major forum.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Erj3Wrdr4jU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4AIVpK4oACs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Today's energy crisis, which is threatening Europeans with freezing and industrial collapse this winter, and threatening 10s of millions with starvation, is the fault of the global anti-fossil-fuel movement. I will continue to debate/defeat these people until they are stopped.
 
