@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: 20 myths about fossil fuels, refuted
 title: 20 Myths
-date: 2020-02-10T14:20:24.955Z
+date: 2020-02-01T14:20:24.955Z
 description: In Fossil Future I refute literally hundreds of myths about fossil
   fuels. Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast
   this year.
