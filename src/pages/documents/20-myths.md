@@ -8,32 +8,39 @@ description: In Fossil Future I refute literally hundreds of myths about fossil
   this year.
 featuredimage: /img/dessler.png
 ---
-***In my book Fossil Future, I refute literally hundreds of myths about fossil fuels.
+***In my book Fossil Future, I refute literally hundreds of myths about fossil fuels.***
 
-Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast this year from Andrew Dessler, a climate scientist/activist who misrepresented himself as an energy expert.***
+***Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast this year from Andrew Dessler, a climate scientist/activist who misrepresented himself as an energy expert.***
 
 ![Dessler on Rogan](/img/dessler.png)
 
 - Myth 1: We can rapidly reduce fossil fuels at very low cost.
+
     Truth: Fossil fuels are a uniquely cost-effective form of energy, which is why they are 80% of global energy and still growing. Rapidly reducing fossil fuels, in a world that needs far more energy, is catastrophic.[^1]
 
 - Myth 2: Solar and wind are cheap.
+
     Truth: Solar and wind are unreliable, parasitical sources of energy that add costs to the grid.
     Claims of “cheapness” are based on ignoring the full costs of solar + wind—above all the cost of a reliable grid that gives them 24/7 life support.[^2]
 
 - Myth 3: Solar/wind is cheaper than fossil fuels because Lazard’s “Levelized Cost of Energy” (LCOE) is lower for solar/wind.
+
     Truth: LCOE, by Lazard’s own admission, doesn’t include many costs of solar/wind—above all the cost of a reliable grid needed for 24/7 life support.[^3]
 
 - Myth 4: Solar and wind are “winning in the marketplace,” outcompeting fossil fuels and nuclear with superior economics.
+
     Truth: Unreliable, parasitical solar and wind are only “winning” when given massive preferences—mandates, subsidies, and no penalty for unreliability.[^4]
 
 - Myth 5: Renewable energy is projected to exceed fossil fuel energy by 2026.
+
     Truth: This projection is of electricity (20% of energy) not all energy—and just refers to when sunlight and wind are at their peak, not most of the time. And it depends on massive political favoritism.[^5]
 
 - Myth 6: We can have a grid with 75% solar and wind, with just 25% of hydro, geothermal, or nuclear.
+
     Truth: No one has come close to even 50% unreliable solar/wind without huge dependence on reliable neighbors. And without the flexibility and scale that only natural gas provides.[^6]
 
 - Myth 7: Anti-fossil fuel activists just want the most energy for the least CO2.
+
     Truth: Anti-fossil-fuel activists are hostile to hydro and nuclear. E.g., Andrew Dessler said this year “I agree that hydro is not something to expand” and has attacked nuclear for years.[^7]
 
 - Myth 8: Nuclear is too expensive, so we should use solar/wind instead.
@@ -206,11 +213,11 @@ Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast this yea
 
     [Epstein’s unrefuted explanation to Dessler](https://youtu.be/4AIVpK4oACs?t=743), from 12:23-13:11.
 
-    By 2100, according to IPCC projections, the planet will warm by 5°C over pre-industrial levels only in the high uncertainty range of the highest and most unrealistic emissions scenario (SSP5-RCP8.5), which is likely unachievable. In a more realistic scenario (SSP2-RCP4.5), the IPCC projects between 2°C and 3°C of warming over pre-industrial level (i.e. about 1-2°C more warming from today).
+    By 2100, according to IPCC projections, the planet will warm by 5°C over pre-industrial levels only in the high uncertainty range of the highest and most unrealistic emissions scenario (SSP5-RCP8.5), which is likely unachievable. In a more realistic scenario (SSP2-RCP4.5), the IPCC projects between 2°C and 3°C of warming over pre-industrial level (i.e. about 1-2°C more warming from today).\
     [IPCC, 6th Assessment Report, WG1 - Climate Change 2021: The Physical Science Basis, Figure SPM.8, p. 22](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
 
     But the model projections by the IPCC still show a warming bias:
-    ”Several studies since AR5 have continued to demonstrate an inconsistency between simulated and observed temperature trends in the tropical troposphere, with models simulating more warming than observations”
+    ”Several studies since AR5 have continued to demonstrate an inconsistency between simulated and observed temperature trends in the tropical troposphere, with models simulating more warming than observations”\
     [IPCC, 6th Assessment Report, WG1 - Climate Change 2021: The Physical Science Basis, chp. 3](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
 
     [Mitchell et al. 2020](https://iopscience.iop.org/article/10.1088/1748-9326/ab9af7): “As in earlier studies, we find considerable warming biases in the CMIP6 modeled trends, and we show that these biases are linked to biases in surface temperature.”
@@ -226,7 +233,7 @@ Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast this yea
 
     A study calculated that as thawing continues, total carbon emissions from this region over the next 300 years or so will be 10 times as much as all human-produced fossil fuel emissions in the single year 2016.
 
-    The study, led by scientist Nicholas Parazoo of NASA's Jet Propulsion Laboratory in Pasadena, California, found that warmer, more southerly permafrost regions will not become a carbon source until the end of the 22nd century, even though they are thawing now. That is because other changing Arctic processes will counter the effect of thawing soil in these regions.”
+    The study, led by scientist Nicholas Parazoo of NASA's Jet Propulsion Laboratory in Pasadena, California, found that warmer, more southerly permafrost regions will not become a carbon source until the end of the 22nd century, even though they are thawing now. That is because other changing Arctic processes will counter the effect of thawing soil in these regions.”\
     [NASA - Far Northern Permafrost May Unleash Carbon Within Decades](https://www.jpl.nasa.gov/news/far-northern-permafrost-may-unleash-carbon-within-decades)
 
 [^19]:
