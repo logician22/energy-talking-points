@@ -44,48 +44,62 @@ featuredimage: /img/dessler.png
     Truth: Anti-fossil-fuel activists are hostile to hydro and nuclear. E.g., Andrew Dessler said this year “I agree that hydro is not something to expand” and has attacked nuclear for years.[^7]
 
 - Myth 8: Nuclear is too expensive, so we should use solar/wind instead.
+
     Truth: Solar/wind can’t provide reliable energy; nuclear can. And nuclear is only expensive because it has, with the help of many “green” activists, been falsely labeled unsafe and effectively criminalized.[^8]
 
 - Myth 9: Academics know how to cheaply power the world with mostly solar + wind.
+
     Truth: All their untested schemes involve many ruinous, unaccounted-for costs—e.g., a crash program of unprecedented mineral/infrastructure development in an anti-development political environment.[^9]
 
 - The academics who have supported fossil fuel restrictions based on the false promise that their untested schemes full of false assumptions could replace fossil fuels in a world that needs far more energy, are irresponsible cranks who have brought about a global energy crisis.[^10]
 
 - Myth 10: The TX winter blackouts were a failure of fossil fuels, especially natural gas.
+
     Truth: Fossil fuels perform beautifully in far worse winter weather than Texas had in February 2021. TX blackouts were caused by defunding reliable/resilient power in favor of unreliable solar/wind.[^11]
 
 - Myth 11: Hugely varying estimates of “the social cost of carbon” mean that economists warning about the costs of reducing CO2 can’t be trusted.
+
     Truth: These variations show that little definite is known about any net harm from CO2. But the huge harms of reducing CO2 are certain.[^12]
 
 - Myth 12: Replacing fossil fuels with solar/wind will make us more secure because we'll depend less on hostile countries.
+
     Truth: Not only are solar/wind incapable of replacing fossil fuels, but the control of their supply by China dwarfs any nation's influence over fossil fuels.[^13]
 
 - Myth 13: Climate changes from rising CO2 levels will require ruinously costly adaptation.
+
     Truth: Speculated climate changes would be slow and thus affordable to adapt to—while rapidly eliminating fossil fuels would make billions far poorer, including more endangered by climate.[^14]
+![Dessler on Rogan](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
 - Myth 14: Continued CO2 emissions will cause “irreversible” climate change.
+
     Truth: At some point future technologies will enable us to reverse the rise in CO2 levels if we want. But nothing can reverse mass-death caused by trying to rapidly eliminate CO2 emissions.[^15]
 
 - Myth 15: Because we could reduce CFCs without disaster, we can do the same for CO2 emissions.
+
     Truth: While it’s sometimes non-disastrous to rapidly reduce something, it often isn’t. E.g., “green” attempts to reduce DDT and nuclear radiation killed countless millions.[^16]
 
 - Myth 16: Rising CO2 levels will be bad for agriculture.
+
     Truth: Rising CO2 levels will continue to come with the huge agricultural benefits of oil to power equipment and natural gas for fertilizer. And with GMO technology, higher CO2 can be leveraged to make crops grow even more.
 
 - Myth 17: We should be terrified of a 5°C temp rise, because that’s ½ the distance from an ice age.
+
     Truth: Global temp rises are not the same kind of threat as global temp decreases, because human life, like most life, does better when it’s warm.
     And 5° is extreme speculation.[^17]
 
 - Myth 18: Melting permafrost could be a terrible “tipping point” that will lead to rapid, dangerous warming.
+
     Truth: Significant methane release from permafrost is a very speculative and slow-paced potential impact that a more advanced world will be able to deal with if needed.[^18]
 
 - Myth 19: Fossil fuels “kill” millions of people a year via air pollution.
+
     Truth: This claim
     1. Ignores how fossil fuels extend every life on Earth
     2. Uses pseudoscientific speculation about pollution deaths.
     3. Ignores the fact that fossil fuels can be burned very cleanly.[^19]
 
 - Myth 20: The anti-fossil-fuel movement is leading to better sources of energy.
+
     Truth: Anti-fossil-fuel activists like Andrew Dessler are responsible for artificially restricting the supply of fossil fuels and thereby causing a deadly, worsening global energy crisis.[^20]
 
 - Not only were 20 myths about fossil fuels dangerously spread on Joe Rogan to 11 million people by Andrew Dessler, Dessler has not corrected even one of them. This despite the fact that I have publicly refuted most of them in debates with him. (See the footnotes.)
