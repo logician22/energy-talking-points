@@ -7,6 +7,7 @@ description: The root of our global energy crisis is Green Energy Fascism. The
   solution is Energy Freedom.
 featuredimage: /img/city-skyline-during-night-time.jpg
 ---
+Originally published August 10, 2022
     The root of our global energy crisis is Green Energy Fascism—the idea that government should have total control over the energy industry (fascism) used for the “green” goal of rapidly eliminating fossil fuels and nuclear.
 
     The solution is Energy Freedom—the idea that individuals should be free to produce and consume energy how they judge best, provided they follow laws protecting everyone from truly harmful emissions and dangerous practices.
@@ -76,19 +77,19 @@ featuredimage: /img/city-skyline-during-night-time.jpg
     2. End preferences for unreliable electricity
     3. Reform air/water emissions standards to incorporate cost-benefit analysis
     4. Reduce long-term CO2 emissions via liberating innovation
-    5. Decriminalize nuclear
+    5. Decriminalize nuclear\
 
-- 1. Liberate responsible energy development
+- 1. Liberate responsible energy development\
 
     Anti-development policies prevent every form of energy from reaching its potential—from natural gas to nuclear to solar. Liberating responsible development throughout America will create unprecedented energy abundance and progress.
 
-- 2. End preferences for unreliable electricity
+- 2. End preferences for unreliable electricity\
 
     Today's electric grids are being ruined by systemic preferences for unreliable electricity, which causes prices to rise and reliability to decline.
 
     Eliminating them can help make America a leader in low-cost, reliable electricity.[^5]
 
-- 3. Reform air/water emissions standards based on proper cost-benefit analysis.
+- 3. Reform air/water emissions standards based on proper cost-benefit analysis.\
 
     Today’s Environmental Protection Agency does huge harm to prosperity and health via energy-crippling emissions standards that fail any reasonable cost-benefit analysis.
 
@@ -124,7 +125,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
-Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^4]: [E&E News - Biden EPA deals major blow to Pebble mine](https://www.eenews.net/articles/biden-epa-seals-pebble-mines-fate/)
 
