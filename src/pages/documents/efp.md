@@ -7,7 +7,7 @@ description: The root of our global energy crisis is Green Energy Fascism. The
   solution is Energy Freedom.
 featuredimage: /img/city-skyline-during-night-time.jpg
 ---
-Originally published August 10, 2022
+Originally published August 10, 2022\
     The root of our global energy crisis is Green Energy Fascism—the idea that government should have total control over the energy industry (fascism) used for the “green” goal of rapidly eliminating fossil fuels and nuclear.
 
     The solution is Energy Freedom—the idea that individuals should be free to produce and consume energy how they judge best, provided they follow laws protecting everyone from truly harmful emissions and dangerous practices.
