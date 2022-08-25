@@ -10,7 +10,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 Originally published August 10, 2022\
     The root of our global energy crisis is Green Energy Fascism—the idea that government should have total control over the energy industry (fascism) used for the “green” goal of rapidly eliminating fossil fuels and nuclear.
 
-    The solution is Energy Freedom—the idea that individuals should be free to produce and consume energy how they judge best, provided they follow laws protecting everyone from truly harmful emissions and dangerous practices.
+The solution is Energy Freedom—the idea that individuals should be free to produce and consume energy how they judge best, provided they follow laws protecting everyone from truly harmful emissions and dangerous practices.
 
 - There is no inevitability whatsoever to today's energy crisis.
 
@@ -89,17 +89,17 @@ Originally published August 10, 2022\
 
     Eliminating them can help make America a leader in low-cost, reliable electricity.[^5]
 
-- 3. Reform air/water emissions standards based on proper cost-benefit analysis.
+- 3 Reform air/water emissions standards based on proper cost-benefit analysis.
 
     Today’s Environmental Protection Agency does huge harm to prosperity and health via energy-crippling emissions standards that fail any reasonable cost-benefit analysis.
 
     Such analysis will lead to more energy and better health.
 
-- 4. Reduce CO2 emissions long-term through liberating innovation, not punishing America.
+- 4 Reduce CO2 emissions long-term through liberating innovation, not punishing America.
 
     The only reasonable way to reduce CO2 emissions long-term is innovation that makes low-carbon energy globally cost-competitive. Punishing US emissions is senseless self-destruction.
 
-- 5. Decriminalize nuclear energy
+- 5 Decriminalize nuclear energy
 
     The overregulation of low-carbon nuclear verges on criminalization, making nuclear costs 10X higher than they need to be. Decriminalizing nuclear, including radical reform of the Nuclear Regulatory Commission and Environmental Protection Agency, will make energy far cheaper, safer, and cleaner.[^6]
 
