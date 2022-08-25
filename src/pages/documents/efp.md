@@ -8,31 +8,32 @@ description: The root of our global energy crisis is Green Energy Fascism. The
 featuredimage: /img/city-skyline-during-night-time.jpg
 ---
 Originally published August 10, 2022\
+
     The root of our global energy crisis is Green Energy Fascism—the idea that government should have total control over the energy industry (fascism) used for the “green” goal of rapidly eliminating fossil fuels and nuclear.
 
 The solution is Energy Freedom—the idea that individuals should be free to produce and consume energy how they judge best, provided they follow laws protecting everyone from truly harmful emissions and dangerous practices.
 
-- There is no inevitability whatsoever to today's energy crisis.
+- **There is no inevitability whatsoever to today's energy crisis.**
 
     In fact, if we replace Green Energy Fascism with Energy Freedom policies, America can lead the world in producing low-cost, reliable, plentiful, and cleaner energy—enriching ourselves and billions around the world.
 
-- The Opportunity
+- **The Opportunity**
 
     Human beings’ knowledge of how to produce energy in a way that is low-cost, reliable, and plentiful has never been greater. And we can do it in ever-cleaner ways.
 
     As the world’s leading economy and energy producer, America can lead a global energy renaissance.
 
-- The Problem
+- **The Problem**
 
     Even though the world could be in an energy renaissance, it is instead in an energy crisis—with skyrocketing costs and declining reliability around the world.
 
     Europe fears industrial collapse and citizens freezing this winter. Poorer regions fear literal starvation.[^1]
 
-- The Cause
+- **The Cause**
 
     The direct cause of our unnecessary energy crisis is simple: governments around the world have restricted the supply of energy through anti-fossil-fuel, anti-nuclear policies. When demand outstrips supply, energy prices rise—which causes all other prices to rise.
 
-- The Root Cause
+- **The Root Cause**
 
     The reason that governments have been able to get away with anti-fossil-fuel, anti-nuclear policies is that they have used the pretext of climate apocalypse to justify Green Energy Fascism—total government control over the energy industry to achieve “green” goals.
 
@@ -68,38 +69,38 @@ The solution is Energy Freedom—the idea that individuals should be free to pro
 
     That policy is Energy Freedom.
 
-- The Energy Freedom Solution
+- **The Energy Freedom Solution**
 
     America can enrich itself and empower billions with policies that free human ingenuity to produce energy in as low-cost, reliable, plentiful, and clean way as possible—while protecting us against harmful emissions and dangerous practices.
 
-- The 5 steps to Energy Freedom are:
+- **The 5 steps to Energy Freedom are:**
     1. Liberate responsible development
     2. End preferences for unreliable electricity
     3. Reform air/water emissions standards to incorporate cost-benefit analysis
     4. Reduce long-term CO2 emissions via liberating innovation
     5. Decriminalize nuclear
     
-- 1 Liberate responsible energy development
+- **1 Liberate responsible energy development**
 
     Anti-development policies prevent every form of energy from reaching its potential—from natural gas to nuclear to solar. Liberating responsible development throughout America will create unprecedented energy abundance and progress.
 
-- 2 End preferences for unreliable electricity
+- **2 End preferences for unreliable electricity**
 
     Today's electric grids are being ruined by systemic preferences for unreliable electricity, which causes prices to rise and reliability to decline.
 
     Eliminating them can help make America a leader in low-cost, reliable electricity.[^5]
 
-- 3 Reform air/water emissions standards based on proper cost-benefit analysis.
+- **3 Reform air/water emissions standards based on proper cost-benefit analysis.**
 
     Today’s Environmental Protection Agency does huge harm to prosperity and health via energy-crippling emissions standards that fail any reasonable cost-benefit analysis.
 
     Such analysis will lead to more energy and better health.
 
-- 4 Reduce CO2 emissions long-term through liberating innovation, not punishing America.
+- **4 Reduce CO2 emissions long-term through liberating innovation, not punishing America.**
 
     The only reasonable way to reduce CO2 emissions long-term is innovation that makes low-carbon energy globally cost-competitive. Punishing US emissions is senseless self-destruction.
 
-- 5 Decriminalize nuclear energy
+- **5 Decriminalize nuclear energy**
 
     The overregulation of low-carbon nuclear verges on criminalization, making nuclear costs 10X higher than they need to be. Decriminalizing nuclear, including radical reform of the Nuclear Regulatory Commission and Environmental Protection Agency, will make energy far cheaper, safer, and cleaner.[^6]
 
