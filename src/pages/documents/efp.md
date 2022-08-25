@@ -79,11 +79,11 @@ Originally published August 10, 2022\
     4. Reduce long-term CO2 emissions via liberating innovation
     5. Decriminalize nuclear
     
-- 1. Liberate responsible energy development
+- 1 Liberate responsible energy development
 
     Anti-development policies prevent every form of energy from reaching its potential—from natural gas to nuclear to solar. Liberating responsible development throughout America will create unprecedented energy abundance and progress.
 
-- 2. End preferences for unreliable electricity
+- 2 End preferences for unreliable electricity
 
     Today's electric grids are being ruined by systemic preferences for unreliable electricity, which causes prices to rise and reliability to decline.
 
