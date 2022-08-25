@@ -9,7 +9,8 @@ description: In Fossil Future I refute literally hundreds of myths about fossil
 featuredimage: /img/dessler.png
 ---
 Originally published on August 15, 2022
-***In my book Fossil Future, I refute literally hundreds of myths about fossil fuels.***
+
+    ***In my book Fossil Future, I refute literally hundreds of myths about fossil fuels.***
 
 ***Here are 20 myths that 11,000,000 people heard on Joe Rogan’s podcast this year from Andrew Dessler, a climate scientist/activist who misrepresented himself as an energy expert.***
 
