@@ -34,7 +34,7 @@ This is a lie. In fact, the Manchin Deal is just a new version of the Green New 
 Manchin’s deal contains all 4.
 
 - **1 The Manchin GND makes our grid far more dependent on unreliable solar/wind.**
-The Manchin deal features massive new subsidies for solar/wind over the next few years, plus $10s of billions in other handouts designed to dramatically increase the % of “unreliables” on our grid.[^2]
+    The Manchin deal features massive new subsidies for solar/wind over the next few years, plus $10s of billions in other handouts designed to dramatically increase the % of “unreliables” on our grid.[^2]
 
 - **2 The Manchin GND aggressively restricts fossil fuels.**
 It includes among other things, new taxes on oil and gas—and, worst of all, granting the Biden EPA essentially unlimited power to restrict fossil fuel projects (via butchering Section 115 of the Clean Air Act).
