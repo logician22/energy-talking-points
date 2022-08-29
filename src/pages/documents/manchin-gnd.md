@@ -160,7 +160,7 @@ But these **reforms are 1) not guaranteed, 2) undefined, and 3) corruption-induc
 
 - The IRA's pretext of “climate emergency” is totally invalid because while there is “climate change,” there is no “climate emergency.” Fossil fuels actually make us far safer from climate. That's why climate disaster deaths have decreased 98% over the last century.[^23]
 
-The IRA's pretext of “climate emergency” is also totally invalid because its “emergency” policies of solar/wind subsidies will do nothing to make low-carbon energy cost-competitive—which is the only humane and practical way to lower global CO2 emissions.
+- The IRA's pretext of “climate emergency” is also totally invalid because its “emergency” policies of solar/wind subsidies will do nothing to make low-carbon energy cost-competitive—which is the only humane and practical way to lower global CO2 emissions.
 ![climate disaster deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
 - **Tomorrow, Joe Manchin and 49 other Senators plan to pass an "inflation reduction act" that's really a "Manchin GND" due to its support of unreliable electricity, fossil fuel restrictions, leftist causes, and corruption.**\
