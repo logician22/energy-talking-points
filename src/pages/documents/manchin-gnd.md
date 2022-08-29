@@ -15,10 +15,10 @@ Originally published on August 4, 2022\
 ![Manchin deal](/img/manchin-gnd.jpg)
 
 - **The Manchin deal = The Green New Deal**\
-    1 More expensive, less reliable electricity via massive solar/wind subsidies.
-    2 New, costly restrictions on fossil fuels.
-    3 Billions to left-wing activists
-    4 Endless favoritism and corruption
+    1 More expensive, less reliable electricity via massive solar/wind subsidies.\
+    2 New, costly restrictions on fossil fuels.\
+    3 Billions to left-wing activists\
+    4 Endless favoritism and corruption\
     Tell your reps to stop the Manchin GND!
 
 - Joe Manchin has been pitching the energy/climate deal he just made as a reasonable, pro-fossil-fuel policy totally different from BBB, let alone the GND.
