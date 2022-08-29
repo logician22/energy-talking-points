@@ -14,12 +14,12 @@ Originally published on August 4, 2022\
 ***There is a good chance that Congress will pass this disastrous bill tomorrow. Let’s do everything we can to oppose it. Manchin in particular is sensitive to criticism [from industry and from West Virginia](https://thehill.com/homenews/senate/3586854-coal-industry-shocked-and-disheartened-by-manchin-climate-deal/). He is trying to pretend that his new deal is pro-fossil-fuel and has nothing to do with “Build Back Better.” The following points show that this is 100% false.***
 ![Manchin deal](/img/manchin-gnd.jpg)
 
-- **The Manchin deal = The Green New Deal**
+- **The Manchin deal = The Green New Deal**\
     1 More expensive, less reliable electricity via massive solar/wind subsidies.
-2 New, costly restrictions on fossil fuels.
-3 Billions to left-wing activists
-4 Endless favoritism and corruption
-Tell your reps to stop the Manchin GND!
+    2 New, costly restrictions on fossil fuels.
+    3 Billions to left-wing activists
+    4 Endless favoritism and corruption
+    Tell your reps to stop the Manchin GND!
 
 - Joe Manchin has been pitching the energy/climate deal he just made as a reasonable, pro-fossil-fuel policy totally different from BBB, let alone the GND.
 
