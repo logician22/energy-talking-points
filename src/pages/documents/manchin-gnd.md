@@ -27,11 +27,11 @@ Originally published on August 4, 2022\
 This is a lie. In fact, the Manchin Deal is just a new version of the Green New Deal.[^1]
 
 - 4 of the worst elements of the GND were:
-1 Making our grid far more dependent on unreliable solar/wind.
-2 Aggressively restricting fossil fuels.
-3 Giving billions to left-wing causes.
-4 Giving govt limitless, corruption-inducing power.
-Manchin’s deal contains all 4.
+    1 Making our grid far more dependent on unreliable solar/wind.
+    2 Aggressively restricting fossil fuels.
+    3 Giving billions to left-wing causes.
+    4 Giving govt limitless, corruption-inducing power.
+    Manchin’s deal contains all 4.
 
 - **1 The Manchin GND makes our grid far more dependent on unreliable solar/wind.**
     The Manchin deal features massive new subsidies for solar/wind over the next few years, plus $10s of billions in other handouts designed to dramatically increase the % of “unreliables” on our grid.[^2]
