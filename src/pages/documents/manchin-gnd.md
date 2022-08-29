@@ -33,18 +33,18 @@ This is a lie. In fact, the Manchin Deal is just a new version of the Green New 
     4 Giving govt limitless, corruption-inducing power.
     Manchin’s deal contains all 4.
 
-- **1 The Manchin GND makes our grid far more dependent on unreliable solar/wind.**
+- **1 The Manchin GND makes our grid far more dependent on unreliable solar/wind.**\
     The Manchin deal features massive new subsidies for solar/wind over the next few years, plus $10s of billions in other handouts designed to dramatically increase the % of “unreliables” on our grid.[^2]
 
-- **2 The Manchin GND aggressively restricts fossil fuels.**
-It includes among other things, new taxes on oil and gas—and, worst of all, granting the Biden EPA essentially unlimited power to restrict fossil fuel projects (via butchering Section 115 of the Clean Air Act).
+- **2 The Manchin GND aggressively restricts fossil fuels.**\
+    It includes among other things, new taxes on oil and gas—and, worst of all, granting the Biden EPA essentially unlimited power to restrict fossil fuel projects (via butchering Section 115 of the Clean Air Act).
 
-- **3 The Manchin GND gives billions to left-wing causes.**
-It includes $billions for undefined “environmental justice.”
+- **3 The Manchin GND gives billions to left-wing causes.**\
+    It includes $billions for undefined “environmental justice.”
 The WH-commissioned report on EJ is an extreme left-wing wish-list that says we must “sunset investment by 2030 in fossil fuels, plastics…and nuclear energy”!!![^3]
 
-- **4 The Manchin GND gives govt limitless, corruption-inducing power.**
-The deal itself has $10s of billions that bureaucrats can allocate arbitrarily. And Manchin’s requested permitting policies would give new, illegitimate powers that are guaranteed to be exercised corruptly.
+- **4 The Manchin GND gives govt limitless, corruption-inducing power.**\
+    The deal itself has $10s of billions that bureaucrats can allocate arbitrarily. And Manchin’s requested permitting policies would give new, illegitimate powers that are guaranteed to be exercised corruptly.
 
 - Manchin is positioning his deal as a “responsible path forward” in large part because Schumer offered him permitting reform, including faster permitting for some fossil fuel projects, this Fall.
 But these **reforms are 1) not guaranteed, 2) undefined, and 3) corruption-inducing.**
@@ -56,20 +56,20 @@ But these **reforms are 1) not guaranteed, 2) undefined, and 3) corruption-induc
 
 - 3 Worst of all, Manchin’s permitting reform wish-list includes **two terrible expansions of government power guaranteed to increase corruption**: a top 25 list of projects that the President can arbitrarily expedite and a specific provision for a single pipeline in Manchin’s state.
 
-- Manchin’s wish that the **President should designate 25 (or more) projects for expedited permitting is an open invitation for massive corruption** by all involved in granting privileged status.
-We need **expedited permitting in general**, not king-like powers for the President.
+- Manchin’s wish that the **President should designate 25 (or more) projects for expedited permitting is an open invitation for massive corruption** by all involved in granting privileged status.\
+    We need **expedited permitting in general**, not king-like powers for the President.
 
 - Manchin’s wish that **Congress “Complete the Mountain Valley Pipeline”—a single project he cares about—means Congress unconstitutionally usurping Executive power**. MVP and other pipelines **should be completed** due to general permitting reform, not rampant favoritism for one Senator.
 
 - The bottom line: **Manchin has agreed to his own version of the Green New Deal in exchange for an unenforceable promise to do something largely undefined, which to the extent it did happen would likely bring about massive corruption.**
 **He and other Senators should cancel this deal.**
 
-- The Manchin GND’s new **solar/wind subsidies + fossil fuel restrictions are guaranteed to worsen the issues Manchin says he cares about most**:
-**1 inflation**
-**2 electricity reliability**
-**3 recession**
-**4 energy security**
-And do little about global CO2 emissions.[^6]
+- The Manchin GND’s new **solar/wind subsidies + fossil fuel restrictions are guaranteed to worsen the issues Manchin says he cares about most**:\
+    **1 inflation**\
+    **2 electricity reliability**\
+    **3 recession**\
+    **4 energy security**\
+    And do little about global CO2 emissions.[^6]
 
 - 1 How solar/wind subsidies + fossil fuel restrictions will worsen price inflation
 Senator Manchin has rightly expressed extreme concern about price inflation in our economy.
