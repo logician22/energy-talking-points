@@ -23,8 +23,8 @@ Originally published on August 4, 2022\
 
 - Joe Manchin has been pitching the energy/climate deal he just made as a reasonable, pro-fossil-fuel policy totally different from BBB, let alone the GND.
 
-    ”Build Back Better is dead,” he brags.
-This is a lie. In fact, the Manchin Deal is just a new version of the Green New Deal.[^1]
+    ”Build Back Better is dead,” he brags.\
+    This is a lie. In fact, the Manchin Deal is just a new version of the Green New Deal.[^1]
 
 - 4 of the worst elements of the GND were:\
     1 Making our grid far more dependent on unreliable solar/wind.\
@@ -71,17 +71,17 @@ But these **reforms are 1) not guaranteed, 2) undefined, and 3) corruption-induc
     **4 energy security**\
     And do little about global CO2 emissions.[^6]
 
-- 1 How solar/wind subsidies + fossil fuel restrictions will worsen price inflation
-Senator Manchin has rightly expressed extreme concern about price inflation in our economy.
-The Manchin GND would inevitably increase electricity prices and therefore all prices.
+- 1 How solar/wind subsidies + fossil fuel restrictions will worsen price inflation\
+    Senator Manchin has rightly expressed extreme concern about price inflation in our economy.\
+    The Manchin GND would inevitably increase electricity prices and therefore all prices.
 
-- In Joe Manchin's comments about solar/wind subsidies and inflation he has expressed concerns about the 100s of billions of dollars these subsidies will cost the government.
-While that is a valid concern, the far worse consequence is their ruinous effect on electricity prices.[^7]
+- In Joe Manchin's comments about solar/wind subsidies and inflation he has expressed concerns about the 100s of billions of dollars these subsidies will cost the government.\
+    While that is a valid concern, the far worse consequence is their ruinous effect on electricity prices.[^7]
 
-- **Rising electricity prices drive price inflation in two basic ways.**
-**1 Increasing the prices Americans pay directly for electricity.**
-**2 Increasing the prices of all goods produced using American electricity.**
-New solar/wind subsidies will inevitably increase electricity prices.
+- **Rising electricity prices drive price inflation in two basic ways.**\
+    **1 Increasing the prices Americans pay directly for electricity.**\
+    **2 Increasing the prices of all goods produced using American electricity.**\
+    New solar/wind subsidies will inevitably increase electricity prices.
 
 - Every area of the world that has tried using significant amounts of solar and wind has had major problems with rising costs. Germans, to get 37% of their electricity from solar/wind, have doubled their prices—now 3X US prices. And their situation is getting worse fast.[^8]
 
@@ -92,13 +92,13 @@ New solar/wind subsidies will inevitably increase electricity prices.
 
 - **Calling the Manchin Green New Deal the “Inflation Reduction Act of 2022” when it is guaranteed to drive up energy prices and therefore all prices, rivals “War is peace” and “Freedom is slavery” for accuracy.**
 
-- 2 How solar/wind subsidies + FF restrictions will worsen electricity reliability
-Manchin has said “The main thing that we need is…reliability. If not, you'll have what happened in Texas and what happens in California.”
-**More solar/wind subsidies will make TX and CA the norm.**[^11]
+- 2 How solar/wind subsidies + FF restrictions will worsen electricity reliability\
+    Manchin has said “The main thing that we need is…reliability. If not, you'll have what happened in Texas and what happens in California.”\
+    **More solar/wind subsidies will make TX and CA the norm.**[^11]
 
-- America already has worsening electricity reliability.
-Not only have we witnessed unprecedented problems in CA and TX, this summer blackout warnings are occurring all around the US.
-FERC Commissioner Mark Christie puts it bluntly “**We’re heading for a reliability crisis.**”[^12]
+- America already has worsening electricity reliability.\
+    Not only have we witnessed unprecedented problems in CA and TX, this summer blackout warnings are occurring all around the US.\
+    FERC Commissioner Mark Christie puts it bluntly “**We’re heading for a reliability crisis.**”[^12]
 
 - The root cause of the reliability crisis is simple: America is shutting down too many reliable power plants, often to try to cope with the large costs of installing so many unreliable solar panels and wind turbines and the massive new transmission lines they require.
 
@@ -112,36 +112,36 @@ FERC Commissioner Mark Christie puts it bluntly “**We’re heading for a relia
 
 - Don't fall for the portrayal of solar/wind subsidies as exciting “investments” that will “only” cost 100s of billions of $. **By making the electricity grid even more unreliable, they will cost trillions of dollars in reliability costs—driving price inflation even that much more.**
 
-- 3 How new solar/wind subsidies + FF restrictions will worsen recession
-Senator Manchin has rightly expressed worries about anything that might make “pending recession” worse.
-**Solar/wind subsidies + FF restrictions will worsen any recession via high-cost, unreliable power.**[^14]
+- 3 How new solar/wind subsidies + FF restrictions will worsen recession\
+    Senator Manchin has rightly expressed worries about anything that might make “pending recession” worse.\
+    **Solar/wind subsidies + FF restrictions will worsen any recession via high-cost, unreliable power.**[^14]
 
 - The energy industry is the industry that powers every other industry. The lower cost and more reliable energy is, the better our economy is. The higher cost and less reliable energy is, the worse our economy is.
 
-- At a time of increasing recession risk, **it should be unthinkable to support policies that are guaranteed to make electricity—industry’s leading source of energy—more expensive and less reliable.**
-**Yet that’s what the Orwellian “Inflation Reduction Act” insists on.**
+- At a time of increasing recession risk, **it should be unthinkable to support policies that are guaranteed to make electricity—industry’s leading source of energy—more expensive and less reliable.**\
+    **Yet that’s what the Orwellian “Inflation Reduction Act” insists on.**
 
-- 4 How massive new solar/wind subsidies will worsen energy security
-Senator Manchin has repeatedly and rightly expressed concerns about “the state of American energy security.”
-Increasing solar and wind subsidies will inevitably make the situation worse.[^15]
+- 4 How massive new solar/wind subsidies will worsen energy security\
+    Senator Manchin has repeatedly and rightly expressed concerns about “the state of American energy security.”\
+    Increasing solar and wind subsidies will inevitably make the situation worse.[^15]
 
 - The mining and processing of solar/wind-related materials is dominated by China to a staggering degree. The US does little mining or processing of these materials, largely because of "green" restrictions. **Our dependence on China for solar/wind dwarfs past mideast oil dependence.**[^16]
 
 - **Making our grid even more dependent on China-centered, unreliable solar and wind is a direct sacrifice to China**—whose >80% fossil fueled industry (including mostly-coal-powered grid) will profit mightily while holding our security at their mercy.[^17]
 ![China energy mix](/img/china-energy.png)
 
-- Do not be fooled by claims that new support for domestic solar/wind production will solve the problem of dependence on China.
-Because this support does nothing to reduce the “green” restrictions on mining and processing, it will just lead to even more expensive solar/wind.
+- Do not be fooled by claims that new support for domestic solar/wind production will solve the problem of dependence on China.\
+    Because this support does nothing to reduce the “green” restrictions on mining and processing, it will just lead to even more expensive solar/wind.
 
-- “I will **not vote to support policies that make the US more dependent on foreign energy and supply chains** or risk moving the country closer to the unstable and vulnerable European model of energy we are witnessing today.”
-    —- Joe Manchin
+- “I will **not vote to support policies that make the US more dependent on foreign energy and supply chains** or risk moving the country closer to the unstable and vulnerable European model of energy we are witnessing today.”\
+    —- Joe Manchin\
     **But he and 49 other Senators are about to.**[^18]
 
-- Harming West Virginia the most
-**Senator Manchin's statement endorsement of the “Inflation Reduction Act of 2022” contains no mention of the people of West Virginia.** Which makes sense because the largest victim of this Act's many victims will be the economy of West Virginia.
+- Harming West Virginia the most\
+    **Senator Manchin's statement endorsement of the “Inflation Reduction Act of 2022” contains no mention of the people of West Virginia.** Which makes sense because the largest victim of this Act's many victims will be the economy of West Virginia.
 
-- **The evidence is clear: the IRA's massive solar/wind subsidies + fossil fuel restrictions would worsen inflation, electricity reliability, recession, and energy security.
-And West Virginia would suffer the most.**
+- **The evidence is clear: the IRA's massive solar/wind subsidies + fossil fuel restrictions would worsen inflation, electricity reliability, recession, and energy security.**\
+    **And West Virginia would suffer the most.**
 
 - Low-cost, reliable electricity is one of West Virginia's great assets. Thanks to its overwhelmingly coal-fired electricity, West Virginia has some of the lowest electricity rates in the country—second only to coal-heavy Kentucky on the East Coast.[^19]
 ![WV electricity generation](/img/wv-electr.png)
@@ -155,16 +155,16 @@ And West Virginia would suffer the most.**
 
 - Do not believe claims that magic “green jobs” will make West Virginia better after the IRA destroys the coal industry. "Green jobs" are: 1) unproductive, 2) largely in China, and 3) the cause of job losses in other industries via high energy prices.[^22]
 
-- The Manchin GND, aka the “Inflation Reduction Act,” would decrease electricity reliability, increase price inflation, worsen recession, weaken energy security, and wreck West Virginia.
-**WV citizens, please demand that Senator Manchin withdraw his support for this disaster.**
+- The Manchin GND, aka the “Inflation Reduction Act,” would decrease electricity reliability, increase price inflation, worsen recession, weaken energy security, and wreck West Virginia.\
+    **WV citizens, please demand that Senator Manchin withdraw his support for this disaster.**
 
 - The IRA's pretext of “climate emergency” is totally invalid because while there is “climate change,” there is no “climate emergency.” Fossil fuels actually make us far safer from climate. That's why climate disaster deaths have decreased 98% over the last century.[^23]
 
 The IRA's pretext of “climate emergency” is also totally invalid because its “emergency” policies of solar/wind subsidies will do nothing to make low-carbon energy cost-competitive—which is the only humane and practical way to lower global CO2 emissions.
 ![climate disaster deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
-- **Tomorrow, Joe Manchin and 49 other Senators plan to pass an "inflation reduction act" that's really a "Manchin GND" due to its support of unreliable electricity, fossil fuel restrictions, leftist causes, and corruption.
-We must tell our Senators to stop this. Especially Manchin.**
+- **Tomorrow, Joe Manchin and 49 other Senators plan to pass an "inflation reduction act" that's really a "Manchin GND" due to its support of unreliable electricity, fossil fuel restrictions, leftist causes, and corruption.**\
+    **We must tell our Senators to stop this. Especially Manchin.**
 
 ### References
 
