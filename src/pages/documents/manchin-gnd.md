@@ -8,7 +8,7 @@ description: Contrary to Joe Manchin's "Build Back Better is dead" rhetoric
   destructive elements of the Green New Deal.
 featuredimage: /img/manchin-gnd.jpg
 ---
-Originally published on August 4, 2022
+Originally published on August 4, 2022\
 ***Two weeks ago, I [praised Senator Joe Manchin](https://alexepstein.substack.com/p/an-open-letter-to-senator-joe-manchin) for his seemingly courageous opposition to the ruinous Biden anti-fossil-fuel “climate agenda.” I also [expressed concern](https://alexepstein.substack.com/p/an-open-letter-to-senator-joe-manchin) that he would reverse course. Unfortunately, that concern turned out to be prescient, as Manchin has now endorsed an “Inflation Reduction Act” that contains many of the worst elements of “Build Back Better” and even “The Green New Deal.”***
 
 ***There is a good chance that Congress will pass this disastrous bill tomorrow. Let’s do everything we can to oppose it. Manchin in particular is sensitive to criticism [from industry and from West Virginia](https://thehill.com/homenews/senate/3586854-coal-industry-shocked-and-disheartened-by-manchin-climate-deal/). He is trying to pretend that his new deal is pro-fossil-fuel and has nothing to do with “Build Back Better.” The following points show that this is 100% false.***
@@ -23,7 +23,7 @@ Tell your reps to stop the Manchin GND!
 
 - Joe Manchin has been pitching the energy/climate deal he just made as a reasonable, pro-fossil-fuel policy totally different from BBB, let alone the GND.
 
-”Build Back Better is dead,” he brags.
+    ”Build Back Better is dead,” he brags.
 This is a lie. In fact, the Manchin Deal is just a new version of the Green New Deal.[^1]
 
 - 4 of the worst elements of the GND were:
@@ -134,8 +134,8 @@ Increasing solar and wind subsidies will inevitably make the situation worse.[^1
 Because this support does nothing to reduce the “green” restrictions on mining and processing, it will just lead to even more expensive solar/wind.
 
 - “I will **not vote to support policies that make the US more dependent on foreign energy and supply chains** or risk moving the country closer to the unstable and vulnerable European model of energy we are witnessing today.”
-—- Joe Manchin
-**But he and 49 other Senators are about to.**[^18]
+    —- Joe Manchin
+    **But he and 49 other Senators are about to.**[^18]
 
 - Harming West Virginia the most
 **Senator Manchin's statement endorsement of the “Inflation Reduction Act of 2022” contains no mention of the people of West Virginia.** Which makes sense because the largest victim of this Act's many victims will be the economy of West Virginia.
