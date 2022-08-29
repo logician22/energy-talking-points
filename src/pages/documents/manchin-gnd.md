@@ -26,11 +26,11 @@ Originally published on August 4, 2022\
     ”Build Back Better is dead,” he brags.
 This is a lie. In fact, the Manchin Deal is just a new version of the Green New Deal.[^1]
 
-- 4 of the worst elements of the GND were:
-    1 Making our grid far more dependent on unreliable solar/wind.
-    2 Aggressively restricting fossil fuels.
-    3 Giving billions to left-wing causes.
-    4 Giving govt limitless, corruption-inducing power.
+- 4 of the worst elements of the GND were:\
+    1 Making our grid far more dependent on unreliable solar/wind.\
+    2 Aggressively restricting fossil fuels.\
+    3 Giving billions to left-wing causes.\
+    4 Giving govt limitless, corruption-inducing power.\
     Manchin’s deal contains all 4.
 
 - **1 The Manchin GND makes our grid far more dependent on unreliable solar/wind.**\
