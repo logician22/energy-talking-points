@@ -15,7 +15,7 @@ Originally published on August 4, 2022\
 ![Manchin deal](/img/manchin-gnd.jpg)
 
 - **The Manchin deal = The Green New Deal**
-1 More expensive, less reliable electricity via massive solar/wind subsidies.
+    1 More expensive, less reliable electricity via massive solar/wind subsidies.
 2 New, costly restrictions on fossil fuels.
 3 Billions to left-wing activists
 4 Endless favoritism and corruption
