@@ -179,21 +179,21 @@ We must tell our Senators to stop this. Especially Manchin.**
 [^5]: [E&E News - ‘See what sticks’: Manchin releases permitting wish list](https://www.eenews.net/articles/see-what-sticks-manchin-releases-permitting-wish-list/)
 
 [^6]:
-    Bjorn Lomborg - Biden’s Climate Ambitions Are Too Costly for Voters](https://www.wsj.com/articles/climate-change-cost-economy-emissions-tax-per-person-net-zero-joe-biden-11634159179)
+    [Bjorn Lomborg - Biden’s Climate Ambitions Are Too Costly for Voters](https://www.wsj.com/articles/climate-change-cost-economy-emissions-tax-per-person-net-zero-joe-biden-11634159179)
 
-    The largest increase in energy consumption and CO2 emissions is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
+    The largest increase in energy consumption and CO2 emissions is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
     [U.S. Energy Information Administration - International Energy Outlook 2021, reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=10-IEO2021&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~~~~~~~~~~~~~~~~~~~~Reference-d210719.11-10-IEO2021~Reference-d210719.25-10-IEO2021&ctype=linechart&sourcekey=0)
 
 [^7]: [AP News - Manchin cites inflation concerns, roiling budget talks anew](https://apnews.com/article/inflation-joe-manchin-congress-climate-and-environment-0bfd4f4a54b1f4e57a8950980c3e13cd)
 
 [^8]:
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jul 2022](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2020 was $0.1315 per kWh. In California it was $0.2045 per kWh.
+    The average US household price in 2020 was $0.1315 per kWh. In California it was $0.2045 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
-    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.
+    Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.\
     [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
 
 [^9]: [German grid data by Bundesnetzagentur SMARD](https://www.smard.de/)
@@ -222,16 +222,16 @@ We must tell our Senators to stop this. Especially Manchin.**
 [^18]: [Homepage of Senator Joe Manchin - MANCHIN SUPPORTS INFLATION REDUCTION ACT OF 2022](https://www.manchin.senate.gov/newsroom/press-releases/manchin-supports-inflation-reduction-act-of-2022)
 
 [^19]:
-    In 2020 coal generated 89% of West Virginia’s electricity.
+    In 2020 coal generated 89% of West Virginia’s electricity.\
     [Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
 
-    “In 2020, West Virginia had the second-lowest average price for electricity, after Kentucky, among states east of the Mississippi River”
+    “In 2020, West Virginia had the second-lowest average price for electricity, after Kentucky, among states east of the Mississippi River”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^20]:
     [U.S. Energy Information Administration - ELECTRICITY DATA BROWSER](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=vvvvvvvvvvvvo&endsec=vg&linechart=ELEC.PRICE.CA-RES.A~~~~ELEC.PRICE.US-RES.A~ELEC.PRICE.WV-RES.A~~~&columnchart=ELEC.PRICE.TX-ALL.A~ELEC.PRICE.TX-RES.A~ELEC.PRICE.TX-COM.A~ELEC.PRICE.TX-IND.A&map=ELEC.PRICE.US-ALL.A&freq=A&start=2001&end=2020&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=)
 
-    “The industrial sector accounts for the largest share of end-use energy consumption in West Virginia, at 45% of the state's total.”
+    “The industrial sector accounts for the largest share of end-use energy consumption in West Virginia, at 45% of the state's total.”\
     [U.S. Energy Information Administration - West Virginia State Energy Profile, Analysis](https://www.eia.gov/state/analysis.php?sid=WV)
 
 [^21]: [Christiadi; Bowen, Eric; and Deskins, John, "The Economic Impact of Coal and Coal-Fired Power Generation in West Virginia" (2021). Bureau of Business & Economic Research. 327.](https://researchrepository.wvu.edu/bureau_be/327/)
