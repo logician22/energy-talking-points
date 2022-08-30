@@ -7,10 +7,10 @@ description: The pro-human CO2 policy is to reduce CO2 emissions long-term
   through liberating innovation, not punishing America.
 featuredimage: /img/city-skyline-during-night-time.jpg
 ---
-Originally published on August 24, 2022
+    Originally published on August 24, 2022\
     **America is taking a “punish America” approach to reducing CO2, making our energy more expensive and less reliable while China, Russia, and others increase their emissions.**
 
-    **We need a “liberate American innovation” policy instead.**
+**We need a “liberate American innovation” policy instead.**
 
 *The Reality*
 - The only moral and practical way to reduce CO2 emissions is innovation that makes low-carbon energy globally cost-competitive. **So long as fossil fuels are the most cost-competitive option for people, especially in developing nations, they will (rightly) choose to emit CO2.**
@@ -20,7 +20,7 @@ Originally published on August 24, 2022
 
 - The developing world overwhelmingly uses fossil fuels because that is **by far the lowest-cost way for them to get reliable energy**. Unreliable solar and wind can’t come close. That’s why **China and India have hundreds of new coal plants in development**.[^2]
 
-The only way to lower CO2 emissions and benefit America is to promote innovation that makes low-carbon energy truly reliable and low-cost. **Are China and India going to stop using fossil fuels so long as they are the lowest-cost option?** They won’t and they shouldn’t.
+- The only way to lower CO2 emissions and benefit America is to promote innovation that makes low-carbon energy truly reliable and low-cost. **Are China and India going to stop using fossil fuels so long as they are the lowest-cost option?** They won’t and they shouldn’t.
 
 *The Opportunity*
 - Fortunately, **there are low-carbon energy technologies with great promise.** For example, **nuclear energy provided low-cost, reliable electricity in the 1960s and 1970s**, and has shown great promise for providing industrial process heat as well as power for heavy-duty transportation.[^3]
@@ -43,7 +43,7 @@ The only way to lower CO2 emissions and benefit America is to promote innovation
 
 - Low-carbon energy policy has also failed because it has been dominated by the **false idea that the climate impact of rising CO2 levels from fossil fuel use constitutes a “climate emergency” requiring desperate, crash programs** that inevitably punish America.
 
-- The latest example of the desperate approach to CO2 reduction was the **Orwellian “Inflation Reduction Act,”** which was **rushed through Congress without any real discussion**—and which in practice will enrich the green lobby while devastating our grid.
+- The latest example of the desperate approach to CO2 reduction was the **Orwellian “Inflation Reduction Act,”** which was **rushed through Congress without any real discussion**—and which in practice will enrich the green lobby while devastating our grid.\
     [Stop The Manchin Green New Deal](https://alexepstein.substack.com/p/stop-the-manchin-green-new-deal)
 
 - **While “climate change”—humans impacting climate—is real, “climate emergency” is not. The world is slowly becoming warmer—at a cold point in geological history, when many more people die of cold** than of heat. This doesn't at all justify rapidly restricting global fossil fuel use.[^6]
@@ -99,7 +99,7 @@ The only way to lower CO2 emissions and benefit America is to promote innovation
     [Global Energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
 
 [^3]:
-    [Lovering et al. (2016)](https://doi.org/10.1016/j.enpol.2016.01.011)
+    [Lovering et al. (2016)](https://doi.org/10.1016/j.enpol.2016.01.011)\
     [Power Hour - How to liberate nuclear energy, with Robert Zubrin](https://youtu.be/MQtgkT8nqgc)
 
 [^4]:
