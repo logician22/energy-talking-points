@@ -52,13 +52,13 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
     Consider 10 undeniable facts
 
-- **5 undeniable facts about fossil fuels’ benefits**
+- **5 undeniable facts about fossil fuels’ benefits**\
 
-    1 Human flourishing requires cost-effective energy
-    2 Far more energy is needed
-    3 Fossil fuels are uniquely cost-effective
-    4 Unreliable solar and wind are failing to replace fossil fuels
-    5 Fossil fuels give us an incredible climate mastery ability
+    1 Human flourishing requires cost-effective energy\
+    2 Far more energy is needed\
+    3 Fossil fuels are uniquely cost-effective\
+    4 Unreliable solar and wind are failing to replace fossil fuels\
+    5 Fossil fuels give us an incredible climate mastery ability\
 
 - **Undeniable energy fact 1: Cost-effective energy is essential to human flourishing**
 
