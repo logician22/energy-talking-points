@@ -18,7 +18,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
     Because it follows from 3 irrefutable principles for thinking about fossil fuels that I, as a philosopher and energy expert, follow—and most “experts” don't.
 
-- My 3 **irrefutable principles for thinking about fossil fuels**, which no opponent has ever challenged:
+- My 3 **irrefutable principles for thinking about fossil fuels**, which no opponent has ever challenged:\
 
     1 Factor in fossil fuels’ benefits
     2 Factor in fossil fuels’ “climate mastery benefits”
@@ -44,7 +44,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - **Irrefutable principle 3: Factor in fossil fuels’ negative and positive climate side-effects with precision**
 
-    With rising CO2 we must **consider both negatives** (more heatwaves) **and positives** (fewer cold deaths). And we must **be ***precise***, not equating some impact with ***huge*** impact.***
+    With rising CO2 we must **consider both negatives** (more heatwaves) **and positives** (fewer cold deaths). And we must **be precise, not equating some impact with huge impact**.
 
 - Even though we obviously need to factor in both negative and positive impacts of rising CO2 with precision, **most designated experts ignore big positives** (e.g., global greening) **while catastrophizing negatives** (e.g., Gore portrays 20 ft sea level rise as imminent when extreme UN projections are 3ft/100yrs).
 
@@ -69,7 +69,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - **Undeniable energy fact 2: The world needs much more energy**
 
-    Billions of people lack the cost-effective energy they need to flourish. **3 billion use less electricity than a typical American refrigerator. 1/3 of the world uses wood/dung for heating/cooking. ***Much more*** energy is needed**.[^2]
+    Billions of people lack the cost-effective energy they need to flourish. **3 billion use less electricity than a typical American refrigerator. 1/3 of the world uses wood/dung for heating/cooking. Much more energy is needed**.[^2]
 ![biomass use](/img/art-b-33-of-the-world-uses-wood-and-dung.png)
 
 - The desperate lack of life-giving, cost-effective energy means that any replacement for fossil fuels must not only provide energy to the 2B who use significant amounts of energy today but to the 6B who use far less. **Restricting fossil fuels without incredible alternatives is mass-murder**.
@@ -187,7 +187,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - You might be wondering: **Why do our leading thinkers make the errors of ignoring the benefits of fossil fuels and catastrophizing their climate side-effects?**
 
-    My answer: they accept, sometimes knowingly sometimes not, **anti-human ***assumptions*** and anti-human ***values*****.
+    My answer: they accept, sometimes knowingly sometimes not, **anti-human assumptions and anti-human values**.
 
 - The major philosophical reason leading thinkers **catastrophize the side-effects of fossil fuels** is a **false assumption I call “the delicate nurturer”**: Earth/climate unimpacted by humans exists in **a delicate, nurturing (stable, safe, sufficient) balance that human impact ruins**.
 
@@ -201,7 +201,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - Realizing that leading **thinkers and institutions** were **driven by anti-human ideas to ignore fossil fuels’ benefits and catastrophize their side-effects motivated me as a philosopher to become an energy expert** and discover the truth about fossil fuels' benefits and side-effects.
 
-- The **ultimate synthesis of my 15 years of trying to understand** the full benefits and side-effects of fossil fuels is my new, blockbuster book ***[Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/)***.
+- The **ultimate synthesis of my 15 years of trying to understand** the full benefits and side-effects of fossil fuels is my new, blockbuster book ***[Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/).***
 
 - If you are a student or educator, you can get a free copy of Fossil Future from Young America's Foundation. Just use [this link](https://www.yaf.org/fossilfuture/).
     In the 3 months Fossil Future has been out, many people have attacked me personally or tried to straw-man my case. But no one has come close to refuting my case. Because it's based on irrefutable principles and undeniable facts.
