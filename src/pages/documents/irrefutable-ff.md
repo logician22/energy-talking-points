@@ -214,8 +214,8 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 ### References
 
 [^1]:
-    [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
-    [World Bank Data](https://data.worldbank.org/)
+    [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)\
+    [World Bank Data](https://data.worldbank.org/)\
     [Scripps Institution of Oceanography - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
 [^2]: [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
@@ -227,14 +227,14 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 [^5]: [Alex Epstein - Talking Points on the "Other countries have 80% clean electricity" argument](https://energytalkingpoints.com/other-countries-80-percent/)
 
 [^6]:
-    “The battery pack portion of it is less than $200/kWh. Power electronics and servicing over 15 to 20 years take the price up to roughly $300/kWh.”
-    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)
+    “The battery pack portion of it is less than $200/kWh. Power electronics and servicing over 15 to 20 years take the price up to roughly $300/kWh.”\
+    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)\
 
-    World energy consumption is 583.9 Exajoule annually or 4.8 EJ per 3 days ≈ 1,330 TWh (1 EJ ≈ 278 TWh)
-1,330 TWh * $300/kWh = $399 trillion.
-    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+    World energy consumption is 583.9 Exajoule annually or 4.8 EJ per 3 days ≈ 1,330 TWh (1 EJ ≈ 278 TWh)\
+    1,330 TWh * $300/kWh = $399 trillion.\ 
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
 
-    Global annual GDP <$100 trillion.
+    Global annual GDP <$100 trillion.\
     [World Bank Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
 [^7]:
@@ -256,7 +256,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
     Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
 
-    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. … Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”
+    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. … Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”\
     [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [^10]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
