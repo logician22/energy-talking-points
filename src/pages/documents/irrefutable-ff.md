@@ -52,13 +52,13 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
     Consider 10 undeniable facts
 
-- **5 undeniable facts about fossil fuels’ benefits**\
+- **5 undeniable facts about fossil fuels’ benefits**
 
     1 Human flourishing requires cost-effective energy\
     2 Far more energy is needed\
     3 Fossil fuels are uniquely cost-effective\
     4 Unreliable solar and wind are failing to replace fossil fuels\
-    5 Fossil fuels give us an incredible climate mastery ability\
+    5 Fossil fuels give us an incredible climate mastery ability
 
 - **Undeniable energy fact 1: Cost-effective energy is essential to human flourishing**
 
@@ -97,8 +97,8 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 - Unfortunately, there are **opportunistic anti-fossil-fuel activist academics** who have been feeding the absurd fantasy of rapid global replacement of fossil fuels via unreliable solar and wind. These academics are **squarely responsible for today’s global crisis of insufficient fossil fuel supply**.
 
 - **All academic schemes to replace fossil fuels with mostly solar/wind share 3 absurd assumptions:**
-    **1) schemes never tried anywhere will cheaply work everywhere the 1st time**
-    **2) a crash program of unprecedented mining will be cheap**
+    **1) schemes never tried anywhere will cheaply work everywhere the 1st time**\
+    **2) a crash program of unprecedented mining will be cheap**\
     **3) today’s anti-development politics won’t slow anything down**
 
 - Bottom line: If we recognize the undeniable facts about energy, we must conclude that **if 8 billion people are going to have the cost-effective energy they need to flourish, in the far greater quantities needed, fossil fuel use needs to increase**. Rapidly restricting it is deadly, period.
