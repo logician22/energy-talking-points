@@ -228,11 +228,11 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 [^6]:
     “The battery pack portion of it is less than $200/kWh. Power electronics and servicing over 15 to 20 years take the price up to roughly $300/kWh.”\
-    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)\
+    [Cleantechnica - Tesla Megapack, Powerpack, & Powerwall Battery Storage Prices Per KWh](https://cleantechnica.com/2020/10/05/tesla-megapack-powerpack-powerwall-battery-storage-prices/)
 
     World energy consumption is 583.9 Exajoule annually or 4.8 EJ per 3 days ≈ 1,330 TWh (1 EJ ≈ 278 TWh)\
-    1,330 TWh * $300/kWh = $399 trillion.\ 
-    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)\
+    1,330 TWh * $300/kWh = $399 trillion.
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
     Global annual GDP <$100 trillion.\
     [World Bank Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
