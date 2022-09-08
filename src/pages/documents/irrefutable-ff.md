@@ -62,7 +62,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - **Undeniable energy fact 1: Cost-effective energy is essential to human flourishing**
 
-    Cost-effective energy—**affordable, reliable, versatile, scalable energy**—is essential to human flourishing because **gives us the ability to use machines to become productive and prosperous**.
+    Cost-effective energy—**affordable, reliable, versatile, scalable energy**—is essential to human flourishing because it **gives us the ability to use machines to become productive and prosperous**.
 
 - Thanks to today’s unprecedented availability of cost-effective energy (mostly fossil fuel) **the world has never been a better place for human life**. Life expectancy and income have been skyrocketing, with extreme poverty (<$2/day) plummeting from 42% in 1980 to <10% today.[^1]
 ![human flourishing hockey sticks](/img/art-07-the-hydrocarbons-and-human-flourishing-hockey-sticks.png)
