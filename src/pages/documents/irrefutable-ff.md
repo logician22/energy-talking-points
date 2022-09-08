@@ -269,7 +269,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
     [IPCC AR6, WG1, chapter 4](https://www.ipcc.ch/report/ar6/wg1/)
 
     Even in the extreme, and likely unachievable, emissions scenario leading to 8.5W/m^2 of additional energy influx to the planetary surface (dark red line), temperatures will eventually level off. This scenario requires viable alternatives like nuclear to be unavailable for another century or more while we maintain population and significant economic growth.
-![IPCC scenarios](static/img/ipcc-temps.png)
+![IPCC scenarios](/img/ipcc-temps.png)
 
 [^14]: [NOAA - Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
 
