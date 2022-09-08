@@ -96,7 +96,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - Unfortunately, there are **opportunistic anti-fossil-fuel activist academics** who have been feeding the absurd fantasy of rapid global replacement of fossil fuels via unreliable solar and wind. These academics are **squarely responsible for today’s global crisis of insufficient fossil fuel supply**.
 
-- **All academic schemes to replace fossil fuels with mostly solar/wind share 3 absurd assumptions:**
+- **All academic schemes to replace fossil fuels with mostly solar/wind share 3 absurd assumptions:**\
     **1) schemes never tried anywhere will cheaply work everywhere the 1st time**\
     **2) a crash program of unprecedented mining will be cheap**\
     **3) today’s anti-development politics won’t slow anything down**
