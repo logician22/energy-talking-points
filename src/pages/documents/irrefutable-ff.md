@@ -124,10 +124,10 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - **5 undeniable facts about fossil fuels’ climate side-effects**
 
-    1 CO2 emissions correlate with 1°C warming, + greening
-    2 Deaths from cold > deaths from heat
-    3 CO2 warming occurs more in colder places
-    4 CO2 warming diminishes as levels rise
+    1 CO2 emissions correlate with 1°C warming, + greening\
+    2 Deaths from cold > deaths from heat\
+    3 CO2 warming occurs more in colder places\
+    4 CO2 warming diminishes as levels rise\
     5 Even IPCC extreme projections are masterable
 
 - **Undeniable climate fact 1: CO2 emissions correlate with 1°C warming, + greening**
