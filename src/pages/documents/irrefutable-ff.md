@@ -18,10 +18,10 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
     Because it follows from 3 irrefutable principles for thinking about fossil fuels that I, as a philosopher and energy expert, follow—and most “experts” don't.
 
-- My 3 **irrefutable principles for thinking about fossil fuels**, which no opponent has ever challenged:\
+- My 3 **irrefutable principles for thinking about fossil fuels**, which no opponent has ever challenged:
 
-    1 Factor in fossil fuels’ benefits
-    2 Factor in fossil fuels’ “climate mastery benefits”
+    1 Factor in fossil fuels’ benefits\
+    2 Factor in fossil fuels’ “climate mastery benefits”\
     3 Factor in fossil fuels’ negative and positive climate side-effects with precision
 
 - **Irrefutable principle 1: Factor in fossil fuels’ benefits**
