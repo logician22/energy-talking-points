@@ -220,7 +220,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 [^2]: [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
 
-[^3] [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+[^3]: [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^4]: [Alex Epstein - Talking Points on the reconciliation bill, part 2: the 10-year extension of solar and wind subsidies](https://energytalkingpoints.com/itc-ptc-expansion/)
 
