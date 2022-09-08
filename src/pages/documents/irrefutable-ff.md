@@ -154,7 +154,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
     The mainstream view in climate science is that **more warming will be concentrated in colder places (Northern latitudes) and at colder times (nighttime) and during colder seasons (winter)**.[^11]
 
     This is good news.
-![amplification](/img/noaa-arctic-amplication.png)
+    ![amplification](/img/noaa-arctic-amplication.png)
 
 - While we're taught to think of warming as “global” or even concentrated in the hottest parts of the world, it is in fact concentrated in the coldest parts of the world during the coldest times. That **makes warming less disruptive and in many cases beneficial**.
 
