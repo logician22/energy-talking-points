@@ -12,7 +12,7 @@ Originally published on September 7, 2022
 
 **America's grid is in decline and about to get far worse due to policies that 1) reward unreliable electricity, 2) prematurely shut down coal plants, 3) criminalize nuclear, and 4) force electric vehicle use.**
 
-    **Here’s what’s happening and how to fix it.**
+**Here’s what’s happening and how to fix it.**
 
 - A reliable grid is a foundation of our quality of life. **Our lives depend on ultra-reliable electricity** for the refrigerators that preserve our food, the water treatment plants that keep our water drinkable, the air conditioning that keeps us cool, the factories that produce our goods, etc.
 
@@ -60,9 +60,9 @@ Originally published on September 7, 2022
 
 - To solve the reliability crisis we must understand and reverse **the four policies turning America’s grid into a Third-World grid**:
 
-    1) rewarding unreliable electricity\
-    2) imposing ruinous Environmental Protection Agency rules on power plants\
-    3) criminalizing nuclear\
+    1) rewarding unreliable electricity
+    2) imposing ruinous Environmental Protection Agency rules on power plants
+    3) criminalizing nuclear
     4) forcing electric vehicle use
 
 - **Grid-destroying policy 1: Rewarding unreliable electricity**
@@ -152,7 +152,7 @@ Originally published on September 7, 2022
 
 - **Summary: Our grid is disastrously declining thanks to policies that 1) reward unreliable electricity, 2) prematurely shut down coal plants, 3) criminalize nuclear, and 4) force electric vehicle use.**
 
-    *By reversing these policies we can not only avert disaster but make our grid a world leader.**
+    **By reversing these policies we can not only avert disaster but make our grid a world leader.**
 
 
 ### References
@@ -160,7 +160,7 @@ Originally published on September 7, 2022
 [^1]: [America’s Power - What Others Are Saying About the Potential Reliability Crisis](https://americaspower.org/what-others-are-saying-about-the-potential-reliability-crisis/)
 
 [^2]:
-    [Alex Epstein - Energy Talking Points on Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
+    [Alex Epstein - Energy Talking Points on Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)\
     [Data from U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/balancing_authority/ERCO)
 
 [^3]: [MISO - 2022/2023 Planning Resource Auction (PRA) Results](https://cdn.misoenergy.org/2022%20PRA%20Results624053.pdf)
@@ -172,7 +172,7 @@ Originally published on September 7, 2022
 [^6]: [U.S. EIA - Electric Power Annual](https://www.eia.gov/electricity/data.php)
 
 [^7]:
-    [U.S EIA - Coal will account for 85% of U.S. electric generating capacity retirements in 2022](https://www.eia.gov/todayinenergy/detail.php?id=50838)
+    [U.S EIA - Coal will account for 85% of U.S. electric generating capacity retirements in 2022](https://www.eia.gov/todayinenergy/detail.php?id=50838)\
     [U.S. EIA - Solar power will account for nearly half of new U.S. electric generating capacity in 2022](https://www.eia.gov/todayinenergy/detail.php?id=50818)
 
 [^8]: [U.S. EIA - Electric Power Monthly](https://www.eia.gov/electricity/data.php)
@@ -190,13 +190,13 @@ Originally published on September 7, 2022
 [^14]: [U.S. EIA - Electric Power Annual](https://www.eia.gov/electricity/data.php)
 
 [^15]:
-    [Count on Coal - DISPATCHABLE FUEL DIVERSITY IS INVALUABLE](https://www.countoncoal.org/2021/03/dispatchable-fuel-diversity-is-invaluable/)
+    [Count on Coal - DISPATCHABLE FUEL DIVERSITY IS INVALUABLE](https://www.countoncoal.org/2021/03/dispatchable-fuel-diversity-is-invaluable/)\
     [Brent Bennett - Forget About What Broke: The Texas Blackout Was Inevitable](https://lifepowered.org/forget-about-what-broke-the-texas-blackout-was-inevitable/)
 
 [^16]: [America’s Power - Letter to Mr. James B. Robb, President and CEO North American Electric Reliability Corporation](https://americaspower.org/wp-content/uploads/2022/08/Jim-Robb-Letter-Aug-16-2022-1.pdf)
 
 [^17]:
-    [Lovering et al. (2016) - Historical construction costs of global nuclear power reactors](https://doi.org/10.1016/j.enpol.2016.01.011)
+    [Lovering et al. (2016) - Historical construction costs of global nuclear power reactors](https://doi.org/10.1016/j.enpol.2016.01.011)\
     [Power Hour - How to liberate nuclear energy, with Robert Zubrin](https://youtu.be/MQtgkT8nqgc)
 
 [^18]: [The Babylon Bee - State With No Electricity Orders Everyone To Drive Cars That Run On Electricity](https://babylonbee.com/news/state-with-no-electricity-orders-everyone-to-drive-cars-that-run-on-electricity)
