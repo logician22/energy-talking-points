@@ -36,7 +36,7 @@ Originally published on September 7, 2022
 - **The Feb 2021 blackouts in Texas show how dangerous “reliability chicken” can be**. Texas’s grid planners hoped it wouldn’t get very cold and that the wind wouldn’t falter too much so their lack of reliable capacity (and resiliency investment) wouldn’t be exposed. But **hoping doesn’t work**.[^5]
     ![TX capacity](/img/tx-cap-and-gen-latest.png)
 
-- The 2020 blackouts in California also show the danger of “reliability chicken.” **California retired lot of in-state reliable electric generation capacity and hoped that favorable weather conditions and other available imports from other states would save them**. Again, hoping doesn’t work.[^6]
+- The 2020 blackouts in California also show the danger of “reliability chicken.” **California retired lots of in-state reliable electric generation capacity and hoped that favorable weather conditions and other available imports from other states would save them**. Again, hoping doesn’t work.[^6]
     ![CA capacity](/img/ca-cap.png)
 
 - Governments need to recognize the reliability crisis and fight it. Instead, they are planning to make the problem far, far worse via policies that will shut down many more reliable power plants while increasing electricity demand.
