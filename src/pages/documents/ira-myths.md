@@ -41,9 +41,9 @@ Originally published on September 14, 2022
     According to a WH-commissioned environmental justice report we must **“sunset investment by 2030 in fossil fuels, plastics…and nuclear energy”!**[^4]
 
 - All **claims that the Inflation Reduction Act will lower energy costs simply deny the obvious cost increases** from:
-    Policies that coerce us into using costly, unreliable “green” options
-    Policies that increase fossil fuel costs
-    More power for energy-obstructing bureaucrats and activists.
+    - Policies that coerce us into using costly, unreliable “green” options
+    - Policies that increase fossil fuel costs
+    - More power for energy-obstructing bureaucrats and activists.
 
 - **Myth 2: The Inflation Reduction Act does not harm fossil fuel production during an energy crisis.**
 
@@ -66,9 +66,9 @@ Originally published on September 14, 2022
 - **Myth 4: The Inflation Reduction Act won’t harm electricity reliability.**
 
     Truth: The IRA worsens **3 major factors** already causing a reliability crisis.
-    **1 Rewarding unreliable power**
-    **2 Prematurely shutting down coal plants**
-    **3 Forcing EV use on an already-inadequate grid**
+    **1) Rewarding unreliable power**
+    **2) Prematurely shutting down coal plants**
+    **3) Forcing EV use on an already-inadequate grid**
 
     **It’s a reliability nightmare.**
 
