@@ -18,10 +18,10 @@ Originally published on September 14, 2022
 
 - **Myth 1: The Inflation Reduction Act will lower the cost of energy.**
 
-    Truth: The Inflation Reduction Act will rapidly raise the cost of energy via\
-    **Policies that coerce us into using costly, unreliable “green” options**
-    **Policies that increase fossil fuel costs**
-    **More power for energy-obstructing bureaucrats and activists**
+    Truth: The Inflation Reduction Act will rapidly raise the cost of energy via
+    - **Policies that coerce us into using costly, unreliable “green” options**
+    - **Policies that increase fossil fuel costs**
+    - **More power for energy-obstructing bureaucrats and activists**
 
 - The Inflation Reduction Act **coerces grids and consumers into using costly, unreliable solar/wind electricity** that they wouldn’t otherwise choose because it’s too expensive.
 
@@ -172,11 +172,11 @@ Originally published on September 14, 2022
 
 - **None of the 126 economists the White House says we should bow to the authority of has addressed the argument that increased dependence on (China-controlled) unreliable solar/wind plus increased restriction of fossil fuels will drive up energy prices and therefore all prices.**
 
-- Summary: Don’t believe the “Inflation Reduction Act” myths; **the “IRA” is a 4-step recipe for destroying American energy**\
+- Summary: Don’t believe the “Inflation Reduction Act” myths; **the “IRA” is a 4-step recipe for destroying American energy**
 
-    **1 Make us more dependent on unreliable electricity**
-    **2 Impose new oil/gas taxes**
-    **3 Give Environmental Protection Agency more power to restrict fossil fuels**
+    **1 Make us more dependent on unreliable electricity**\
+    **2 Impose new oil/gas taxes**\
+    **3 Give Environmental Protection Agency more power to restrict fossil fuels**\
     **4 Give more power to anti-fossil-fuel activists**
 
 
