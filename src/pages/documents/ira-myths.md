@@ -18,7 +18,7 @@ Originally published on September 14, 2022
 
 - **Myth 1: The Inflation Reduction Act will lower the cost of energy.**
 
-    Truth: The Inflation Reduction Act will rapidly raise the cost of energy via
+    Truth: The Inflation Reduction Act will rapidly raise the cost of energy via\
     **Policies that coerce us into using costly, unreliable “green” options**
     **Policies that increase fossil fuel costs**
     **More power for energy-obstructing bureaucrats and activists**
@@ -172,7 +172,7 @@ Originally published on September 14, 2022
 
 - **None of the 126 economists the White House says we should bow to the authority of has addressed the argument that increased dependence on (China-controlled) unreliable solar/wind plus increased restriction of fossil fuels will drive up energy prices and therefore all prices.**
 
-- Summary: Don’t believe the “Inflation Reduction Act” myths; **the “IRA” is a 4-step recipe for destroying American energy**
+- Summary: Don’t believe the “Inflation Reduction Act” myths; **the “IRA” is a 4-step recipe for destroying American energy**\
 
     **1 Make us more dependent on unreliable electricity**
     **2 Impose new oil/gas taxes**
@@ -199,8 +199,8 @@ Originally published on September 14, 2022
     [Power Hour - How to liberate nuclear energy, with Robert Zubrin](https://youtu.be/MQtgkT8nqgc)
 
 [^7]:
-    [Reuters - Biden administration kills Antofagasta's Minnesota copper project](https://www.reuters.com/business/sustainable-business/biden-administration-kills-antofagastas-minnesota-copper-project-2022-01-26/)
-    [Mining.com - Biden administration moves to block Alaska Pebble mine](https://www.mining.com/biden-administration-moves-to-permanently-block-alaska-pebble-mine/)
+    [Reuters - Biden administration kills Antofagasta's Minnesota copper project](https://www.reuters.com/business/sustainable-business/biden-administration-kills-antofagastas-minnesota-copper-project-2022-01-26/)\
+    [Mining.com - Biden administration moves to block Alaska Pebble mine](https://www.mining.com/biden-administration-moves-to-permanently-block-alaska-pebble-mine/)\
     [Reuters - Exclusive: Biden looks abroad for electric vehicle metals, in blow to U.S. miners](https://www.reuters.com/business/energy/biden-looks-abroad-electric-vehicle-metals-blow-us-miners-2021-05-25/)
 
 [^8]: [Alex Epstein - How the Biden Administration threatens energy security](https://energytalkingpoints.com/biden-energy-security/)
@@ -225,11 +225,11 @@ Originally published on September 14, 2022
 [^13]:
     [White House - OMB ANALYSIS: THE SOCIAL BENEFITS OF THE INFLATION REDUCTION ACT’S GREENHOUSE GAS EMISSION REDUCTIONS](https://www.whitehouse.gov/wp-content/uploads/2022/08/OMB-Analysis-Inflation-Reduction-Act.pdf)
 
-    In addition to many questionable assumptions about speculative climate impacts, the Office of Management and Budget uses an extreme emissions scenario (RCP8.5) to inflate climate benefits.
+    In addition to many questionable assumptions about speculative climate impacts, the Office of Management and Budget uses an extreme emissions scenario (RCP8.5) to inflate climate benefits.\
     [Office of Management and Budget - CLIMATE RISK EXPOSURE: AN ASSESSMENT OF THE FEDERAL GOVERNMENT’S FINANCIAL RISKS TO CLIMATE CHANGE](https://www.whitehouse.gov/wp-content/uploads/2022/04/OMB_Climate_Risk_Exposure_2022.pdf)
 
 [^14]:
-    The Production Tax Credit is worth up to $1.5 cents per kWh.
+    The Production Tax Credit is worth up to $1.5 cents per kWh.\
     [White & Case - Inflation Reduction Act Offers Significant Tax Incentives Targeting Energy Transition and Renewables](https://www.whitecase.com/insight-alert/inflation-reduction-act-offers-significant-tax-incentives-targeting-energy-transition)
 
     Assuming a low estimate of $6 per kg for unsubsidized hydrogen from zero-emission sources, the maximum subsidy for zero-emission hydrogen will be $3 per kg.
