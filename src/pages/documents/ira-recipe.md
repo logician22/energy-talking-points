@@ -66,7 +66,7 @@ featuredimage: /img/blackout.jpeg
 - To make matters still worse, the Inflation Reduction Act not only drives the shutdowns of reliable electric capacity while subsidizing us into using more electric cars, it **also coerces us into increasing electricity use in many other ways:** electric heating, electric cooking, electric water heating.
 
 - **If your goal was to ruin our grid you’d** do exactly what Inflation Reduction Act does\
-    **1) reduce the supply of reliable electricity via solar and wind favoritism**\
+    **1) reduce the supply of reliable electricity via solar and wind favoritism**
     2) increase demand for electricity via electric vehicle and other electricity subsidies
 
     And that’s only the beginning of the Inflation Reduction Act’s energy destruction…
@@ -104,7 +104,7 @@ featuredimage: /img/blackout.jpeg
 - **We need government to recognize our electricity emergency and immediately reform the EPA** to do proper cost-benefit analysis on its actions so it doesn’t destroy our grid.
 
     Instead, the Inflation Reduction Act **just gave the EPA Protection Agency more money and power** to recklessly attack fossil fuel use.[^10]
-    ![IRA Sec 133](static/img/sec-133.png)
+    ![IRA Sec 133](/img/sec-133.png)
 
 - **Perhaps the single most destructive aspect of the IRA is its repeated language referring to greenhouse gases like CO2 as “air pollutants”—language designed to get the Environmental Protection Agency to further restrict fossil fuels under the auspices of the Clean Air Act.**[^11]
     ![IRA GHGs as pollution](/img/ira-ghg-language-v2.png)
@@ -168,9 +168,9 @@ featuredimage: /img/blackout.jpeg
 
 - While **opposition to the anti-American-energy IRA was along party lines, it shouldn't have been. Democrats who care about America and our standard of living should oppose a policy that makes energy more expensive and less reliable.** They can still apologize and pledge to change.
 
-- Unfortunately, instead of admitting that the IRA was a horrifically bad policy that must be reversed, the **politicians who supported it have been propagating a dozen myths to pretend that it was actually a spectacular victory for America.**
+- Unfortunately, instead of admitting that the IRA was a horrifically bad policy that must be reversed, the **politicians who supported it have been propagating a dozen myths to pretend that it was actually a spectacular victory for America.**[^16]
 
-    A refutation:[^16]
+    A refutation:\
     [https://twitter.com/AlexEpstein/status/1570074205961752576](https://twitter.com/AlexEpstein/status/1570074205961752576)
 
 - Bottom line: **The Inflation Reduction Act is the energy litmus test for candidates** because it
