@@ -145,9 +145,9 @@ featuredimage: /img/blackout.jpeg
 
 - Summary: The "Inflation Reduction Act" is a **4-step recipe for making our energy expensive and unreliable**
 
-    **1 Make us more dependent on unreliable electricity**
-    **2 Impose new oil and gas taxes**
-    **3 Give Environmental Protection Agency more power to restrict fossil fuels**
+    **1 Make us more dependent on unreliable electricity**\
+    **2 Impose new oil and gas taxes**\
+    **3 Give Environmental Protection Agency more power to restrict fossil fuels**\
     **4 Give more power to anti-fossil-fuel activists**
 
     It must be reversed.
