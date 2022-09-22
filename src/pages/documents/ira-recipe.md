@@ -8,6 +8,8 @@ description: "Want to know whether a candidate is truly supportive of American
   Act”?"
 featuredimage: /img/blackout.jpeg
 ---
+Originally published on September 21, 2022
+
 ***Want to know whether a candidate is truly supportive of American energy?***
 
 ***Here's one simple test: Did they oppose the “Inflation Reduction Act”?***
