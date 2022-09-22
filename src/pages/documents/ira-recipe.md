@@ -154,7 +154,7 @@ featuredimage: /img/blackout.jpeg
 
 - **To call a law that makes energy expensive and unreliable the Inflation Reduction Act is as Orwellian as saying Freedom is Slavery.**
 
-    **Rising energy costs mean higher costs for every industry, which means higher costs for ever consumer.**
+    **Rising energy costs mean higher costs for every industry, which means higher costs for every consumer.**
 
     The IRA is really The IA: **The Inflation Act.**
 
