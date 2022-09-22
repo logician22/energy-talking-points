@@ -188,7 +188,7 @@ featuredimage: /img/blackout.jpeg
 [^1]: [Alex Epstein - Electricity Emergency](https://energytalkingpoints.com/electricity-emergency/)
 
 [^2]:
-    [Alex Epstein - 12 myths about the terrible “Inflation Reduction Act,” refuted](https://energytalkingpoints.com/ira-myths/)
+    [Alex Epstein - 12 myths about the terrible “Inflation Reduction Act,” refuted](https://energytalkingpoints.com/ira-myths/)\
     [Congress.gov - H.R.5376 - Inflation Reduction Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/5376/text)
 
 [^3]:
