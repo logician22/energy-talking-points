@@ -81,7 +81,7 @@ Originally published on September 14, 2022
 
 - **Myth 6: The Inflation Reduction Act will onshore mining and manufacturing that are crucial for energy.**
 
-    Truth: The Inflation Reduction Act **doesn’t fix the reason we’re declining as a mining and manufacturing power: anti-development policies.** In fact it **increases such policies** under the “environmental justice” banner.[^7|
+    Truth: The Inflation Reduction Act **doesn’t fix the reason we’re declining as a mining and manufacturing power: anti-development policies.** In fact it **increases such policies** under the “environmental justice” banner.[^7]
 
 - **As long as anti-development industrial/environmental policies dominate the US, we will become a worse and worse place for heavy industries such as mining and manufacturing.** By adding new subsidies and controls on top of anti-development policies the Inflation Reduction Act will make things worse.
 
