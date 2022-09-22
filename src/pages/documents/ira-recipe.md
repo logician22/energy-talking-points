@@ -81,10 +81,10 @@ featuredimage: /img/blackout.jpeg
 
     Instead, the Inflation Reduction Act **punishes it.**
 
-- The Inflation Reduction Act has 4 new taxes that make oil and gas production more expensive:
-    **1 Higher federal royalty payments**
-    **2 A high and anti-drilling min. corporate tax**
-    **3 A methane fee that penalizes US producers**
+- The Inflation Reduction Act has 4 new taxes that make oil and gas production more expensive:\
+    **1 Higher federal royalty payments**\
+    **2 A high and anti-drilling min. corporate tax**\
+    **3 A methane fee that penalizes US producers**\
     **4 A “Superfund” tax to pay for impacts today’s producers are not responsible for**[^8]
 
 - Anytime the government adds new taxes to the oil and gas industry it is **increasing costs and thereby discouraging production.**
