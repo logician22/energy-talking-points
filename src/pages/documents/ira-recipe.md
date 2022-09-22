@@ -197,12 +197,12 @@ featuredimage: /img/blackout.jpeg
 
     Assuming a low estimate of $6 per kg for unsubsidized hydrogen from zero-emission sources, the maximum subsidy for zero-emission hydrogen will be $3 per kg.
 
-[^4]: [German grid data by Bundesnetzagentur SMARD(https://www.smard.de/)
+[^4]: [German grid data by Bundesnetzagentur SMARD](https://www.smard.de/)
 
 [^5]: [America’s Power Letter to NERC on Underestimated Coal Plant Retirements](https://americaspower.org/issue/americas-power-letter-to-nerc-on-underestimated-coal-plant-retirements/)
 
 [^6]:
-    [U.S. Energy Information Administration, Electric Power Monthly](https://www.eia.gov/electricity/)
+    [U.S. Energy Information Administration, Electric Power Monthly](https://www.eia.gov/electricity/)\
     [America’s Power Letter to NERC on Underestimated Coal Plant Retirements](https://americaspower.org/issue/americas-power-letter-to-nerc-on-underestimated-coal-plant-retirements/)
 
 [^7]: [CAISO - California ISO issues Flex Alert for today, Sept. 8](https://www.caiso.com/Documents/california-iso-extends-flex-alert-to-today-from-3-10-pm.pdf)
