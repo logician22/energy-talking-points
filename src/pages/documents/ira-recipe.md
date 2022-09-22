@@ -175,9 +175,9 @@ featuredimage: /img/blackout.jpeg
 
 - Bottom line: **The Inflation Reduction Act is the energy litmus test for candidates** because it
 
-    1 Makes us **more dependent on unreliable electricity**
-    2 Imposes **new oil and gas taxes**
-    3 Gives the EPA **more power to restrict fossil fuels**
+    1 Makes us **more dependent on unreliable electricity**\
+    2 Imposes **new oil and gas taxes**\
+    3 Gives the EPA **more power to restrict fossil fuels**\
     4 Gives **more power to anti-fossil-fuel activists**
 
     IRA support = anti-energy
