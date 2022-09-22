@@ -66,7 +66,7 @@ featuredimage: /img/blackout.jpeg
 - To make matters still worse, the Inflation Reduction Act not only drives the shutdowns of reliable electric capacity while subsidizing us into using more electric cars, it **also coerces us into increasing electricity use in many other ways:** electric heating, electric cooking, electric water heating.
 
 - **If your goal was to ruin our grid you’d** do exactly what Inflation Reduction Act does\
-    **1) reduce the supply of reliable electricity via solar and wind favoritism**
+    **1) reduce the supply of reliable electricity via solar and wind favoritism**\
     2) increase demand for electricity via electric vehicle and other electricity subsidies
 
     And that’s only the beginning of the Inflation Reduction Act’s energy destruction…
