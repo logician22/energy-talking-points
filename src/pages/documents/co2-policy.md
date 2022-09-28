@@ -7,9 +7,9 @@ description: The pro-human CO2 policy is to reduce CO2 emissions long-term
   through liberating innovation, not punishing America.
 featuredimage: /img/city-skyline-during-night-time.jpg
 ---
-    Originally published on August 24, 2022
+Originally published on August 24, 2022
 
-    **America is taking a “punish America” approach to reducing CO2, making our energy more expensive and less reliable while China, Russia, and others increase their emissions.**
+**America is taking a “punish America” approach to reducing CO2, making our energy more expensive and less reliable while China, Russia, and others increase their emissions.**
 
 **We need a “liberate American innovation” policy instead.**
 
