@@ -15,11 +15,11 @@ Originally published on September 28, 2022
     I believe in energy freedom: the freedom to use all forms of energy, with laws against emissions and practices that are significantly harmful and reasonably preventable.
 
 - 5 key energy freedom policies are:\
-    1 Liberate responsible development\
-    2 End preferences for unreliable electricity\
-    3 Reform air and water emissions standards to incorporate cost-benefit analysis\
-    4 Reduce long-term CO2 emissions via liberating innovation\
-    5 Decriminalize nuclear[^1]
+    1) Liberate responsible development\
+    2) End preferences for unreliable electricity\
+    3) Reform air and water emissions standards to incorporate cost-benefit analysis\
+    4) Reduce long-term CO2 emissions via liberating innovation\
+    5) Decriminalize nuclear[^1]
 
 - **Do you believe in climate change?**
 
@@ -35,8 +35,8 @@ Originally published on September 28, 2022
 
 - **What’s your plan to deal with CO2 emissions?**
 
-    My plan is:\
-    1) Recognize that CO2 emissions reduction can only be achieved humanely and practically a) long-term and b) through developing globally cost-competitive alternatives.\
+    My plan is:
+    1) Recognize that CO2 emissions reduction can only be achieved humanely and practically a) long-term and b) through developing globally cost-competitive alternatives.
     2) Liberate nuclear and other promising alternatives.
 
 - **Why did gasoline prices get so high this year?**
@@ -82,10 +82,10 @@ Originally published on September 28, 2022
 - **What’s your position on the “Inflation Reduction Act”?**
 
     It’s a 4-step recipe for ruining US energy:\
-    1 Make us more dependent on unreliable electricity\
-    2 Impose new oil and gas taxes during an energy crisis\
-    3 Give EPA more power to restrict fossil fuels\
-    4 Give more power to anti-fossil-fuel activists[^9]
+    1) Make us more dependent on unreliable electricity\
+    2) Impose new oil and gas taxes during an energy crisis\
+    3) Give EPA more power to restrict fossil fuels\
+    4) Give more power to anti-fossil-fuel activists[^9]
 
 - **How does the Inflation Reduction Act affect my state?**
 
