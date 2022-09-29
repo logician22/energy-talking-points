@@ -6,7 +6,7 @@ date: 2020-01-26T10:54:30.328Z
 description: This election season candidates are getting lots of energy-related
   questions. Here are pro-freedom, pro-human answers to some of the most popular
   ones.
-featuredimage: /img/favicon2-32x32.png
+featuredimage: /img/alex-epstein.jpg
 ---
 Originally published on September 28, 2022
 
@@ -36,8 +36,8 @@ Originally published on September 28, 2022
 - **What’s your plan to deal with CO2 emissions?**
 
     My plan is:\
-    1 Recognize that CO2 emissions reduction can only be achieved humanely and practically a) long-term and b) through developing globally cost-competitive alternatives.\
-    2 Liberate nuclear and other promising alternatives.
+    1) Recognize that CO2 emissions reduction can only be achieved humanely and practically a) long-term and b) through developing globally cost-competitive alternatives.\
+    2) Liberate nuclear and other promising alternatives.
 
 - **Why did gasoline prices get so high this year?**
 
@@ -65,8 +65,8 @@ Originally published on September 28, 2022
 
 - **What’s your position on solar and wind?**
 
-    Solar and wind should be required to compete on a real market. In the context of electricity that means generators using solar and wind should be held to the same reliability standards as everyone else. Currently they’re not—which is disastrous.[^6]
-[https://twitter.com/AlexEpstein/status/1567563478931734529](https://twitter.com/AlexEpstein/status/1567563478931734529)
+    Solar and wind should be required to compete on a real market. In the context of electricity that means generators using solar and wind should be held to the same reliability standards as everyone else. Currently they’re not—which is disastrous.[^6]\
+    [https://twitter.com/AlexEpstein/status/1567563478931734529](https://twitter.com/AlexEpstein/status/1567563478931734529)
 
 
 - **What’s your position on nuclear power?**
