@@ -145,7 +145,7 @@ Nothing could be further from the truth.
 
 - Myth 21: We can expect fossil fuels to make extreme weather far more dangerous in the future.
 
-Truth: Fossil fuels’ climate mastery benefits have far overwhelmed any negative side-effects on extreme weather for 100+ years and there’s every reason to expect this to continue.[^20]
+    Truth: Fossil fuels’ climate mastery benefits have far overwhelmed any negative side-effects on extreme weather for 100+ years and there’s every reason to expect this to continue.[^20]
 
 - Myth 22: Rapidly eliminating fossil fuels will make us safer from climate disasters.
 
