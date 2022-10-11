@@ -49,7 +49,7 @@ Nothing could be further from the truth.
 
 - Myth 6: Media claims about increasing hurricane frequency are accurate.
 
-    Truth: Leading media outlets have deliberately misrepresented the flat long-term hurricane trend. E.g., the New York times cherry-picking a starting point—the low point of 1980—to make a flat trend seem upward.[^5]
+    Truth: Leading media outlets have deliberately misrepresented the flat long-term hurricane trend. E.g., the New York Times cherry-picking a starting point—the low point of 1980—to make a flat trend seem upward.[^5]
     ![NYT hurricanes](/img/nyt-hurricane-cat-45.png)
     ![Nature CC on hurricanes](/img/nature-article-atlantic-hurricanes.png)
 
