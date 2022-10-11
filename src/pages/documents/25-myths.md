@@ -21,8 +21,8 @@ Nothing could be further from the truth.
 
 - Myth 2: The media and its designated experts are accurately reporting on fossil fuels and extreme weather.
 
-    Truth: The media and its “experts” are:\
-    1) totally ignoring how fossil fuels make us safer than ever from extreme weather\
+    Truth: The media and its “experts” are:
+    1) totally ignoring how fossil fuels make us safer than ever from extreme weather
     2) wildly overstating fossil fuels' negative impact on weather.
 
 - Myth 3: The effect of fossil fuels on extreme weather danger is solely negative.
@@ -43,7 +43,7 @@ Nothing could be further from the truth.
 
 - Myth 5: The media and its designated experts are accurately reporting the scientific linking of fossil fuel use and hurricanes.
 
-    Truth: This “reporting” is riddled with\
+    Truth: This “reporting” is riddled with
     1) deliberate misrepresentations (e.g., hurricane frequency)
     2) biases (e.g., only reporting negative links)
 
@@ -90,7 +90,7 @@ Nothing could be further from the truth.
 - One of the few climate researchers who is openly looking at the full impact of fossil-fueled climate change, including potential avoided damage, is meteorologist and hurricane expert Dr. Ryan Maue. What are the chances we see his point about avoided hurricanes in the mainstream news?
     ![Maue Tweet](/img/maue-tweet.png)
 
-Myth 12: Attributions of X% of an extreme weather event to humans are credible.
+- Myth 12: Attributions of X% of an extreme weather event to humans are credible.
 
     Truth: Not only are many attributors clearly biased, but no precise estimate of this kind is possible given today’s climate modeling limits, where mainstream models hugely diverge from one another.[^12]
     ![Models vs observations](/img/art-31-the-radically-different-predictions-of-climate-models.png)
@@ -110,10 +110,10 @@ Myth 12: Attributions of X% of an extreme weather event to humans are credible.
     Truth: The trend of real weather damage is flat—despite many factors increasing vulnerability, like increasing coastal populations and bad incentives from government bailout policies.[^14]
     ![Weather losses per GDP](/img/pielke-disaster-losses.png)
 
-- 3 keys to understanding climate damage statistics:\
-    1) Damage should be measured percentage of GDP not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)\
-    2) More people today choose to live in damage-prone areas.\
-    3) Government bailout policies increase damage.\
+- 3 keys to understanding climate damage statistics:
+    1) Damage should be measured percentage of GDP not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)
+    2) More people today choose to live in damage-prone areas.
+    3) Government bailout policies increase damage.
     ![Shellenberger Tweet](/img/shellenberger-miami-beach.jpeg)
 
 - Myth 16: Extreme temperatures are a bigger danger than ever thanks to fossil fuels.
@@ -218,7 +218,7 @@ Population estimates for the 2010s come from [World Bank Data](https://data.worl
 [^11]: [Politico - The climatologist who put climate science ‘on the offensive’](https://www.politico.eu/article/friederike-otto-world-weather-attribution-climate-science-heat-waves-floods-droughts/)
 
 [^12]:
-    Climate Etc. - New Confirmation that Climate Models Overstate Atmospheric Warming](https://judithcurry.com/2021/08/17/new-confirmation-that-climate-models-overstate-atmospheric-warming-2/)
+    [Climate Etc. - New Confirmation that Climate Models Overstate Atmospheric Warming](https://judithcurry.com/2021/08/17/new-confirmation-that-climate-models-overstate-atmospheric-warming-2/)
 
     [Ross McKitrick - On the choice of TLS versus OLS in climate signal detection regression](https://doi.org/10.1007/s00382-022-06315-z)
 
