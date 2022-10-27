@@ -161,7 +161,7 @@ Originally published on October 21, 2022
 
 - The key to the anti-fossil-fuel establishment’s “moral monopoly” has been a **false alternative re: fossil fuels and climate: you’re either**\
     **1. a “climate change believer” who opposes fossil fuels or**\
-    **2. a “climate change denier” who supports fossil fuels**\
+    **2. a “climate change denier” who supports fossil fuels**
 
     **Since humans do impact climate, most chose 1.**
 
