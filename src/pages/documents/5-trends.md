@@ -12,13 +12,13 @@ Originally published on October 21, 2022
 
 ***Today I gave a 90-minute presentation + Q&A to a group of executives interested in my perspective on the future of energy. I focused on 5 trends shaping the future of energy that I believe most commentators underestimate or overlook:***
 
-    ***1) Fossil fuels’ fundamentals remain strong***
-    ***2) Anti-fossil-fuel policies have caused a global crisis***
-    ***3) The anti-fossil-fuel establishment is in denial***
-    ***4)Humanistic thinking about fossil fuels is on the rise***
-    ***5) Many people are now thinking differently about fossil fuels***
+***1) Fossil fuels’ fundamentals remain strong***
+***2) Anti-fossil-fuel policies have caused a global crisis***
+***3) The anti-fossil-fuel establishment is in denial***
+***4)Humanistic thinking about fossil fuels is on the rise***
+***5) Many people are now thinking differently about fossil fuels***
 
-    ***The following is the basic presentation in talking point form.***
+***The following is the basic presentation in talking point form.***
 
 - I’m an energy expert with a **15-year track record of correctly predicting major trends**: “peak oil” wouldn’t happen, fossil fuel demand would grow, climate danger would decline, “green energy” policies would be deadly.
 
@@ -51,8 +51,8 @@ Originally published on October 21, 2022
 
 - **A summary of how I differ from most energy experts:**
 
-    **1. I consider positives and negatives of fossil fuels, not just negatives**
-    **2. I recognize Earth is “wild potential,” not a “delicate nurturer”**
+    **1. I consider positives and negatives of fossil fuels, not just negatives**\
+    **2. I recognize Earth is “wild potential,” not a “delicate nurturer”**\
     **3. I evaluate energy by the standard of human flourishing, not lack of impact**
 
 - I also have the advantage of a **research team that also avoids the many philosophical errors prevalent today**, as well as **constant interactions with leaders in politics and industry** so that I have firsthand exposure to these worlds rather than second-hand, often distorted accounts.
@@ -74,8 +74,8 @@ Originally published on October 21, 2022
     3. **versatile**—able to power every type of machine, not just electrical
     4. **scalable**—for billions of people in thousands of places
 
-- Fossil fuels are uniquely cost-effective **due to:**
-    1: **Physical attributes: natural storage, natural concentration, natural abundance**—a combo currently shared only by nuclear
+- Fossil fuels are uniquely cost-effective **due to:**\
+    1: **Physical attributes: natural storage, natural concentration, natural abundance**—a combo currently shared only by nuclear\
     2: **Generations of innovation and work by industry**—which nuclear hasn’t had, mostly because of its near-criminalization
 
 - **Fundamental: Solar and wind, the politically favored alternative, has intractable problems with cost (unreliability requires costly infrastructure duplication), versatility (only electricity) and scalability (depends on “reliables” and diluteness causes unprecedented material needs).**
@@ -159,9 +159,9 @@ Originally published on October 21, 2022
 
     This was **never deserved and is now being eroded.**
 
-- The key to the anti-fossil-fuel establishment’s “moral monopoly” has been a **false alternative re: fossil fuels and climate: you’re either**
-    **1. a “climate change believer” who opposes fossil fuels or**
-    **2. a “climate change denier” who supports fossil fuels**
+- The key to the anti-fossil-fuel establishment’s “moral monopoly” has been a **false alternative re: fossil fuels and climate: you’re either**\
+    **1. a “climate change believer” who opposes fossil fuels or**\
+    **2. a “climate change denier” who supports fossil fuels**\
 
     **Since humans do impact climate, most chose 1.**
 
@@ -229,13 +229,13 @@ Originally published on October 21, 2022
 
     Today’s anti-fossil-fuel establishment deserves to be implicated for today’s crisis.
 
-- Here are some resources implicating today’s anti-fossil-fuel establishment for today’s crisis:
-    [How a fake climate emergency created a real energy emergency](https://alexepstein.substack.com/p/how-a-fake-climate-emergency-created)
-    [Testimony: "How the Biden Administration and the Global Anti-Fossil-Fuel Movement Caused an Energy Crisis and Inflated Our Cost of Living"](https://alexepstein.substack.com/p/testimony-how-the-biden-administration)
-    [US Democrats are engaging in epic denial on oil and gasoline prices](https://alexepstein.substack.com/p/us-democrats-are-engaging-in-epic)
+- Here are some resources implicating today’s anti-fossil-fuel establishment for today’s crisis:\
+    [How a fake climate emergency created a real energy emergency](https://alexepstein.substack.com/p/how-a-fake-climate-emergency-created)\
+    [Testimony: "How the Biden Administration and the Global Anti-Fossil-Fuel Movement Caused an Energy Crisis and Inflated Our Cost of Living"](https://alexepstein.substack.com/p/testimony-how-the-biden-administration)\
+    [US Democrats are engaging in epic denial on oil and gasoline prices](https://alexepstein.substack.com/p/us-democrats-are-engaging-in-epic)\
     [Europe’s energy security crisis](https://alexepstein.substack.com/p/europes-energy-security-crisis)
 
-    I also highly recommend [Michael Shellenberger’s Substack](https://michaelshellenberger.substack.com/)in this regard (and others).
+    I also highly recommend [Michael Shellenberger’s Substack](https://michaelshellenberger.substack.com/) in this regard (and others).
 
 - **Spread energy humanist arguments as efficiently as possible**
 
@@ -243,15 +243,15 @@ Originally published on October 21, 2022
 
 - **Promote positive, pro-fossil-fuel and pro-alternative policies**
 
-    Long-term policy change requires not just criticizing bad policies but advancing good policies that liberate fossil fuels and alternatives. To this end I have created a 5-point Energy Freedom Platform.
+    Long-term policy change requires not just criticizing bad policies but advancing good policies that liberate fossil fuels and alternatives. To this end I have created a 5-point Energy Freedom Platform.\
     [The Energy Freedom Platform](https://alexepstein.substack.com/p/the-energy-freedom-platform)
 
 - **Summary:**
 
-    **1) Fossil fuels’ fundamentals remain strong**
-    **2) Anti-fossil-fuel policies have caused a global crisis**
-    **3) The anti-fossil-fuel establishment is in denial**
-    **4) Humanistic thinking about fossil fuels is on the rise**
+    **1) Fossil fuels’ fundamentals remain strong**\
+    **2) Anti-fossil-fuel policies have caused a global crisis**\
+    **3) The anti-fossil-fuel establishment is in denial**\
+    **4) Humanistic thinking about fossil fuels is on the rise**\
     **5) Many people are thinking differently**
 
     **We can leverage these trends to change policy!**
