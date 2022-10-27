@@ -12,11 +12,11 @@ Originally published on October 21, 2022
 
 ***Today I gave a 90-minute presentation + Q&A to a group of executives interested in my perspective on the future of energy. I focused on 5 trends shaping the future of energy that I believe most commentators underestimate or overlook:***
 
-***1) Fossil fuels’ fundamentals remain strong***
-***2) Anti-fossil-fuel policies have caused a global crisis***
-***3) The anti-fossil-fuel establishment is in denial***
-***4)Humanistic thinking about fossil fuels is on the rise***
-***5) Many people are now thinking differently about fossil fuels***
+***1) Fossil fuels’ fundamentals remain strong***\
+***2) Anti-fossil-fuel policies have caused a global crisis***\
+***3) The anti-fossil-fuel establishment is in denial***\
+***4)Humanistic thinking about fossil fuels is on the rise***\
+***5) Many people are now thinking differently about fossil fuels***\
 
 ***The following is the basic presentation in talking point form.***
 
