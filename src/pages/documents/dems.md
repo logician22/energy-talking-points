@@ -26,8 +26,8 @@ Originally published on Oct 26, 2022
 
 - **Democrats could have ensured far lower oil and gas prices despite global tumult had they, upon taking power in 2019:**
 
-    **1. Liberated oil investment, production, and transport.**
-    **2. Liberated natural gas investment, production, and transport.**
+    1. *Liberated oil investment, production, and transport.***
+    2. *Liberated natural gas investment, production, and transport.***
 
     **Instead, they systematically strangled oil and gas.**
 
@@ -102,7 +102,7 @@ Originally published on Oct 26, 2022
 
     - imposing new oil/gas taxes
     - giving EPA more power to restrict oil/gas
-    - giving more power to anti-oil/gas activists
+    - giving more power to anti-oil/gas activists\
     [The “Inflation Reduction Act” is a 4-step recipe for destroying American energy](https://energytalkingpoints.com/ira-recipe/)
 
 - To understand why the two basic arguments for Democrats’ anti-oil-and-gas policies—1. “Climate emergency” and 2. Solar and wind can replace fossil fuels—are false, read this.
@@ -118,3 +118,65 @@ Originally published on Oct 26, 2022
 
 
 ###References
+
+[^1]: [Boston 25 News - Another New England-based utility company announces massive rate hike ahead of winter season](https://www.boston25news.com/news/local/another-new-england-based-utility-company-announces-massive-rate-hike-ahead-winter-season/E3WPDVLPJVEVFIBBXUBPKCRZKY/)
+
+[^2]: [U.S. Energy Information Administration - U.S. natural gas bills will increase in all regions this winter](https://www.eia.gov/todayinenergy/detail.php?id=54259)
+
+[^3]: [YouTube, Bloomberg Markets and Finance - Biden Is Looking at Possible SPR Release: Granholm](https://youtu.be/0IharildvyM)
+
+[^4]:
+    [The Hill - Democratic bill would force Fed to defund fossil fuels](https://thehill.com/policy/finance/572444-democratic-bill-would-force-fed-to-defund-fossil-fuels/)
+
+    [Chicago Tribune - Obama: 'The age of oil must end'](https://www.chicagotribune.com/chinews-mtblog-2007-05-obama_the_age_of_oil_must_end-story.html)
+
+    [Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)
+
+[^5]:
+    [Senator Warren’s official website - Senators Markey and Warren Call on FERC to Rescind Authorization for Spectra’s Atlantic Bridge Pipeline](https://www.warren.senate.gov/newsroom/press-releases/senators-markey-and-warren-call-on-ferc-to-rescind-authorization-for-spectra-and-rsquos-atlantic-bridge-pipeline)
+
+    [Business Insider - Bernie Sanders says he’ll vote against keeping the government open if Manchin’s ‘disastrous side-deal’ on energy is included](https://www.businessinsider.com/sanders-manchin-vote-shutdown-pipeline-permitting-reform-included-energy-deal-2022-9)
+
+    [Senator Sanders’ official website - Sanders Statement on Executive Orders to Advance Keystone XL and Dakota Access Pipelines](https://www.sanders.senate.gov/press-releases/sanders-statement-on-executive-orders-to-advance-keystone-xl-and-dakota-access-pipelines/)
+
+[^6]:
+    [Financial Times - Embrace high fossil fuel prices because they are here to stay](https://www.ft.com/content/a15e7ade-dad0-4ed3-a172-1974ac9d5b23)
+
+    [Michael Shellenberger - How Climate Activists Caused the Global Energy Crisis](https://michaelshellenberger.substack.com/p/how-climate-activists-caused-the)
+
+[^7]: [U.S. Energy Information Administration - U.S. oil producers increased capital expenditures and cash from operations in late 2021](https://www.eia.gov/todayinenergy/detail.php?id=52318)
+
+[^8]: [Cody Campbell - Yes, Biden’s War On The Oil And Gas Industry Is Driving Shortages And High Prices](https://thefederalist.com/2022/07/07/yes-bidens-war-on-the-oil-and-gas-industry-is-driving-shortages-and-high-prices/)
+
+[^9]: [U.S. Environmental Protection Agency - EPA Proposes New Source Performance Standards Updates, Emissions Guidelines to Reduce Methane and Other Harmful Pollution from the Oil and Natural Gas Industry](https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-industry/epa-proposes-new-source-performance)
+
+[^10]: [USA Today - Keystone pipeline canceled after Biden had permit blocked](https://eu.usatoday.com/story/news/politics/2021/06/09/keystone-pipeline-canceled-after-biden-had-blocked-permit/7627122002/)
+
+[^11]:
+    [OPEC - Monthly Oil Market Report, November 2021](https://www.opec.org/opec_web/en/publications/338.htm)
+
+    [U.S. Energy Information Administration - U.S. Field Production of Crude Oil](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MCRFPUS2&f=M)
+
+[^12]: [YouTube, 350 Action - Top Clinton Ally Jen Granholm Opposes Dakota Access](https://youtu.be/ftsuX44dEUA)
+
+[^13]: [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
+
+[^14]: [U.S. Energy Information Administration - U.S. Natural Gas Gross Withdrawals](https://www.eia.gov/dnav/ng/hist/ngm_epg0_fgw_nus_mmcfdm.htm)
+
+[^15]: [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
+
+[^16]: [The Washington Free Beacon - EXCLUSIVE VIDEO: Mandela Barnes Rules Out ‘Even Encouraging New Pipeline Construction’](https://freebeacon.com/democrats/exclusive-video-mandela-barnes-rules-out-even-encouraging-new-pipeline-construction/)
+
+[^17]:
+    [Robert Bryce - Cuomo’s War on Pipelines Hurts New England](https://www.manhattan-institute.org/cuomos-war-on-pipelines-hurts-new-england)
+
+    [Real Clear Energy - Northeast Pipeline Blockade Delivers Trifecta of Bad Outcomes: Dependence on Fuel Oil, Higher Prices, and More Foreign Energy Imports](https://www.realclearenergy.org/articles/2022/02/18/northeast_pipeline_blockade_delivers_trifecta_of_bad_outcomes_dependence_on_fuel_oil_higher_prices_and_more_foreign_energy_imports_817354.html)
+
+[^18]: [Boston. com - Winter is coming and so are (much) higher electric bills, National Grid warns; here’s how you can lower costs](https://www.boston.com/news/local-news/2022/09/22/national-grid-higher-electric-bills-natural-gas/)
+
+[^19]:
+    [E&E News - Jordan Cove project dies. What it means for FERC, gas](https://www.eenews.net/articles/jordan-cove-project-dies-what-it-means-for-ferc-gas/)
+
+    [Sierra Club - Annova LNG Is Cancelled!](https://www.sierraclub.org/texas/blog/2021/03/annova-lng-cancelled)
+
+[^20]: [U.S. Energy Information Administration - U.S. Dry Natural Gas Production](https://www.eia.gov/dnav/ng/hist/n9070us2M.htm)
