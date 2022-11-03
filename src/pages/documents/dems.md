@@ -26,8 +26,8 @@ Originally published on Oct 26, 2022
 
 - **Democrats could have ensured far lower oil and gas prices despite global tumult had they, upon taking power in 2019:**
 
-    1. *Liberated oil investment, production, and transport.***
-    2. *Liberated natural gas investment, production, and transport.***
+    1. **Liberated oil investment, production, and transport.**
+    2. **Liberated natural gas investment, production, and transport.**
 
     **Instead, they systematically strangled oil and gas.**
 
@@ -105,7 +105,7 @@ Originally published on Oct 26, 2022
     - giving more power to anti-oil/gas activists\
     [The “Inflation Reduction Act” is a 4-step recipe for destroying American energy](https://energytalkingpoints.com/ira-recipe/)
 
-- To understand why the two basic arguments for Democrats’ anti-oil-and-gas policies—1. “Climate emergency” and 2. Solar and wind can replace fossil fuels—are false, read this.
+- To understand why the two basic arguments for Democrats’ anti-oil-and-gas policies—1. “Climate emergency” and 2. Solar and wind can replace fossil fuels—are false, read this.\
     [How a fake climate emergency created a real energy emergency](https://energytalkingpoints.com/fake-emergency/)
 
 - **I take no pleasure in singling out Democrats for criticism on energy issues.** I consider it a **tragedy** that **today’s Democratic Party is so monolithic in supporting anti-fossil-fuel policies** that harm our and our allies’ economy and security. **We need many pro-energy, pro-fossil-fuel Democrats.**
