@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-displaytitle: "Talking Points on Earth Day truth: Fossil fuels make Earth BETTER"
+displaytitle: "Earth Day truth: Fossil fuels make Earth BETTER"
 title: Earth Day 2022
 date: 2020-03-25T11:27:07.846Z
 description: Fossil fuels are making Earth a better and better place by
