@@ -16,7 +16,8 @@ Originally published on November 10, 2022
 - Prevented us from importing Canadian oil well-suited to our refineries
 - Prevented or shut down diesel-producing capacity in the US
 - Threatened new investments in diesel
-_﻿_______________________________________________________________________________
+
+ ﻿   ___________________________________________________________________
 
 - Diesel is **the fuel of heavy-duty vehicles and is many Northeast homes’ source of heat.** Prices are high and increasing because:
     1. **October inventories, which should have been high to prep for winter, were their lowest since records began in 1982.**
