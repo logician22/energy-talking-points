@@ -5,7 +5,7 @@ title: diesel
 date: 2020-01-20T16:34:31.573Z
 description: The US is experiencing a dangerous shortage of diesel fuel. Blame
   our clueless anti-fossil-fuel politicians.
-featuredimage: /img/carbon-tax.jpg
+featuredimage: /img/gas-pump.jpg
 ---
 **The US is experiencing a dangerous shortage of diesel fuel.**
 
