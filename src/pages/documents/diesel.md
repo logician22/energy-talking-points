@@ -11,9 +11,9 @@ featuredimage: /img/gas-pump.jpg
 
 **Blame our anti-fossil-fuel politicians, who:**
 
-    - Prevented us from importing Canadian oil well-suited to our refineries
-    - Prevented or shut down diesel-producing capacity in the US
-    - Threatened new investments in diesel
+- Prevented us from importing Canadian oil well-suited to our refineries
+- Prevented or shut down diesel-producing capacity in the US
+- Threatened new investments in diesel
 
 - Diesel is **the fuel of heavy-duty vehicles and is many Northeast homes’ source of heat.** Prices are high and increasing because:
     1. **October inventories, which should have been high to prep for winter, were their lowest since records began in 1982.**
@@ -49,7 +49,7 @@ featuredimage: /img/gas-pump.jpg
     But anti-oil politicians delayed it and ultimately Biden killed it.[^4]
     ![Keystone cancellation](/img/biden-kills-keystonexl.png)
 
-- As I pointed out when it was announced that Biden would cancel Keystone XL, his (and other politicians’) **cluelessness about the requirements for increasing diesel production was (and is) extremely dangerous.**[^5]
+- As I pointed out when it was announced that Biden would cancel Keystone XL, his (and other politicians’) **cluelessness about the requirements for increasing diesel production was (and is) extremely dangerous.**[^5]\
     [Here's what I find terrifying about the news that Joe Biden is planning to cancel Keystone XL. He doesn't even acknowledge (or know?) that the heavy oil we get from Canada is particularly vital given how US refineries work and the state of global oil demand (more diesel needed).](https://twitter.com/AlexEpstein/status/1351676880550649856)
 
 - Had the **Keystone XL** pipeline been approved promptly, it **would have matched Canadian oil with suitable Gulf Coast refineries, providing good profits to US refiners and incentivizing them to expand to handle the potentially endless, secure supply of Canadian crude.**[^6]
