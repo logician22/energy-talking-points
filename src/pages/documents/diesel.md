@@ -7,6 +7,8 @@ description: The US is experiencing a dangerous shortage of diesel fuel. Blame
   our clueless anti-fossil-fuel politicians.
 featuredimage: /img/gas-pump.jpg
 ---
+Originally published on November 10, 2022
+
 **The US is experiencing a dangerous shortage of diesel fuel.**
 
 **Blame our anti-fossil-fuel politicians, who:**
@@ -14,6 +16,7 @@ featuredimage: /img/gas-pump.jpg
 - Prevented us from importing Canadian oil well-suited to our refineries
 - Prevented or shut down diesel-producing capacity in the US
 - Threatened new investments in diesel
+
 
 - Diesel is **the fuel of heavy-duty vehicles and is many Northeast homes’ source of heat.** Prices are high and increasing because:
     1. **October inventories, which should have been high to prep for winter, were their lowest since records began in 1982.**
