@@ -11,9 +11,9 @@ O﻿riginally published on December 2, 2022
 
 ***“Climate reparations” are immoral***
 
-***1. They **punish the free world for fossil fuel use that has made the whole world better,** including safer from climate.***
+***1. They punish the free world for fossil fuel use that has made the whole world better, including safer from climate.***
 
-***2. They **punish poor people** by **taking away** their freedom to use the **fossil fuels they need to flourish**.***
+***2. They punish poor people by taking away their freedom to use the fossil fuels they need to flourish.***
 
 - The hottest idea emerging from the UN's COP27 climate conference, enthusiastically supported by the Biden Administration, is “climate reparations”: **wealthy countries paying poor countries to make up for climate-related harm.**
 
@@ -115,7 +115,7 @@ O﻿riginally published on December 2, 2022
 [^3]:
     [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
 
