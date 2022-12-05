@@ -93,7 +93,7 @@ O﻿riginally published on December 2, 2022
 
 - We **need leaders** in the US and Europe who proudly:
 
-    **1) Champion the free world’s use of fossil fuels as an enormous good for the world, including its safety from climate.**
+    **1) Champion the free world’s use of fossil fuels as an enormous good for the world, including its safety from climate.**\
     **2) Encourage the poor world to embrace economic freedom and fossil fuels.**
 
     Tell your Representative to do both.
