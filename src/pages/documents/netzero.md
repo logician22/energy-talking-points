@@ -178,7 +178,7 @@ Originally published on December 7, 2022
 [^5]:
     [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
 
