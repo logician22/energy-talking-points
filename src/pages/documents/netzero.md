@@ -71,7 +71,7 @@ Originally published on December 7, 2022
 
 - **2. Cost-effective energy is desperately needed by billions more people**
 
-    Billions of lack the cost-effective energy they need to live lives of abundance and safety. **3 billion use less electricity than a typical American refrigerator.** Most of those people use wood or dung for heating and cooking.[^3]
+    Billions lack the cost-effective energy they need to live lives of abundance and safety. **3 billion use less electricity than a typical American refrigerator.** Most of those people use wood or dung for heating and cooking.[^3]
     ![biomass use](/img/art-b-33-of-the-world-uses-wood-and-dung.png)
 
 - **3: Fossil fuels are uniquely able to provide cost-effective energy**
