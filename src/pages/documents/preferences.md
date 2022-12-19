@@ -11,8 +11,8 @@ Originally published on December 14, 2022
 
 **Today's grids are being ruined by systemic preferences for unreliable electricity:**
 
-**1) no price penalty for being unreliable**
-**2) huge subsidies for unreliables**
+**1) no price penalty for being unreliable**\
+**2) huge subsidies for unreliables**\
 **3) mandates for unreliables**
 
 **Congress should end these now.**
@@ -30,9 +30,9 @@ Originally published on December 14, 2022
 
     A root cause of America’s cost and reliability problems is extreme preferences for unreliable solar and wind electricity:
 
-    1. no price penalty for being unreliable
-    2. huge subsidies for unreliables
-    3. mandates for unreliables
+    1) no price penalty for being unreliable
+    2) huge subsidies for unreliables
+    3) mandates for unreliables\
 
     Here’s how they work and how to fix them.
 
