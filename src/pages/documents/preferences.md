@@ -32,7 +32,7 @@ Originally published on December 14, 2022
 
     1) no price penalty for being unreliable
     2) huge subsidies for unreliables
-    3) mandates for unreliables\
+    3) mandates for unreliables
 
     Here’s how they work and how to fix them.
 
