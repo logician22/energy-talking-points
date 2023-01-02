@@ -14,7 +14,7 @@ Originally published on December 22, 2022
 
 - In its first 2 years the Biden administration, through its anti-fossil fuel policies, has **helped cause the worst energy crisis since the 1970s.**
 
-    Instead of reversing course it’s using a technical breakthrough in fusion to **pretend everything is going great.**[^1]
+    Instead of reversing course it’s using a technical breakthrough in fusion to **pretend everything is going great.**[^1]\
     [Testimony: "How the Biden Administration and the Global Anti-Fossil-Fuel Movement Caused an Energy Crisis and Inflated Our Cost of Living"](https://energytalkingpoints.com/energy-crisis-testimony/)
 
 - **“This is what it looks like for America to lead,” Energy Secretary Granholm** recently said in celebration of a recent fusion breakthrough.
@@ -56,7 +56,7 @@ Originally published on December 22, 2022
 
 - **The world needs to reject the “green” movement and instead embrace a “human flourishing” movement that embraces intelligent human impact** on Earth as a good thing, and embraces both today’s most cost-effective energy sources—above all, fossil fuels—and is eager to improve on them.
 
-- To understand why fossil fuels are so valuable for the foreseeable future, and why their benefits far outweigh their negative side-effects including climate-side-effects, read this summary of my new book [Fossil Future](http://fossilfuture.com/).[^11]
+- To understand why fossil fuels are so valuable for the foreseeable future, and why their benefits far outweigh their negative side-effects including climate-side-effects, read this summary of my new book [Fossil Future](http://fossilfuture.com/).[^11]\
     [The irrefutable case for a Fossil Future](https://twitter.com/AlexEpstein/status/1565007126107262976)
     ![Fossil Future](/img/fossil-future.png)
 
