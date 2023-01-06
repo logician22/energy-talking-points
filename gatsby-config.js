@@ -96,6 +96,8 @@ if (process.env.NODE_ENV !== "development") {
     options: {
       // The property ID; the tracking code won't be generated without it
       trackingId: process.env.GA_TRACKING_ID,
+      // Required to verify Google search console
+      head: true,
       // Setting this parameter is optional
       anonymize: true,
       // Setting this parameter is also optional
