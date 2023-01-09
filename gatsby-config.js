@@ -88,6 +88,24 @@ const plugins = [
       id: "GTM-TDDJQMJ",
     },
   },
+  {
+    resolve: "gatsby-plugin-sitemap",
+    options: {
+      query: `
+      {
+        allSitePage {
+          node {
+            path
+          }
+        }
+      }`,
+      serialize: ({ path }) => {
+        return {
+          url: path,
+        }
+      },
+    },
+  },
 ];
 
 if (process.env.NODE_ENV !== "development") {
