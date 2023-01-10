@@ -21,7 +21,7 @@ Originally published on December 31, 2022
 *So, for those of you who are interested, here’s what happened.*
 
 
-*Part 1: Deciding to become a practical philosopher*
+***Part 1: Deciding to become a practical philosopher***
 
 Sometimes **people assume** that I became a fossil fuel champion due to some combination of 1) **fossil fuel industry money** and 2) my personal background—e.g., my family was involved in fossil fuels, or I grew up in some pro-fossil fuel area.
 
