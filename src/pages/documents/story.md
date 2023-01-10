@@ -10,15 +10,15 @@ Originally published on December 31, 2022
 
 ![Alex at Climate March](/img/es01.jpg)
 
-*Introduction*
+***Introduction***
 
-***The most frequent question I get asked is: “How did you end up doing this?”***
+*The most frequent question I get asked is: “How did you end up doing this?”*
 
-***Most people can’t imagine why or how someone would become a huge champion of fossil fuels, of all things.***
+*Most people can’t imagine why or how someone would become a huge champion of fossil fuels, of all things.*
 
-***And growing up, I never imagined I would devote my life to this cause.***
+*And growing up, I never imagined I would devote my life to this cause.*
 
-***So, for those of you who are interested, here’s what happened.***
+*So, for those of you who are interested, here’s what happened.*
 
 
 *Part 1: Deciding to become a practical philosopher*
@@ -63,7 +63,7 @@ In my early career as a freelancer and in the think-tank world, **I wrote articl
 But I **never found a subject that I wanted to become an expert in—until I found energy.**
 
 
-*Part 2: Deciding to become an energy expert*
+***Part 2: Deciding to become an energy expert***
 
 My favorite subjects to apply philosophy to are 1) hugely consequential for human life and 2) being thought about in a very wrong way.
 
@@ -109,10 +109,10 @@ Realizing that leading thinkers and institutions were driven by anti-human ideas
 
 I **decided to become an energy expert who used pro-human philosophical ideas to evaluate our energy choices** and made good policy recommendations. Above all I wanted to learn about the full benefits and side-effects of fossil fuels and spread the truth far and wide.
 
-When I looked at the full benefits and side-effects of fossil fuels from a human flourishing perspective, I quickly discovered that, as the subtitle of my book ***[Fossil Future](http://fossilfuture.com/)*** says, **“global human flourishing requires more oil, coal, and natural gas—not less.”**
+When I looked at the full benefits and side-effects of fossil fuels from a human flourishing perspective, I quickly discovered that, as the subtitle of my book *[Fossil Future](http://fossilfuture.com/)* says, **“global human flourishing requires more oil, coal, and natural gas—not less.”**
 
 
-*Part 3: Starting a pro-human energy movement*
+***Part 3: Starting a pro-human energy movement***
 
 To publicize my pro-human approach to energy I decided to start my own organization that would be the base of a pro-human energy movement as well as a pro-human approach to other forms of industry: the Center for Industrial Progress.
 
@@ -122,10 +122,10 @@ For more on my business model and how I have maintained intellectual independenc
 
 My initial strategy to prove the value of my pro-human energy thinking was to make my approach known by **taking the fight to people I disagreed with: by challenging them to public debates and even debating them at their rallies.**
 
-I debated a Greenpeace rep in 2011, leading anti-fossil fuel activist Bill McKibben in 2012, a Sierra Club leader in 2013, etc. While I didn’t know anywhere near as much then as now, these debates started showing the merits of my pro-human approach.
+I debated a Greenpeace rep in 2011, leading anti-fossil fuel activist Bill McKibben in 2012, a Sierra Club leader in 2013, etc. While I didn’t know anywhere near as much then as now, these debates started showing the merits of my pro-human approach.\
 [McKibben vs. Epstein Debate on Fossil Fuels](https://youtu.be/0_a9RP0J7PA)
 
-I also took my views to anti-fossil-fuel protests, including Occupy Wall Street in 2011 and the People’s Climate March in 2014–where **I stood against 300,000 protestors with a giant I Love Fossil Fuels sign.**
+I also took my views to anti-fossil-fuel protests, including Occupy Wall Street in 2011 and the People’s Climate March in 2014–where **I stood against 300,000 protestors with a giant I Love Fossil Fuels sign.**\
 [Alex Epstein at People's Climate March: Part 1](https://youtu.be/mojiBJ55G2g)
 
 I did debates and crashed protests to **prove a point: my pro-human way of thinking about energy is right,** my conclusion that we need more fossil fuels is right, and **my conviction in these things is far greater than the conformist pseudo-conviction of the anti-fossil-fuel movement.**
@@ -133,19 +133,19 @@ I did debates and crashed protests to **prove a point: my pro-human way of think
 In 2013, an agent watched my debate with Bill McKibben and was impressed. He read an [essay I had written](https://industrialprogress.com/wp-content/uploads/2013/10/The-Moral-Case-for-Fossil-Fuels.pdf) on “the moral case for fossil fuels” and thought he could get a major publisher to pick it up. I was skeptical, but he was right—and a game-changing book was born.
 
 
-*Part 4: The Moral Case for Fossil Fuels—influential and vindicated, yet ignored by the mainstream*
+***Part 4: The Moral Case for Fossil Fuels—influential and vindicated, yet ignored by the mainstream***
 
-**I was given 6 months to write** ***The Moral Case for Fossil Fuels*** and somehow I did this. Two big helps were my researcher Steffen Henne, who knows a ton and is good at catching errors, and my philosopher friend Greg Salmieri, who helped me quickly clarify my thinking.
+**I was given 6 months to write** *The Moral Case for Fossil Fuels* and somehow I did this. Two big helps were my researcher Steffen Henne, who knows a ton and is good at catching errors, and my philosopher friend Greg Salmieri, who helped me quickly clarify my thinking.
 ![Moral Case for Fossil Fuels](/img/moral-case.jpg)
 
-For a book that took 6 months and many did not expect to succeed, ***The Moral Case for Fossil Fuels*** did incredibly well, becoming a ***New York Times*** bestseller. It influenced many elected officials as well as many CEOs—some of whom [finally started standing up for their beleaguered industry](https://industrialprogress.com/exclusive-interview-with-adam-anderson-new-talking-points-on-solar-and-wind-subsidies/).
+For a book that took 6 months and many did not expect to succeed, *The Moral Case for Fossil Fuels* did incredibly well, becoming a *New York Times* bestseller. It influenced many elected officials as well as many CEOs—some of whom [finally started standing up for their beleaguered industry](https://industrialprogress.com/exclusive-interview-with-adam-anderson-new-talking-points-on-solar-and-wind-subsidies/).
 
 Most importantly, the book was right. It **correctly predicted that any negative impacts of fossil fuel use would be outweighed by the unique benefits of fossil fuels to human flourishing**—including their unrivaled ability to provide low-cost, reliable energy to billions.
 
-Even though it was very popular, ***The Moral Case for Fossil Fuels*** was largely ignored by mainstream thinkers and outlets. **Instead of engaging me they preferred to pretend that I, my book, and my pro-human arguments didn’t exist.** But this **strategy was doomed to fail** as I found new ways to spread my ideas.
+Even though it was very popular, *The Moral Case for Fossil Fuels* was largely ignored by mainstream thinkers and outlets. **Instead of engaging me they preferred to pretend that I, my book, and my pro-human arguments didn’t exist.** But this **strategy was doomed to fail** as I found new ways to spread my ideas.
 
 
-*Part 5: Energy Talking Points: Pro-human, pro-freedom messaging and policies for politicians and citizens*
+***Part 5: Energy Talking Points: Pro-human, pro-freedom messaging and policies for politicians and citizens***
 
 In 2020, I created Energy Talking Points to solve a crucial problem: **elected officials as well as citizens who wanted to promote pro-energy, pro-freedom policies didn’t have good messaging**—the right words for the right situation.
 
@@ -156,28 +156,28 @@ After pioneering a new caliber of messaging with Energy Talking Points, I create
 My energy talking points greatly increased the world’s exposure to my pro-human energy thinking and the case for more fossil fuel use. This has made it **impossible for mainstream thinkers to ignore my latest and most important project: [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/).**
 
 
-*Part 6: Fossil Future: An irrefutable and unstoppable case for more fossil fuel use*
+***Part 6: Fossil Future: An irrefutable and unstoppable case for more fossil fuel use***
 
 While pro-human thinking about fossil fuels has been on the rise, it has been no match for the **growing scope of the anti-fossil-fuel movement, which has totally mainstreamed the murderous goal of rapidly eliminating fossil fuels.**
 
 I spent a lot of time thinking about what I could do, as the world’s leading champion of fossil fuels, to change the world’s deadly anti-fossil-fuel trajectory. I **decided the most impactful thing I could do was write a new book that was 10 times better than The Moral Case for Fossil Fuels.**
 
-Based on the success of ***The Moral Case for Fossil Fuels***, which I wrote in 6 months knowing much less about energy and persuasion than I do now, **I believed that a new level of impact was possible if I wrote a totally new book about fossil fuels.**
+Based on the success of *The Moral Case for Fossil Fuels*, which I wrote in 6 months knowing much less about energy and persuasion than I do now, **I believed that a new level of impact was possible if I wrote a totally new book about fossil fuels.**
 ![Fossil Future](/img/fossil-future.jpg)
 
 I spent over **3 years making Fossil Future the clearest, most persuasive, most comprehensive, most current book possible about fossil fuels and what our policy should be** going forward. I believe it’s at a different level than any other energy book—and [many agree with me](https://alexepstein.substack.com/p/endorsements-for-fossil-future).
 
 **Fossil Future begins by proving that our leading institutions are evaluating fossil fuels based on an anti-human philosophical framework. It offers an alternative “human flourishing framework.” Both its exposé of the establishment and its alternative framework are hard to refute.**
 
-As ***Fossil Future*** shows, **once you look at the benefits and side-effects of fossil fuels from a human flourishing perspective, everything changes.** Fossil fuels go from a world-destroying addiction to a world-saving value that actually makes us safer from climate.
+As *Fossil Future* shows, **once you look at the benefits and side-effects of fossil fuels from a human flourishing perspective, everything changes.** Fossil fuels go from a world-destroying addiction to a world-saving value that actually makes us safer from climate.
 
-Happily, ***Fossil Future*** is already having a huge positive impact. In its first week it [outsold every book on the NYT bestseller list but one](https://twitter.com/AlexEpstein/status/1532721538214023171), in some cases, selling 5 times more. It has gotten [great reviews](https://alexepstein.substack.com/p/endorsements-for-fossil-future) from leading thinker after leading thinker. Here are some of them.
+Happily, *Fossil Future* is already having a huge positive impact. In its first week it [outsold every book on the NYT bestseller list but one](https://twitter.com/AlexEpstein/status/1532721538214023171), in some cases, selling 5 times more. It has gotten [great reviews](https://alexepstein.substack.com/p/endorsements-for-fossil-future) from leading thinker after leading thinker. Here are some of them.
 
 Most excitingly, I get **[endless comments](https://twitter.com/AlexEpstein/status/1608917710997696512) from readers about how Fossil Future changed how they thought about energy and climate.** This shows that Fossil Future really is great at winning hearts and minds.
 
 Attempts to refute Fossil Future have uniformly been [straw-men](https://twitter.com/AlexEpstein/status/1532734626975862789) that totally misrepresent the contents of the book.
 
-**The most prominent attempt to attack Fossil Future shows the strength of the book and the weakness of my opponents. The Washington Post attempted to smear me**, a lifelong individualist, as racist. [I destroyed their attempt](https://alexepstein.substack.com/p/how-i-stopped-the-washington-post). This is the best they can do?
+**The most prominent attempt to attack Fossil Future shows the strength of the book and the weakness of my opponents. The Washington Post attempted to smear me**, a lifelong individualist, as racist. [I destroyed their attempt](https://alexepstein.substack.com/p/how-i-stopped-the-washington-post). This is the best they can do?\
 [How I stopped The Washington Post from canceling me and Fossil Future](https://alexepstein.substack.com/p/how-i-stopped-the-washington-post)
 
 My ideas are winning. At this point **it’s nearly impossible to find a prominent person who will debate me,** particularly in an extended time format where they won’t be saved by the bell.
