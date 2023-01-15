@@ -125,18 +125,12 @@ if (process.env.NODE_ENV !== "development") {
   });
 }
 
-const siteUrl =
-  (process.env.CONTEXT === "production"
-    ? process.env.URL
-    : process.env.DEPLOY_URL) || "http://localhost:8000";
-console.log("DEPLOY URL", siteUrl);
-
 module.exports = {
   siteMetadata: {
     title: "Energy Talking Points - Alex Epstein",
     description:
       "Energy policy, including climate policy, is one of the most important political issues today. I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.",
-    siteUrl,
+    siteUrl: "https://energytalkingpoints.com/",
   },
   plugins,
 };
