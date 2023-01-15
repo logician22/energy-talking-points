@@ -22,13 +22,11 @@ export const BlogPostTemplate = ({
   next,
 }) => {
   const PostContent = contentComponent || Content;
-  const img = getImage(image) || image;
-
   return (
     <div className="document">
       <PreviewCompatibleImage
         imageInfo={{
-          image: img,
+          image,
           alt: `featured image thumbnail for post ${title}`,
         }}
         imageStyle={{ maxHeight: 400, borderRadius: 0 }}

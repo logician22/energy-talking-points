@@ -123,6 +123,7 @@ const SearchExcerpt = ({ post, search }) => {
 
 const ArticleCard = ({ post, search }) => {
   const isSearch = search.length > SEARCH_THRESHOLD;
+
   return (
     <div
       className={`is-parent column is-${isSearch ? "12" : "6"}`}
