@@ -2,6 +2,8 @@ require("dotenv").config({
   path: ".env",
 });
 
+const siteUrl = "https://energytalkingpoints.com/";
+
 const plugins = [
   "gatsby-plugin-react-helmet",
   {
@@ -91,19 +93,7 @@ const plugins = [
   {
     resolve: "gatsby-plugin-sitemap",
     options: {
-      query: `
-      {
-        allSitePage {
-          node {
-            path
-          }
-        }
-      }`,
-      serialize: ({ path }) => {
-        return {
-          url: path,
-        };
-      },
+      resolveSiteUrl: () => siteUrl,
     },
   },
   "gatsby-plugin-netlify", // make sure to keep it last in the array
@@ -130,7 +120,7 @@ module.exports = {
     title: "Energy Talking Points - Alex Epstein",
     description:
       "Energy policy, including climate policy, is one of the most important political issues today. I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy--including fossil fuels--can compete to produce the most reliable, lowest-cost energy for billions of people.",
-    siteUrl: "https://energytalkingpoints.com/",
+    siteUrl,
   },
   plugins,
 };
