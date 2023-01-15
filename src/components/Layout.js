@@ -1,13 +1,28 @@
-import * as React from "react";
+import React from "react";
 import { Helmet } from "react-helmet";
+import { withPrefix } from "gatsby";
+
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import "./all.sass";
 import useSiteMetadata from "./SiteMetadata";
-import { withPrefix } from "gatsby";
 
-const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+const TemplateWrapper = (props) => {
+  const { children, passedData = {} } = props;
+
+  const { site, defaultImage } = useSiteMetadata();
+
+  const { siteMetadata } = site;
+
+  const { siteUrl } = siteMetadata;
+
+  const title = passedData.title
+    ? `Energy Talking Points - ${passedData.title}`
+    : siteMetadata.title;
+  const description = passedData.description || siteMetadata.description;
+  const imageString = passedData.image || defaultImage;
+  const img = imageString[0] === "/" ? imageString.slice(1) : imageString;
+
   return (
     <div>
       <Helmet>
@@ -23,13 +38,13 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-32x32.png`}
+          href={`${withPrefix("/")}img/favicon2-32x32.png`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-16x16.png`}
+          href={`${withPrefix("/")}img/favicon2-16x16.png`}
           sizes="16x16"
         />
 
@@ -39,13 +54,23 @@ const TemplateWrapper = ({ children }) => {
           color="#ff4400"
         />
         <meta name="theme-color" content="#fff" />
+        <meta name="description" content={description} />
 
-        <meta property="og:type" content="business.business" />
+        <meta property="og:type" content="website" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
+          content={`${siteUrl}${withPrefix("/")}${img}`}
+        />
+
+        <meta name="twitter:card" content="summary_large_image" />
+
+        <meta name="twitter:creator" content="@AlexEpstein" />
+        <meta name="twitter:title" content={title} />
+        <meta name="twitter:description" content={description} />
+        <meta
+          name="twitter:image"
+          content={`${siteUrl}${withPrefix("/")}${img}`}
         />
       </Helmet>
       <Navbar />

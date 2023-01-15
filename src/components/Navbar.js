@@ -1,79 +1,158 @@
-import React, { useState } from "react";
-import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import React from "react";
+import { Link, graphql, StaticQuery } from "gatsby";
 
-const Navbar = () => {
-  const [isActive, setIsActive] = useState(false);
+import DownChevron from "./DownChevron";
+import epstein from "../img/epstein.jpeg";
+import { orderPostEdges } from "../utils";
 
-  return (
-    <nav
-      className="navbar is-transparent"
-      role="navigation"
-      aria-label="main-navigation"
-    >
-      <div className="container">
-        <div className="navbar-brand">
-          <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
-          </Link>
-          {/* Hamburger menu */}
-          <button
-            className={`navbar-burger burger ${isActive && "is-active"}`}
-            aria-expanded={isActive}
-            onClick={() => setIsActive(!isActive)}
-          >
-            <span />
-            <span />
-            <span />
-          </button>
-        </div>
-        <ul id="navMenu" className={` navbar-start has-text-centered navbar-menu ${isActive && "is-active"}`}>
-            {/* TODO: inline override of padding is a result of refactoring
-                to a ul for accessibilty purposes, would like to see a css
-                re-write that makes this unneccesary.
-             */}
-            <li className="navbar-item" style={{padding: "0px"}}>
-              <Link className="navbar-item" to="/about">
-                About
+const Navbar = class extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      active: false,
+      more: false,
+      navBarActiveClass: "",
+    };
+  }
+
+  toggleHamburger = () => {
+    // toggle the active boolean in the state
+    this.setState(
+      {
+        active: !this.state.active,
+      },
+      // after state has been updated,
+      () => {
+        // set the class in state for the navbar accordingly
+        this.state.active
+          ? this.setState({
+              navBarActiveClass: "is-active",
+            })
+          : this.setState({
+              navBarActiveClass: "",
+            });
+      }
+    );
+  };
+
+  toggleMore = () => {
+    // toggle the active boolean in the state
+    this.setState({
+      more: !this.state.more,
+    });
+  };
+
+  render() {
+    const { data } = this.props;
+    const { edges } = data.allMarkdownRemark;
+    const { more, navBarActiveClass, active } = this.state;
+
+    // Show first 5 non-overview pages in header
+    const posts = orderPostEdges(edges, false);
+
+    const displayPosts = active ? posts : posts.slice(0, 5);
+
+    const extraPosts = displayPosts.length < posts.length ? posts.slice(5) : [];
+
+    return (
+      <nav
+        className="navbar is-transparent"
+        role="navigation"
+        aria-label="main-navigation"
+      >
+        <div className="container">
+          <div className="navbar-brand">
+            <div className="level" style={{ marginBottom: 0 }}>
+              <Link to="/" className="navbar-item level-item" title="Logo">
+                <img
+                  src={epstein}
+                  alt="CIP"
+                  style={{
+                    maxHeight: 60,
+                    borderRadius: "50%",
+                  }}
+                />
+                <div className="ml-3">
+                  <p className="has-text-weight-bold">Energy Talking Points</p>
+                  <p>by Alex Epstein</p>
+                </div>
               </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/products">
-              Products
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/blog">
-              Blog
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/contact">
-              Contact
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
-            </Link>
-            </li>
-          <li className="navbar-end has-text-centered">
-            <a
-              className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-              target="_blank"
-              rel="noopener noreferrer"
+            </div>
+            {/* Hamburger menu */}
+            <div
+              className={`navbar-burger burger ${navBarActiveClass}`}
+              data-target="navMenu"
+              style={{ height: 84, width: 84 }}
+              onClick={() => this.toggleHamburger()}
             >
-              <span className="icon">
-                <img src={github} alt="Github" />
-              </span>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-  );
+              <span />
+              <span />
+              <span />
+            </div>
+          </div>
+          <div id="navMenu" className={`navbar-menu ${navBarActiveClass}`}>
+            <div className="navbar-end has-text-centered">
+              {displayPosts &&
+                displayPosts.map(({ node: post }) => (
+                  <Link
+                    key={post.fields.slug}
+                    className="navbar-item"
+                    to={post.fields.slug}
+                  >
+                    {post.frontmatter.title}
+                  </Link>
+                ))}
+              {extraPosts.length > 0 && !active ? (
+                <span
+                  className={`navbar-item navbar-more ${more ? "open" : ""}`}
+                  onClick={() => this.toggleMore()}
+                  style={more ? { transform: "rotate(180deg)" } : {}}
+                >
+                  <DownChevron />
+                </span>
+              ) : null}
+              {!active && more ? (
+                <div className="extra-posts">
+                  {more
+                    ? extraPosts.map(({ node: post }) => (
+                        <Link
+                          key={post.fields.slug}
+                          className="navbar-item"
+                          to={post.fields.slug}
+                        >
+                          {post.frontmatter.title}
+                        </Link>
+                      ))
+                    : null}
+                </div>
+              ) : null}
+            </div>
+          </div>
+        </div>
+      </nav>
+    );
+  }
 };
 
-export default Navbar;
+export default () => (
+  <StaticQuery
+    query={graphql`
+      query NavBarQuery {
+        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
+          edges {
+            node {
+              id
+              fields {
+                slug
+              }
+              frontmatter {
+                title
+              }
+            }
+          }
+        }
+      }
+    `}
+    render={(data, count) => <Navbar data={data} count={count} />}
+  />
+);
