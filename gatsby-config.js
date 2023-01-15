@@ -66,7 +66,7 @@ const plugins = [
       modulePath: `${__dirname}/src/cms/cms.js`,
     },
   },
-  // "gatsby-plugin-robots-txt",
+  "gatsby-plugin-robots-txt",
   {
     resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
     options: {
@@ -82,30 +82,30 @@ const plugins = [
   //     },
   //   },
   // },
-  // {
-  //   resolve: "gatsby-plugin-google-tagmanager",
-  //   options: {
-  //     id: "GTM-TDDJQMJ",
-  //   },
-  // },
-  // {
-  //   resolve: "gatsby-plugin-sitemap",
-  //   options: {
-  //     query: `
-  //     {
-  //       allSitePage {
-  //         node {
-  //           path
-  //         }
-  //       }
-  //     }`,
-  //     serialize: ({ path }) => {
-  //       return {
-  //         url: path,
-  //       };
-  //     },
-  //   },
-  // },
+  {
+    resolve: "gatsby-plugin-google-tagmanager",
+    options: {
+      id: "GTM-TDDJQMJ",
+    },
+  },
+  {
+    resolve: "gatsby-plugin-sitemap",
+    options: {
+      query: `
+      {
+        allSitePage {
+          node {
+            path
+          }
+        }
+      }`,
+      serialize: ({ path }) => {
+        return {
+          url: path,
+        };
+      },
+    },
+  },
   "gatsby-plugin-netlify", // make sure to keep it last in the array
 ];
 
