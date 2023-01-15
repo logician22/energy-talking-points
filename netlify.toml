@@ -2,6 +2,6 @@
   publish = "public"
   command = "npm run build"
 [build.environment]
-  NODE_VERSION = "v18.13.0"
+  NODE_VERSION = "18.13.0"
 
 
