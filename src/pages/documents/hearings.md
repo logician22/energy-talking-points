@@ -11,7 +11,7 @@ Originally published on January 7, 2023
 
 **Republicans are promising a pro-energy agenda.**
 
-    **Here are 4 essential topics they should take up:**
+    Here are 4 essential topics they should take up:
     **1. Nuclear overregulation**
     **2. Unreliable electricity**
     **3. Lessons of Europe’s energy crisis**
