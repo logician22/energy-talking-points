@@ -11,11 +11,11 @@ Originally published on January 7, 2023
 
 **Republicans are promising a pro-energy agenda.**
 
-**Here are 4 essential topics they should take up:**
-**1. Nuclear overregulation**
-**2. Unreliable electricity**
-**3. Lessons of Europe’s energy crisis**
-**4. The “Inflation Reduction Act” disaster**
+    **Here are 4 essential topics they should take up:**
+    **1. Nuclear overregulation**
+    **2. Unreliable electricity**
+    **3. Lessons of Europe’s energy crisis**
+    **4. The “Inflation Reduction Act” disaster**
 
 - **Essential hearing 1: How to Decriminalize Nuclear and Unleash its Full Potential**
 
@@ -26,6 +26,7 @@ Originally published on January 7, 2023
 - Fact: Nuclear energy has limitless potential. It is the cleanest and safest form of energy ever devised. And **nuclear had a proven track record of being able to provide low-cost, ultra-reliable electricity before hostile government policies made it near impossible.**
 
 - Fact: The cost-effectiveness of nuclear energy has tragically declined. The **time to create a new plant has increased from 4 years to several times that** when it should have decreased due to improving technology. And prices have increased many times when they should have decreased.[^1]
+
     ![Nuclear build times](/img/nuclear-construction-time.jpg)
 
 - Fact: Neither new subsidies nor new government-funded research will solve **the fundamental problem with nuclear: overregulation that amounts to criminalization.** We need radical nuclear policy reform.
