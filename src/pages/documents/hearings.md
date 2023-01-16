@@ -11,10 +11,10 @@ Originally published on January 7, 2023
 
 **Republicans are promising a pro-energy agenda.**
 
-**Here are 4 essential topics they should take up:**
-    **1. Nuclear overregulation**
-    **2. Unreliable electricity**
-    **3. Lessons of Europe’s energy crisis**
+**Here are 4 essential topics they should take up:**\
+    **1. Nuclear overregulation**\
+    **2. Unreliable electricity**\
+    **3. Lessons of Europe’s energy crisis**\
     **4. The “Inflation Reduction Act” disaster**
 
 - **Essential hearing 1: How to Decriminalize Nuclear and Unleash its Full Potential**
