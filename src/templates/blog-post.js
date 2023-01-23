@@ -68,7 +68,8 @@ export const BlogPostTemplate = ({
             <div className="column is-10 is-offset-1">
               <Link to={next.fields.slug}>
                 <h3 className="is-size-3">
-                  Next up: {next.frontmatter.title}{" "}
+                  Next up:{" "}
+                  {next.frontmatter.displaytitle || next.frontmatter.title}{" "}
                   <span className="arrow">→</span>
                 </h3>
               </Link>
@@ -114,7 +115,7 @@ const BlogPost = ({ data }) => {
         description={post.frontmatter.description}
         helmet={
           <Helmet titleTemplate="Energy Talking Points | %s">
-            <title>{post.frontmatter.title}</title>
+            <title>{post.frontmatter.displaytitle}</title>
             <meta
               name="description"
               content={`${post.frontmatter.description}`}
@@ -151,6 +152,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            displaytitle
           }
         }
       }
