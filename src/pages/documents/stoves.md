@@ -50,7 +50,7 @@ Originally published on January 13, 2023
 - Strong evidence stoves are not a leading concern for asthma: In the US, both CA, a state with one of the highest gas stove uses, and ND, a state with one of the lowest gas stove uses, have some of the lowest asthma rates.[^3]
     ![Gas stove use by state](/img/stoves-in-the-us.jpeg)
 
-- Observe that **CDC data shows that between 1980 and the mid-1990s asthma rates almost doubled, despite a significant decline in air pollution. This is an anti-correlation** that contradicts the narrative that asthma is mainly caused by pollution.[^4]
+- Observe that **CDC data show that between 1980 and the mid-1990s asthma rates almost doubled, despite a significant decline in air pollution. This is an anti-correlation** that contradicts the narrative that asthma is mainly caused by pollution.[^4]
     ![CDC 1980-1994](/img/cdc-historic-asthma.png)
 
 - **Honest scientists recognize that what causes asthma is unknown and might be many factors.** Ambient air pollution was long blamed for asthma, but the data for ambient pollution and asthma anti-correlate in Western countries.
