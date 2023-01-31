@@ -90,7 +90,7 @@ Originally published on January 13, 2023
 
 - The proper response to the gas-stove-banners?
 
-    **Tell them that you are interested in an valid science they want to offer you voluntarily—but that you will fight them to the death when they use pseudoscience to take away our freedom to produce and use energy.**
+    **Tell them that you are interested in any valid science they want to offer you voluntarily—but that you will fight them to the death when they use pseudoscience to take away our freedom to produce and use energy.**
 
 
 ###References
