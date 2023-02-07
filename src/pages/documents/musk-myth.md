@@ -16,7 +16,7 @@ Originally published on January 26, 2023
     **Truth: Storing just 3 days of global energy would cost $590 trillion at Elon Musk’s current prices. And the panels would take up more space than all the world’s cities, towns, and villages combined.**[^1]
     ![Solar Myth false](/img/musk-solar-only-false-2.png)
 
-- We often hear just a small area of solar panels plus storage batteries can power the world.
+- We often hear that just a small area of solar panels plus storage batteries can power the world.
 
     **“Such an obvious move”** says **Elon Musk** about this idea, adding **“Even solar plus batteries on a small section of Spain would solve EU energy needs.”**
 
