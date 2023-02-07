@@ -89,7 +89,7 @@ Originally published on January 26, 2023
     [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1607966762968154115)
 
     Original image of Africa from Wikimedia Commons\
-    Martin23230, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons\
+    Martin23230, CC BY-SA 3.0 [https://creativecommons.org/licenses/by-sa/3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons\
     [Africa (orthographic projection).svg](https://commons.wikimedia.org/wiki/File:Africa_(orthographic_projection).svg)
 
 [^6]:
