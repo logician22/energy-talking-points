@@ -7,7 +7,7 @@ date: 2020-01-09T13:24:35.601Z
 description: Storing just 3 days of global energy would cost $590 trillion at
   Elon Musk’s current prices. And the panels would take up more space than all
   the world’s cities, towns, and villages combined.
-featuredimage: /img/tesla-1000-megapacks-calc-v2.png
+featuredimage: /img/musk-solar-only-combo.png
 ---
 Originally published on January 26, 2023
 
