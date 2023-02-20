@@ -7,7 +7,7 @@ description: " "
 featuredimage: /img/paris-accords.jpeg
 ---
 
-#### Background
+## Background: What are the Paris Climate Accords?
 
 1. The Paris Climate Accords are a 2015 international agreement in which countries committed to specific short-term cuts in CO2 emissions along with the general goal of somehow eliminating almost all human-caused CO2 emissions by 2050.[^1]
 2. These emissions cuts are allegedly necessary to keep the average temperature from increasing by more than 1 degree C or more (2 degrees since preindustrial times) which would allegedly be catastrophic.[^2]
@@ -20,7 +20,7 @@ featuredimage: /img/paris-accords.jpeg
 9. International commitments to reduce CO2 emissions have a history of failing, and the Paris Accords are no exception. Most countries still aren’t meeting their CO2 reduction pledges, including Canada, Japan, and the European Union.[^11]
 10. The most significant progress in meeting Paris Climate Accords commitments has been the economic devastation of 2020, which has included a dramatic decrease in energy use.[^12]
 
-<br />
+### Why Shouldn't the USA Rejoin the Paris Accords?
 
 #### Unconstitutionality
 
@@ -103,11 +103,11 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
     The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019.
 
-[^5]: [Climate Action Tracker - Pledges and Targets for China](https://climateactiontracker.org/countries/china/pledges-and-targets/)
+[^5]: [Climate Action Tracker - Pledges and Targets for China](https://climateactiontracker.org/countries/china/targets/)
 
 [^6]: “...the final submissions are not enforceable, and carry no consequences beyond “shame” for noncompliance—a fact bizarrely taken for granted by all involved.” - [Why the Paris climate deal is meaningless by Oren Cass](https://www.politico.com/agenda/story/2015/11/why-the-paris-climate-deal-is-meaningless-000326/)
 
-[^7]: [Climate Action Tracker - Pledges And Targets for United States](https://climateactiontracker.org/countries/usa/pledges-and-targets/)
+[^7]: [Climate Action Tracker - Pledges And Targets for United States](https://climateactiontracker.org/countries/usa/targets/)
 
 [^8]: “The vision, unveiled at the United Nations climate conference in Morocco, shows the United States could reduce its carbon emissions by 80% below 2005 levels by 2050, largely by cutting emissions from the electric generating sector.” - [Utility Dive - Obama administration unveils path for deep decarbonization for Paris Climate Accord](https://www.utilitydive.com/news/obama-administration-unveils-path-for-deep-decarbonization-for-paris-climat/430665/)
 
