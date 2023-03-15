@@ -33,7 +33,7 @@ featuredimage: /img/spr-depletion.png
 
 - **How President Biden has harmed oil security by attacking the industry's freedom**
 
-For more than 15 years, the global anti-fossil-fuel movement, with major leadership by Joe Biden, has artificially reduced the supply of oil by opposing oil investment, production, refining, and transport.[^2]
+    For more than 15 years, the global anti-fossil-fuel movement, with major leadership by Joe Biden, has artificially reduced the supply of oil by opposing oil investment, production, refining, and transport.[^2]
 
 - **When global anti-fossil-fuel policies make oil supply go down, and oil demand goes up, oil prices go up.**
 
@@ -57,7 +57,7 @@ For more than 15 years, the global anti-fossil-fuel movement, with major leaders
 
 - The **proper response by Biden** to Europe’s and our vulnerability to Russia and to rising oil prices would have been: **apologize for supporting anti-oil policies and lead a reversal of them** to minimize further damage to our security and economy.
 
-- But instead of responding to artificially high oil prices, a consequence of anti-oil policies, with a reversal of those policies, Biden chose to keep his anti-oil policies but lower short-term prices by depleting our SPR—now down to its lowest level since the early 1980s.5
+- But instead of responding to artificially high oil prices, a consequence of anti-oil policies, with a reversal of those policies, Biden chose to keep his anti-oil policies but lower short-term prices by depleting our SPR—now down to its lowest level since the early 1980s.[^5]
     ![SPR depletion](/img/spr-depletion.png)
 
 - Even when full (at 714 million barrels), the SPR contains only 1/10th of US annual oil consumption (>7 billion barrels) and **now (at 370M barrels) it contains 1/20th.**[^6]
