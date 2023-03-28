@@ -11,7 +11,7 @@ featuredimage: /img/blackout.jpeg
 
 ***We are in a global energy crisis.***
 
-***As people look for solutions to this crisis, it is crucial that the right people get *implicated* (leaders of the anti-fossil-fuel movement) and the right people get *vindicated* (advocates of energy freedom).***
+***As people look for solutions to this crisis, it is crucial that the right people get implicated (leaders of the anti-fossil-fuel movement) and the right people get vindicated (advocates of energy freedom).***
 
 ***Here's some ammunition.***
 
