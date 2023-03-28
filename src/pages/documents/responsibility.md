@@ -15,7 +15,7 @@ featuredimage: /img/blackout.jpeg
 
 ***Here's some ammunition.***
 
-*[The causes of Europe’s energy insecurity](https://energytalkingpoints.com/europe-vulnerability/)*
+**[The causes of Europe’s energy insecurity](https://energytalkingpoints.com/europe-vulnerability/)**
 - The cause of Europe’s energy insecurity, which has rendered it impotent against Putin, is simple: When you restrict domestic fossil fuel production on the false promise of replacement by unreliable solar and wind, you become dangerously dependent on foreign production.
 
 - Europe’s vulnerability to Russia was completely preventable. Europe and its allies have all the natural gas, coal, and uranium they need to produce low-cost, reliable heat and electricity for generations to come.
@@ -47,9 +47,9 @@ featuredimage: /img/blackout.jpeg
     Less investment = less supply = higher prices.[^6]
 
 - Our bountiful natural gas is only useful if it can be transported by pipeline—to where it is needed in the US and to export terminals for shipment abroad. But in recent years we have seen a Democrat-led movement to block pipeline after pipeline—such as these 6 pipelines.[^7]
-    ![pipeline cancellations](static/img/cancelled-pipelines.jpeg)
+    ![pipeline cancellations](/img/cancelled-pipelines.jpeg)
 
-*[Causes of high oil and gasoline prices](https://energytalkingpoints.com/2021-skyrocketing-fuel-prices/)*
+**[Causes of high oil and gasoline prices](https://energytalkingpoints.com/2021-skyrocketing-fuel-prices/)**
 - Skyrocketing oil and gasoline prices are not a failure of the oil industry. They are the total failure of anti-oil politicians, who have artificially restricted the supply of oil with massive restrictions and threats to oil production and transport.
 
 - Contrary to rhetoric by Elizabeth Warren and others, oil and gasoline prices are not rising “because giant oil companies like Chevron and ExxonMobil enjoy doubling their profits.” If oil companies could control prices they would have done so during often-unprofitable 2015-2020.[^8]
@@ -63,7 +63,7 @@ featuredimage: /img/blackout.jpeg
     1) Anti-oil politicians around the world artificially restricted the supply of oil with massive restrictions/threats.
     2) These restrictions prevented supply from keeping up with demand, and prices went way up.
 
-*[The causes of America’s electricity crisis](https://energytalkingpoints.com/electricity-emergency/)*
+**[The causes of America’s electricity crisis](https://energytalkingpoints.com/electricity-emergency/)**
 - America's grid is in decline and about to get far worse due to policies that 1) reward unreliable electricity, 2) prematurely shut down coal plants, 3) criminalize nuclear, and 4) force electric vehicle use.
 
 - The root cause of our grid’s reliability problems is simple: America is shutting down too many reliable power plants—plants that can be controlled to produce electricity when needed in the exact quantity needed. And it is attempting to replace them with unreliable solar and wind.
@@ -78,7 +78,7 @@ featuredimage: /img/blackout.jpeg
 
     At a time when reliable electricity is scarce and about to become far scarcer, the Federal government and certain state governments are trying to force us to use electric vehicles—which would lead to major increases in electricity use at certain times of day.
 
-*[Refuting Democrat denials of responsibility for the energy crisis](https://energytalkingpoints.com/democrat-denial/)*
+**[Refuting Democrat denials of responsibility for the energy crisis](https://energytalkingpoints.com/democrat-denial/)**
 - For 15+ years Democratic politicians, including Joe Biden, have relentlessly attacked oil investment, oil production, and oil transport—leading to higher prices and lower security.
 
     Instead of taking credit for their “success,” they are denying that they are anti-fossil fuels![^12]
@@ -113,7 +113,7 @@ featuredimage: /img/blackout.jpeg
 
     Anti-fossil fuel politicians, please stop the denial.
 
-*[The “climate emergency” movement’s responsibility for the energy crisis](https://energytalkingpoints.com/fake-emergency/)*
+**[The “climate emergency” movement’s responsibility for the energy crisis](https://energytalkingpoints.com/fake-emergency/)**
 - The world is experiencing the worst energy crisis since the 1970s, and it may end up being far worse.
 
     Skyrocketing energy prices are driving price inflation in every area of life. Even in wealthy Europe we are seeing mass-hardship, deindustrialization, and fear of winter.[^16]
@@ -143,7 +143,7 @@ featuredimage: /img/blackout.jpeg
 
 - The “climate emergency” movement has the gall to chastise the fossil fuel industry for not sufficiently ramping up production post-pandemic and post-Putin-invasion. But this insufficient ramp-up is the result of anti-fossil-fuel policies that restrict and punish new attempted production!
 
-*[The causes of skyrocketing global natural gas and coal prices](https://energytalkingpoints.com/gas-and-coal-prices/)*
+**[The causes of skyrocketing global natural gas and coal prices](https://energytalkingpoints.com/gas-and-coal-prices/)**
 - Skyrocketing natural gas and coal prices are not a failure of the fossil fuel industry, but the total failure of anti-fossil fuel policies, which falsely promised that if we dramatically restricted fossil fuel energy production, green energy could easily replace it.
 
 - There is no physical reason that the natural gas and coal industries can't meet rising demand. The world has hundreds of years' worth of gas deposits and thousands of years worth of coal deposits. But governments radically restrict the freedom to utilize those deposits.[^20]
