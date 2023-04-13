@@ -64,7 +64,7 @@ featuredimage: /img/turbines.jpg
 
 - We’re in a growing electricity crisis caused by shutting down reliable power plants and not replacing them with reliable power plants.
 
-    The IRA’s response to this crisis is to double down on one of its main causes: subsidies for unreliable solar and wind.[^6]
+    The IRA’s response to this crisis is to double down on one of its main causes: subsidies for unreliable solar and wind.[^6]\
     [Alex Epstein - Electricity Emergency](https://energytalkingpoints.com/electricity-emergency/)
 
 - Why is America shutting down too many reliable power plants?
