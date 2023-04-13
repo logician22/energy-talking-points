@@ -87,7 +87,7 @@ featuredimage: /img/turbines.jpg
 
 - **Estimates of direct losses related to the 2021 TX blackouts are $130B (~$13K per household).**
 
-    **Texans were told that thanks to all their wind farms, they had low electricity prices. They weren’t told was that the grid’s reliability had been harmed, meaning inevitable huge costs.**[^10]
+    **Texans were told that thanks to all their wind farms, they had low electricity prices. They weren’t told that the grid’s reliability had been harmed, meaning inevitable huge costs.**[^10]
 
 - Solar and wind subsidies not only drive the shutdown of reliable power plants and loot taxpayers, they also inflate electricity prices. Because solar and wind can go near-zero at any given time, they don’t replace most of the costs of reliable power plants—they add to them.[^11]
     ![German power grid](/img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png)
