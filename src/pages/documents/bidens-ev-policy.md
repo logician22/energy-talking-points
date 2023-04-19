@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: "Biden's 67% EV policy: a dictatorial attack on the American
   driver and the US grid"
-title: Biden EV Policy
+title: EV Policy
 date: 2020-01-03T14:40:00.000Z
 description: Biden's proposed rules would 1. Force Americans to drive inferior
   cars, 2. Place massive new demand for reliable electricity on a grid that is
@@ -18,7 +18,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 **2. Place massive new demand for reliable electricity on a grid that is declining in reliable electricity supply.**
 
-Biden’s EPA is planning to **dictate** new emissions regulations for cars that will increase the EV market share of vehicles sold from today’s 6% up to **67% by 2032**[^1] ![EPA pollution limits aim to boost US electric vehicle sales](/img/biden-s-ev-1.jpeg)
+- Biden’s EPA is planning to **dictate** new emissions regulations for cars that will increase the EV market share of vehicles sold from today’s 6% up to **67% by 2032**[^1] ![EPA pollution limits aim to boost US electric vehicle sales](/img/biden-s-ev-1.jpeg)
 
 -   **1. Biden's EV mandate will force Americans to drive more expensive, less capable cars**  
     
@@ -79,7 +79,8 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
 
     In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable tech—most likely nuclear.
         
--   If the Biden Administration wants to facilitate cost-effective EVs, the number one thing it needs to do is **publicly reverse its attack on reliable power plants** that would **absolutely destroy our grid for existing electricity needs, let alone huge EV needs**.
+-   If the Biden Administration wants to facilitate cost-effective EVs, the number one thing it needs to do is **publicly reverse its attack on reliable power plants** that would **absolutely destroy our grid for existing electricity needs, let alone huge EV needs**.\
+ ﻿   [Alex Epstein - The EPA vs. the grid](https://energytalkingpoints.com/epa/)
     
 -   **The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc.** And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind. 
 
