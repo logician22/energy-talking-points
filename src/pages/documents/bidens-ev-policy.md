@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: "Biden's 67% EV policy: a dictatorial attack on the American
   driver and the US grid"
-title: Biden's EV Policy
+title: Biden EV Policy
 date: 2020-01-03T14:40:00.000Z
 description: Biden's proposed rules would 1. Force Americans to drive inferior
   cars, 2. Place massive new demand for reliable electricity on a grid that is
