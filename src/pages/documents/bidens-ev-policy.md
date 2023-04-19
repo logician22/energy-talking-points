@@ -52,11 +52,8 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
 -   The Administration is dictating **two deadly policies at the same time**: - **Drastically reducing the supply of reliable electricity by shutting down reliable power plants** - **Drastically increasing demand for reliable electricity by mandating EVs** This is a **recipe for national immobility**.
     
 -   Biden's EV mandate **emulates California's reckless policy**, which combines outlawing new oil-fueled vehicles by 2035 and wrecking its grid by shutting down reliable power plants.
-    
-    ```
-        As The Babylon Bee put it, “State With No Electricity Orders Everyone To Drive Cars That Run on Electricity.”[^7]
-    
-    ```
+
+    As The Babylon Bee put it, “State With No Electricity Orders Everyone To Drive Cars That Run on Electricity.”[^7]
     
     ![State With No Electricity](/img/biden-s-ev-3.jpeg)
     
@@ -79,12 +76,9 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
 -   **China dominates the supply chains of many critical minerals** and given the environmental policies of the Biden administration, this will not change in favor of US mining anytime soon.[^14] ![Geographical distribution of the global EV battery supply chain, 2022](/img/biden-s-ev-8.png)
     
 -   **A free-market EV policy**
-    
-    ```
-        In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable tech—most likely nuclear.
-    
-    ```
-    
+
+    In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable tech—most likely nuclear.
+        
 -   If the Biden Administration wants to facilitate cost-effective EVs, the number one thing it needs to do is **publicly reverse its attack on reliable power plants** that would **absolutely destroy our grid for existing electricity needs, let alone huge EV needs**.
     
 -   **The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc.** And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind. ###References
@@ -92,19 +86,13 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
 
 [^1]: The mechanism by which EPA is propping up EV sales is by capping total emissions of vehicle fleets sold by manufacturers, which would force them to sell increasing amounts of EVs, falling short of the bans California and other states have implemented but effectively doing the same.
 
-```
-[AP News - EPA pollution limits aim to boost US electric vehicle sales](https://apnews.com/article/biden-electric-vehicles-epa-tailpipe-emissions-climate-406d74e18459bc135f089c681ba9e224)
-
-```
+    [AP News - EPA pollution limits aim to boost US electric vehicle sales](https://apnews.com/article/biden-electric-vehicles-epa-tailpipe-emissions-climate-406d74e18459bc135f089c681ba9e224)
 
 [^2]: [WSJ - U.S. EV Sales Jolted Higher in 2022 as Newcomers Target Tesla](https://www.wsj.com/articles/u-s-ev-sales-jolted-higher-in-2022-as-newcomers-target-tesla-11672981834)
 
 [^3]: “While 78% of EV owner households also have a second gas-powered vehicle, the number of overall households with two or more cars has increased substantially, to 58% in 2017 from 22% in 1960. So while nearly 6 in 10 households have access to a second vehicle, nearly 8 in 10 early-adopting buyers of EVs have at least one or more other vehicles.”
 
-```
-[EV Adoption - Multi-Vehicle Households in the US: A Huge Opportunity For Lower-Range EVs](https://evadoption.com/multi-vehicle-households-in-the-us-a-huge-opportunity-for-lower-range-evs/)
-
-```
+    [EV Adoption - Multi-Vehicle Households in the US: A Huge Opportunity For Lower-Range EVs](https://evadoption.com/multi-vehicle-households-in-the-us-a-huge-opportunity-for-lower-range-evs/)
 
 [^4]: [U.S. Energy Information Administration - U.S. energy facts explained](https://www.eia.gov/energyexplained/us-energy-facts/)
 
@@ -124,10 +112,7 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
 
 [^12]: [E&E News - EPA vetoes Pebble mine](https://www.eenews.net/articles/epa-vetoes-pebble-mine/)
 
-```
-[Reuters - Biden administration kills Antofagasta's Minnesota copper project](https://www.reuters.com/business/sustainable-business/biden-administration-kills-antofagastas-minnesota-copper-project-2022-01-26/)
-
-```
+    [Reuters - Biden administration kills Antofagasta's Minnesota copper project](https://www.reuters.com/business/sustainable-business/biden-administration-kills-antofagastas-minnesota-copper-project-2022-01-26/)
 
 [^13]: [Utility Dive - EV sector welcomes Treasury’s tax credit guidance as Manchin fumes over sourcing flexibility](https://www.utilitydive.com/news/ev-sector-welcomes-treasury-tax-credit-guidance-ira-manchin-fumes/646614/)
 
