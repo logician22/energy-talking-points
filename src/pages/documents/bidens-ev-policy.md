@@ -86,7 +86,6 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
 
 ###References
     
-
 [^1]: The mechanism by which EPA is propping up EV sales is by capping total emissions of vehicle fleets sold by manufacturers, which would force them to sell increasing amounts of EVs, falling short of the bans California and other states have implemented but effectively doing the same.
 
     [AP News - EPA pollution limits aim to boost US electric vehicle sales](https://apnews.com/article/biden-electric-vehicles-epa-tailpipe-emissions-climate-406d74e18459bc135f089c681ba9e224)
