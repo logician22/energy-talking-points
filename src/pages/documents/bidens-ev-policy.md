@@ -49,12 +49,15 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     
 -   Thanks to government mandates and subsidies, solar and wind—“unreliables”—provide about 13% of American electricity. This 13% has already caused big electricity price increases and huge reliability problems. **Instead of admitting this failure, Biden is doubling down.**[^6]
     
--   The Administration is dictating **two deadly policies at the same time**: - **Drastically reducing the supply of reliable electricity by shutting down reliable power plants** - **Drastically increasing demand for reliable electricity by mandating EVs** This is a **recipe for national immobility**.
+-   The Administration is dictating **two deadly policies at the same time**:
+    - **Drastically reducing the supply of reliable electricity by shutting down reliable power plants**
+    - **Drastically increasing demand for reliable electricity by mandating EVs** 
+
+    This is a **recipe for national immobility**.
     
 -   Biden's EV mandate **emulates California's reckless policy**, which combines outlawing new oil-fueled vehicles by 2035 and wrecking its grid by shutting down reliable power plants.
 
-    As The Babylon Bee put it, “State With No Electricity Orders Everyone To Drive Cars That Run on Electricity.”[^7]
-    
+    As The Babylon Bee put it, “State With No Electricity Orders Everyone To Drive Cars That Run on Electricity.”[^7]    
     ![State With No Electricity](/img/biden-s-ev-3.jpeg)
     
 -   **California is already having major problems with EV charging.** On August 31, 2022, CAISO, the California grid operator, sent out a press release **urging consumers to cut electricity usage during a heatwave, including using less air conditioning (!) and refraining from “charging electric vehicles.”**[^8] ![Flex Alert Conservation Actions](/img/biden-s-ev-4.jpeg)
@@ -67,7 +70,8 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     
 -   **At the current pace of transmission line building, it would take from many decades to centuries to build out our grid.** New EV mandates add even more stress to the infrastructure, making everything in the supply chains more expensive while upgrades become more urgent.[^10] ![Out of Transmission](/img/biden-s-ev-5.jpeg)
     
--   **Biden's EV mandate will also make use dependent on foreign supply chains** A crash EV mandate means a rapid, artificial increase in mining, processing, and manufacturing. Since US regulations are hostile to development, this means more dependence on others, especially China.[^11]
+-   **Biden's EV mandate will also make use dependent on foreign supply chains**
+    A crash EV mandate means a rapid, artificial increase in mining, processing, and manufacturing. Since US regulations are hostile to development, this means more dependence on others, especially China.[^11]
     
 -   The “Inflation Reduction Act” promised additional subsidies for manufacturers who sourced their materials from inside the US, a protectionist policy to build up domestic supply chains. But **Biden has systematically blocked US mining opportunities**.[^12] ![EPA vetoes Pebble mine](/img/biden-s-ev-6.jpeg)
     
