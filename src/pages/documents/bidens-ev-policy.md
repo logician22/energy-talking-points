@@ -29,13 +29,19 @@ Biden’s EPA is planning to **dictate** new emissions regulations for cars that
     
 -   EVs may become even less cost-effective in the future due to **rising electricity prices and growing shortages** that are occurring as reliable power plants are shut down in favor of unreliable solar and wind, as well as increasing raw material prices (due to artificial, government-created demand for batteries).
     
--   **Range issues and recharge times** are a logistical nightmare, even if you can afford a home recharge station. This is why EV owners tend to use EVs in addition to gasoline cars. **67% EVs would be ruinous for the poor and middle class**.[^3]
+-   **Range issues and recharge times** are a logistical nightmare, even if you can afford a home recharge station. This is why EV owners tend to use EVs in addition to gasoline cars.
+
+    **67% EVs would be ruinous for the poor and middle class**.[^3]
     
 -   Currently the **fossil fueled part of the transportation sector consumes about 1/4 of all US energy**. This means that **to handle a huge influx of EVs, the already fragile electricity sector would have to rapidly add reliable electricity capacity**—the opposite of what's happening.[^4] ![US energy consumption by source and sector, 2021](/img/biden-s-ev-2.png)
     
--   For most Americans, EVs are significantly inferior in utility at a higher price per vehicle. And if electricity bottlenecks continue, the price disadvantage could worsen while **the threat of electricity rationing/restricting for EVs could become real**.
+-   For most Americans, EVs are significantly inferior in utility at a higher price per vehicle. 
+
+    And if electricity bottlenecks continue, the price disadvantage could worsen while **the threat of electricity rationing/restricting for EVs could become real**.
     
--   **2. Biden's EV mandate will cause electricity shortages** US power grids are already struggling from retirements of reliable power plant capacity in favor of unreliable solar and wind. **Forced electrification of vehicles will exacerbate the problem and make electricity more expensive.**[^5]
+-   **2. Biden's EV mandate will cause electricity shortages** 
+
+    US power grids are already struggling from retirements of reliable power plant capacity in favor of unreliable solar and wind. **Forced electrification of vehicles will exacerbate the problem and make electricity more expensive.**[^5]
     
 -   A reliable grid is a foundation of our quality of life. Our lives depend on ultra-reliable electricity for the refrigerators that preserve our food, the water treatment plants that keep our water drinkable, the air conditioning that keeps us cool, the factories that produce our goods, etc.
     
