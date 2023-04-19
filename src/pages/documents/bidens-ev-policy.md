@@ -66,7 +66,7 @@ A crash EV mandate means a rapid, artificial increase in mining, processing, and
 	In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable tech—most likely nuclear.
 - If the Biden Administration wants to facilitate cost-effective EVs, the number one thing it needs to do is **publicly reverse its attack on reliable power plants** that would **absolutely destroy our grid for existing electricity needs, let alone huge EV needs**.
 - **The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc.** And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind.
-###References
+###References1
 
 [^1]: The mechanism by which EPA is propping up EV sales is by capping total emissions of vehicle fleets sold by manufacturers, which would force them to sell increasing amounts of EVs, falling short of the bans California and other states have implemented but effectively doing the same.
 
