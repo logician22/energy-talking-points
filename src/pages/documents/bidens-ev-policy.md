@@ -60,7 +60,7 @@ A crash EV mandate means a rapid, artificial increase in mining, processing, and
 - **Because of the clear impossibility to source many critical materials from the US, the Treasury Dept has already signaled flexibility** in the rules on how the subsidies for domestic production will apply. Which means we will be dependent on others.[^13]
     ![EV sector welcomes Treasury's tax credit guidance](/img/biden-s-ev-7.jpeg)
 - **China dominates the supply chains of many critical minerals** and given the environmental policies of the Biden administration, this will not change in favor of US mining anytime soon.[^14]
-    ![Geographical distribution of the global EV battery supply chain, 2022](static/img/biden-s-ev-8.png)
+    ![Geographical distribution of the global EV battery supply chain, 2022](/img/biden-s-ev-8.png)
 - **A free-market EV policy**
 
 	In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable tech—most likely nuclear.
