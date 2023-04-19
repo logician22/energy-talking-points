@@ -68,8 +68,7 @@ A crash EV mandate means a rapid, artificial increase in mining, processing, and
 - **The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc.** And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind.
 ###References
 
-[^1]: 
-	The mechanism by which EPA is propping up EV sales is by capping total emissions of vehicle fleets sold by manufacturers, which would force them to sell increasing amounts of EVs, falling short of the bans California and other states have implemented but effectively doing the same.
+[^1]: The mechanism by which EPA is propping up EV sales is by capping total emissions of vehicle fleets sold by manufacturers, which would force them to sell increasing amounts of EVs, falling short of the bans California and other states have implemented but effectively doing the same.
 
 	[AP News - EPA pollution limits aim to boost US electric vehicle sales](https://apnews.com/article/biden-electric-vehicles-epa-tailpipe-emissions-climate-406d74e18459bc135f089c681ba9e224)
 
