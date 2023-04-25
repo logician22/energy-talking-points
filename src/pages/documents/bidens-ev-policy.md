@@ -31,9 +31,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     
 -   **Range issues and recharge times** are a logistical nightmare, even if you can afford a home recharge station. This is why EV owners tend to use EVs in addition to gasoline cars.
 
-    **67% EVs would be ruinous for the poor and middle class**.[^3]
-    
--   Currently the **fossil fueled part of the transportation sector consumes about 1/4 of all US energy**. This means that **to handle a huge influx of EVs, the already fragile electricity sector would have to rapidly add reliable electricity capacity**—the opposite of what's happening.[^4] ![US energy consumption by source and sector, 2021](/img/biden-s-ev-2.png)
+    **67% EVs would be ruinous for the poor and middle class**.[^3]    
     
 -   For most Americans, EVs are significantly inferior in utility at a higher price per vehicle. 
 
@@ -41,19 +39,21 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     
 -   **2. Biden's EV mandate will cause electricity shortages** 
 
-    US power grids are already struggling from retirements of reliable power plant capacity in favor of unreliable solar and wind. **Forced electrification of vehicles will exacerbate the problem and make electricity more expensive.**[^5]
+    US power grids are already struggling from retirements of reliable power plant capacity in favor of unreliable solar and wind. **Forced electrification of vehicles will exacerbate the problem and make electricity more expensive.**[^4]
     
 -   A reliable grid is a foundation of our quality of life. Our lives depend on ultra-reliable electricity for the refrigerators that preserve our food, the water treatment plants that keep our water drinkable, the air conditioning that keeps us cool, the factories that produce our goods, etc.
     
 -   **The root cause of our grid’s reliability problems is simple: America is shutting down too many reliable power plants**—plants that can be controlled to produce electricity when needed in the exact quantity needed. And it is attempting to replace them with unreliable solar and wind.
     
--   Thanks to government mandates and subsidies, solar and wind—“unreliables”—provide about 13% of American electricity. This 13% has already caused big electricity price increases and huge reliability problems. **Instead of admitting this failure, Biden is doubling down.**[^6]
+-   Thanks to government mandates and subsidies, solar and wind—“unreliables”—provide about 13% of American electricity. This 13% has already caused big electricity price increases and huge reliability problems. **Instead of admitting this failure, Biden is doubling down.**[^5]
     
 -   The Administration is dictating **two deadly policies at the same time**:
     - **Drastically reducing the supply of reliable electricity by shutting down reliable power plants**
     - **Drastically increasing demand for reliable electricity by mandating EVs** 
 
     This is a **recipe for national immobility**.
+
+-   Currently the **fossil fueled part of the transportation sector consumes about 1/4 of all US energy**. This means that **to handle a huge influx of EVs, the already fragile electricity sector would have to rapidly add reliable electricity capacity**—the opposite of what's happening.[^6] ![US energy consumption by source and sector, 2021](/img/biden-s-ev-2.png)
     
 -   Biden's EV mandate **emulates California's reckless policy**, which combines outlawing new oil-fueled vehicles by 2035 and wrecking its grid by shutting down reliable power plants.
 
