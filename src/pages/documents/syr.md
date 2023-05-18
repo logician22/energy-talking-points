@@ -52,9 +52,9 @@ featuredimage: /img/un-livable-future.jpg
 
     This is like a polio report omitting the polio vaccine.[^3]
 
-- By exaggerating our negative climate impacts and ignoring our ability to master climate danger, the IPCC Synthesis perpetrates a **3-part perversion of science**:
-    “A: Current Status and Trends”
-    “B: Long-Term Climate and Development Futures”
+- By exaggerating our negative climate impacts and ignoring our ability to master climate danger, the IPCC Synthesis perpetrates a **3-part perversion of science**:\
+    “A: Current Status and Trends”\
+    “B: Long-Term Climate and Development Futures”\
     “C: Near-Term Responses in a Changing Climate”
 
 - **“A: Current Status and Trends” distorts** the **present state** of climate danger
