@@ -43,7 +43,7 @@ featuredimage: /img/un-livable-future.jpg
 
     And **if you read the IPCC Synthesis it's obvious it fails at both.**
 
-- I recommend just skimming the IPCC Synthesis Report, linked below—this report that is supposed to be so brilliant—and just ask yourself if it is remotely evenhanded about human impact on climate, or if it accounts for our mastery of climate.
+- I recommend just skimming the IPCC Synthesis Report, linked below—this report that is supposed to be so brilliant—and just ask yourself if it is remotely evenhanded about human impact on climate, or if it accounts for our mastery of climate.\
     [UN IPCC AR& Synthesis Report](https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf)
 
 - Instead of an evenhanded and precise account of our climate impacts, **the IPCC SR gives us a blatantly biased view of exaggerated negative impacts, with no mention of positives like global greening thanks to CO2 fertilization of the atmosphere or decreasing cold-related deaths.**
