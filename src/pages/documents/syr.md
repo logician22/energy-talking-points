@@ -50,7 +50,7 @@ featuredimage: /img/un-livable-future.jpg
 
 - Instead of accounting for our climate mastery ability, the IPCC SR **ignores our ability to neutralize negative climate impacts, despite the fact that we've driven climate disaster deaths down by 98%** over the last century!
 
-    This is like a polio report omitting the polio vaccine.[3]
+    This is like a polio report omitting the polio vaccine.[^3]
 
 - By exaggerating our negative climate impacts and ignoring our ability to master climate danger, the IPCC Synthesis perpetrates a **3-part perversion of science**:
     “A: Current Status and Trends”
