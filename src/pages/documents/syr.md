@@ -168,7 +168,7 @@ featuredimage: /img/un-livable-future.jpg
 
 - The IPCC falsely implies that limiting warming to 1.5°C (over 1800s levels) prevents harm by saying: “with every increment of warming, losses and damages will increase.” But this both ignores climate mastery and the catastrophic cost of rapidly restricting fossil fuel use.
 
-- Rapidly restricting fossil fuel use is catastrophic for 2 reasons:
+- Rapidly restricting fossil fuel use is catastrophic for 2 reasons:\
     1). **Fossil fuels are a uniquely cost-effective form of energy**—affordable, reliable, versatile, **and** scalable—which is why they’re **80% of energy use and still growing.**
     2) Billions of people need far more energy.[^17]
     ![History of energy](/img/art-c-only-fossil-fuels-provide-low-cost-on-demand-versatile-global-scale-energy.png)
