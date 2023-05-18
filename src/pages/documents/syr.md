@@ -31,11 +31,11 @@ featuredimage: /img/un-livable-future.jpg
     1) **An evenhanded (covering minuses and pluses) and precise account of our climate impacts.**
     2) **An account of our ability to master climate danger, including the use of fossil fuel to neutralize its own negative climate impacts.**
 
-- 1. An evenhanded and precise account of our climate impacts.
+- 1 An evenhanded and precise account of our climate impacts.
 
     With rising greenhouse gasses we must consider both negatives (e.g., more heatwaves) and positives (e.g., fewer cold deaths, global greening from CO2). And we must be precise, not equating some climate impact with huge impact.
 
-- 2. An account of our ability to master climate danger
+- 2 An account of our ability to master climate danger
 
     Any valid climate synthesis must account for climate mastery, because **the same fossil fuels that impact climate can also neutralize negatives**—e.g., via fossil-fueled air conditioning to alleviate heat and irrigation to alleviate drought.
 
