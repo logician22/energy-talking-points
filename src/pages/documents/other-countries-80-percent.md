@@ -23,7 +23,7 @@ featuredimage: /img/dark-city.jpg
 - France gets 2/3 of its electricity from reliable nuclear power. Ontario gets a combined 80% of its electricity from nuclear power and hydropower. By contrast, the US gets 20% of electricity from nuclear and <7% from hydro--neither of which can meaningfully increase by 2030.[^2]
 ![France power mix](/img/80-im3.jpeg)
 
-- Given nuclear and hydro realities in the US, 80% "clean electricity" by 2050 means increasing unreliable solar and wind from 10% of our electricity today to 50% in 8 years! No area of the world has made such a policy work--and all the evidence is that trying will be disastrous.
+- Given nuclear and hydro realities in the US, 80% "clean electricity" by 2030 means increasing unreliable solar and wind from 10% of our electricity today to 50% in 8 years! No area of the world has made such a policy work--and all the evidence is that trying will be disastrous.
 
 - Every area of the world that has tried using significant amounts of unreliable solar and wind has had major cost and/or reliability problems. In the US, we had have had big electricity price increases and huge reliability problems even at 10% solar and wind.[^3]
 
