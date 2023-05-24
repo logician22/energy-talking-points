@@ -7,7 +7,7 @@ description: Fossil fuels would be used considerably more were it not for the
   disproportionately large government punishments that they receive.
 featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 ---
-**_Originally published on April 13, 2023_**
+**_Originally published on May 16, 2023_**
 
 **_Myth: Fossil fuels would be used much less were it not for the disproportionately large subsidies they receive._**
 
