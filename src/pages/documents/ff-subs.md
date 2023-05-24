@@ -8,6 +8,7 @@ description: Fossil fuels would be used considerably more were it not for the
 featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 ---
 **_Originally published on April 13, 2023_**
+
 **_Myth: Fossil fuels would be used much less were it not for the disproportionately large subsidies they receive._**
 
 **_Truth: Fossil fuels would be used considerably more were it not for the disproportionately large government punishments that they receive._**
@@ -427,42 +428,32 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 [1](#footnote-anchor-1) 
 [U.S. Senate Budget Committee - Chairman Whitehouse’s remarks, as prepared for delivery](https://www.budget.senate.gov/chairman/newsroom/press/sen-whitehouse-on-fossil-fuel-subsidies-we-are-subsidizing-the-danger-)
 
-[2](#footnote-anchor-2)
-
-[IMF - Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies](https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004)
+[2](#footnote-anchor-2) [IMF - Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies](https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004)
 
 [3](#footnote-anchor-3)
-
 [SEC - SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
 
 [4](#footnote-anchor-4)
-
 [Alex Epstein - It's time for Larry Fink to come clean about fossil fuels](https://alexepstein.substack.com/p/its-time-for-larry-fink-to-come-clean)
 
 [5](#footnote-anchor-5)
-
 [CNBC - California bans the sale of new gas-powered cars by 2035](https://www.cnbc.com/2022/08/25/california-bans-the-sale-of-new-gas-powered-cars-by-2035.html)
 
 [UtilityDive - New York begins implementation of 2035 ban on new gas-powered cars and trucks, following California lead](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
 
 [6](#footnote-anchor-6)
-
 [Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)
 
 [7](#footnote-anchor-7)
-
 [Cody Campbell - Yes, Biden’s War On The Oil And Gas Industry Is Driving Shortages And High Prices](https://thefederalist.com/2022/07/07/yes-bidens-war-on-the-oil-and-gas-industry-is-driving-shortages-and-high-prices/)
 
 [8](#footnote-anchor-8)
-
 [Alex Epstein - Talking Points on how Europe's fracking bans have contributed to its natural gas crisis](https://energytalkingpoints.com/european-fracking-bans/)
 
 [9](#footnote-anchor-9)
-
 [WSJ - Federal Oil Leases Slow to a Trickle Under Biden](https://www.wsj.com/articles/federal-oil-leases-slow-to-a-trickle-under-biden-11662230816)
 
 [10](#footnote-anchor-10)
-
 [The Times (Ireland) - Liquefied natural gas terminals to be banned in law](https://www.thetimes.co.uk/article/liquefied-natural-gas-terminals-to-be-banned-in-law-53xj7x8rx)
 
 [Politico - French government blocks U.S. LNG deal as too dirty](https://www.politico.com/news/2020/10/21/french-government-blocks-lng-deal-431028)
@@ -472,25 +463,20 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 [The Maritime Executive - Greenpeace Blocks Arrival of Gas Carrier at Spanish Gas Terminal](https://www.maritime-executive.com/article/greenpeace-blocks-arrival-of-gas-carrier-to-spanish-gas-terminal)
 
 [11](#footnote-anchor-11)
-
 [CNBC - Keystone pipeline officially canceled after Biden revokes key permit](https://www.cnbc.com/2021/06/09/tc-energy-terminates-keystone-xl-pipeline-project.html)
 
 [Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
 
 [12](#footnote-anchor-12)
-
 [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
 
 [13](#footnote-anchor-13)
-
 [Financial Times - How China is winning the race for Africa’s lithium](https://www.ft.com/content/02d6f35d-e646-40f7-894c-ffcc6acd9b25)
 
 [14](#footnote-anchor-14)
-
 [U.S. EIA - U.S. refinery capacity decreased during 2021 for second consecutive year](https://www.eia.gov/todayinenergy/detail.php?id=52939)
 
 [15](#footnote-anchor-15)
-
 [Reuters - Biden White House blocks Virgin Islands refinery expansion permit over pollution concerns](https://www.reuters.com/article/us-usa-refinery-pollution-idUSKBN2BH2OP)
 
 [Bloomberg - EPA Says It’s Under No ‘Pressure’ to Reopen St. Croix Refinery](https://www.bloomberg.com/news/articles/2022-07-29/epa-says-it-s-under-no-pressure-to-reopen-st-croix-refinery)
@@ -498,23 +484,18 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 [The Virgin Islands Consortium - New Owners of Limetree Bay Plan to Increase Production to 450,000 Barrels Per Day, Want to Help St. Croix Reduce Energy Costs](https://viconsortium.com/vi-business/virgin-islands-new-owners-of-limetree-bay-plan-to-increase-production-to-450000-barrels-per-day-wants-to-help-st-croix-reduce-energy-costs)
 
 [16](#footnote-anchor-16)
-
 [CBS - Biden calls out oil refiners over "unprecedented" profits and urges them to produce more gasoline](https://www.cbsnews.com/news/biden-oil-companies-unprecedented-profits/)
 
 [17](#footnote-anchor-17)
-
 [Oil Price - Exxon Reconsidering Its Role In Europe Thanks To Windfall Taxes](https://oilprice.com/Latest-Energy-News/World-News/Exxon-Reconsidering-Its-Role-In-Europe-Thanks-To-Windfall-Taxes.html)
 
 [18](#footnote-anchor-18)
-
 [AP - Biden increases oil royalty rate, scales back lease sales](https://apnews.com/article/biden-business-billings-environment-4f5213bcc57da138e4d9ae859841b74d)
 
 [19](#footnote-anchor-19)
-
 [U.S. EIA - How much tax do we pay on a gallon of gasoline and on a gallon of diesel fuel?](https://www.eia.gov/tools/faqs/faq.php?id=10)
 
 [20](#footnote-anchor-20)
-
 “Despite renewable energy receiving almost half the federal subsidies, EIA reported that fossil energy in the form of coal, oil, natural gas and natural gas plant liquids made up 78.1 percent of primary energy production in FY 2016.  
 …  
 In FY 2016, certain tax provisions related to oil and natural gas yielded positive revenue flow for the government, resulting in a negative net subsidy of $773 million for oil and natural gas, based on estimates from the U.S. Department of Treasury.”  
@@ -523,19 +504,15 @@ In FY 2016, certain tax provisions related to oil and natural gas yielded positi
 [Terry Dinan - U.S. House of Representatives testimony, 2017 (p. 4)](https://www.cbo.gov/system/files/115th-congress-2017-2018/reports/52521-energytestimony.pdf)
 
 [21](#footnote-anchor-21)
-
 [Texas Public Policy foundation - The Siren Song that Never Ends: Federal Energy Subsidies and Support from 2010 to 2019](https://lifepowered.org/wp-content/uploads/2020/07/2020-04-RR-Bennett-LP-Federal-Energy-Subsidies-2.pdf)
 
 [22](#footnote-anchor-22)
-
 [IMF - Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies](https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004)
 
 [23](#footnote-anchor-23)
-
 [U.S. Senate Budget Committee - Chairman Whitehouse’s remarks, as prepared for delivery](https://www.budget.senate.gov/chairman/newsroom/press/sen-whitehouse-on-fossil-fuel-subsidies-we-are-subsidizing-the-danger-)
 
 [24](#footnote-anchor-24)
-
 [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
 For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
@@ -551,7 +528,6 @@ Population estimates for the 2010s come from [World Bank Data](https://data.worl
 [Roger Pielke Jr. - Tracking progress on the economic costs of disasters under the indicators of the sustainable development goals](https://doi.org/10.1080/17477891.2018.1540343)
 
 [25](#footnote-anchor-25)
-
 [NASA - Carbon Dioxide Fertilization Greening Earth, Study Finds](https://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth)
 
 Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
@@ -560,7 +536,6 @@ Regional trends vary, but overall the world's leaf area increased by 5.4 million
 [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [26](#footnote-anchor-26)
-
 [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
 
 [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
@@ -568,35 +543,28 @@ Regional trends vary, but overall the world's leaf area increased by 5.4 million
 [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
 [27](#footnote-anchor-27)
-
 [Vohra et al. (2021) - Global mortality from outdoor fine particle pollution generated by fossil fuel combustion: Results from GEOS-Chem](https://doi.org/10.1016/j.envres.2021.110754)
 
 [28](#footnote-anchor-28)
-
 [World Bank Data](https://data.worldbank.org/)
 
 [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [29](#footnote-anchor-29)
-
 [World Bank Data](https://data.worldbank.org/)
 
 [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [30](#footnote-anchor-30)
-
 [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
 
 [31](#footnote-anchor-31)
-
 [Vohra et al. (2021) - Global mortality from outdoor fine particle pollution generated by fossil fuel combustion: Results from GEOS-Chem](https://doi.org/10.1016/j.envres.2021.110754)
 
 [32](#footnote-anchor-32)
-
 [IMF - Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies](https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004)
 
 [33](#footnote-anchor-33)
-
 [Texas O & G Association - Production Taxes Paid by Oil and Gas Industry Top $10 Billion in FY 2022 for First Time in History](https://www.txoga.org/production-taxes-paid-by-oil-and-gas-industry-top-10-billion-in-fy-2022-for-first-time-in-history/)
 
 [Institute for Energy Research - Biden FY2024 Budget Eliminates Tax Deductions for the Oil and Gas Industry](https://www.instituteforenergyresearch.org/fossil-fuels/gas-and-oil/biden-fy2024-budget-eliminates-tax-deductions-for-the-oil-and-gas-industry/)
