@@ -19,7 +19,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 -   **Fossil fuel attackers claim that fossil fuels are disproportionately subsidized by the US and other governments**, and therefore new fossil fuel restrictions and solar and wind subsidies only level the playing field. **If not for huge fossil fuels subsidies, they say, we’d rapidly stop using them**.
     
--   The view that outrageous fossil fuels subsidies are holding us back was epitomized by Senator Whitehouse’s recent statement that fossil fuels subsidies and lobbyists who support them are “why we can’t have nice things like clean air, safe coral reefs, secure coastlines, and affordable clean energy.”[1](#footnote-1)
+-   The view that outrageous fossil fuels subsidies are holding us back was epitomized by Senator Whitehouse’s recent statement that fossil fuels subsidies and lobbyists who support them are “why we can’t have nice things like clean air, safe coral reefs, secure coastlines, and affordable clean energy.”[^1]
     
 -   Politicians and media share **fossil fuel “subsidy” numbers like over $5 trillion annual subsidies globally and over $600 billion for the US**. Both numbers are promoted widely by the International Monetary Fund.  
       
@@ -425,10 +425,11 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     **Step 1 is to tell the truth: fossil fuels are disproportionately punished, not subsidized**.
 
 ###References
-[1](#footnote-anchor-1) 
-[U.S. Senate Budget Committee - Chairman Whitehouse’s remarks, as prepared for delivery](https://www.budget.senate.gov/chairman/newsroom/press/sen-whitehouse-on-fossil-fuel-subsidies-we-are-subsidizing-the-danger-)
 
-[2](#footnote-anchor-2) [IMF - Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies](https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004)
+[^1]: [U.S. Senate Budget Committee - Chairman Whitehouse’s remarks, as prepared for delivery](https://www.budget.senate.gov/chairman/newsroom/press/sen-whitehouse-on-fossil-fuel-subsidies-we-are-subsidizing-the-danger-)
+
+[^2]: 
+    [IMF - Still Not Getting Energy Prices Right: A Global and Country Update of Fossil Fuel Subsidies](https://www.imf.org/en/Publications/WP/Issues/2021/09/23/Still-Not-Getting-Energy-Prices-Right-A-Global-and-Country-Update-of-Fossil-Fuel-Subsidies-466004)
 
 [3](#footnote-anchor-3)
 [SEC - SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
