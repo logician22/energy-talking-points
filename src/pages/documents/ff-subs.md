@@ -436,7 +436,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 [^5]: [CNBC - California bans the sale of new gas-powered cars by 2035](https://www.cnbc.com/2022/08/25/california-bans-the-sale-of-new-gas-powered-cars-by-2035.html)
 
-[UtilityDive - New York begins implementation of 2035 ban on new gas-powered cars and trucks, following California lead](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
+    [UtilityDive - New York begins implementation of 2035 ban on new gas-powered cars and trucks, following California lead](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
 
 [^6]: [Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)
 
@@ -448,15 +448,15 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 [^10]: [The Times (Ireland) - Liquefied natural gas terminals to be banned in law](https://www.thetimes.co.uk/article/liquefied-natural-gas-terminals-to-be-banned-in-law-53xj7x8rx)
 
-[Politico - French government blocks U.S. LNG deal as too dirty](https://www.politico.com/news/2020/10/21/french-government-blocks-lng-deal-431028)
+    [Politico - French government blocks U.S. LNG deal as too dirty](https://www.politico.com/news/2020/10/21/french-government-blocks-lng-deal-431028)
 
-[Bloomberg - German Gas Terminal Faces Headwinds as Major Investor Steps Back](https://www.bloomberg.com/news/articles/2021-12-30/german-lng-terminal-faces-headwinds-as-major-investor-steps-back)
+    [Bloomberg - German Gas Terminal Faces Headwinds as Major Investor Steps Back](https://www.bloomberg.com/news/articles/2021-12-30/german-lng-terminal-faces-headwinds-as-major-investor-steps-back)
 
-[The Maritime Executive - Greenpeace Blocks Arrival of Gas Carrier at Spanish Gas Terminal](https://www.maritime-executive.com/article/greenpeace-blocks-arrival-of-gas-carrier-to-spanish-gas-terminal)
+    [The Maritime Executive - Greenpeace Blocks Arrival of Gas Carrier at Spanish Gas Terminal](https://www.maritime-executive.com/article/greenpeace-blocks-arrival-of-gas-carrier-to-spanish-gas-terminal)
 
 [^11]: [CNBC - Keystone pipeline officially canceled after Biden revokes key permit](https://www.cnbc.com/2021/06/09/tc-energy-terminates-keystone-xl-pipeline-project.html)
 
-[Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
+    [Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
 
 [^12]: [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
 
@@ -466,9 +466,9 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 [^15]: [Reuters - Biden White House blocks Virgin Islands refinery expansion permit over pollution concerns](https://www.reuters.com/article/us-usa-refinery-pollution-idUSKBN2BH2OP)
 
-[Bloomberg - EPA Says It’s Under No ‘Pressure’ to Reopen St. Croix Refinery](https://www.bloomberg.com/news/articles/2022-07-29/epa-says-it-s-under-no-pressure-to-reopen-st-croix-refinery)
+    [Bloomberg - EPA Says It’s Under No ‘Pressure’ to Reopen St. Croix Refinery](https://www.bloomberg.com/news/articles/2022-07-29/epa-says-it-s-under-no-pressure-to-reopen-st-croix-refinery)
 
-[The Virgin Islands Consortium - New Owners of Limetree Bay Plan to Increase Production to 450,000 Barrels Per Day, Want to Help St. Croix Reduce Energy Costs](https://viconsortium.com/vi-business/virgin-islands-new-owners-of-limetree-bay-plan-to-increase-production-to-450000-barrels-per-day-wants-to-help-st-croix-reduce-energy-costs)
+    [The Virgin Islands Consortium - New Owners of Limetree Bay Plan to Increase Production to 450,000 Barrels Per Day, Want to Help St. Croix Reduce Energy Costs](https://viconsortium.com/vi-business/virgin-islands-new-owners-of-limetree-bay-plan-to-increase-production-to-450000-barrels-per-day-wants-to-help-st-croix-reduce-energy-costs)
 
 [^16]: [CBS - Biden calls out oil refiners over "unprecedented" profits and urges them to produce more gasoline](https://www.cbsnews.com/news/biden-oil-companies-unprecedented-profits/)
 
@@ -479,11 +479,11 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 [^19]: [U.S. EIA - How much tax do we pay on a gallon of gasoline and on a gallon of diesel fuel?](https://www.eia.gov/tools/faqs/faq.php?id=10)
 
 [^20]: “Despite renewable energy receiving almost half the federal subsidies, EIA reported that fossil energy in the form of coal, oil, natural gas and natural gas plant liquids made up 78.1 percent of primary energy production in FY 2016.  
-…  
-In FY 2016, certain tax provisions related to oil and natural gas yielded positive revenue flow for the government, resulting in a negative net subsidy of $773 million for oil and natural gas, based on estimates from the U.S. Department of Treasury.”  
-[Institute for Energy Research - EIA Report: Renewable Energy Still Dominates Energy Subsidies](https://www.instituteforenergyresearch.org/renewable/eia-report-renewable-energy-still-dominates-energy-subsidies/)
+    …  
+    In FY 2016, certain tax provisions related to oil and natural gas yielded positive revenue flow for the government, resulting in a negative net subsidy of $773 million for oil and natural gas, based on estimates from the U.S. Department of Treasury.”  
+    [Institute for Energy Research - EIA Report: Renewable Energy Still Dominates Energy Subsidies](https://www.instituteforenergyresearch.org/renewable/eia-report-renewable-energy-still-dominates-energy-subsidies/)
 
-[Terry Dinan - U.S. House of Representatives testimony, 2017 (p. 4)](https://www.cbo.gov/system/files/115th-congress-2017-2018/reports/52521-energytestimony.pdf)
+    [Terry Dinan - U.S. House of Representatives testimony, 2017 (p. 4)](https://www.cbo.gov/system/files/115th-congress-2017-2018/reports/52521-energytestimony.pdf)
 
 [^21]: [Texas Public Policy foundation - The Siren Song that Never Ends: Federal Energy Subsidies and Support from 2010 to 2019](https://lifepowered.org/wp-content/uploads/2020/07/2020-04-RR-Bennett-LP-Federal-Energy-Subsidies-2.pdf)
 
@@ -493,40 +493,40 @@ In FY 2016, certain tax provisions related to oil and natural gas yielded positi
 
 [^24]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
-Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
-Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-[Roger Pielke Jr. - Weather and Climate Disaster Losses So Far in 2022, Still Not Getting Worse](https://rogerpielkejr.substack.com/p/weather-and-climate-disaster-losses)
+    [Roger Pielke Jr. - Weather and Climate Disaster Losses So Far in 2022, Still Not Getting Worse](https://rogerpielkejr.substack.com/p/weather-and-climate-disaster-losses)
 
-[Roger Pielke Jr. - Tracking progress on the economic costs of disasters under the indicators of the sustainable development goals](https://doi.org/10.1080/17477891.2018.1540343)
+    [Roger Pielke Jr. - Tracking progress on the economic costs of disasters under the indicators of the sustainable development goals](https://doi.org/10.1080/17477891.2018.1540343)
 
 [^25]: [NASA - Carbon Dioxide Fertilization Greening Earth, Study Finds](https://www.nasa.gov/feature/goddard/2016/carbon-dioxide-fertilization-greening-earth)
 
-Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
+    Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
 
-“Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. … Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”  
+    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010. … Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.”  
 [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://doi.org/10.1038/s43017-019-0001-x)
 
 [^26]: [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
 
-[NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
+    [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
+    [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
 [^27]: [Vohra et al. (2021) - Global mortality from outdoor fine particle pollution generated by fossil fuel combustion: Results from GEOS-Chem](https://doi.org/10.1016/j.envres.2021.110754)
 
 [^28]: [World Bank Data](https://data.worldbank.org/)
 
-[BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+    [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^29]: [World Bank Data](https://data.worldbank.org/)
 
-[BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+    [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^30]: [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
 
@@ -536,4 +536,4 @@ Regional trends vary, but overall the world's leaf area increased by 5.4 million
 
 [^33]: [Texas O & G Association - Production Taxes Paid by Oil and Gas Industry Top $10 Billion in FY 2022 for First Time in History](https://www.txoga.org/production-taxes-paid-by-oil-and-gas-industry-top-10-billion-in-fy-2022-for-first-time-in-history/)
 
-[Institute for Energy Research - Biden FY2024 Budget Eliminates Tax Deductions for the Oil and Gas Industry](https://www.instituteforenergyresearch.org/fossil-fuels/gas-and-oil/biden-fy2024-budget-eliminates-tax-deductions-for-the-oil-and-gas-industry/)
+    [Institute for Energy Research - Biden FY2024 Budget Eliminates Tax Deductions for the Oil and Gas Industry](https://www.instituteforenergyresearch.org/fossil-fuels/gas-and-oil/biden-fy2024-budget-eliminates-tax-deductions-for-the-oil-and-gas-industry/)
