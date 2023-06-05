@@ -10,6 +10,10 @@ featuredimage: /img/green-joblessness.jpg
 ---
 **_Originally published on June 2, 2023_**
 
+_Note: A shorter version of these talking points was published on_ [_FoxNews.com_](https://www.foxnews.com/opinion/fooled-green-energy-neither-green-energy)_._
+
+
+
 **_“Green energy” has 2 problems_**
 
 _1)_ **_It’s not really energy: It doesn’t provide reliable energy_**
@@ -43,20 +47,7 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
     [](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
     
     ## Refuting the myth that just a small area of solar panels plus storage can power the world
-    
-    [Alex Epstein](https://substack.com/profile/10324460-alex-epstein)
-    
-    ·
-    
-    Jan 27
-    
-    [![Refuting the myth that just a small area of solar panels plus storage can power the world](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b0181e-c268-4205-bd29-8d1c9f644576_1600x900.png)](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
-    
-    Several weeks ago, a common and destructive myth—that just a small area of solar panels can power the world—went viral on Twitter with help from Elon Musk (who has repeatedly promoted this myth). I decided to demolish it once and for all. My own Twitter thread
-    
-    [](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
-    
-    Read full story
+    [![Refuting the myth that just a small area of solar panels plus storage can power the world](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b0181e-c268-4205-bd29-8d1c9f644576_1600x900.png)](https://energytalkingpoints.com/musk-myth/)
     
 -   “Green” solar and wind may someday become a part of real energy solutions—if generators using solar and wind are willing to guarantee reliability, instead of generating unreliable power and forcing everyone else to clean up their mess. But **today's “green energy” is not real energy**.
     
@@ -121,16 +112,14 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
 -   The world needs to **reject the “green” movement** and instead **embrace a “human flourishing” movement** that embraces intelligent human impact on Earth as a good thing, and that both embraces today’s most cost-effective energy sources—including [fossil fuels](https://twitter.com/AlexEpstein/status/1565007126107262976)—and is eager to improve on them.
     
 -   To understand why fossil fuels are so valuable for the foreseeable future, and why their benefits far outweigh their negative side-effects including climate side-effects, read this summary of my book Fossil Future.
+![The irrefutable case for a Fossil Future](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFbgFr11UcAI8ayW.jpg)](https://alexepstein.substack.com/p/the-irrefutable-case-for-a-fossil)
 
 
-[Subscribe now](%%checkout_url%%)
-
-[Share Energy Talking Points by Alex Epstein](https://alexepstein.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 [^1]: [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^2]: Denmark is closest to it, getting about 50% of its electricity from wind alone on average over a year. But tiny Denmark needs to import and export massive amounts of electricity to balance its power grid, using reliable capacity in much larger neighboring countries. without this, Denmark would have permanent blackouts.  
-[Danish Energy Agency - Energy statistics 2021](https://ens.dk/en/our-services/statistics-data-key-figures-and-energy-maps/annual-and-monthly-statistics)
+    [Danish Energy Agency - Energy statistics 2021](https://ens.dk/en/our-services/statistics-data-key-figures-and-energy-maps/annual-and-monthly-statistics)
 
 [^3]: [Alex Epstein - Refuting the myth that just a small area of solar panels plus storage can power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
 
@@ -138,17 +127,17 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
 
 [^5]: [Alex Epstein - Refuting the myth that just a small area of solar panels plus storage can power the world](https://alexepstein.substack.com/p/refuting-the-myth-that-just-a-small)
 
-[BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+    [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
-[Miller and Keith (2018) - Observation-based solar and wind power capacity factors and power densities](https://iopscience.iop.org/article/10.1088/1748-9326/aae102)
+    [Miller and Keith (2018) - Observation-based solar and wind power capacity factors and power densities](https://iopscience.iop.org/article/10.1088/1748-9326/aae102)
 
-[Miller and Keith - Corrigendum: Observation-based solar and wind power capacity factors and power densities](https://iopscience.iop.org/article/10.1088/1748-9326/aaf9cf)
+    [Miller and Keith - Corrigendum: Observation-based solar and wind power capacity factors and power densities](https://iopscience.iop.org/article/10.1088/1748-9326/aaf9cf)
 
 [^6]: The world has a land area of almost 150 million square km. Only about 1% are “built-up” areas like villages, towns, cities, and other human infrastructure.
 
-[Our World in Data - Land Use](https://ourworldindata.org/land-use)
+    [Our World in Data - Land Use](https://ourworldindata.org/land-use)
 
-[Our World in Data - How urban is the world?](https://ourworldindata.org/how-urban-is-the-world)
+    [Our World in Data - How urban is the world?](https://ourworldindata.org/how-urban-is-the-world)
 
 [^7]: [Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
@@ -165,5 +154,3 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
 [^13]: [LA Times - Fear of Fusion: What if It Works?](https://www.latimes.com/archives/la-xpm-1989-04-19-vw-2042-story.html)
 
 [^14]: [LA Times - Fear of Fusion: What if It Works?](https://www.latimes.com/archives/la-xpm-1989-04-19-vw-2042-story.html)
-
-> Written with [StackEdit](https://stackedit.io/).
