@@ -34,9 +34,9 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
       
     No. **Solar and wind have not proven to be cost-effective at all**, and in many ways, they are the least “green” form of energy.
     
--   **“Green energy” isn’t really energy  
+-   **“Green energy” isn’t really energy**
       
-    **Calling solar and wind “green energy” makes them seem like other forms of energy, just “green.” But they’re not. **All other forms of energy provide reliable energy—real energy**—whereas solar and wind are unreliable parasites of reliable energy.
+    Calling solar and wind “green energy” makes them seem like other forms of energy, just “green.” But they’re not. **All other forms of energy provide reliable energy—real energy**—whereas solar and wind are unreliable parasites of reliable energy.
     
 -   Despite **claims that solar and wind are rapidly replacing fossil fuels, they provide less than 5% of world energy**—only electricity, ⅕ of energy—and, crucially, even that small percentage **depends on huge subsidies and reliable (mostly fossil-fueled) power plants**.[^1]
     
@@ -53,9 +53,9 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
     
 -   **If solar and wind ever become truly cost-effective**, you can be certain of one thing: **the “green energy” movement will oppose them** as insufficiently “green” given their huge “environmental impacts.”
     
--   **“Green energy” isn’t really green  
+-   **“Green energy” isn’t really green**
       
-    If solar and wind became cost-effective** and deployed on a large scale, they would have a level of **“environmental impact” from mining and land use that would make the “green” movement oppose them**. In fact, this is already happening.
+    **If solar and wind became cost-effective** and deployed on a large scale, they would have a level of **“environmental impact” from mining and land use that would make the “green” movement oppose them**. In fact, this is already happening.
     
 -   **“Green” means minimal or nonexistent “environmental impact.”**  
       
