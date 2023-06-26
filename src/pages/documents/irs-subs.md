@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: The limitless hidden costs of the IRA
-title: IRS subs
+title: IRA subs
 date: 2020-01-04T14:40:33.497Z
 description: We were told that the Inflation Reduction Act (IRA) would give us
   cheap “green” energy for “only” $400B in subsidies. In reality, the IRA has a
