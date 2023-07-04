@@ -93,7 +93,7 @@ Here are answers to 10 popular loaded climate questions.
 
     -   For a refutation of 25 myths related to fossil fuels and extreme weather, read this:
        
-        [![25 myths about extreme weather, refuted](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F925b9145-eba3-47d9-8825-ce50dfca2589_1600x900.png)](https://alexepstein.substack.com/p/25-myths-about-extreme-weather-refuted)
+        [![25 myths about extreme weather, refuted](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F925b9145-eba3-47d9-8825-ce50dfca2589_1600x900.png)](https://energytalkingpoints.com/25-myths/)
         
 
 -   **9: What are you going to do about the deadly wildfires that climate change has made worse?**  
@@ -134,6 +134,4 @@ Here are answers to 10 popular loaded climate questions.
 
     [Scripps Institution of Oceanography - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-[^3]: (https://alexepstein.substack.com/p/how-to-answer-loaded-climate-questions#footnote-anchor-3-131651870)
-
-    [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
+[^3]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
