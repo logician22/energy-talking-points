@@ -42,8 +42,8 @@ Here are answers to 10 popular loaded climate questions.
         
 -   **2: Are you a “climate denier”?**  
       
-    **I’m a climate thinker.  
-    **  
+    **I’m a climate thinker.**
+      
     I **think about the climate side-effects of fossil fuel use in a precise, not exaggerated way**, and I also think about **the many benefits of fossil fuel use**—including the climate benefits that make us safer than ever from climate.
     
     -   For more on how to be a “climate thinker,” read this.
@@ -90,6 +90,8 @@ Here are answers to 10 popular loaded climate questions.
 -   **8: How will you address the worsening extreme weather brought on by fossil fuels?**  
       
     Actually, **the world is experiencing unprecedented safety from extreme weather** thanks to fossil fuels—because **fossil fuels' benefits in protecting us from extreme weather overwhelm any negative climate side-effects**.
+
+    -   For a refutation of 25 myths related to fossil fuels and extreme weather, read this:
        
         [![25 myths about extreme weather, refuted](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F925b9145-eba3-47d9-8825-ce50dfca2589_1600x900.png)](https://alexepstein.substack.com/p/25-myths-about-extreme-weather-refuted)
         
@@ -109,10 +111,12 @@ Here are answers to 10 popular loaded climate questions.
     -   For more on the political—and religious—nature of the Intergovernmental Panel on Climate Change, read [this](https://energytalkingpoints.com/the-truth-about-the-un-ipcc/).
 
 #﻿##References
+
 [^1]: (https://alexepstein.substack.com/p/how-to-answer-loaded-climate-questions#footnote-anchor-1-131651870)
 
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”  
-[Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
+
+    [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
     [Paleo-CO2](https://www.paleo-co2.org/)
 
