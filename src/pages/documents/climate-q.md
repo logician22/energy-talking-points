@@ -112,9 +112,7 @@ Here are answers to 10 popular loaded climate questions.
 
 ###References
 
-[^1]: (https://alexepstein.substack.com/p/how-to-answer-loaded-climate-questions#footnote-anchor-1-131651870)
-
-    “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”  
+[^1]: “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”  
 
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
@@ -122,9 +120,7 @@ Here are answers to 10 popular loaded climate questions.
 
     [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[^2]: (https://alexepstein.substack.com/p/how-to-answer-loaded-climate-questions#footnote-anchor-2-131651870)
-
-    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
+[^2]: For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
