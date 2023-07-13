@@ -6,7 +6,7 @@ date: 2019-12-30T04:04:30.193Z
 description: "Truth: Preferences for solar and wind have made our grid
   embarrassingly vulnerable to heat waves—and cold snaps—that a fossil-fueled
   grid could easily manage."
-featuredimage: /img/wind-transition.jpg
+featuredimage: /img/sunset.jpg
 ---
 **_Originally published on JUL 6, 2023_**
 
