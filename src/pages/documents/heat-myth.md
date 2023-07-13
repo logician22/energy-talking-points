@@ -3,18 +3,18 @@ templateKey: blog-post
 displaytitle: "Myth: Solar and wind are helping save our grid from extreme heat"
 title: heat myth
 date: 2019-12-30T04:04:30.193Z
-description: "Truth: Preferences for S+W have made our grid embarrassingly
-  vulnerable to heat waves—and cold snaps—that a fossil-fueled grid could easily
-  manage."
+description: "Truth: Preferences for solar and wind have made our grid
+  embarrassingly vulnerable to heat waves—and cold snaps—that a fossil-fueled
+  grid could easily manage."
 featuredimage: /img/wind-transition.jpg
 ---
 **_Originally published on JUL 6, 2023_**
 
 **_Myth: Solar and wind are helping save our grid from extreme heat caused by fossil-fueled climate change._**
 
-**_Truth: Preferences for S+W have made our grid embarrassingly vulnerable to heat waves—and cold snaps—that a fossil-fueled grid could easily manage._**
+**_Truth: Preferences for solar and wind have made our grid embarrassingly vulnerable to heat waves—and cold snaps—that a fossil-fueled grid could easily manage._**
 
--   A recent Bloomberg story, “In Texas Heat Wave, ACs Keep Humming on Renewable Power” captures an **increasingly popular argument: fossil-fueled climate change is causing overwhelming heat waves, while solar and wind are coming to the rescue with abundant electricity**.  
+-   A recent Bloomberg story, “In Texas Heat Wave, Air Conditioners Keep Humming on Renewable Power” captures an **increasingly popular argument: fossil-fueled climate change is causing overwhelming heat waves, while solar and wind are coming to the rescue with abundant electricity**.  
       
     All wrong.[^1]
     
@@ -68,7 +68,7 @@ featuredimage: /img/wind-transition.jpg
       
     This is blatant **cherry-picking: taking an unusually good day of sunlight and wind and pretending it can be generalized**. Also, the unreliable output was **100% dependent on fossil-fueled life support**.
     
--   Even during the period of unusually high solar and wind that Bloomberg cherry-picked to claim “ACs Keep Humming on Renewable Power,” **solar and wind at times provided < 20% of Texas electricity**. Of course, that portion of the time didn't make the Bloomberg story.![Bloomberg ERCOT snapshot](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F821e42ba-e914-444f-9e9e-5104e11e2c28_1600x900.png)
+-   Even during the period of unusually high solar and wind that Bloomberg cherry-picked to claim “Air Conditioners Keep Humming on Renewable Power,” **solar and wind at times provided < 20% of Texas electricity**. Of course, that portion of the time didn't make the Bloomberg story.![Bloomberg ERCOT snapshot](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F821e42ba-e914-444f-9e9e-5104e11e2c28_1600x900.png)
     
 -   **Solar and wind haven't supported the Texas power grid even for a day**—and can't. **Solar goes to zero every hot night**, delivering nothing to air conditioning, and **wind frequently cycles from <20% to >60% of its supposed “capacity.”** (More accurately called “fantasy.”)
     
@@ -88,7 +88,7 @@ featuredimage: /img/wind-transition.jpg
     
 ###References
 
-[^1]: [Bloomberg - In Texas Heat Wave, ACs Keep Humming on Renewable Power](https://www.bloomberg.com/news/articles/2023-06-28/in-record-texas-heat-wave-acs-keep-humming-on-renewable-power)
+[^1]: [Bloomberg - In Texas Heat Wave, Air Conditioners Keep Humming on Renewable Power](https://www.bloomberg.com/news/articles/2023-06-28/in-record-texas-heat-wave-acs-keep-humming-on-renewable-power)
 
 [^2]: [Our World in Data - Singapore: Energy Country Profile](https://ourworldindata.org/energy/country/singapore)
 
@@ -100,6 +100,6 @@ featuredimage: /img/wind-transition.jpg
 
     [NOAA, National Weather Service](https://w2.weather.gov/climate/xmacis.php?wfo=fwd)
 
-[^4]: [Bloomberg - In Texas Heat Wave, ACs Keep Humming on Renewable Power](https://www.bloomberg.com/news/articles/2023-06-28/in-record-texas-heat-wave-acs-keep-humming-on-renewable-power)
+[^4]: [Bloomberg - In Texas Heat Wave, Air Conditioners Keep Humming on Renewable Power](https://www.bloomberg.com/news/articles/2023-06-28/in-record-texas-heat-wave-acs-keep-humming-on-renewable-power)
 
 [^5]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/)
