@@ -131,9 +131,9 @@ featuredimage: /img/real-solar-requirements.png
     
 ![Lazard reliabilit](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3dad00d2-9104-4324-94c0-1c5deef935ad_2298x1742.png)
     
--   **The constantly-used Lazard “Levelized Cost of Energy” (LCOE) analysis explicitly says “This analysis does not take into account… reliability-related considerations.”  
+-   **The constantly-used Lazard “Levelized Cost of Energy” (LCOE) analysis explicitly says “This analysis does not take into account… reliability-related considerations.**”
       
-    Such an analysis is worthless. But it is used widely to misrepresent solar and wind as cheap.**[^10]
+    **Such an analysis is worthless. But it is used widely to misrepresent solar and wind as cheap.**[^10]
 
 ![LCOE quotes](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F879e23cf-ad0f-409a-8c26-a3a442d13d62_3200x1800.png)
     
@@ -171,7 +171,7 @@ featuredimage: /img/real-solar-requirements.png
 -   Because location has such a significant effect on the price of energy, **one must be cautious in generalizing from a source of energy being cheapest in one location to it being cheapest everywhere**. E.g., natural gas power has often been cheaper than coal in the US but not in Asia.
     
 -   Solar and wind are incredibly location-sensitive. Although nowhere do they have the reliability of fossil fuels, let alone versatility, they **perform at their best in consistently sunny (e.g., desert-like areas including Southern California) and windy areas (such as Iowa or West Texas)**.[^13]
-- 
+
 ![solar and wind US potential](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F439f2e74-0384-472e-bd55-00b69bef595d_1600x900.jpeg)
     
 -   It’s easy to underestimate how rare the best solar and wind resources are, especially in the US where we have a disproportionate amount of the world’s best. But **observe the many regions of the world that are weak in one or the other, sometimes both** (e.g., much of South America).[^14]
@@ -254,8 +254,7 @@ featuredimage: /img/real-solar-requirements.png
     
 -   Solar and wind advocates love to **take a rare energy use-case** in which solar and wind may be cheaper—such as **powering midday and afternoon air-conditioning in Dubai**—and **falsely generalize that “solar and wind are cheaper” for all machines, reliability requirements, and locations on a global scale**.
     
--   **Saying “solar and wind are cheaper” because they might be cheaper at powering midday and afternoon air-conditioning in Dubai is like a CEO saying “teenage labor is cheaper” because it can fill some mailroom positions.  
-    **  
+-   **Saying “solar and wind are cheaper” because they might be cheaper at powering midday and afternoon air-conditioning in Dubai is like a CEO saying “teenage labor is cheaper” because it can fill some mailroom positions.**
     Yet such false generalization is driving our energy policy.
 
 ###References
@@ -344,7 +343,7 @@ featuredimage: /img/real-solar-requirements.png
 
 [^19]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
-“Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”  
-[Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
+    “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”
+    [Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
 [^20]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/finance/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
