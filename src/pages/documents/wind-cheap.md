@@ -258,6 +258,7 @@ featuredimage: /img/real-solar-requirements.png
     **  
     Yet such false generalization is driving our energy policy.
 
+###References
 
 [^1]: [ScienceNewsExplores - Green energy is cheaper than fossil fuels, a new study finds](https://www.snexplores.org/article/green-energy-cheaper-than-fossil-fuels-climate)
 
