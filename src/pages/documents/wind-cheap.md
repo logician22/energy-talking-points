@@ -254,7 +254,7 @@ featuredimage: /img/real-solar-requirements.png
     
 -   Solar and wind advocates love to **take a rare energy use-case** in which solar and wind may be cheaper—such as **powering midday and afternoon air-conditioning in Dubai**—and **falsely generalize that “solar and wind are cheaper” for all machines, reliability requirements, and locations on a global scale**.
     
--   **Saying “solar and wind are cheaper” because they might be cheaper at powering midday and afternoon air-conditioning in Dubai is like a CEO saying “teenage labor is cheaper” because it can fill some mailroom positions.**
+-   **Saying “solar and wind are cheaper” because they might be cheaper at powering midday and afternoon air-conditioning in Dubai is like a CEO saying** **“teenage labor is cheaper” because it can fill some mailroom positions.**
     Yet such false generalization is driving our energy policy.
 
 ###References
