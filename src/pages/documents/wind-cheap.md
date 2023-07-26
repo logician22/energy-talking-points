@@ -2,12 +2,12 @@
 templateKey: blog-post
 displaytitle: "Myth: Solar and wind are cheaper than fossil fuels"
 title: Wind cheap
-date: 2019-12-12T00:34:00.000Z
+date: 2019-12-29T00:34:00.000Z
 description: "Truth: Solar and wind are only cheaper than fossil fuels in at
   most a small fraction of situations. For the overwhelming majority of the
   world’s energy needs, solar and wind are either completely unable to replace
   fossil fuels or far more expensive."
-featuredimage: /img/art-15-no-matter-how-much-solar-and-wind-you-build-you-can-never-rely-on-them.png
+featuredimage: /img/real-solar-requirements.png
 ---
 **_Originally published on JUL 19, 2023_**
 
