@@ -7,7 +7,7 @@ description: "Truth: Solar and wind are only cheaper than fossil fuels in at
   most a small fraction of situations. For the overwhelming majority of the
   world’s energy needs, solar and wind are either completely unable to replace
   fossil fuels or far more expensive."
-featuredimage: /img/real-solar-requirements.png
+featuredimage: /img/green-joblessness.jpg
 ---
 **_Originally published on JUL 19, 2023_**
 
@@ -109,7 +109,7 @@ featuredimage: /img/real-solar-requirements.png
     Yet they’re portrayed as generally “cheaper”!
     
 -   **Anyone who promotes the idea of solar and wind being generally cheaper than fossil fuels for “energy” as such—when solar and wind electricity is obviously expensive and/or impossible for fossil fuels’ non-electricity uses—is ignorant and/or incompetent and/or dishonest, and should be ignored.**[^8]
-- 
+ 
 ![Biden solar wind cheaper 2](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbb27fbc-4e04-408d-8359-6a1ad3ecc877_1600x900.png)
     
 
