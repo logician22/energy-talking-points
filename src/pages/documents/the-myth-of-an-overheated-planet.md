@@ -203,7 +203,8 @@ featuredimage: /img/art-27-co2-and-temperature-used-to-be-much-much-higher-and-t
       
     Please share these talking points to refute those falsehoods.
 
-*** References
+### References
+
 [^1]: [NYT - Heat Waves Grip 3 Continents as Climate Change Warms Earth](https://www.nytimes.com/2023/07/18/world/extreme-heat-wave-us-europe-asia.html)
 
     [WaPo - Floods, fires and deadly heat are the alarm bells of a planet on the brink](https://www.washingtonpost.com/climate-environment/2023/07/12/climate-change-flooding-heat-wave-continue/)
