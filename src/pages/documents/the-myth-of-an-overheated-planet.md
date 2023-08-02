@@ -1,9 +1,7 @@
 ---
 templateKey: blog-post
-displaytitle: This year's hot temperatures show that fossil fuels are already
-  making Earth unlivably hot
-title: This year's hot temperatures show that fossil fuels are already making
-  Earth unlivably hot
+displaytitle: The myth of an overheated planet
+title: The myth of an overheated planet
 date: 2020-09-09T16:22:26.876Z
 description: >-
   **_Myth: This year's hot temperatures show that fossil fuels are already
