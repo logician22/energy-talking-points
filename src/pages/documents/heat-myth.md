@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: "Myth: Solar and wind are helping save our grid from extreme heat"
-title: heat myth
+title: "Myth: Solar and wind are helping save our grid from extreme heat"
 date: 2019-12-30T04:04:30.193Z
 description: "Truth: Preferences for solar and wind have made our grid
   embarrassingly vulnerable to heat waves—and cold snaps—that a fossil-fueled
