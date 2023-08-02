@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: "Myth: Solar and wind are cheaper than fossil fuels"
-title: Wind cheap
+title: "Myth: Solar and wind are cheaper than fossil fuels"
 date: 2019-12-29T00:34:00.000Z
 description: "Truth: Solar and wind are only cheaper than fossil fuels in at
   most a small fraction of situations. For the overwhelming majority of the
