@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: How to answer loaded climate questions
-title: climate q
+title: How to answer loaded climate questions
 date: 2019-12-31T18:51:56.171Z
 description: "Answers to: “Do you believe in climate change?” “Are you a climate
   denier?” “Will you listen to the scientists on climate change?” And more!"
