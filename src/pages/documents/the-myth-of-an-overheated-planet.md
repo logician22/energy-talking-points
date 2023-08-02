@@ -1,7 +1,9 @@
 ---
 templateKey: blog-post
-displaytitle: The myth of an overheated planet
-title: The myth of an overheated planet
+displaytitle: This year's hot temperatures show that fossil fuels are already
+  making Earth unlivably hot
+title: This year's hot temperatures show that fossil fuels are already making
+  Earth unlivably hot
 date: 2020-09-09T16:22:26.876Z
 description: >-
   **_Myth: This year's hot temperatures show that fossil fuels are already
@@ -11,6 +13,8 @@ description: >-
   **_Truth: This year's hot temperatures are part of a slow warming trend on a planet where far more people die from cold than from heat, and where we need fossil fuels to protect us from both._**
 featuredimage: /img/art-27-co2-and-temperature-used-to-be-much-much-higher-and-they-re-not-consistently-correlated.png
 ---
+**_Originally published on Aug 2, 2023_**
+
 **_Myth: This year's hot temperatures show that fossil fuels are already making Earth unlivably hot._**
 
 **_Truth: This year's hot temperatures are part of a slow warming trend on a planet where far more people die from cold than from heat, and where we need fossil fuels to protect us from both._**
