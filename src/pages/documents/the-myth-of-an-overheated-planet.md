@@ -9,7 +9,7 @@ description: >-
 
 
   **_Truth: This year's hot temperatures are part of a slow warming trend on a planet where far more people die from cold than from heat, and where we need fossil fuels to protect us from both._**
-featuredimage: /img/art-27-co2-and-temperature-used-to-be-much-much-higher-and-they-re-not-consistently-correlated.png
+featuredimage: /img/flaring.jpeg
 ---
 **_Originally published on Aug 2, 2023_**
 
