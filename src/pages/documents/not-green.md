@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: '"Green Energy" is neither energy nor green'
-title: not green
+title: '"Green Energy" is neither energy nor green'
 date: 2020-01-01T10:28:00.000Z
 description: "“Green energy” has 2 problems: 1) It’s not really energy: It
   doesn’t provide reliable energy. 2) It’s not really green: It has a huge
