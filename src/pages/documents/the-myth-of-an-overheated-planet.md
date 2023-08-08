@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: The myth of an overheated planet
 title: The myth of an overheated planet
-date: 2020-01-03T17:22:26.876Z
+date: 2019-12-28T17:22:26.876Z
 description: >-
   **_Myth: This year's hot temperatures show that fossil fuels are already
   making Earth unlivably hot._**
