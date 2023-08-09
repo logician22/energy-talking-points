@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 displaytitle: America’s energy crisis is mostly US Democrats’ fault
-title: Dems
+title: America’s energy crisis is mostly US Democrats’ fault
 date: 2020-01-22T10:03:06.173Z
 description: Had Democrats spent the last 3.5 years liberating US oil/gas
   investment, production, and transport instead of strangling them, energy would
