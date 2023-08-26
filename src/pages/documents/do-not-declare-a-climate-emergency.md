@@ -107,9 +107,9 @@ featuredimage: /img/climate.jpeg
     
 -   **The only way to make low-carbon energy globally cost-competitive is through political and economic** **freedom**, so that **promising technology like low-cost nuclear can develop and proliferate globally**. Subsidizing or mandating inferior technologies in the US just punishes Americans.
     
--   **Climate emergency = Dictatorial powers + energy emergency  
+-   **Climate emergency = Dictatorial powers + energy emergency**
       
-    Government should not declare a “climate emergency”** because **rising CO2 levels are not dire, temporary, or under our control**.  
+    **Government should not declare a “climate emergency”** because **rising CO2 levels are not dire, temporary, or under our control**.  
       
     If it does, the **consequence will be endless dictatorial powers that destroy American energy**.
     
