@@ -170,7 +170,7 @@ featuredimage: /img/climate.jpeg
     
     [Bjorn Lomborg on Twitter](https://twitter.com/BjornLomborg/status/1611699218053308417)
 
-[2]: [NASA - GISS Surface Temperature Analysis (GISTEMP v4)](https://data.giss.nasa.gov/gistemp/)
+[^2]: [NASA - GISS Surface Temperature Analysis (GISTEMP v4)](https://data.giss.nasa.gov/gistemp/)
 
     [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
