@@ -10,7 +10,7 @@ description: Energy policy, including climate policy, will remain one of the
   most reliable, lowest-cost energy for billions of people…
 featuredimage: /img/overview.jpg
 ---
-Energy policy, including climate policy, will remain one of the main policy issues for the foreseeable future.
+Energy policy, including climate policy, will remain one of the main policy issues for the foreseeable time.
 
 I believe that the best policy for America’s future and the world’s future is a policy of energy freedom, in which all sources of energy—including fossil fuels—can compete to produce the most reliable, lowest-cost energy for billions of people.
 
@@ -22,7 +22,7 @@ Thus, I will be sharing what I think are the best talking points, along with ref
 
 ### How to use these talking points
 
-You are welcome to use these talking points however you wish. (Each is the length of a Tweet, so Twitter is one great place.) Where appropriate, I'd request that you attribute them [to me](https://twitter.com/AlexEpstein) and direct people to [EnergyTalkingPoints.com](https://energytalkingpoints.com).
+You are welcome to use these talking points however you wish. (Each is the length of a Tweet, so Twitter is one great place.) Where appropriate, I'd request that you attribute them to me and direct people to [EnergyTalkingPoints.com](https://energytalkingpoints.com).
 
 - If you are a candidate and would like to request custom talking points, I'll do my best to help you. Email me at [alex@alexepstein.com](mailto:alex@alexepstein.com) subject "I'm a candidate".
 - If you would like to interview me about energy policy, email me at [alex@alexepstein.com](mailto:alex@alexepstein.com) subject "I want to interview you".
