@@ -81,7 +81,7 @@ _Here are answers to the media's top 25 extreme weather myths._[^1]
     **Truth:** Extreme weather **“attribution” only looks for negative impacts of fossil fuels on extreme weather**, brazenly ignoring any avoided negative impacts.
     
 -   One of the few climate researchers who is openly looking at the full impact of fossil-fueled climate change, including potential avoided damage, is **meteorologist and hurricane expert Dr. Ryan Maue. What are the chances we see his point about avoided hurricanes in the mainstream news?**
-    [Dr. Ryan Maue. tweet](/img/tweet-ryan.png)
+    ![Dr. Ryan Maue. tweet](/img/tweet-ryan.png)
     
 -   **Myth 12: Attributions of X% of an extreme weather event to humans are credible.**  
       
@@ -110,16 +110,16 @@ _Here are answers to the media's top 25 extreme weather myths._[^1]
       
     **Truth: Extreme temperatures are a smaller danger than ever thanks to fossil-fueled heating and A/C**—plus the **net-benefits of warming in a world where far more people die of cold than heat**.[^16]![Heat and cold related deaths, 2000-2019, as a percentage of All Global Deaths](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a8712d0-8672-46f6-af57-1b898e188753_1720x1120.jpeg)
     
--   **Myth 17: Storms are a bigger danger than ever thanks to fossil fuels.  
-    **  
+-   **Myth 17: Storms are a bigger danger than ever thanks to fossil fuels.**  
+      
     **Truth: Storms are a smaller danger than ever** thanks to the **fossil-fueled machines that build sturdy buildings, as well as fossil-fueled weather warning systems and fossil-fueled disaster relief efforts**.[^17]![Atmospheric CO2 and Death rate from storms](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7513ede7-f403-4e18-8bed-860037ee8546_1600x1043.png)
     
--   **Myth 18: Drought is a bigger danger than ever thanks to fossil fuels.  
-    **  
+-   **Myth 18: Drought is a bigger danger than ever thanks to fossil fuels.**  
+      
     **Truth: Drought is a smaller danger than ever thanks to fossil-fueled irrigation, crop transport, and agriculture.** With more such mastery our crop productivity can continue to improve.[^18]![Atmospheric CO2 and Death rate from drought](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd76a19a7-c3eb-4324-b21c-ca8feed331f3_1600x900.png)
     
--   **Myth 19: Floods are a bigger danger than ever thanks to fossil fuels.  
-    **  
+-   **Myth 19: Floods are a bigger danger than ever thanks to fossil fuels.**  
+      
     **Truth: Floods are a smaller danger than ever thanks to fossil-fueled flood control infrastructure and disaster relief.**[^19]![World death rate from floods and G7 death rate from floods](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F229c0bb9-d7d3-4b45-95e7-13522cfed9b0_1600x900.png)
     
 -   **Myth 20:** **The rich, fossil-fueled world has ruined the poor world by making them vulnerable** to extreme weather.  
