@@ -9,7 +9,7 @@ featuredimage: /img/spr-depletion.png
 ---
 ***Originally published on March 8, 2023***
 
-***I have been be testifying in front of the House Oversight Committee on the topic “Burning the Midnight Oil: Why Depleting the SPR is Not a Solution to America's Energy Problem.”***
+***On March 8, 2023 I testified in front of the House Oversight Committee on the topic “Burning the Midnight Oil: Why Depleting the SPR is Not a Solution to America's Energy Problem.”***
 
 ***Watch the full recording [here](https://www.youtube.com/live/T70hMbb5VIY?feature=share)!***
 
