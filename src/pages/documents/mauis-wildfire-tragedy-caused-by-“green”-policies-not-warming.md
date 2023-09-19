@@ -101,7 +101,8 @@ featuredimage: /img/alex-epstein.jpg
   Long-term climate impacts might have played some role in the Maui wildfires, but this is not at all certain in any direction.
 * Climate **catastrophist Michael Mann immediately commented about the Maui wildfires “This is the climate crisis. It’s here and now,” despite the lack of evidence.** Instead of being honest about what we don't know, he falsely professed certainty that rising CO2 caused Hawaii’s weather.[^18]![Micheal Mann on Maui Wildfire and why Disasters are becoming Deadlier](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd88c8746-08ed-4fe8-9d49-178b233f14a2_1600x900.png)
 * **Hawaii's governor Green agreed that climate change “amplified” the “cost of human error” in response to the fires.** He can’t possibly know what role global climate change had, but **he like so many others is trying to evade the obvious major culprit: Hawaii’s “green” policies.**[^19]
-* ![Hawaii Gov: Climate change 'amplified' human errors on wildfire response](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59ba0d05-bae9-4a5e-bf00-44bc4fe6d8b3_1600x900.png)
+
+  ![Hawaii Gov: Climate change 'amplified' human errors on wildfire response](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59ba0d05-bae9-4a5e-bf00-44bc4fe6d8b3_1600x900.png)
 * Weeks later, **Governor Green again blamed climate change for the fire danger**, claiming “we all have to acknowledge that this is a global problem, it was a very hot, dry, terrible storm.”  
 
   **Exactly wrong.** The world is burning less. **It's a local problem of bad government priorities.**[^20]
