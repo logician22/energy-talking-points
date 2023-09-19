@@ -23,9 +23,9 @@ featuredimage: /img/alex-epstein.jpg
   * **Failure to actively manage flammable grasses** and instead letting them grow “naturally”
   * **Spending money on expensive “green” energy and not on power-line maintenance**
   * **Deprioritizing water release in favor of “green” concerns**
-* Anti-fossil-fuel politicians are blaming Maui's tragic wildfire on climate change. But \*\*could the 2° F warming over 150 years, and any associated climate changes, make dangerous wildfires inevitable?  
+* Anti-fossil-fuel politicians are blaming Maui's tragic wildfire on climate change. But \*\*could the 2° F warming over 150 years, and any associated climate changes, make dangerous wildfires inevitable?\*\*  
 
-  No. **Fossil fuels are being scapegoated to evade** the real villain: “green” policies.\*\*[^1]
+  \*\*No. **Fossil fuels are being scapegoated to evade** the real villain: “green” policies.\*\*[^1]
 * **With proper wildfire management, we could prevent anything resembling the dangerous, out-of-control wildfire** Maui experienced—even if temperatures were considerably warmer.  
 
   **3 keys are: fuel load management, power-line maintenance, and firefighting.**  
@@ -72,9 +72,9 @@ featuredimage: /img/alex-epstein.jpg
 * In 2022, **there was a proposal in the Hawaiian Senate to make water available for firefighting**, noting the vulnerability of West Maui. But the proposal didn't even get a hearing. **Despite the life-and-death emergency, this was not a priority over “green” habitat and climate policy**.[^14]
 * **Don't allow greens to scapegoat fossil fuels for the Maui tragedy**  
 
-  \*\*Rising CO2 levels from fossil fuel use are at most a minor wildfire variable that we have little near-term control over.
+  \*\*Rising CO2 levels from fossil fuel use are at most a minor wildfire variable that we have little near-term control over.\*\*
 
-  “Green” policies are the major variable and can be reversed immediately.\*\*  
+  \*\*“Green” policies are the major variable and can be reversed immediately.\*\*  
 
   Blaming fossil fuels is deadly.
 * Even if 100% net-zero energy is just a few decades away (absurd) that means that rising CO2 levels will be with us for decades—and it'll take even longer for CO2 to return to today's levels. Thus, **rising CO2 is a very long-term issue—not at all addressable for fire hazards now.**[^15]![Global atmospheric concentrations of carbon dioxide in parts per million](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16a3fc40-cc98-4310-9215-02bb10ad00d2_1600x900.png)
@@ -112,7 +112,6 @@ featuredimage: /img/alex-epstein.jpg
   ![Global tropical cyclone ACE vs ACE](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d484997-fe3a-447f-9840-812987a4406e_1155x628.png)
 
    ![Global Tropical Cyclone Frequency](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74a760bb-7be6-4b0d-91a0-c8c69c24a4b1_1119x610.png)
-
 * **Obsession with attributing conditions to climate change is not an attempt at evenhanded, precise, honest scientific understanding**, but dishonest scapegoating of fossil fuels—which are a crucial value we need for everything in life, including mastering dangerous wildfires.
 * Fossil fuels provide the vast majority of Maui's energy and the industries that sustain the population of Hawaii, which all rely on affordable fossil fuels, from tourists flying in, to agriculture that requires equipment, fertilizers, and pesticides based on fossil fuel energy and materials.
 * Hawaii is ~70% powered by oil. The more Hawaii tries to forcibly reduce fossil fuels, the more it will have higher energy prices and less energy security.  
@@ -127,7 +126,11 @@ featuredimage: /img/alex-epstein.jpg
 
   Deprioritizing water release in favor of “green” concerns
 
-\###Reference
+
+
+\###References
+
+
 
 [^1]: [NASA - GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
