@@ -2,12 +2,14 @@
 templateKey: blog-post
 displaytitle: Maui's wildfire tragedy caused by “green” policies, not warming
 title: Maui's wildfire tragedy caused by “green” policies, not warming
-date: 2023-10-08T17:21:46.380Z
+date: 2019-12-25T17:21:46.380Z
 description: The unnecessarily large wildfires in Maui were not caused by the
   slow warming of climate but by “green” policies that prevented proper wildfire
   management.
 featuredimage: /img/alex-epstein.jpg
 ---
+**_Originally published on Sep 7, 2023_**
+
 *As Congress returns to session, one topic I expect to be the subject of hearings and discussion is the wildfire tragedy in Maui. It is crucial that our lawmakers and fellow citizens know the truth about what happened, and why, so that they draw constructive lessons instead of destructive lessons. My team and I have spent a lot of time getting to the bottom of this story, and have discovered numerous errors in both mainstream and non-mainstream sources. Here are our findings, with supporting evidence.*
 
 - - -
@@ -23,9 +25,9 @@ featuredimage: /img/alex-epstein.jpg
   * **Failure to actively manage flammable grasses** and instead letting them grow “naturally”
   * **Spending money on expensive “green” energy and not on power-line maintenance**
   * **Deprioritizing water release in favor of “green” concerns**
-* Anti-fossil-fuel politicians are blaming Maui's tragic wildfire on climate change. But \*\*could the 2° F warming over 150 years, and any associated climate changes, make dangerous wildfires inevitable? 
+* Anti-fossil-fuel politicians are blaming Maui's tragic wildfire on climate change. But **could the 2° F warming over 150 years, and any associated climate changes, make dangerous wildfires inevitable?**
 
-  No. **Fossil fuels are being scapegoated to evade** the real villain: “green” policies.\*\* [^1]
+  **No. **Fossil fuels are being scapegoated to evade** the real villain: “green” policies.** [^1]
 * **With proper wildfire management, we could prevent anything resembling the dangerous, out-of-control wildfire** Maui experienced—even if temperatures were considerably warmer.  
 
   **3 keys are: fuel load management, power-line maintenance, and firefighting.**  
@@ -72,9 +74,9 @@ featuredimage: /img/alex-epstein.jpg
 * In 2022, **there was a proposal in the Hawaiian Senate to make water available for firefighting**, noting the vulnerability of West Maui. But the proposal didn't even get a hearing. **Despite the life-and-death emergency, this was not a priority over “green” habitat and climate policy**.[^14]
 * **Don't allow greens to scapegoat fossil fuels for the Maui tragedy**  
 
-  \*\*Rising CO2 levels from fossil fuel use are at most a minor wildfire variable that we have little near-term control over.
+  **Rising CO2 levels from fossil fuel use are at most a minor wildfire variable that we have little near-term control over.**
 
-  “Green” policies are the major variable and can be reversed immediately.\*\*  
+  **“Green” policies are the major variable and can be reversed immediately.**  
 
   Blaming fossil fuels is deadly.
 * Even if 100% net-zero energy is just a few decades away (absurd) that means that rising CO2 levels will be with us for decades—and it'll take even longer for CO2 to return to today's levels. Thus, **rising CO2 is a very long-term issue—not at all addressable for fire hazards now.**[^15]![Global atmospheric concentrations of carbon dioxide in parts per million](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16a3fc40-cc98-4310-9215-02bb10ad00d2_1600x900.png)
@@ -127,15 +129,13 @@ featuredimage: /img/alex-epstein.jpg
 
   Deprioritizing water release in favor of “green” concerns
 
-
-
-\###References
-
-
+###References
 
 [^1]: [NASA - GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
 [^2]: [NPR - The Final Days Of Hawaiian Sugar](https://www.npr.org/sections/thesalt/2016/12/17/505861855/the-final-days-of-hawaiian-sugar)
+
+   [Michael Shellenberger - Renewables Mania And Woke Dogma Behind Hawaii Fire, Not Climate Change](https://public.substack.com/p/renewables-mania-and-woke-dogma-behind)
 
 [^3]: [Honolulu Civil Beat - Hawaii Has Long Shortchanged Wildfire Protection: ‘We Could Have Saved Lives’](https://www.civilbeat.org/2023/08/hawaii-has-long-shortchanged-wildfire-protection-we-could-have-saved-lives/)
 
@@ -144,6 +144,11 @@ featuredimage: /img/alex-epstein.jpg
 [^5]: [Cost Of Government Commission - Report on Wildfire Prevention, July 2021](https://www.mauicounty.gov/DocumentCenter/View/129493/Report-on-Wildfire-Prevention--Cost-Recovery-on-Maui---Part-1-Report--Exhibits-A-B-33-MB?bidId=)
 
 [^6]: [Hawaiian Electric - Hawaiian Electric sees brisk pace of solar installations](https://www.hawaiianelectric.com/hawaiian-electric-sees-brisk-pace-of-solar-installations)
+
+    [Hawaii State Energy Office - Tax Incentives](https://energy.hawaii.gov/what-we-do/financial-assistance-and-grants/financial-assistance-resources/income-guidelines-and-tax-resources/)
+
+    Hawaii’s electricity is ~78% petroleum-based but some of that is biofuel.  
+    [U.S. Energy Information Administration - HI State energy profile](https://www.eia.gov/state/?sid=HI#tabs-4)
 
 [^7]: [Hawaiian Electric - Hawaii ends use of coal for power generation as 30-year contract with Oahu plant winds down](https://www.hawaiianelectric.com/hawaii-ends-use-of-coal-for-power-generation-as-30-year-contract-with-oahu-plant-winds-down)
 
@@ -154,6 +159,8 @@ featuredimage: /img/alex-epstein.jpg
 [^10]: [WSJ - Hawaiian Electric Knew of Wildfire Threat, but Waited Years to Act](https://www.wsj.com/us-news/wildfire-risk-maui-hawaiian-electric-7beed21e)
 
 [^11]: [Honolulu Civil Beat - A State Official Refused To Release Water For West Maui Fires](https://www.civilbeat.org/2023/08/a-state-official-refused-to-release-water-for-west-maui-fires-until-it-was-too-late/)
+
+    [What’s Up With That - Agency Headed By ‘Indigenous Knowledge’ Advocate Delayed Water Supplies That Would Have Fought Hawaii Fires, Letter Says](https://wattsupwiththat.com/2023/08/17/agency-headed-by-indigenous-knowledge-advocate-delayed-water-supplies-that-would-have-fought-hawaii-fires-letter-says/)
 
 [^12]: [AP News - Maui fires renew centuries-old tensions over water rights. The streams are sacred to Hawaiians](https://apnews.com/article/hawaii-maui-fires-water-streams-531263684bf5106d635f29aec91115e4)
 
@@ -169,7 +176,7 @@ featuredimage: /img/alex-epstein.jpg
 
 [^18]: [Democracy Now - “This Is the Climate Crisis”: Michael Mann on Maui Wildfires & Why Disasters Are Becoming Deadlier](https://www.democracynow.org/2023/8/14/maui_wildfires_climate_crisis_michael_mann)
 
-[^19]:[Fox News - Hawaii Gov: Climate change 'amplified' human errors on wildfire response](https://www.foxnews.com/video/6334917603112)
+[^19]: [Fox News - Hawaii Gov: Climate change 'amplified' human errors on wildfire response](https://www.foxnews.com/video/6334917603112)
 
 [^20]: [Daily Caller - ‘We Are Dealing With Global Warming’: Hawaii Gov Once Again Blames Deadly Wildfire On Climate Change](https://dailycaller.com/2023/08/31/we-are-dealing-with-global-warming-hawaii-gov-once-again-blames-deadly-wildfire-on-climate-change/)
 
