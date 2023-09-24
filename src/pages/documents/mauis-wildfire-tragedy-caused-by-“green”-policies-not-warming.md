@@ -27,7 +27,7 @@ featuredimage: /img/alex-epstein.jpg
   * **Deprioritizing water release in favor of “green” concerns**
 * Anti-fossil-fuel politicians are blaming Maui's tragic wildfire on climate change. But **could the 2° F warming over 150 years, and any associated climate changes, make dangerous wildfires inevitable?**
 
-  **No. **Fossil fuels are being scapegoated to evade** the real villain: “green” policies.** [^1]
+  **No.** Fossil fuels are being scapegoated to evade **the real villain: “green” policies.** [^1]
 * **With proper wildfire management, we could prevent anything resembling the dangerous, out-of-control wildfire** Maui experienced—even if temperatures were considerably warmer.  
 
   **3 keys are: fuel load management, power-line maintenance, and firefighting.**  
