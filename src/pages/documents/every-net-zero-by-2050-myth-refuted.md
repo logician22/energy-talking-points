@@ -299,11 +299,11 @@ featuredimage: /img/alex-epstein.jpg
   ![China no closer to peak coal despite record renewable capacity additions and India rejects net zero corban emissions target, says pathway more important](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf313511-9707-4437-9f4d-867def9f5a1c_1600x900.png)
 * **Net zero by 2050, by failing to recognize the unique benefits of fossil fuels, is catastrophic when barely implemented and would be apocalyptic if fully implemented.**  
 
-  ```
-
-  ```
-
   \###References
+
+```
+
+```
 
 [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
