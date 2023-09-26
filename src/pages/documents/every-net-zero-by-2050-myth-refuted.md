@@ -8,14 +8,14 @@ description: In preparation for a "net zero by 2050" debate that my opponent
   net-zero that I've every encountered.
 featuredimage: /img/alex-epstein.jpg
 ---
-***Originally published on Sep 21, 2023***
+***Originally published on Sep 3, 2023***
 *For the last several months I have been eagerly anticipating a* ***scheduled debate I had at the University of Syracuse on “net zero by 2050”*** *with climate catastrophist and net-zero advocate Tom Rand.*
 
-*Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university,* **\*Tom did not make it to the debate**. He* **\*took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse,* **\*he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s* *[my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246)* *over the issue (warning, he uses profanity).*
+*Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university,* ***Tom did not make it to the debate**. He* ***took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse,* ***he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s* *[my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246)* *over the issue (warning, he uses profanity).*
 
-*Since I was supposed to be in a debate, but there was no one to debate, I thought the best I could make of the situation would be to give* ***a speech refuting every single argument for “net zero by 2050”*** *that Tom and others make. It ended up being one of my favorite speeches ever; you can* ***watch it*** **\*[here](https://www.youtube.com/live/bQgvZKBKUnU?feature=shared)**.*
+*Since I was supposed to be in a debate, but there was no one to debate, I thought the best I could make of the situation would be to give* ***a speech refuting every single argument for “net zero by 2050”*** *that Tom and others make. It ended up being one of my favorite speeches ever; you can* ***watch it*** ***[here](https://www.youtube.com/live/bQgvZKBKUnU?feature=shared)**.*
 
-*Below I have included* **\*all the “net zero” myths I covered last night**, and then some. I think you’ll find them, along with the positive points about energy freedom, very valuable.*
+*Below I have included* ***all the “net zero” myths I covered last night**, and then some. I think you’ll find them, along with the positive points about energy freedom, very valuable.*
 
 - - -
 
@@ -130,9 +130,9 @@ featuredimage: /img/alex-epstein.jpg
   Truth: While these industries **have potential that we should unleash, they are generations away** from providing, on a global scale, energy that's affordable, reliable, and versatile.[^8]
   ![Global nuclear Electricity genration](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28ebf2fc-821c-4814-8970-5acd92ac0286_3054x1995.png)
 * ***Myth: Academics have rigorous plans to replace fossil fuels with mostly solar and wind***\
-  \*\*Truth: All these “plans” involve 2 absurdities:  
+  **Truth: All these “plans” involve 2 absurdities:**
+  \*\*1. Unprecedented mining and construction in today's anti-development political environment will be cheap.  
 
-  1. Unprecedented mining and construction in today's anti-development political environment will be cheap.  
   2. Untested schemes will be cheap, everywhere, the first time.\*\*
 * “Net zero” plans to scale solar and wind involve **more than doubling the supply of half a dozen major mined materials per decade**.  
 
@@ -170,7 +170,7 @@ featuredimage: /img/alex-epstein.jpg
   ![Global CO@ emission vs World expectancy and World GDP per capita vs World population](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5427796c-7853-46d9-adbf-78662224b1de_3200x2100.png)
 * *Myth: The benefits we've gotten from uniquely cost-effective fossil fuel energy are modest at best compared to their downsides.*  
 
-  \*\*Thanks to our fossil-fueled productivity, longevity and income have been skyrocketing, with extreme poverty (<$2/day) plummeting from 42% in 1980 to less than 10% today.[^13]
+  **Thanks to our fossil-fueled productivity, longevity and income have been skyrocketing, with extreme poverty (<$2/day) plummeting from 42% in 1980 to less than 10% today.**[^13]
   ![Share of people living on  less than $1.90 per day](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71873535-05bb-43c8-a030-91e9902182f1_3054x1991.png)
 * *Myth: Rapidly eliminating uniquely cost-effective fossil fuel energy won't be that bad because we can save a lot energy via efficiency.*  
 
@@ -186,9 +186,9 @@ featuredimage: /img/alex-epstein.jpg
 
   Poor countries are not guinea pigs._
 * Any invocation of “efficiency” to pretend that the world doesn't need far more energy amounts to cruel indifference to the enormous energy needs of the world's poorest people.
-* \*\*Summary: Fossil fuels are a near-term irreplaceable source of the cost-effective energy humans need to flourish.  
+* **Summary: Fossil fuels are a near-term irreplaceable source of the cost-effective energy humans need to flourish.**  
 
-  Policy implications\*\*
+  **Policy implications**
 
   * **Energy freedom —> Billions more will have the opportunity to flourish.**
   * **Net zero —> Billions of energy-starved people plunge into poverty and early death.**
@@ -224,9 +224,9 @@ featuredimage: /img/alex-epstein.jpg
 * *Myth: Even if we're safe from climate now, we can expect future emissions to lead to disaster.*  
 
   Truth: Since today's unprecedented safety exists after 100+ years of rising CO2, and with 1° C warming, we should be skeptical that further CO2 rises will somehow overwhelm us.
-* \*\*Summary: A crucial benefit of uniquely cost-effective fossil fuel energy is enormous climate mastery abilities.  
+* **Summary: A crucial benefit of uniquely cost-effective fossil fuel energy is enormous climate mastery abilities.**  
 
-  Policy implications\*\*
+  **Policy implications**
 
   * **Energy freedom —> We'll get ever-better at mastering climate danger, natural or manmade.**
   * **Net zero —> Climate danger will dramatically increase.**
@@ -285,7 +285,7 @@ featuredimage: /img/alex-epstein.jpg
 * *Myth: Science says that if we hit 2° C warming, let alone beyond, since the 1800s, we face catastrophe followed by apocalypse.*  
 
   Truth: **The 2° C number is activist fiction.** The climate mastery abilities that have made life far better through 1° C warming so far will continue to keep us safe.
-* \*\*Summary: Continuing fossil fuel use will lead to levels of warming and other changes that we can master and flourish with.  
+* **Summary: Continuing fossil fuel use will lead to levels of warming and other changes that we can master and flourish with.**  
 
   **Policy implications**
 
@@ -297,6 +297,10 @@ featuredimage: /img/alex-epstein.jpg
   (The only moral and practical way to reduce global emissions.)[^28]
   ![China no closer to peak coal despite record renewable capacity additions and India rejects net zero corban emissions target, says pathway more important](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf313511-9707-4437-9f4d-867def9f5a1c_1600x900.png)
 * **Net zero by 2050, by failing to recognize the unique benefits of fossil fuels, is catastrophic when barely implemented and would be apocalyptic if fully implemented.**  
+
+  ```
+
+  ```
 
   \###References
 
@@ -402,3 +406,7 @@ According to Tesla Megapacks cost about $413,000 per MWh.
 [^27]: [Roger Pielke Jr. - What the media won't tell you about ... Wildfires](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-783)
 
 [^28]: [Reuters - Analysis: China no closer to peak coal despite record renewable capacity additions](https://www.reuters.com/world/china/china-no-closer-peak-coal-despite-record-renewable-capacity-additions-2022-08-22/)
+
+```
+
+```
