@@ -8,7 +8,9 @@ description: In preparation for a "net zero by 2050" debate that my opponent
   net-zero that I've every encountered.
 featuredimage: /img/alex-epstein.jpg
 ---
-***Originally published on Sep 3, 2023***
+***Originally published on Sep 21, 2023***
+
+
 *For the last several months I have been eagerly anticipating a* ***scheduled debate I had at the University of Syracuse on “net zero by 2050”*** *with climate catastrophist and net-zero advocate Tom Rand.*
 
 *Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university,* ***Tom did not make it to the debate**. He* ***took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse,* ***he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s* *[my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246)* *over the issue (warning, he uses profanity).*
@@ -130,10 +132,9 @@ featuredimage: /img/alex-epstein.jpg
   Truth: While these industries **have potential that we should unleash, they are generations away** from providing, on a global scale, energy that's affordable, reliable, and versatile.[^8]
   ![Global nuclear Electricity genration](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28ebf2fc-821c-4814-8970-5acd92ac0286_3054x1995.png)
 * ***Myth: Academics have rigorous plans to replace fossil fuels with mostly solar and wind***\
-  **Truth: All these “plans” involve 2 absurdities:**
-  \*\*1. Unprecedented mining and construction in today's anti-development political environment will be cheap.  
-
-  2. Untested schemes will be cheap, everywhere, the first time.\*\*
+    **Truth: All these “plans” involve 2 absurdities:**
+    **1. Unprecedented mining and construction in today's anti-development political environment will be cheap.**\
+      **2. Untested schemes will be cheap, everywhere, the first time.**
 * “Net zero” plans to scale solar and wind involve **more than doubling the supply of half a dozen major mined materials per decade**.  
 
   I know of no example, ever, of any major mined mineral doubling that fast, even with pro-development governments—let alone today's anti-development governments.[^9]
