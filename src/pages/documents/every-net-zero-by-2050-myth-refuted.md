@@ -297,117 +297,115 @@ featuredimage: /img/alex-epstein.jpg
 
   (The only moral and practical way to reduce global emissions.)[^28]
   ![China no closer to peak coal despite record renewable capacity additions and India rejects net zero corban emissions target, says pathway more important](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf313511-9707-4437-9f4d-867def9f5a1c_1600x900.png)
-* **Net zero by 2050, by failing to recognize the unique benefits of fossil fuels, is catastrophic when barely implemented and would be apocalyptic if fully implemented.**  
+* **Net zero by 2050, by failing to recognize the unique benefits of fossil fuels, is catastrophic when barely implemented and would be apocalyptic if fully implemented.**
+
+
 
   \###References
 
-```
 
-```
 
-[^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
+  [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
-[^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+  [^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-```
+  ```
 
-```
+  ```
 
-[^3]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
+  [^3]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-[^4]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
+  [^4]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
-[^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.\
-According to Tesla Megapacks cost about $413,000 per MWh.  
+  [^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.\
+      According to Tesla Megapacks cost about $413,000 per MWh.  
 
-```
+  ```
 
-```
+  ```
 
-[^6]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
+  [^6]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
 
-[^7]: [Financial Times - How China is winning the race for Africa’s lithium](https://www.ft.com/content/02d6f35d-e646-40f7-894c-ffcc6acd9b25)
+  [^7]: [Financial Times - How China is winning the race for Africa’s lithium](https://www.ft.com/content/02d6f35d-e646-40f7-894c-ffcc6acd9b25)
 
-[^8]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
+  [^8]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-[^9]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
+  [^9]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
-```
+  ```
 
-```
+  ```
 
-[Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
+  [^10]: [Clack et al. (2017) - Evaluation of a proposal for reliable low-cost grid power with 100% wind, water, and solar](https://www.pnas.org/doi/10.1073/pnas.1610381114)
 
-[^10]: [Clack et al. (2017) - Evaluation of a proposal for reliable low-cost grid power with 100% wind, water, and solar](https://www.pnas.org/doi/10.1073/pnas.1610381114)
+  [^11]: [USA Today News - 'The world is going to end in 12 years if we don't address climate change,' Ocasio-Cortez says](https://eu.usatoday.com/story/news/politics/onpolitics/2019/01/22/ocasio-cortez-climate-change-alarm/2642481002/)
 
-[^11]: [USA Today News - 'The world is going to end in 12 years if we don't address climate change,' Ocasio-Cortez says](https://eu.usatoday.com/story/news/politics/onpolitics/2019/01/22/ocasio-cortez-climate-change-alarm/2642481002/)
+  [^12]: [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
 
-[^12]: [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
+  ```
 
-```
+  ```
 
-```
+  [^13]: [World Bank Data](https://data.worldbank.org/)
 
-[^13]: [World Bank Data](https://data.worldbank.org/)
+  [^14]: [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
 
-[^14]: [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
+  ```
 
-```
+  ```
 
-```
+  [^15]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-[^15]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+  ```
 
-```
+  ```
 
-```
+  [^16]: Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-[^16]: Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+  ```
 
-```
+  ```
 
-```
+  [^17]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-[^17]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+  ```
 
-```
+  ```
 
-```
+  [^18]: [Roger Pielke Jr. - Weather and Climate Disaster Losses So Far in 2022, Still Not Getting Worse](https://rogerpielkejr.substack.com/p/weather-and-climate-disaster-losses)
 
-[^18]: [Roger Pielke Jr. - Weather and Climate Disaster Losses So Far in 2022, Still Not Getting Worse](https://rogerpielkejr.substack.com/p/weather-and-climate-disaster-losses)
+  [^19]: [The Economist - Expensive energy may have killed more Europeans than covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
 
-[^19]: [The Economist - Expensive energy may have killed more Europeans than covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
+  [^20]: [New York Time - Ian Moves North](https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html)
 
-[^20]: [New York Time - Ian Moves North](https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html)
+  ```
 
-```
+  ```
 
-```
+  [^21]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
-[^21]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
+  ```
 
-```
+  ```
 
-```
+  [^22]: [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[^22]: [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
+  [^23]: [IPCC AR6, WG1, chapter 4](https://www.ipcc.ch/report/ar6/wg1/)
 
-[^23]: [IPCC AR6, WG1, chapter 4](https://www.ipcc.ch/report/ar6/wg1/)
+  [^24]: [Our World in Data - Data Explorer: IPCC Scenarios](https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&country=SSP5+-+6.0~SSP1+-+1.9&Metric=Agricultural+production&Sub-metric=Crops&Rate=Per+capita&Region=Global)
 
-[^24]: [Our World in Data - Data Explorer: IPCC Scenarios](https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&country=SSP5+-+6.0~SSP1+-+1.9&Metric=Agricultural+production&Sub-metric=Crops&Rate=Per+capita&Region=Global)
+  ```
 
-```
+  ```
 
-```
+  [^25]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
 
-[^25]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
+  [^26]: [NOAA - Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
 
-[^26]: [NOAA - Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
+  [^27]: [Roger Pielke Jr. - What the media won't tell you about ... Wildfires](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-783)
 
-[^27]: [Roger Pielke Jr. - What the media won't tell you about ... Wildfires](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-783)
+  [^28]: [Reuters - Analysis: China no closer to peak coal despite record renewable capacity additions](https://www.reuters.com/world/china/china-no-closer-peak-coal-despite-record-renewable-capacity-additions-2022-08-22/)
 
-[^28]: [Reuters - Analysis: China no closer to peak coal despite record renewable capacity additions](https://www.reuters.com/world/china/china-no-closer-peak-coal-despite-record-renewable-capacity-additions-2022-08-22/)
+  ```
 
-```
-
-```
+  ```
