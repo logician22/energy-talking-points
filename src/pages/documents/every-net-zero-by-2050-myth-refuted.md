@@ -10,14 +10,13 @@ featuredimage: /img/alex-epstein.jpg
 ---
 ***Originally published on Sep 21, 2023***
 
-
 *For the last several months I have been eagerly anticipating a* ***scheduled debate I had at the University of Syracuse on “net zero by 2050”*** *with climate catastrophist and net-zero advocate Tom Rand.*
 
-*Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university,* ***Tom did not make it to the debate**. He* ***took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse,* ***he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s* *[my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246)* *over the issue (warning, he uses profanity).*
+*Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university,* **\*Tom did not make it to the debate**. He* **\*took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse,* **\*he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s* *[my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246)* *over the issue (warning, he uses profanity).*
 
-*Since I was supposed to be in a debate, but there was no one to debate, I thought the best I could make of the situation would be to give* ***a speech refuting every single argument for “net zero by 2050”*** *that Tom and others make. It ended up being one of my favorite speeches ever; you can* ***watch it*** ***[here](https://www.youtube.com/live/bQgvZKBKUnU?feature=shared)**.*
+*Since I was supposed to be in a debate, but there was no one to debate, I thought the best I could make of the situation would be to give* ***a speech refuting every single argument for “net zero by 2050”*** *that Tom and others make. It ended up being one of my favorite speeches ever; you can* ***watch it*** **\*[here](https://www.youtube.com/live/bQgvZKBKUnU?feature=shared)**.*
 
-*Below I have included* ***all the “net zero” myths I covered last night**, and then some. I think you’ll find them, along with the positive points about energy freedom, very valuable.*
+*Below I have included* **\*all the “net zero” myths I covered last night**, and then some. I think you’ll find them, along with the positive points about energy freedom, very valuable.*
 
 - - -
 
@@ -298,6 +297,10 @@ featuredimage: /img/alex-epstein.jpg
   (The only moral and practical way to reduce global emissions.)[^28]
   ![China no closer to peak coal despite record renewable capacity additions and India rejects net zero corban emissions target, says pathway more important](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf313511-9707-4437-9f4d-867def9f5a1c_1600x900.png)
 * **Net zero by 2050, by failing to recognize the unique benefits of fossil fuels, is catastrophic when barely implemented and would be apocalyptic if fully implemented.**
+
+  **Energy freedom gives billions more people the energy they need to flourish and unleashes truly cost-effective alternatives.**
+
+  **QED**
 
 
 
