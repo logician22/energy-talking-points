@@ -6,7 +6,7 @@ date: 2019-12-24T20:12:37.174Z
 description: In preparation for a "net zero by 2050" debate that my opponent
   failed to show up for, I created refutations of every myth in support of
   net-zero that I've every encountered.
-featuredimage: /img/alex-epstein.jpg
+featuredimage: /img/syracuse-image.jpeg
 ---
 ***Originally published on Sep 21, 2023***
 
