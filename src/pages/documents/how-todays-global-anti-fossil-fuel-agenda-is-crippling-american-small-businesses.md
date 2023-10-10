@@ -4,14 +4,12 @@ displaytitle: How today's global anti-fossil-fuel agenda is crippling American
   small businesses
 title: How today's global anti-fossil-fuel agenda is crippling American small
   businesses
-date: 2020-12-25T16:37:39.079Z
+date: 2019-12-23T18:06:59.625Z
 description: My testimony to the House Committee on Small Business, Subcommittee
   on Rural Development, Energy, and Supply Chains on September 28, 2023.
 featuredimage: /img/alex-epstein.jpg
 ---
 ***Originally published on Sep 30, 2023***
-
-
 
 * *[Watch my full testimony and Q&A](https://twitter.com/AlexEpstein/status/1707786648279527834)*
 * *[My exchange with independent-thinking Democrat Jared Golden on President Biden’s energy agenda (this was really good!)](https://twitter.com/AlexEpstein/status/1707440599027138584)*
@@ -40,7 +38,7 @@ The Biden administration is systematically committed to attacking fossil fuels o
 
 Fossil fuel investments are long-term commitments that require confidence in a payoff. Our government, often colluding with activists, incessantly discourages fossil fuel investments directly and by threatening the industry’s future.
 
-**The Federal government has been a major driver of ESG anti-fossil-fuel climate policies**, with regulators pressuring financial institutions to declare their commitment to getting off fossil fuels. The SEC’s recent “climate disclosure rules” are taking the damage to the next level.\[4]
+**The Federal government has been a major driver of ESG anti-fossil-fuel climate policies**, with regulators pressuring financial institutions to declare their commitment to getting off fossil fuels. The SEC’s recent “climate disclosure rules” are taking the damage to the next level.[^4]
 ![SEC proposes rules to enhance and standardize climate-related disclosures for investors](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5028ecb3-003b-4819-8985-87eadeb2391c_1456x819.jpeg)
 
 #### **The costs of punishing fossil fuel production**
@@ -111,7 +109,7 @@ My goal in testifying and answering your questions today, as well as in my work 
 [^2]: [Alex Epstein - How a fake climate emergency created a real energy emergency](https://energytalkingpoints.com/fake-emergency/)
 
 [^3]: “The order establishes the National Climate Task Force, assembling leaders from across 21 federal agencies and departments to enable a whole-of-government approach to combatting the climate crisis.”\
-[The White House - FACT SHEET: President Biden Takes Executive Actions to Tackle the Climate Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across Federal Government, January 27, 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
+﻿    [The White House - FACT SHEET: President Biden Takes Executive Actions to Tackle the Climate Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across Federal Government, January 27, 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
 
 [^4]: [SEC - SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
 
