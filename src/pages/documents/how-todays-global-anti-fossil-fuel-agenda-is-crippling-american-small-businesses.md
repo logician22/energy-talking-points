@@ -127,9 +127,9 @@ My goal in testifying and answering your questions today, as well as in my work 
 
 [^9]: [The Babylon Bee - State With No Electricity Orders Everyone To Drive Cars That Run On Electricity](https://babylonbee.com/news/state-with-no-electricity-orders-everyone-to-drive-cars-that-run-on-electricity)
 
- ﻿   [CAISO - California ISO issues Flex Alert for today, Aug. 31](http://www.caiso.com/Documents/california-iso-issues-flex-alert-for-today-aug-31.pdf)
+    [CAISO - California ISO issues Flex Alert for today, Aug. 31](http://www.caiso.com/Documents/california-iso-issues-flex-alert-for-today-aug-31.pdf)
 
- ﻿   [FoxWeather.com - California asks residents to avoid charging electric cars amid intense heat wave](https://www.foxweather.com/weather-news/california-asks-residents-avoid-charging-electric-cars-heatwave)
+    [FoxWeather.com - California asks residents to avoid charging electric cars amid intense heat wave](https://www.foxweather.com/weather-news/california-asks-residents-avoid-charging-electric-cars-heatwave)
 
 [^10]: [Alex Epstein - Electricity Emergency](https://energytalkingpoints.com/electricity-emergency/)
 
