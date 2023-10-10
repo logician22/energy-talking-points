@@ -115,15 +115,11 @@ My goal in testifying and answering your questions today, as well as in my work 
 
 [^5]: [WSJ - Federal Oil Leases Slow to a Trickle Under Biden](https://www.wsj.com/articles/federal-oil-leases-slow-to-a-trickle-under-biden-11662230816)
 
-```
-
-```
+ [The White House - Executive Order on Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
 
 [^6]: [CNBC - Keystone pipeline officially canceled after Biden revokes key permit](https://www.cnbc.com/2021/06/09/tc-energy-terminates-keystone-xl-pipeline-project.html)
 
-```
-
-```
+ ﻿   [Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
 
 [^7]: [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
 
@@ -131,9 +127,9 @@ My goal in testifying and answering your questions today, as well as in my work 
 
 [^9]: [The Babylon Bee - State With No Electricity Orders Everyone To Drive Cars That Run On Electricity](https://babylonbee.com/news/state-with-no-electricity-orders-everyone-to-drive-cars-that-run-on-electricity)
 
-```
+ ﻿   [CAISO - California ISO issues Flex Alert for today, Aug. 31](http://www.caiso.com/Documents/california-iso-issues-flex-alert-for-today-aug-31.pdf)
 
-```
+ ﻿   [FoxWeather.com - California asks residents to avoid charging electric cars amid intense heat wave](https://www.foxweather.com/weather-news/california-asks-residents-avoid-charging-electric-cars-heatwave)
 
 [^10]: [Alex Epstein - Electricity Emergency](https://energytalkingpoints.com/electricity-emergency/)
 
