@@ -12,11 +12,11 @@ featuredimage: /img/syracuse-image.jpeg
 
 *For the last several months I have been eagerly anticipating a* ***scheduled debate I had at the University of Syracuse on “net zero by 2050”*** *with climate catastrophist and net-zero advocate Tom Rand.*
 
-*Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university,* **\*Tom did not make it to the debate**. He* **\*took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse,* **\*he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s* *[my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246)* *over the issue (warning, he uses profanity).*
+*Unfortunately, due apparently to some sort of weird contractual issue between Tom’s agent and the university, **Tom did not make it to the debate**. He **took no responsibility for the situation**, despite the fact that he signed the contracts that caused the problem. Much worse, **he did not apologize to me at all**, even though he knows that preparing for a specific debate opponent takes a lot of time. Here’s [my exchange with Tom](https://twitter.com/AlexEpstein/status/1704855235683029246) over the issue (warning, he uses profanity).*
 
-*Since I was supposed to be in a debate, but there was no one to debate, I thought the best I could make of the situation would be to give* ***a speech refuting every single argument for “net zero by 2050”*** *that Tom and others make. It ended up being one of my favorite speeches ever; you can* ***watch it*** **\*[here](https://www.youtube.com/live/bQgvZKBKUnU?feature=shared)**.*
+*Since I was supposed to be in a debate, but there was no one to debate, I thought the best I could make of the situation would be to give **a speech refuting every single argument for “net zero by 2050”** that Tom and others make. It ended up being one of my favorite speeches ever; you can **watch it [here](https://www.youtube.com/live/bQgvZKBKUnU?feature=shared)**.*
 
-*Below I have included* **\*all the “net zero” myths I covered last night**, and then some. I think you’ll find them, along with the positive points about energy freedom, very valuable.*
+*Below I have included **all the “net zero” myths I covered last night**, and then some. I think you’ll find them, along with the positive points about energy freedom, very valuable.*
 
 - - -
 
@@ -302,19 +302,11 @@ featuredimage: /img/syracuse-image.jpeg
 
   **QED**
 
-
-
-  \###References
-
-
+###References
 
   [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
   [^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
-
-  ```
-
-  ```
 
   [^3]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
