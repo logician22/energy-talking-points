@@ -109,7 +109,7 @@ My goal in testifying and answering your questions today, as well as in my work 
 [^2]: [Alex Epstein - How a fake climate emergency created a real energy emergency](https://energytalkingpoints.com/fake-emergency/)
 
 [^3]: “The order establishes the National Climate Task Force, assembling leaders from across 21 federal agencies and departments to enable a whole-of-government approach to combatting the climate crisis.”\
-﻿    [The White House - FACT SHEET: President Biden Takes Executive Actions to Tackle the Climate Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across Federal Government, January 27, 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
+    [The White House - FACT SHEET: President Biden Takes Executive Actions to Tackle the Climate Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across Federal Government, January 27, 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
 
 [^4]: [SEC - SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
 
