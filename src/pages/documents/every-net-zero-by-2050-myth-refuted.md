@@ -265,7 +265,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
   ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c4c633b-76ba-4ad2-8bf8-d206e5923ed4_1600x900.png)
 * *Myth: Climate science says Earth will be a scorching desert, like “Mad Max.”*  
 
-  There is no Mad Max scenario, even considering emissions and warming higher than we can expect. Agricultural productivity is estimated to increase massively under a 4-5°C warming scenario.\[24]
+  There is no Mad Max scenario, even considering emissions and warming higher than we can expect. Agricultural productivity is estimated to increase massively under a 4-5°C warming scenario.[^24]
   ![Global crop production](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f5a13fc-c8c4-4283-a4b7-b36dbadbaafe_3400x2400.png)
   ![Crop yield decreases facts](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2571c2ce-d4f8-4c2d-b766-f67784c6613f_1600x900.png)
 * *Myth: Even if we won't be overwhelmed by warming driven by rising CO2, we'll be overwhelmed by other climate changes, such as sea level rises and storms.*  
@@ -306,101 +306,105 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
   [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
-  [^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+[^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-  [^3]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-  [^4]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-  [^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.\
-      According to Tesla Megapacks cost about $413,000 per MWh.  
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
-  ```
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-  ```
+[^3]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-  [^6]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
+[^4]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
-  [^7]: [Financial Times - How China is winning the race for Africa’s lithium](https://www.ft.com/content/02d6f35d-e646-40f7-894c-ffcc6acd9b25)
+[^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.  
+According to Tesla Megapacks cost about $413,000 per MWh.  
+[Tesla - Order Megapack](https://www.tesla.com/megapack/design)
 
-  [^8]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
+    [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-  [^9]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
+[^6]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
 
-  ```
+[^7]: [Financial Times - How China is winning the race for Africa’s lithium](https://www.ft.com/content/02d6f35d-e646-40f7-894c-ffcc6acd9b25)
 
-  ```
+[^8]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-  [^10]: [Clack et al. (2017) - Evaluation of a proposal for reliable low-cost grid power with 100% wind, water, and solar](https://www.pnas.org/doi/10.1073/pnas.1610381114)
+[^9]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
-  [^11]: [USA Today News - 'The world is going to end in 12 years if we don't address climate change,' Ocasio-Cortez says](https://eu.usatoday.com/story/news/politics/onpolitics/2019/01/22/ocasio-cortez-climate-change-alarm/2642481002/)
+    “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”  
+[Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
-  [^12]: [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
+[^10]: [Clack et al. (2017) - Evaluation of a proposal for reliable low-cost grid power with 100% wind, water, and solar](https://www.pnas.org/doi/10.1073/pnas.1610381114)
 
-  ```
+[^11]: [USA Today News - 'The world is going to end in 12 years if we don't address climate change,' Ocasio-Cortez says](https://eu.usatoday.com/story/news/politics/onpolitics/2019/01/22/ocasio-cortez-climate-change-alarm/2642481002/)
 
-  ```
+[^12]: [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
 
-  [^13]: [World Bank Data](https://data.worldbank.org/)
+    [World Bank Data](https://data.worldbank.org/)
 
-  [^14]: [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
+    [Scripps Institution of Oceanography - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-  ```
+[^13]: [World Bank Data](https://data.worldbank.org/)
 
-  ```
+[^14]: [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
 
-  [^15]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+    [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
 
-  ```
+[^15]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-  ```
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
-  [^16]: Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-  ```
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
-  ```
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-  [^17]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+[^16]: Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-  ```
+    Population estimates come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-  ```
+[^17]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-  [^18]: [Roger Pielke Jr. - Weather and Climate Disaster Losses So Far in 2022, Still Not Getting Worse](https://rogerpielkejr.substack.com/p/weather-and-climate-disaster-losses)
+     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
-  [^19]: [The Economist - Expensive energy may have killed more Europeans than covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-  [^20]: [New York Time - Ian Moves North](https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html)
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
-  ```
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-  ```
+[^18]: [Roger Pielke Jr. - Weather and Climate Disaster Losses So Far in 2022, Still Not Getting Worse](https://rogerpielkejr.substack.com/p/weather-and-climate-disaster-losses)
 
-  [^21]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
+[^19]: [The Economist - Expensive energy may have killed more Europeans than covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
 
-  ```
+[^20]: [New York Time - Ian Moves North](https://www.nytimes.com/2022/09/29/briefing/hurricane-ian-storm-climate-change.html)
 
-  ```
+    [Ryan Maue - Global Tropical Cyclone Activity](https://climatlas.com/tropical/)
 
-  [^22]: [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
+[^21]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
-  [^23]: [IPCC AR6, WG1, chapter 4](https://www.ipcc.ch/report/ar6/wg1/)
+    [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
 
-  [^24]: [Our World in Data - Data Explorer: IPCC Scenarios](https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&country=SSP5+-+6.0~SSP1+-+1.9&Metric=Agricultural+production&Sub-metric=Crops&Rate=Per+capita&Region=Global)
+[^22]: [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-  ```
+[^23]: [IPCC AR6, WG1, chapter 4](https://www.ipcc.ch/report/ar6/wg1/)
 
-  ```
+[^24]: [Our World in Data - Data Explorer: IPCC Scenarios](https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&country=SSP5+-+6.0~SSP1+-+1.9&Metric=Agricultural+production&Sub-metric=Crops&Rate=Per+capita&Region=Global)
 
-  [^25]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
+    [Patrick Brown - The IPCC Report on the Impacts of Climate Change is Depressing; But not for the reasons you might think](https://thebreakthrough.org/issues/food-agriculture-environment/the-ipcc-report-on-the-impacts-of-climate-change-is-depressing)
 
-  [^26]: [NOAA - Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
+[^25]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
 
-  [^27]: [Roger Pielke Jr. - What the media won't tell you about ... Wildfires](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-783)
+[^26]: [NOAA - Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
 
-  [^28]: [Reuters - Analysis: China no closer to peak coal despite record renewable capacity additions](https://www.reuters.com/world/china/china-no-closer-peak-coal-despite-record-renewable-capacity-additions-2022-08-22/)
+[^27]: [Roger Pielke Jr. - What the media won't tell you about ... Wildfires](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-783)
 
-  ```
+[^28]: [Reuters - Analysis: China no closer to peak coal despite record renewable capacity additions](https://www.reuters.com/world/china/china-no-closer-peak-coal-despite-record-renewable-capacity-additions-2022-08-22/)
 
-  ```
+    [Reuters - India rejects net zero carbon emissions target, says pathway more important](https://www.reuters.com/business/cop/india-says-net-zero-target-date-carbon-emissions-not-solution-2021-10-27/)
+
+    [Alex Epstein - A pro-human, pro-freedom policy for CO2 emissions](https://alexepstein.substack.com/p/a-pro-human-pro-freedom-policy-for)
