@@ -102,7 +102,7 @@ In my supplemental testimony, I have also included a document, [“The Energy Fr
 
 My goal in testifying and answering your questions today, as well as in my work more broadly, is to give pro-freedom legislators, businesses, and other influencers the resources they need to fight for the energy freedom that all Americans and our businesses need to flourish.
 
-\###References
+###References
 
 [^1]: [U.S. Energy Information Administration - Oil and petroleum products explained, Where our oil comes from](https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from.php)
 
