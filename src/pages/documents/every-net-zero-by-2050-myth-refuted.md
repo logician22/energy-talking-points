@@ -304,7 +304,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
 ###References
 
-  [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
+[^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
 [^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
