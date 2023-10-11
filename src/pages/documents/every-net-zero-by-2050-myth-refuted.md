@@ -322,7 +322,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
 [^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.  
     According to Tesla Megapacks cost about $413,000 per MWh. 
-    [Tesla - Order Megapack](https://www.tesla.com/megapack/design)  
+[Tesla - Order Megapack](https://www.tesla.com/megapack/design)  
 
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
