@@ -322,7 +322,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
 [^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.  
 According to Tesla Megapacks cost about $413,000 per MWh.  
-[Tesla - Order Megapack](https://www.tesla.com/megapack/design)
+    [Tesla - Order Megapack](https://www.tesla.com/megapack/design) 
 
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
@@ -335,7 +335,7 @@ According to Tesla Megapacks cost about $413,000 per MWh.
 [^9]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
     “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”  
-[Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
+    [Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
 [^10]: [Clack et al. (2017) - Evaluation of a proposal for reliable low-cost grid power with 100% wind, water, and solar](https://www.pnas.org/doi/10.1073/pnas.1610381114)
 
