@@ -43,14 +43,12 @@ _My message: **For the sake of Africans and the rest of the world, African leade
       
     Since 1980, India's fossil fuel use has increased by >700% and China's by >600%.  
       
-    India's life expectancy increased by 17 years and China's by 14!
-    
-    [^1]
+    India's life expectancy increased by 17 years and China's by 14! [^1]
     ![Energy Use vs Life expectancy at birth ](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f86c9bc-9ce5-4bd9-af0e-07126663366c_1600x1043.png)
     
--   Fossil fuels are so uniquely good at providing low-cost, reliable energy for developing nations that even nations with little or no fossil fuel resources have used fossil fuels to develop and prosper. E.g. South Korea (83% fossil fuels), Japan (85% fossil fuels), Singapore (99% fossil fuels).
+-   Fossil fuels are so uniquely good at providing low-cost, reliable energy for developing nations that even nations with little or no fossil fuel resources have used fossil fuels to develop and prosper. E.g. South Korea (83% fossil fuels), Japan (85% fossil fuels), Singapore (99% fossil fuels).[^2]
     
-    [^2]
+    
     ![Energy consumption in South Korea, Japan and Singapore](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F361e17fc-2b7d-4a55-b369-a408564911df_3058x1995.png)
     
 -   The obvious path for African development and prosperity is to use fossil fuel whenever it is the most cost-effective option, which is most of the time, and certainly to responsibly produce the significant fossil fuel resources that exist in Africa.  
@@ -67,30 +65,30 @@ _My message: **For the sake of Africans and the rest of the world, African leade
       
     **Africans should take note of the ominous results of this experiment so far: higher prices and reliability declines even at relatively low levels of solar and wind use**.
     
--   Despite claims that solar and wind are rapidly replacing fossil fuels, they provide less than 5% of world energy—only electricity, ⅕ of energy—and, crucially, even that small percentage depends on huge subsidies and reliable (mostly fossil-fueled) power plants.
+-   Despite claims that solar and wind are rapidly replacing fossil fuels, they provide less than 5% of world energy—only electricity, ⅕ of energy—and, crucially, even that small percentage depends on huge subsidies and reliable (mostly fossil-fueled) power plants.[^3]
     
-    [^3]
+    
 -   Solar and wind’s basic problem is unreliability, to the point they can go near zero at any time. Thus they don’t replace reliable power, they parasitize it. This is why they need huge subsidies and why no grid is near 50% solar and wind without parasitism on reliable neighbors.
 - 
     ![Solar and wind in Germany during week 17, 2020](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3578540-5d96-46f1-9f44-0995efa65991_1600x900.png)
     
--   The popular idea that we can use mostly or only solar and wind with sufficient battery backup is not being tried anywhere because it’s absurd. Batteries are so expensive that just 3 days of global backup using Elon Musk’s Megapacks would cost $570 trillion, about 6X global GDP!
+-   The popular idea that we can use mostly or only solar and wind with sufficient battery backup is not being tried anywhere because it’s absurd. Batteries are so expensive that just 3 days of global backup using Elon Musk’s Megapacks would cost $570 trillion, about 6X global GDP![^4]
     
-    [^4]
+    
     ![One Day of World energy](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38cb140f-4d39-4e90-8c36-a34577e6f19e_1600x900.png)
     
--   Consider that Germany, to get 37% of its electricity from unreliable solar and wind, has doubled its prices—now 3 times US prices. And Germany can only get away with 37% because it has neighbors to bail it out when solar and wind fall short. Impoverished Africa can’t prosper on this path.
+-   Consider that Germany, to get 37% of its electricity from unreliable solar and wind, has doubled its prices—now 3 times US prices. And Germany can only get away with 37% because it has neighbors to bail it out when solar and wind fall short. Impoverished Africa can’t prosper on this path.[^5]
     
-    [^5]
+    
     ![Household electricity prices](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a613c0d-1d49-496a-8e12-1cf3c81a2bb2_1600x900.png)
     
 -   When net-zero advocates say Africa should “leapfrog” fossil fuels with solar and wind just as many have “leapfrogged” landlines with cell phones, they are making an absurd analogy.  
       
     Cell phones can actually replace landlines for most purposes. Solar and wind can’t replace fossil fuels.
     
--   Justified by net-zero goals, South African bank FirstRand has announced to stop funding coal mines and coal power plants. In a situation where South Africa's power grid is struggling to keep the lights on. This is hurting the economy but it also makes the poorest South Africans suffer most of all.
+-   Justified by net-zero goals, South African bank FirstRand has announced to stop funding coal mines and coal power plants. In a situation where South Africa's power grid is struggling to keep the lights on. This is hurting the economy but it also makes the poorest South Africans suffer most of all. [^6]
     
-    [^6]
+   
     ![S.Africa's FirstRand to end funding for new coal mines, power plants](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24bbf02b-0518-470d-9166-6c9580f28076_1600x900.png)
     
 -   Given that every prosperous place on Earth has depended on and continues to depend on massive fossil fuel use, and that attempts to replace fossil fuels with solar and wind are failing, the push for Africa to adopt net-zero—aka fossil fuel elimination—is a death sentence for African development.
@@ -109,14 +107,14 @@ _My message: **For the sake of Africans and the rest of the world, African leade
     
 -   Myth: We are more endangered than ever by climate because of fossil fuels' CO2 emissions.  
       
-    Truth: We have a 98% decline in climate disaster deaths due to our enormous fossil-fueled climate mastery abilities: Heating or cooling, infrastructure-building, irrigation, crop transport.
+    Truth: We have a 98% decline in climate disaster deaths due to our enormous fossil-fueled climate mastery abilities: Heating or cooling, infrastructure-building, irrigation, crop transport.[^7]
     
-    [^7]
+    
     ![Atmospheric CO2 vs Climate-related disaster deaths](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba74a8eb-4eeb-48bc-9526-ecf7895f86bb_6108x3983.png)
     
--   Africans, like the rest of the world, are far safer than climate than they were 100 years ago. If they can use fossil fuels to develop and prosper, they’ll be safer still as the world slowly warms. And note that even in Africa cold-related deaths still exceed heat-related deaths.
+-   Africans, like the rest of the world, are far safer than climate than they were 100 years ago. If they can use fossil fuels to develop and prosper, they’ll be safer still as the world slowly warms. And note that even in Africa cold-related deaths still exceed heat-related deaths. [^8]
     
-    [^8]
+   
     ![Annaul average deaths due to non-optimal temperatures and regional proportions for 2000-19 by contienent and region](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83824cf1-b76a-4d1d-bd29-300daeb3c0e7_1600x900.png)
     
 -   The obvious path forward for Africa is energy freedom: the freedom to produce and use all cost-effective sources of energy—including, essentially, fossil fuels—which means rejecting all net-zero targets.  
