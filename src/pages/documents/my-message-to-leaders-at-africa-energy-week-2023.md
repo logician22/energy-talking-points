@@ -34,7 +34,7 @@ _My message: **For the sake of Africans and the rest of the world, African leade
     
 -   Africa is the world's poorest region. **Most Africans want rapid development and with it, prosperity.** 
       
-    This is absolutely achievable. But only by using the proven practices every once-poor place has used to develop and prosper.**  
+    **This is absolutely achievable. But only by using the proven practices every once-poor place has used to develop and prosper.**  
       
     One such practice is large-scale fossil fuel use.
     
@@ -122,9 +122,9 @@ _My message: **For the sake of Africans and the rest of the world, African leade
       
     Is this possible in the face of international opposition? Absolutely.
     
--   **The morally bankrupt and weak net-zero leadership cannot withstand a confident African challenge  
+-   **The morally bankrupt and weak net-zero leadership cannot withstand a confident African challenge**  
       
-    **While the international net-zero movement may be economically and politically powerful, it is morally and psychologically weak.  
+    While the international net-zero movement may be economically and politically powerful, it is morally and psychologically weak.  
       
     It will crumble if Africans confidently reject it.
     
