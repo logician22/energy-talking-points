@@ -201,7 +201,7 @@ _My message: **For the sake of Africans and the rest of the world, African leade
 
   
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.  
-[BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
+    [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
   
     The average US household price in 2020 was $0.1315 per kWh.  
