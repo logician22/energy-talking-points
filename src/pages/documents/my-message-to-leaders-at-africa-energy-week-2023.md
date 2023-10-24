@@ -9,6 +9,7 @@ description: For the sake of Africans and the rest of the world, African leaders
 featuredimage: /img/alex-epstein.jpg
 ---
 ***Originally published on Oct 17, 2023***
+
 _Today I will be addressing hundreds of African energy leaders at Africa Energy Week. I am thrilled to see that there are demonstrators at this event who are welcoming me and my message._
 
 ![Welcom of Alex Epstein](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F45accb38-8f3d-4855-a762-8311fcd744eb_1600x1065.jpeg)
