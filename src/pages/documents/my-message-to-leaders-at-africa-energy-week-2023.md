@@ -197,7 +197,7 @@ _My message: **For the sake of Africans and the rest of the world, African leade
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
 [^5]: Public generation of electricity was over 488 terawatt-hours in Germany in 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.  
-[Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020&interval=year)
+    [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020&interval=year)
 
   
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.  
