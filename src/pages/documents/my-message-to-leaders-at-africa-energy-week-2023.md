@@ -209,7 +209,7 @@ _My message: **For the sake of Africans and the rest of the world, African leade
 
   
     Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.  
-[Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
+    [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X)
 
 [^6]: [Reuters - S.Africa's FirstRand to end funding for new coal mines, power plants](https://www.reuters.com/business/sustainable-business/safricas-firstrand-end-funding-new-coal-mines-power-plants-2021-09-15/)
 
