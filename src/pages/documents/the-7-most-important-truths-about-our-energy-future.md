@@ -5,7 +5,7 @@ title: The 7 most important truths about our energy future
 date: 2019-12-21T12:31:52.948Z
 description: At Jordan Peterson’s ARC conference I was asked to share the most
   important truths about our energy future.
-featuredimage: /img/gitt-image-7-energy-truth-v3.png
+featuredimage: /img/city-skyline-during-night-time.jpg
 ---
 ***Originally published on November 6, 2023***
 
@@ -214,7 +214,7 @@ featuredimage: /img/gitt-image-7-energy-truth-v3.png
 
 [^2]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-[^3[:
+[^3]:
     As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.
     [Global Energy Monitor - Coal Plant Tracker, Coal Plants by Country (Power Stations)](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
 
