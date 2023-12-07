@@ -20,8 +20,8 @@ featuredimage: /img/paris-accords.jpeg
   This is 180° wrong.[^1]
     ![COP quotes](/img/twitter-quotes.png)
 
-- COP 28’s **net-zero agenda**—i.e., rapid elimination of fossil fuels—is unnecessary, and pursuing it faster would be catastrophic because
-    **1. Fossil fuels are making us far safer from climate.**
+- COP 28’s **net-zero agenda**—i.e., rapid elimination of fossil fuels—is unnecessary, and pursuing it faster would be catastrophic because\
+    **1. Fossil fuels are making us far safer from climate.**\
     **2. Even barely implementing COP’s net-zero agenda has been disastrous.**
 
 ### Fossil fuels are making us far safer from climate
@@ -124,10 +124,10 @@ While COP 28 leaders bemoan how slow their restriction of fossil fuel use in pur
     - **Poor nations: can't afford fuel due to global restrictions**[^14]
     ![Bangladesh blackout](/img/fuel-crisis-cuts-electricity-in-bangladesh-sparking-energy-debate.jpg)
 
-- The **“net-zero” movement, led by UN COPs, is the root cause of today's energy crisis** because it has **restricted**
-    **1) fossil fuel investment**
-    **2) fossil fuel production**
-    **3) fossil fuel transport**
+- The **“net-zero” movement, led by UN COPs, is the root cause of today's energy crisis** because it has **restricted**\
+    **1. fossil fuel investment**\
+    **2. fossil fuel production**\
+    **3. fossil fuel transport**
 
     This has **artificially suppressed fossil fuel supply, leading to high prices and shortages.**
 
@@ -324,7 +324,7 @@ PS Here’s my friend [Jusper Machogu’s message to COP](https://twitter.com/Ju
     According to Tesla Megapacks cost about $413,000 per MWh.
     [Tesla - Order Megapack](https://www.tesla.com/megapack/design)
 
-[Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
+    [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
 [^23]:
     [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
