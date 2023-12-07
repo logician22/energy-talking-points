@@ -21,8 +21,8 @@ featuredimage: /img/paris-accords.jpeg
     ![COP quotes](/img/twitter-quotes.png)
 
 - COP 28’s **net-zero agenda**—i.e., rapid elimination of fossil fuels—is unnecessary, and pursuing it faster would be catastrophic because
-  **1. Fossil fuels are making us far safer from climate.**
-  **2. Even barely implementing COP’s net-zero agenda has been disastrous.**
+    **1. Fossil fuels are making us far safer from climate.**
+    **2. Even barely implementing COP’s net-zero agenda has been disastrous.**
 
 ### Fossil fuels are making us far safer from climate
 
@@ -50,7 +50,9 @@ But if we factor in fossil fuels’ many climate benefits and carefully weigh fo
 - Even though we obviously need to factor in both negative and positive impacts of rising CO2 with precision, most designated experts ignore big positives (e.g., global greening) while catastrophizing negatives (e.g., Gore portrays 20 feet sea level rise as imminent when extreme UN projections are 3 feet/100years).[^3]
 
 - **Every report you hear about fossil fuels having made climate more dangerous commits at least one of 2 fallacies: ignoring the enormous climate mastery benefits of fossil fuels or wildly exaggerating negative climate side-effects of fossil fuels. Here's how the prestigious IPCC does both.**[^4]
-    [Alex Epstein - The IPCC's perversion of science](https://energytalkingpoints.com/syr/)
+
+    [**Alex Epstein - The IPCC's perversion of science**](https://energytalkingpoints.com/syr/)
+
   ﻿  ![The IPCC's perversion of science](/img/ipcc-perversion-of-science.png)
 
 - If we do factor in fossil fuels' enormous climate mastery benefits and carefully weigh their climate side-effects, we find that fossil fuels are a tremendous climate net-positive and will remain so in the future.
@@ -319,7 +321,7 @@ PS Here’s my friend [Jusper Machogu’s message to COP](https://twitter.com/Ju
 
 [^22]:
     Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.
-According to Tesla Megapacks cost about $413,000 per MWh.
+    According to Tesla Megapacks cost about $413,000 per MWh.
     [Tesla - Order Megapack](https://www.tesla.com/megapack/design)
 
 [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
