@@ -45,7 +45,7 @@ But if we factor in fossil fuels’ many climate benefits and carefully weigh fo
 
 - **Carefully weighing fossil fuels’ climate side-effects**
 
-    With rising greenhouse gases we must be **even-handed, considering both negatives (more heatwaves) and positives (fewer cold deaths).** And we must be **precise, not equating some impact with huge impact.**
+    With rising greenhouse gasses we must be **even-handed, considering both negatives (more heatwaves) and positives (fewer cold deaths).** And we must be **precise, not equating some impact with huge impact.**
 
 - Even though we obviously need to factor in both negative and positive impacts of rising CO2 with precision, most designated experts ignore big positives (e.g., global greening) while catastrophizing negatives (e.g., Gore portrays 20 feet sea level rise as imminent when extreme UN projections are 3 feet/100years).[^3]
 
