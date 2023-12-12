@@ -71,4 +71,6 @@ Here are my answers to Governor Newsom’s favorite energy myths.
 
 
 Check out my comments on the DeSantis/Newsom energy debate, plus COP 28 and a new study about the reliability of EVs, in my feature interview on Fox Business yesterday. (Although I think the content is really good, apologies for my mediocre appearance in the poor lighting of my Wyoming hotel room.)
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ae_9q5n7W2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ae_9q5n7W2E?si=Pg-aOeRB-IJrgCrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
