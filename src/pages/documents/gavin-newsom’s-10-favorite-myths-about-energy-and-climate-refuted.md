@@ -13,7 +13,8 @@ featuredimage: /img/viviana-rishe-uc8fvoyg5pu-unsplash.jpg
 
 *As a Californian who studies energy for a living, I am acutely aware of the very damaging energy ideas and policies of our current Governor, Gavin Newsom. I was thus very happy to see Governor Ron DeSantis quickly demolish Newsom’s “government-dictated green energy policies” (the exact right term, which I’ve actually never heard anyone besides myself use).*
 
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=PuWPC3Fj1nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PuWPC3Fj1nY?si=3lv936jYNIBgHT5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
