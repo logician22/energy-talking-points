@@ -26,7 +26,7 @@ Here are my answers to Governor Newsom’s favorite energy myths.
     Truth: Newsom’s policy of government-dictated “green energy” makes energy unaffordable and unreliable while preventing real, cost-effective innovation.
     We need an energy freedom policy welcoming all forms of cost-effective energy.
 
-2) **Myth: Supporters of fossil fuels are “climate change deniers.”**\
+2) **Myth: Supporters of fossil fuels are “climate change deniers.”**
 
     Truth: They are “climate change realists” (or “climate change thinkers”) who recognize that any negative climate changes influenced by fossil fuels are greatly outweighed by the benefits of FFs—including how they protect us from climate danger.
     ![This Climate Crisis is a Fossil Fuel Crisis](/img/newsom-ff-crisis.jpg)
