@@ -182,9 +182,9 @@ _Below I have included **all the “net zero” myths I covered last night**, an
     ![Usage of traditional biomass](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1fa61a1-d411-451a-83ff-796bc4d4885c_3054x1991.png)
 * *Myth: Poor countries will “leapfrog” fossil fuels and go right to solar and wind.*  
 
-  Truth: _No rich country has been able to abandon fossil fuels even at huge cost, while every dramatic increase in wealth has involved fossil fuels: Japan, Singapore, South Korea, China, etc.  
+  Truth: _No rich country has been able to abandon fossil fuels even at huge cost, while every dramatic increase in wealth has involved fossil fuels: Japan, Singapore, South Korea, China, etc._  
 
-  Poor countries are not guinea pigs._
+  _Poor countries are not guinea pigs._
 * Any invocation of “efficiency” to pretend that the world doesn't need far more energy amounts to cruel indifference to the enormous energy needs of the world's poorest people.
 * **Summary: Fossil fuels are a near-term irreplaceable source of the cost-effective energy humans need to flourish.**  
 
