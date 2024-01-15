@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: 25 holiday Power Facts about energy and climate
 title: 25 holiday Power Facts about energy and climate
-date: 2019-12-21T14:09:12.553Z
+date: 2019-12-18T14:09:12.553Z
 description: If this year's holiday discussions veer toward energy and climate
   issues, I've got you covered. Here are 25 facts that will make any honest
   person think twice about today's anti-fossil-fuel narrative.
