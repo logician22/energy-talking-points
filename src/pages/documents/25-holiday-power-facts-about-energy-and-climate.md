@@ -224,6 +224,8 @@ featuredimage: /img/city-skyline-during-night-time.jpg
     Equilibrium climate sensitivity defined as a warming in °C per doubling of greenhouse gas concentrations in the atmosphere. The IPCC estimates it to be between 2.5°C and 4°C. Other analysis suggests it to be below 2°C.
     [Climate etc. - Important new paper challenges IPCC’s claims about climate sensitivity](https://judithcurry.com/2022/09/20/important-new-paper-challenges-ipccs-claims-about-climate-sensitivity/)
 
+
+
     [Alex Epstein - Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas–Not Less](https://www.amazon.com/dp/0593420411?ref_=cm_sw_r_cp_ud_dp_CGXET0V7XPYG3QQ8J1PK)
 
 
