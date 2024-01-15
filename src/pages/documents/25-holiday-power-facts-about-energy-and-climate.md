@@ -188,7 +188,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 
 
 [^8]:
-    As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.
+    As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.\
     [Global Energy Monitor - Coal Plant Tracker, Coal Plants by Country](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/) 
 
 
@@ -221,7 +221,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 
 
 [^17]:
-    Equilibrium climate sensitivity defined as a warming in °C per doubling of greenhouse gas concentrations in the atmosphere. The IPCC estimates it to be between 2.5°C and 4°C. Other analysis suggests it to be below 2°C.
+    Equilibrium climate sensitivity defined as a warming in °C per doubling of greenhouse gas concentrations in the atmosphere. The IPCC estimates it to be between 2.5°C and 4°C. Other analysis suggests it to be below 2°C.\
     [Climate etc. - Important new paper challenges IPCC’s claims about climate sensitivity](https://judithcurry.com/2022/09/20/important-new-paper-challenges-ipccs-claims-about-climate-sensitivity/)
 
 
