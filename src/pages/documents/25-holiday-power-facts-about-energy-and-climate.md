@@ -202,7 +202,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 [^11]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
 
 
-[^12]: [NOAA - Global Whttps://www.gfdl.noaa.gov/global-warming-and-hurricanes/arming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
+[^12]: [NOAA - Global Warming and Hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
 
 
 [^13]: [Klotzbach et al. (2022) - Trends in Global Tropical Cyclone Activity: 1990–2021](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL095774)
@@ -228,9 +228,8 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 
 
 [^18]:
-    Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day. According to Tesla Megapacks cost about $413,000 per MWh.      
-    Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day. According to Tesla Megapacks cost about $413,000 per MWh.         
-     Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day. According to Tesla Megapacks cost about $413,000 per MWh.         
+    Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.
+    According to Tesla Megapacks cost about $413,000 per MWh.         
     [Tesla - Order Megapack](https://www.tesla.com/megapack/design)    
 
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
@@ -244,18 +243,18 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 
 
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
-[BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
+    [BDEW Strompreisanalyse Jul 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
 
     The average US household price in 2020 was $0.1315 per kWh.
-[U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/)
+    [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/)
 
 
     Increasingly, Germany depends on interconnections with neighboring countries. In 2020 the country experienced a sharp increase in electricity imports, while still massively exporting solar and wind overproduction.
     [Reuters - German power export surplus shrank 46.2% in 2020](https://www.reuters.com/article/germany-electricity-statistics-idUSL8N2JF16X/)
 
 
-[^20]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/finance/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
+[^20]: [Global Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/finance/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
 
 
 [^21]:
