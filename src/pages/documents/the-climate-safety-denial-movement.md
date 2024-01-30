@@ -68,9 +68,9 @@ featuredimage: /img/1-fact-check.jpg
     ![Vivek Ramaswamy](/img/vivek-climate-disaster-deaths-tweet.png)
 
 
-- Here is **Ron DeSantis** during his Presidential campaign referring to a 98% decline in climate disaster deaths—and, crucially, giving fossil fuel energy credit.
+- Here is **Ron DeSantis** during his Presidential campaign referring to a 98% decline in climate disaster deaths—and, crucially, giving fossil fuel energy credit.\
     [Ron DeSanstis on climate disaster deaths](https://www.politico.com/news/2023/09/20/desantis-2024-climate-change-00117078)
-    ![Ron DeSantis](static/img/desantis-climate-disaster-deaths.png)
+    ![Ron DeSantis](/img/desantis-climate-disaster-deaths.png)
 
 
 
@@ -80,6 +80,7 @@ featuredimage: /img/1-fact-check.jpg
 
 
 - Here are 3 recent instances of climate safety denial—from Reuters, PolitiFact, and USA Today. All have long portrayed climate deaths as a fast-increasing problem. But now they claim deaths don't matter.
+
     [https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/](https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
 
 
@@ -103,19 +104,19 @@ featuredimage: /img/1-fact-check.jpg
 - **Myth 1:** Fossil fuels don't deserve much credit for plummeting climate disaster deaths; **it's “resilience.”**
 
     **Truth:** Uniquely cost-effective and scalable **fossil fuel energy makes us resilient** through plentiful infrastructure-building, heating and cooling, irrigation, transportation, etc.[^6]
-    ![Improved Resilience](/img/6-improved-resilience.jpeg) 
+    ![Improved Resilience](/img/6-improved-resilience.jpg) 
 
 
 - **Myth 2: Storm warning systems deserve the credit** for plummeting climate disaster deaths.
 
     **Truth: Drought, not storm, deaths are the leading source of reduced climate deaths. And fossil fuels power storm warning and evacuation systems** (and more resilient infrastructure).[^7]
-    ![Atmospheric CO2](/img/7-atmospheric-co2.jpeg) 
+    ![Weather warning systems](/img/4-in-1-weather-warning.jpg)
 
 
 - **Myth 3: 100 years is a misleading period** to measure plummeting climate disaster deaths.
 
     **Truth: 100 years is a standard, very meaningful period** to look at. While we have data going back an additional two decades, those tend to underreport due to less global communication.[^8]
-    ![Climate Deaths](/img/8-climate-deaths.jpeg) 
+    ![100 years period](/img/8-climate-deaths.jpg)
 
 
 - Contrary to the claim that **starting analysis of climate disaster deaths in the 1920s** overestimates the decline, it actually **likely underestimates the decline due to insufficient past reporting;** data before WWII extremely likely underreport deaths compared to data after 2000.
