@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: The climate safety denial movement
 title: The climate safety denial movement
-date: 2019-12-05T16:29:54.430Z
+date: 2019-12-17T16:29:54.430Z
 description: I and others have documented that we're safer than ever from
   climate. Catastrophists can’t refute us, so they’re now saying that disaster
   deaths don't matter!
@@ -136,7 +136,7 @@ featuredimage: /img/1-fact-check.jpg
     ![10-30 Years of Natural Disasters](/img/pielke-disaster-occurance.png) 
 
 
-- **Using obviously problematic disaster frequency reporting instead of direct climatological evidence to try and show increasing climate danger is a revealing choice** by catastrophists. They are making it because **the climate change we've experienced has been very modest—and masterable.**
+- **Using obviously problematic disaster frequency reporting instead of direct climatological evidence to try and show increasing climate danger is a revealing choice** by catastrophists. They are making it because **the climate change we've experienced has been very modest—and masterable.**\
     [Do Not Declare a “Climate Emergency”](https://energytalkingpoints.com/do-not-declare-a-climate-emergency/)
 
 
