@@ -25,13 +25,15 @@ featuredimage: /img/1-fact-check.jpg
 
 
 - **Why is** ***Reuters***, along with *The New York Times*, *PolitiFact*, and *USA Today*, **claiming that a 98% drop in climate disaster deaths doesn't contradict their climate emergency narrative? Because it obviously does, and they can only save their narrative by intimidating us into denying the obvious.**[^2]
-    ![Headlines](/img/2-reuters-politifact-nyt-usa-today.jpeg) 
+
+    ![Headlines](/img/reuters-nyt-usatod-politi-4in1-safety-denial.png)
 
 
 - **The central narrative of climate catastrophists is that fossil fuels and their CO2 emissions are killing more and more people via climate disasters.**
 
     This narrative has always had a fatal weakness: it totally contradicts the data, which show plummeting climate disaster deaths.[^3]
-    ![Atmospheric CO2 vs Climate Related Disaster Deaths](/img/3-atmospheric-co2-vs-climate-related-disaster-deaths.jpeg) 
+
+    ![Atmospheric CO2 vs Climate Related Disaster Deaths](/img/art-03-more-fossil-fuel-use-plummeting-climate-related-disaster-deaths.png)
 
 
 - Why are climate disaster deaths plummeting as fossil fuel use and CO2 emissions rise?
@@ -42,15 +44,18 @@ featuredimage: /img/1-fact-check.jpg
 - An example of fossil-fueled climate mastery overwhelming CO2 impacts is drought.
 
     Any contribution of rising CO2 to drought has been overwhelmed by fossil-fueled irrigation and crop transport, which have helped reduce drought deaths by over 100 times over 100 years as CO2 levels have risen.[^4]
-    ![Atmospheric CO2 vs Death Rate From Drought](/img/4-atmospheric-co2-vs-death-rate-from-drought.jpeg) 
+    ![Atmospheric CO2 vs Death Rate From Drought](/img/drought-death-rate.png)
 
 
 - **Over the last decade, I and a number of others, including Bjorn Lomborg and Michael Shellenberger, have challenged catastrophism by pointing to declining climate disaster deaths.**
 
+
     Catastrophists couldn't refute our argument. So instead they pretended it didn't exist.
 
+
+
     Until last year.[^5]
-    ![Natural Disaster Deaths](/img/5-natural-disaster-deaths.jpeg)
+    ![Natural Disaster Deaths](/img/lomborg-shellenberger-climate.png)
 
 
 - **In 2023, climate catastrophists finally felt compelled to address the fact that climate disaster deaths have plummeted** (driven by fossil-fueled climate mastery).
@@ -58,7 +63,7 @@ featuredimage: /img/1-fact-check.jpg
     Because of honesty? No—**because Presidential candidates started bringing it up** and persuading people with it.
 
 
-- Here is **Vivek Ramaswamy** during his Presidential campaign referring to a 98% decline in climate disaster deaths—and, crucially, giving fossil fuel energy credit.
+- Here is **Vivek Ramaswamy** during his Presidential campaign referring to a 98% decline in climate disaster deaths—and, crucially, giving fossil fuel energy credit.\
     [Vivek Ramaswamy on climate disaster deaths](https://x.com/AlexEpstein/status/1695097953973920183?s=20)
     ![Vivek Ramaswamy](/img/vivek-climate-disaster-deaths-tweet.png)
 
