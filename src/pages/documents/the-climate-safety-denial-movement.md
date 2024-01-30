@@ -133,17 +133,17 @@ featuredimage: /img/1-fact-check.jpg
 
 
 - Other biases might inflate the number of reported disasters. E.g., governments of poor countries have an incentive to declare more disasters with increasing international relief.[^11]
-    ![10-30 Years of Natural Disasters](/img/10-30-years-of-natural-disasters.jpeg) 
+    ![10-30 Years of Natural Disasters](/img/pielke-disaster-occurance.png) 
 
 
 - **Using obviously problematic disaster frequency reporting instead of direct climatological evidence to try and show increasing climate danger is a revealing choice** by catastrophists. They are making it because **the climate change we've experienced has been very modest—and masterable.**
-    ![Do Not Declare a “Climate Emergency”](https://energytalkingpoints.com/do-not-declare-a-climate-emergency/)
+    [Do Not Declare a “Climate Emergency”](https://energytalkingpoints.com/do-not-declare-a-climate-emergency/)
 
 
 - An example of unalarming climate fundamentals: **neither the frequency nor the energy in global hurricanes has changed significantly** relative to the noisy average. There is also little evidence for more landfalling hurricanes.[^12]
-    ![Global Tropical Cyclone Accumulated Cyclone Energy](/img/11-global-tropical-cyclone-accumulated-cyclone-energy.jpeg) 
-    ![Global Major Hurricane Frequency](/img/12-global-major-hurricane-frequency.jpeg) 
-    ![Continental US Landfalling Hurricanes 1900-2023](/img/13-continental-us-landfalling-hurricanes-1900-2023.jpeg) 
+    ![Global Tropical Cyclone Accumulated Cyclone Energy](/img/11-global-tropical-cyclone-accumulated-cyclone-energy.jpg)
+    ![Global Major Hurricane Frequency](/img/12-global-major-hurricane-frequency.jpg)
+    ![Continental US Landfalling Hurricanes 1900-2023](/img/13-continental-us-landfalling-hurricanes-1900-2023.jpg)
 
 
 - The catastrophist attempt to undermine the 98% decrease in disaster deaths by pointing to the increased reporting of disasters is actually self-defeating.
