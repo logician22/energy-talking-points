@@ -154,11 +154,11 @@ featuredimage: /img/1-fact-check.jpg
 - **Myth 5: Climate damages are drastically increasing,** revealing an underlying climate emergency.
 
     **Truth:** Even though there are many incentives for climate damages to go up—preferences for riskier areas, government bailouts—**GDP-adjusted damages are flat.**[^13]
-    ![Global Weather Disaster Losses](/img/14-global-weather-disaster-losses-as-percent-of-global-gdp-1990-2023.jpeg) 
+    ![Global Weather Disaster Losses](/img/14-global-weather-disaster-losses-as-percent-of-global-gdp-1990-2023.jpg)
 
 
 - We often hear that **“billion-dollar disasters”** have increased significantly. But this is a bogus metric. **Of course, as GDP grows we'll have more billion-dollar disasters because there is more wealth for disasters to strike.** But when we adjust for GDP there's no increase in damage.[^14]
-    ![Billion Dollar Disasters](/img/15-us-struck-with-historic-number-of-billion-dollar-disasters-in-2023.jpeg) 
+    ![Billion Dollar Disasters](/img/15-us-struck-with-historic-number-of-billion-dollar-disasters-in-2023.jpg)
 
 
 - A *Reuters* “fact check” alarmingly claims a 151% growth in disaster damages from a period starting in 1978 to a period ending in 2017.
@@ -166,19 +166,19 @@ featuredimage: /img/1-fact-check.jpg
     But they evade that the global economy grew by over 200% during that period!
 
     (And they evade that disaster and damage reporting increased.)[^15]
-    ![Losses and Damages](/img/16-losses-and-damages-from-climate-change-are-escalating.jpeg) 
+    ![Losses and Damages](/img/16-losses-and-damages-from-climate-change-are-escalating.jpg)
 
 
 - **The stupidest climate safety denial myth (used by The New York Times): 2 million people died from extreme weather in the last 50 years;** that's obviously an emergency.
 
     Truth: **2 million in 50 years is a rate of 40,000 per year—far, far less than 100 years ago,** thus confirming today's climate safety.[^16]
-    ![Ramaswamy](/img/17-ramaswamy.jpeg) 
+    ![Ramaswamy](/img/17-ramaswamy.jpg)
 
 
 - **The last-gasp climate safety denial myth:** Okay, we're safer than ever from climate disasters, and it is driven by cheap energy from fossil fuels, but **we can easily replace fossil fuels with solar and wind.**
 
     **Truth: For the foreseeable future there is no cheap global energy without fossil fuels.**
-    ![Myth: Solar and wind are cheaper than fossil fuels](https://energytalkingpoints.com/wind-cheap/)
+    [Myth: Solar and wind are cheaper than fossil fuels](https://energytalkingpoints.com/wind-cheap/)
 
 
 - **Observe that all these seemingly scientific outlets, such as The New York Times, Reuters, and PolitiFact are totally unable to refute the death-blow to their “climate emergency” narrative that is the drastic decline in climate disaster deaths.**
