@@ -125,7 +125,7 @@ featuredimage: /img/1-fact-check.jpg
 - **Myth 4:** There is an **alarming increase in reported disasters, revealing an underlying climate emergency.**
 
     **Truth:** The increase in reported disasters over time is **due overwhelmingly to increased global communication.** Changes in fundamentals, such as storms, are extremely modest.[^9]
-    ![Escalating Climate Impacts](/img/9-escalating-climate-impacts.jpeg) 
+    ![Escalating Climate Impacts](/img/9-escalating-climate-impacts.jpg)
 
 
 - The claim that more reported disasters show an increasingly dangerous climate is absurd in light of the fact that underlying data show massive increases in reporting before significant human climate impacts and the reporting trend also massively goes up for non-climate causes![^10]
@@ -177,7 +177,7 @@ featuredimage: /img/1-fact-check.jpg
 
 - **The last-gasp climate safety denial myth:** Okay, we're safer than ever from climate disasters, and it is driven by cheap energy from fossil fuels, but **we can easily replace fossil fuels with solar and wind.**
 
-    **Truth: For the foreseeable future there is no cheap global energy without fossil fuels.**
+    **Truth: For the foreseeable future there is no cheap global energy without fossil fuels.**\
     [Myth: Solar and wind are cheaper than fossil fuels](https://energytalkingpoints.com/wind-cheap/)
 
 
