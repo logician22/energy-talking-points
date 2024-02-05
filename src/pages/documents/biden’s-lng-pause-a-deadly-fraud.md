@@ -123,7 +123,7 @@ _Michelle Hung and Steffen Henne contributed to this piece._
 
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-[Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
+    [Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
 
 [^5]: [National Energy Technology Laboratory - Life Cycle Greenhouse Gas Perspective on Exporting Liquefied Natural Gas from the United States: 2019 Update](https://www.energy.gov/sites/prod/files/2019/09/f66/2019%20NETL%20LCA-GHG%20Report.pdf)
 
