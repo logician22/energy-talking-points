@@ -59,14 +59,15 @@ EV preferences, by forcing us to use far more EVs than we otherwise would, when 
 - Catastrophic electricity shortages
 
     **America is already in an electricity crisis,** and planned EPA policies threaten to reduce reliable grid capacity 20% by 2030.
-    **Our government's plan to mass-mandate electricity-hungry EVs would lead to a third-world grid.**
+
+    **Our government's plan to mass-mandate electricity-hungry EVs would lead to a third-world grid.**\
     [The EPA vs. the grid](https://alexepstein.substack.com/p/the-epa-vs-the-grid)
     ![The EPA vs. the grid](/img/the-epa-vs-the-grid.jpg)
 
 - **CA is already having major problems with EV charging.** On Aug 31, 2022, the CA grid operator urged consumers to cut electricity usage during a heatwave, including using less airconditioning(!) and refraining from “charging electric vehicles.”
 
     Imagine what would happen with over 50% EVs.[^8]
-    ![CA EV's](/img/ca-ev's.jpg)
+    ![CA EV's](/img/newsom-felx-alert.jpg)
 
 ### A new energy freedom policy
 
