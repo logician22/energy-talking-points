@@ -19,7 +19,7 @@ Originally published on November 16, 2022
 
 - Ominously, **America’s grid is in its most fragile state in decades.** Not only have we witnessed ruinous blackouts in California and Texas, **electricity shortages are now routine throughout the US.**
 
-    Federal Electric Reliability Commission (FERC) Commissioner Mark Christie: “We’re heading for a reliability crisis.”[^1]
+    Federal Energy Regulatory Commission (FERC) Commissioner Mark Christie: “We’re heading for a reliability crisis.”[^1]
 
 - The **root cause** of the reliability crisis is simple: **America is shutting down too many reliable power plants**—plants that can be controlled to produce electricity when needed in the exact quantity needed. And it is attempting to replace them with unreliable solar and wind.
 
