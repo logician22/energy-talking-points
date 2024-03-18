@@ -44,8 +44,8 @@ _A:_ ***“Addressing climate change” is the wrong target;*** _we want to_ ***
 - Going forward, any **climate impacts from fossil fuels’ CO2 emissions are only a climate problem if they,** totally contrary to our experience so far, **present challenges that overwhelm the climate mastery benefits of fossil fuels.**
     Mainstream climate science doesn’t show this at all.
 
-    [The climate safety denial movement](https://alexepstein.substack.com/p/the-climate-safety-denial-movement)
-    ![The climate safety denial movement](/img/the-climate-safety-denial-movement.jpg)
+    [The climate safety denial movement](https://energytalkingpoints.com/the-climate-safety-denial-movement/)
+    ![The climate safety denial movement](/img/1-fact-check.jpg)
 
 - _Myth:_ Mainstream science shows that rising CO2 is an “existential threat” that will soon cause global catastrophe and then apocalypse.
 
