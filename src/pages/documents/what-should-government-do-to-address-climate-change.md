@@ -60,6 +60,7 @@ _A:_ ***“Addressing climate change” is the wrong target;*** _we want to_ ***
     - Seas rising feet per decade
 
     - 2 times more powerful storms
+
     Science shows nothing like this.
 
 - _Myth:_ More warming is ominous because heat-related death is already such a huge problem.
