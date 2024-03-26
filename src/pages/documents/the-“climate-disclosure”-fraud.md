@@ -96,7 +96,7 @@ So he's circumventing the legislative process by **having the SEC coerce compani
 
 - **We've already seen from the ESG movement how pushing companies against fossil fuels harms everyone.** From 2011-2021, ESG contributed to oil and gas exploration investments declining 50%. Less investment = less supply = higher energy prices = higher prices for everything.[^11]
 
-    [The ESG movement is anti-energy, anti-development, and anti-America](https://alexepstein.substack.com/p/the-esg-movement-is-anti-energy-anti)
+    [The ESG movement is anti-energy, anti-development, and anti-America](https://energytalkingpoints.com/esg-movement/)
     ![ESG  Movement](/img/esg-movement-link.JPG)
 
 - The goal of much of the ESG movement was to prod investors and corporations into adopting anti-fossil-fuel plans that voters were unwilling to vote for. Now the **SEC is using the direct force of government to do the same thing.** Congress, the courts, and citizens must fight back.
