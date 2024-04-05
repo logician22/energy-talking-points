@@ -19,9 +19,9 @@ _Originally published: Mar 23, 2024_
 
 - Take cobalt, an important ingredient in the high-tech alloys used in many batteries, jet engines, and permanent magnets. **Without a secure supply of cobalt, production of** significant portions of **high-tech industry and high-performance military equipment are jeopardized.**[^1]
 
-- To have ample, secure critical minerals, we must:\
-    1) liberate domestic industry to mine and process them cost-effectively\
-    2) encourage friendly trading partners to do the same\
+- To have ample, secure critical minerals, we must:
+    1) liberate domestic industry to mine and process them cost-effectively
+    2) encourage friendly trading partners to do the same
     3) not artificially drive up demand before supply chains are ready
 
     We are doing the exact opposite.
