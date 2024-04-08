@@ -47,10 +47,10 @@ _A:_ ***Government should eliminate all special preferences and all special puni
 - **Policy today improperly** favors and punishes carbon capture. It **favors carbon capture with huge subsidies** (under the Inflation Reduction Act) **while also punishing carbon capture by** 1) **excluding it from various CO2-reduction efforts and** 2) **waging a war on fossil fuels** that makes fossil fuels + carbon capture more expensive.[^1]
 
 - How big are carbon capture subsidies? The IRA’s $85/ton for CO2 emissions in exhaust might not seem like a lot. But in practice it means that a $30 ton of coal that generates 1.76 metric tons CO2 gets $150 in subsidy. The coal ends up costing $180 instead of $30: 6 times as much![^2]
-    ![$85-per-ton](/img/$85-per-ton.jpg)
+    ![$85-per-ton](/img/doe-ccs-85-dollars.png)
 
 - The most costly version of carbon capture is "direct air capture," which is much harder than capturing CO2 from exhaust because CO2 in regular air is highly diluted (0.04% of the atmosphere). The IRA forces us to pay $180 per metric ton for this process.
-    ![$180-per-ton](/img/$180-per-ton.jpg)
+    ![$180-per-ton](/img/doe-css-185-dollars.png)
 
 - Advocates of huge carbon capture subsidies claim that they will lead to an innovative industry that can cheaply capture CO2 globally.
 
