@@ -144,7 +144,7 @@ _Truth:_ ***Even with recent temperatures, which are a temporary anomaly,*** _no
 
     **The number one thing that will determine people’s safety from cold and heat** for decades to come **is the availability of cost-effective energy.** Anti-fossil-fuel policies will increase both cold deaths and heat deaths.
 
-- On a planet where people die much more from cold than from heat, but both are major threats, **the key to safety is to as affordable and plentiful energy as possible so as many as possible can afford heating and air-conditioning.** For the foreseeable future, this means more fossil fuels.
+- On a planet where people die much more from cold than from heat, but both are major threats, **the key to safety is as affordable and plentiful energy as possible so as many as possible can afford heating and air-conditioning.** For the foreseeable future, this means more fossil fuels.
 
 - Even though billions need fossil fuels to protect themselves from cold (above all) and heat, **today’s media and leaders pretend that heat is the only problem and the solution is to follow anti-fossil-fuel policies** that will supposedly cool the Earth.
 
