@@ -140,7 +140,7 @@ _Truth:_ ***Even with recent temperatures, which are a temporary anomaly,*** _no
 
     But this common sense is almost never practiced.
 
-- 4. **Anti-fossil-fuel policies increase danger from cold and heat**
+- **4. Anti-fossil-fuel policies increase danger from cold and heat**
 
     **The number one thing that will determine people’s safety from cold and heat** for decades to come **is the availability of cost-effective energy.** Anti-fossil-fuel policies will increase both cold deaths and heat deaths.
 
