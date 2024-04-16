@@ -64,7 +64,7 @@ _Truth:_ ***Even with recent temperatures, which are a temporary anomaly,*** _no
     This **is a temporary phenomenon, not a climate trend.**[^7]
     ![ryan-maue](/img/ryan-maue.jpg)
 
-- Factors like **the massive Hunga Tonga volcanic eruption in late 2021 to early 2022 might have amplified recent warming in the short term** by temporarily increasing atmospheric water vapor—a strong greenhouse gas—by about 10%.[8]
+- Factors like **the massive Hunga Tonga volcanic eruption in late 2021 to early 2022 might have amplified recent warming in the short term** by temporarily increasing atmospheric water vapor—a strong greenhouse gas—by about 10%.[^8]
     ![plain-language-summary](/img/plain-language-summary.jpg)
 
 - **Whatever the exact combination of factors leading to the recent unusually warm temperatures, they are,** by everything currently known about climate science, **a temporary phenomenon** apart from the slow, long-term warming contributed to by human greenhouse gas emissions.
