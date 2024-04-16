@@ -173,9 +173,10 @@ _Truth:_ ***Even with recent temperatures, which are a temporary anomaly,*** _no
 
 _Steffen Henne contributed to this piece._
 
+
 ### References
 
-[1^]:
+[1]:
     [AP - Last month was hottest February ever recorded. It’s the ninth-straight broken record](https://apnews.com/article/hot-climate-change-records-oceans-0af09f155051b25d245a0fd28fe23af6)
 
     [CNN - The planet just shattered heat records for the ninth month in a row](https://edition.cnn.com/2024/03/06/climate/hottest-february-climate-copernicus-record-intl/index.html)
@@ -184,7 +185,7 @@ _Steffen Henne contributed to this piece._
 
     [Guardian - February was warmest on record globally, say scientists](https://www.theguardian.com/environment/2024/mar/07/february-warmest-on-record-globally-copernicus-climate-change-service)
 
-[2^]: 
+[^2]:
     [Zhao et al. (2021)](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00081-4/fulltext)
 
     [Bjorn Lomborg: Climate change and deaths from extreme heat and cold](https://financialpost.com/opinion/bjorn-lomborg-climate-change-and-deaths-from-extreme-heat-and-cold)
@@ -193,68 +194,68 @@ _Steffen Henne contributed to this piece._
 
     [Gasparrini et al. (2015) - Mortality risk attributable to high and low ambient temperature: a multicountry observational study](https://www.theguardian.com/environment/2024/mar/07/february-warmest-on-record-globally-copernicus-climate-change-service)
 
-[3^]: [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
+[3]: [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
 
-[4^]: 
+[4]: 
     [Masselot et al. (2023) - Excess mortality attributed to heat and cold: a health impact assessment study in 854 cities in Europe](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(23)00023-2/fulltext)
 
     [Bjorn Lomborg on Twitter](https://twitter.com/BjornLomborg/status/1680966003759497217)
 
-[5^]: 
+[5]: 
     [NASA - GISS Surface Temperature Analysis (GISTEMP v4)](https://data.giss.nasa.gov/gistemp/)
 
     [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[6^]: 
+[6]: 
     [NASA - GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
     [NOAA National Centers for Environmental Information - Daily Summaries Station Details, NY, Central Park](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail)
 
-[7^]: 
+[7]: 
     [Ryan Maue on X](https://twitter.com/RyanMaue/status/1765775045098434666)
 
     [NOAA - What are El Niño and La Niña?](https://oceanservice.noaa.gov/facts/ninonina.html)
 
-[8^]: [Wohltmann et al. (2024) - The Chemical Effect of Increased Water Vapor From the Hunga Tonga-Hunga Ha'apai Eruption on the Antarctic Ozone Hole](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL106980)
+[8]: [Wohltmann et al. (2024) - The Chemical Effect of Increased Water Vapor From the Hunga Tonga-Hunga Ha'apai Eruption on the Antarctic Ozone Hole](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL106980)
 
-[9^]: 
+[9]: 
     [NASA - GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
     [NOAA National Centers for Environmental Information - Daily Summaries Station Details, NY, Central Park](https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail)
 
     [NASA Climate Change - Vital Signs of the Planet, global temperature](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)
 
-[10^]:
+[10]:
     [Roy Spencer - UAH Global Temperature Update for March, 2024: +0.95 deg. C](https://www.drroyspencer.com/2024/04/uah-global-temperature-update-for-march-2024-0-95-deg-c/)
 
     [NASA - GISS Surface Temperature Analysis (v4)](https://data.giss.nasa.gov/gistemp/)
 
-[11^]:
+[11]:
     [Bernie Sanders on Twitter](https://twitter.com/BernieSanders/status/1426273350930796547)
 
     [Radio France Internationale - Hottest February ever puts world in 'unchartered' climate territory](https://www.rfi.fr/en/environment/20240307-hottest-february-nine-straight-month-historic-high-temperatures-climate-change)
 
     [Westerhold et al. (2020) - An astronomically dated record of Earth’s climate and its predictability over the last 66 million years](https://www.science.org/doi/10.1126/science.aba6853)
 
-[12^]: [U.S. EPA - Climate Change Indicators: Heat Waves](https://www.epa.gov/climate-indicators/climate-change-indicators-heat-waves)
+[12]: [U.S. EPA - Climate Change Indicators: Heat Waves](https://www.epa.gov/climate-indicators/climate-change-indicators-heat-waves)
 
-[13^]: 
+[13]: 
     Equilibrium climate sensitivity defined as a warming in °C per doubling of greenhouse gas concentrations in the atmosphere. The IPCC estimates it to be between 2.5°C and 4°C. Other analysis suggests it to be below 2°C.
     [Climate etc. - Important new paper challenges IPCC’s claims about climate sensitivity](https://judithcurry.com/2022/09/20/important-new-paper-challenges-ipccs-claims-about-climate-sensitivity/)
 
     [Alex Epstein - Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas–Not Less](https://www.amazon.com/dp/0593420411?ref_=cm_sw_r_cp_ud_dp_CGXET0V7XPYG3QQ8J1PK)
 
-[14^]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
+[14]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
 
-[15^]: [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
+[15]: [NOAA - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[16^]: [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
+[16]: [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
 
-[17^]: [Global Coal Plant Tracker by Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
+[17]: [Global Coal Plant Tracker by Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
 
-[18^]: 
+[18]: 
     [Testimony of Oren M. Cass before the House Committee on Science, Space, and Technology, May 16, 2018](https://docs.house.gov/meetings/SY/SY00/20180516/108299/HHRG-115-SY00-Wstate-CassO-20180516.pdf)
 
     [Oren Cass - Doomsday Climate Economics Is a Joke](https://manhattan.institute/article/doomsday-climate-economics-is-a-joke)
 
-[19^]: [IPCC AR6](https://www.ipcc.ch/report/ar6/wg1/)
+[19]: [IPCC AR6](https://www.ipcc.ch/report/ar6/wg1/)
