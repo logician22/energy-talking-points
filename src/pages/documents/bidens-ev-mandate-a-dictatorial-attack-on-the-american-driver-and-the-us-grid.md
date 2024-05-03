@@ -86,17 +86,18 @@ The Admin is dictating **two deadly policies at the same time:**
 
 - **Because of the clear impossibility to source enough critical materials from the US, the Treasury Department has already signaled flexibility** in the rules on how the subsidies for domestic production will apply, i.e. we will keep being dependent on others.[^14]
 
-- **China dominates the supply chains of many critical minerals**—and if the environmental policies of the Biden Administration persist, this will not change in favor of US mining anytime soon.
+- **China dominates the supply chains of many critical minerals**—and if the environmental policies of the Biden Administration persist, this will not change in favor of US mining anytime soon.\
     [How to solve America's critical minerals problem](https://energytalkingpoints.com/how-to-solve-americas-critical-minerals-problem/)
+
     ![Critical Minerals](/img/critical-minerals.jpg)
 
 - **A free-market EV policy**
 
-    In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable technology—most likely nuclear.
+    In the future, EVs could benefit Americans and significantly reduce emissions if 1) competition makes them genuinely superior for most people 2) we dramatically increase electricity production using low-cost, reliable, scalable technology—most likely nuclear.\
     [The case for EV freedom](https://energytalkingpoints.com/the-case-for-ev-freedom/)
     ![EV Freedom](/img/ev-freedom.jpg)
 
-- If the Biden Administration wants to facilitate cost-effective EVs, the number one thing it needs to do is **publicly reverse its attack on reliable power plants that would absolutely destroy our grid for existing electricity needs, let alone huge EV needs.**
+- If the Biden Administration wants to facilitate cost-effective EVs, the number one thing it needs to do is **publicly reverse its attack on reliable power plants that would absolutely destroy our grid for existing electricity needs, let alone huge EV needs.**\
     [The EPA vs. the grid](https://energytalkingpoints.com/epa/)
     ![EV vs Grid](/img/epa-vs-grid.jpg)
 
