@@ -101,7 +101,7 @@ The Admin is dictating **two deadly policies at the same time:**
     [The EPA vs. the grid](https://energytalkingpoints.com/epa/)
     ![EV vs Grid](/img/epa-vs-grid.jpg)
 
- -**The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc.** And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind.
+- **The proper policy toward battery EVs is to let them compete on the open market with gasoline vehicles, natural gas vehicles, hydrogen vehicles, etc.** And if you want to increase the competitiveness of all EVs, then stop screwing up the grid by mandating unreliable solar and wind.
     ![EV Generic](/img/ev-generic.jpg)
 
 ### References
