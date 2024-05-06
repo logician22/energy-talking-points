@@ -50,7 +50,7 @@ _Originally published: Apr 22, 2024_
 
 - Thanks to government mandates and subsidies, solar and wind—“unreliables”—provide about 14% of American electricity. This 14% has already caused big electricity price increases and huge reliability problems. **Instead of admitting this failure, Biden is doubling down.**[^6]
 
-- The Admin is dictating **two deadly policies at the same time:**
+- The Administration is dictating **two deadly policies at the same time:**
     - **Drastically reducing the supply of reliable electricity by shutting down reliable power plants**
     - **Drastically increasing demand for reliable electricity by mandating EVs**
 
