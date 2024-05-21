@@ -26,9 +26,9 @@ _Originally published: May 7, 2024_
 
 - **Instead of recognizing the complexity of assessing** the nature, magnitude, and policy implications of **fossil fuels’ climate effects, the Congressional report pretends it’s obvious that these effects are exclusively negative and enormous**, and that fossil fuels have no offsetting benefits.
 
-- **It can be determined that policy analysis of this entire “report” is garbage by its omission of three essential considerations:**
-    **1** The overall benefits of fossil fuels
-    **2** The climate-related benefits of fossil fuels
+- **It can be determined that policy analysis of this entire “report” is garbage by its omission of three essential considerations:**\
+    **1** The overall benefits of fossil fuels\
+    **2** The climate-related benefits of fossil fuels\
     **3** The fact that we’re safer from climate than ever
 
 - **The benefits of fossil fuels**
