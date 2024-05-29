@@ -67,15 +67,14 @@ _Originally published: May 16, 2024_
 - **In the face of woefully inadequate electricity supply for their AI goals, tech giant CEOs are finally speaking up about the lack of power.**
 
     E.g., Meta CEO Mark Zuckerberg said in an interview that energy will be the #1 bottleneck to AI progress.
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9mjuo5oJxsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=9mjuo5oJxsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - **It is not enough for tech giants to warn us about the lack of reliable power. They need to take responsibility for their anti-fossil-fuel advocacy that helped cause it.** And they need to support energy freedom policies that allow all fuels to compete to provide reliable power.\
     [End preferences for unreliable electricity](https://energytalkingpoints.com/preferences/)
     ![End preferences for unreliable electricity](/img/end-preferences-unreliable-electricity.jpg)
 
 - An example of a tech giant influencer not taking any responsibility for causing the electricity crisis is BlackRock CEO Larry Fink, who pushed companies and governments to adopt "net-zero" policies using mostly solar/wind, but now admits they can't power AI data centers!
-<iframe width="560" height="315" src="https://youtu.be/z0hFvW7ICYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtu.be/z0hFvW7ICYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - A better attitude toward electricity was expressed by OpenAI CEO Sam Altman: "There will always be people who wait and sit around and say ‘we shouldn't do AI because we may burn a little more carbon’... the anti-progress streak" and this "is something that we can all fight against.”[^9]
 
@@ -83,10 +82,10 @@ _Originally published: May 16, 2024_
 
 - Share this article with tech giant CEOs and tell them to publicly apologize for damaging our grid and to commit to energy freedom policies.
 
-Google: [@sundarpichai](https://twitter.com/sundarpichai) (sundar@google.com)
-Apple: [@tim_cook](https://twitter.com/tim_cook) (tcook@apple.com)
-Meta: [@finkd](https://twitter.com/finkd) (zuck@fb.com)
-Microsoft: [@satyanadella](https://twitter.com/satyanadella) (satyan@microsoft.com)
+    Google: [@sundarpichai](https://twitter.com/sundarpichai) (sundar@google.com)
+    Apple: [@tim_cook](https://twitter.com/tim_cook) (tcook@apple.com)
+    Meta: [@finkd](https://twitter.com/finkd) (zuck@fb.com)
+    Microsoft: [@satyanadella](https://twitter.com/satyanadella) (satyan@microsoft.com)
 
 *Michelle Hung contributed to this piece.*
 
