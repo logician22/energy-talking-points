@@ -13,21 +13,17 @@ _Originally published: May 16, 2024_
 ***For years tech giants have been helping climate catastrophists shut down reliable fossil fuel electricity, falsely claiming they can be replaced by solar/wind.***
 
 ***Now the grid they've helped gut can't supply their growing AI needs.***[^1]
-
     ![Energy Constraints Holding Back AI](/img/energy-constraints-ai.jpg)
 
 - **For the last decade, tech giants** such as Apple, Microsoft, Meta, and Google have, through dedicated anti-fossil-fuel propaganda and political efforts, **promoted the shutdown of reliable fossil fuel power plants in favor of unreliable solar and wind.**
-
     ![Tech Giant Renewable Energy](/img/tech-giant-renewable-energy.jpg)
 
 - **Tech giants have propagandized against reliable fossil fuel power plants by falsely claiming to be "100% renewable" and implying everyone could do it.** In fact, they have just paid utilities to credit them for others' solar and wind use and blame others for their coal and gas use.[^2]
-
-    ![China Electric Grid Mix](static/img/china-grid-mix.jpg)
+    ![China Electric Grid Mix](/img/china-grid-mix.jpg)
 
 - In addition to their “100% renewable” propaganda, **tech giants directly endorsed people and policies who shut down reliable fossil fuel power plants.**
 
     E.g., The RE100 coalition, including Google, Apple, Meta, and Microsoft, advocates for policies to “accelerate change towards zero carbon grids at scale by 2040.”[^3]
-
     ![Climate Group RE 100](/img/re-100-group.jpg)
 
 - **Companies' propaganda that solar/wind could rapidly replace fossil fuels has proven false.**
@@ -37,7 +33,6 @@ _Originally published: May 16, 2024_
 - Thanks in significant part to tech giants' advocacy, **we have now shut down enough reliable power plants to be in a nationwide electricity crisis.**
 
     For example, **most of North America is at elevated/high risk of electricity shortfalls between 2024-2028.**[^4]
-
     ![Risk Area Summary 2024-2028](/img/risk-area-summary.jpg)
 
 - **The anti-fossil-fuel, pro-unreliable solar and wind political climate that tech giants have fostered is getting much worse,** as the Administration has pledged to further reduce reliable electricity supply via power plant shutdowns and add artificial demand through EV mandates.\
@@ -47,15 +42,12 @@ _Originally published: May 16, 2024_
 - While for years tech giants didn't seem to have any concern about the electricity supply disaster their propaganda and policies were bringing about, they are now very interested because of the accelerating power requirements of computing, above all the hyper-competitive AI space.
 
 - **To function at its potential, AI requires massive amounts of power.** E.g., state-of-the-art data centers can require as much electricity as a large nuclear reactor.[^5]
-
     ![Bloomberg Data Center Power](/img/data-center-power.jpg)
 
 - Electricity demand from US data centers already doubled between 2014 and 2023. Now with the fast growth of energy-hungry AI, **demand from data centers could** ***triple*** **from 2.5% to 7.5% of our electricity use by 2030**, according to Boston Consulting Group.[^6]
-
     ![Data Center Share of US Electricity](/img/data-center-electric-share.jpg)
 
 - **In large part due to AI, nationwide electricity demand is projected to skyrocket.** Official 10-year projections for the US have summer and winter peak demand rising by over 79 gigawatt and over 90 gigawatt. 90 gigawatt is equivalent to adding the entire power generating capacity of California (!)[^7]
-
     ![10-Year Summer and Winter Peak Demand Growth](/img/summer-and-winter-demand.jpg)
 
 - Given the woeful underpowered grid that AI giants have helped bring about, **dramatically rising demand from AI** will not only contribute to massive electricity shortages, but it **will also destroy a lot of potential for AI to occur in the United States.**
