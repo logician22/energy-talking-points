@@ -75,8 +75,7 @@ _Originally published: May 16, 2024_
     ![End preferences for unreliable electricity](/img/end-preferences-unreliable-electricity.jpg)
 
 - An example of a tech giant influencer not taking any responsibility for causing the electricity crisis is BlackRock CEO Larry Fink, who pushed companies and governments to adopt "net-zero" policies using mostly solar/wind, but now admits they can't power AI data centers!
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=z0hFvW7ICYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/z0hFvW7ICYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - A better attitude toward electricity was expressed by OpenAI CEO Sam Altman: "There will always be people who wait and sit around and say ‘we shouldn't do AI because we may burn a little more carbon’... the anti-progress streak" and this "is something that we can all fight against.”[^9]
 
