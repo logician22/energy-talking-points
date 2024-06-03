@@ -11,9 +11,9 @@ featuredimage: /img/blackout.jpeg
 _Originally published: May 22, 2024_
 
 ***4 reasons EPA’s power plant rule will destroy our grid:***\
-    1) ***Our grid is in crisis***
-    2) ***EV + AI demand will make things far worse***
-    3) ***EPA’s rule will shut down almost all our coal plants and prevent new natural gas replacement plants***
+    1) ***Our grid is in crisis***\
+    2) ***EV + AI demand will make things far worse***\
+    3) ***EPA’s rule will shut down almost all our coal plants and prevent new natural gas replacement plants***\
     4) ***Unreliable solar and wind can't make up the difference***
     ![EPA Greenhouse Gas Standards](/img/greenhouse-gas-standards.jpg)
 
@@ -201,6 +201,6 @@ _Michelle Hung and Steffen Henne contributed to this piece._
 
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-[Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
+    [Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
 
 [^17]: [Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
