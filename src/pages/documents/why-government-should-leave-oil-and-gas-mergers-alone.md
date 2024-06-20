@@ -49,7 +49,7 @@ _Originally published: June 3, 2024_
 
     **This is a tremendously dangerous power.**
 
-- In just the last 6 months, several of the biggest oil and gas deals of the decade including Exxon-Pioneer, Chevron-Hess, Diamondback-Endeavor, and Oxy-Crownrock in have received “Second Request” notices from the FTC, delaying each merger by at least 6 months.[^5]
+- In just the last 6 months, several of the biggest oil and gas deals of the decade including Exxon-Pioneer, Chevron-Hess, Diamondback-Endeavor, and Oxy-Crownrock have received “Second Request” notices from the FTC, delaying each merger by at least 6 months.[^5]
     ![Diamondback Endeavor Merger](/img/diamondback-endeavor.jpg)
 
 - **Even if the FTC eventually lets a merger through, a delay alone is harmful.** Companies lose valuable time, spend a fortune on lawyers, get distracted from their core work, and the merger’s efficiency benefits are delayed.
