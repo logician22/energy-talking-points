@@ -114,7 +114,7 @@ Originally published on August 15, 2022
 
 - Today's energy crisis, which is threatening Europeans with freezing and industrial collapse this winter, and threatening 10s of millions with starvation, is the fault of the global anti-fossil-fuel movement. I will continue to debate/defeat these people until they are stopped.
 
-- If you want to learn the full truth about the future of energy, read my new book [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411). It's been out for 2.5 months and despite its phenomenal success not one advocate of fossil fuel elimination has even attempted to refute it. (They've just smeared or straw-manned me.)
+- If you want to learn the full truth about the future of energy, read my new book [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20). It's been out for 2.5 months and despite its phenomenal success not one advocate of fossil fuel elimination has even attempted to refute it. (They've just smeared or straw-manned me.)
 
 
 ### References
