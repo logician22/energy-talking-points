@@ -103,7 +103,7 @@ Sincerely,
 
 Alex Epstein\
 Founder and President, Center for Industrial Progress\
-Author, *[The Moral Case for Fossil Fuels](https://www.amazon.com/Moral-Case-Fossil-Fuels/dp/1591847443/)* and *[Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/)*
+Author, *[The Moral Case for Fossil Fuels](https://www.amazon.com/gp/product/1591847443?&tag=thoughtful0f-20)* and *[Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20)*
 
 
 ### References
