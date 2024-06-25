@@ -49,7 +49,7 @@ Here’s why I believe this, and what we can do to take advantage of this opport
 
 - To leverage today’s unprecedented opportunity to re-educate the world about energy, we need **highly persuasive resources** that put forward a positive energy vision+platform, while discrediting today’s thought leaders.
 
-    I have created two: [Energy Talking Points](https://energytalkingpoints.com/) and ***[Fossil Future](https://www.amazon.com/dp/0593420411/)***.
+    I have created two: [Energy Talking Points](https://energytalkingpoints.com/) and ***[Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20)***.
 
 - The **[EnergyTalkingPoints.com](https://energytalkingpoints.com/) website and my [Energy Talking Points newsletter](https://alexepstein.substack.com/)** deliver powerful, concise, well-referenced talking points on energy, environmental, and climate issues. All are **free**. **Please take advantage of them**.
 
