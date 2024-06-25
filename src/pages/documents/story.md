@@ -153,7 +153,7 @@ The first phase of Energy Talking Points was to a create a website, [EnergyTalki
 
 After pioneering a new caliber of messaging with Energy Talking Points, I created a **program exclusively for major elected officials and staff** to give them custom, current guidance on energy messaging. This program now has **members from 170+ major political offices.**
 
-My energy talking points greatly increased the world’s exposure to my pro-human energy thinking and the case for more fossil fuel use. This has made it **impossible for mainstream thinkers to ignore my latest and most important project: [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/).**
+My energy talking points greatly increased the world’s exposure to my pro-human energy thinking and the case for more fossil fuel use. This has made it **impossible for mainstream thinkers to ignore my latest and most important project: [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20).**
 
 
 ***Part 6: Fossil Future: An irrefutable and unstoppable case for more fossil fuel use***
