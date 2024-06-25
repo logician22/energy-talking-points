@@ -256,7 +256,7 @@ Originally published on October 21, 2022
 
     **We can leverage these trends to change policy!**
 
-- To maximize your understanding of the future of energy, read my new book [Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/).
+- To maximize your understanding of the future of energy, read my new book [Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20).
 
 
 ###References
@@ -323,7 +323,7 @@ Originally published on October 21, 2022
 
     [Steven Koonin - Unsettled: What Climate Science Tells Us, What It Doesn't, and Why It Matters](https://www.amazon.com/Unsettled-Climate-Science-Doesnt-Matters/dp/1950665798/)
 
-    [Alex Epstein - Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas--Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/)
+    [Alex Epstein - Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas--Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20)
 
 [^11]: [The White House - FACT SHEET: President Biden’s Plan to Respond to Putin’s Price Hike at the Pump](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/31/fact-sheet-president-bidens-plan-to-respond-to-putins-price-hike-at-the-pump/)
 
