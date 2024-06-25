@@ -201,7 +201,7 @@ I explain this comprehensively in my book **[Fossil Future](http://fossilfuture.
 
 - Realizing that leading **thinkers and institutions** were **driven by anti-human ideas to ignore fossil fuels’ benefits and catastrophize their side-effects motivated me as a philosopher to become an energy expert** and discover the truth about fossil fuels' benefits and side-effects.
 
-- The **ultimate synthesis of my 15 years of trying to understand** the full benefits and side-effects of fossil fuels is my new, blockbuster book ***[Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/).***
+- The **ultimate synthesis of my 15 years of trying to understand** the full benefits and side-effects of fossil fuels is my new, blockbuster book ***[Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20).***
 
 - If you are a student or educator, you can get a free copy of Fossil Future from Young America's Foundation. Just use [this link](https://www.yaf.org/fossilfuture/).
     In the 3 months Fossil Future has been out, many people have attacked me personally or tried to straw-man my case. But no one has come close to refuting my case. Because it's based on irrefutable principles and undeniable facts.
