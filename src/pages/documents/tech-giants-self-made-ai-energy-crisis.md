@@ -13,7 +13,7 @@ _Originally published: May 16, 2024_
 ***For years tech giants have been helping climate catastrophists shut down reliable fossil fuel electricity, falsely claiming they can be replaced by solar/wind.***
 
 ***Now the grid they've helped gut can't supply their growing AI needs.***[^1]
-    ![Energy Constraints Holding Back AI](/img/energy-constraints-ai.jpg)
+    ![Energy Constraints Holding Back AI](/img/energy-constraints-ai2.jpg)
 
 - **For the last decade, tech giants** such as Apple, Microsoft, Meta, and Google have, through dedicated anti-fossil-fuel propaganda and political efforts, **promoted the shutdown of reliable fossil fuel power plants in favor of unreliable solar and wind.**
     ![Tech Giant Renewable Energy](/img/tech-giant-renewable-energy.jpg)
