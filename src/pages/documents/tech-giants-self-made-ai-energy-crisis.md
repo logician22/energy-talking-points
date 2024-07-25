@@ -6,7 +6,7 @@ date: 2019-12-07T17:53:07.846Z
 description: For years tech giants have been helping climate catastrophists shut
   down reliable fossil fuel electricity. Now the grid they've helped gut cannot
   possibly supply their growing AI needs.
-featuredimage: /img/energy-constraints-ai.jpg
+featuredimage: /img/energy-constraints-ai2.jpg
 ---
 _Originally published: May 16, 2024_
 
