@@ -15,8 +15,7 @@ _Today, I am sharing a new, even shorter form of ETP: Energy Sound Bites._ ***Th
 _I’ll start the Energy Sound Bites series with one of my favorite topics: the future of fossil fuels._
 
 ***At root, there are 3 core truths about the future of fossil fuels:***
-
-    ![3 core truths about fossil fuels](/img/3-core-truths.jpg)
+    ![3 core truths about fossil fuels](/img/3-core-truths-energy-sound-bites.png)
 
 _Today, I’ll share some Energy Sound Bites to support the first core truth: We must think about fossil fuels in a balanced way._
 
