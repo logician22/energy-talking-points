@@ -192,7 +192,7 @@ _Steffen Henne contributed to this piece._
 
     [Bjorn Lomborg on Twitter](https://twitter.com/BjornLomborg/status/1611699218053308417)
 
-    [Gasparrini et al. (2015) - Mortality risk attributable to high and low ambient temperature: a multicountry observational study](https://www.theguardian.com/environment/2024/mar/07/february-warmest-on-record-globally-copernicus-climate-change-service)
+    [Gasparrini et al. (2015) - Mortality risk attributable to high and low ambient temperature: a multicountry observational study](https://doi.org/10.1016/S0140-6736(14)62114-0)
 
 [^3]: [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
 
