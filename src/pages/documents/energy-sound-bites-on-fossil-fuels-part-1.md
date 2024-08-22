@@ -21,50 +21,50 @@ _Today, I’ll share some Energy Sound Bites to support the first core truth: We
 
 ### We must think about fossil fuels in a balanced way.
 
-- Most “experts” look at the negatives of fossil fuels but ignore huge positives.
+- **To decide what to do about fossil fuels we must be balanced, looking at both negatives and positives.**
 
-- Many “experts” ignore that much of the world would starve without fertilizer from natural gas.[^1]
+  - Most “experts” look at the negatives of fossil fuels but ignore huge positives.
 
-- Many “experts” ignore that much of the world would starve without oil-powered agricultural machines.
+    - Many “experts” ignore that much of the world would starve without fertilizer from natural gas.[^1]
 
-- Fixating on the negatives and ignoring the positives of any technology is deadly.
+    - Many “experts” ignore that much of the world would starve without oil-powered agricultural machines.
 
-- If we just looked at the negatives of antibiotics and ignored the positives, billions would die.
+  - Fixating on the negatives and ignoring the positives of any technology is deadly.
 
-- To decide what to do about fossil fuels we must be balanced, looking at both negatives and positives.
+    - If we just looked at the negatives of antibiotics and ignored the positives, billions would die.
 
-- Fossil fuels do impact climate—but even there we must consider positives along with negatives.
+- **Fossil fuels do impact climate—but even there we must consider positives along with negatives.**
 
-- We can’t just look at how warming increases heat waves, we also must look at lives saved from cold.
+  - We can’t just look at how warming increases heat waves, we also must look at lives saved from cold.
 
-- A huge, ignored climate positive we get from fossil fuels is the ability to master climate danger.
+- **A huge, ignored climate positive we get from fossil fuels is the ability to master climate danger.**
 
-- Fossil fueled cooling allows us to dramatically reduce danger from heat.
+  - Fossil fueled cooling allows us to dramatically reduce danger from heat.
 
-- Fossil fueled heating allows us to dramatically reduce danger from cold.
+  - Fossil fueled heating allows us to dramatically reduce danger from cold.
 
-- Fossil fueled irrigation allows us to dramatically reduce danger from drought.[^2]
+  - Fossil fueled irrigation allows us to dramatically reduce danger from drought.[^2]
     ![CO2 vs death rate from drought](/img/co2-vs-death-from-drought.jpg)
 
-- Fossil fueled evacuation systems allow us to dramatically reduce danger from storms.[^3]
+  - Fossil fueled evacuation systems allow us to dramatically reduce danger from storms.[^3]
     ![CO2 vs death rate from storms](/img/art-20-more-fossil-fuel-use-fewer-storm-related-deaths.png)
 
-- Fossil fueled climate mastery has helped us become safer than ever from climate.
+  - Fossil fueled climate mastery has helped us become safer than ever from climate.
 
-- The climate death rate has decreased by 98% over the last century as fossil fuel use has risen.[^4]
+  - The climate death rate has decreased by 98% over the last century as fossil fuel use has risen.[^4]
     ![CO2 vs climate disaster deaths](/img/3-atmospheric-co2-climate-deaths.jpg)
 
-- Sadly most “experts” ignore fossil fuels’ climate positives, including climate mastery.
+  - Sadly most “experts” ignore fossil fuels’ climate positives, including climate mastery.
 
-- The IPCC’s 1000+ page climate reports ignore all the ways fossil fuels increase climate safety.
+    - The IPCC’s 1000+ page climate reports ignore all the ways fossil fuels increase climate safety.
 
-- In weighing fossil fuels’ positives and negatives, we must be precise—not exaggerate or fabricate.
+- **In weighing fossil fuels’ positives and negatives, we must be precise—not exaggerate or fabricate.**
 
-- Sadly many “experts” exaggerate the negatives of fossil fuels in addition to ignoring the positives.
+  - Sadly many “experts” exaggerate the negatives of fossil fuels in addition to ignoring the positives.
 
-- Al Gore portrays 20 ft sea level rise as imminent when extreme UN projections are 3 ft / 100 years.[^5]
+    - Al Gore portrays 20 ft sea level rise as imminent when extreme UN projections are 3 ft / 100 years.[^5]
 
-- If we carefully weigh fossil fuels’ positives and negatives, it becomes clear we need more of them.
+  - If we carefully weigh fossil fuels’ positives and negatives, it becomes clear we need more of them.
 
 ***Next up:*** _Only by using fossil fuels can 8 billion people have the energy they need to survive and flourish._
 
