@@ -21,7 +21,7 @@ _________________________________________________
     In reality, **cold is a bigger problem than heat—and anti-fossil-fuel policies make both worse.**[^1]
     ![News Headlines Heat and Cold](/img/cold-heat-problems.jpg)
 
-- Anyone commentating responsibly on summer temperatures must acknowledge 3 facts:\
+- Anyone commentating responsibly on summer temperatures must acknowledge 3 facts:
     1) Heat-related deaths are far less prevalent than cold-related deaths
     2) Earth is warming slowly—especially in warm places
     3) Fossil fuels make us safer from both cold and heat
@@ -62,7 +62,7 @@ _________________________________________________
 
 - On a planet where people die much more from cold than from heat, but both are major threats, **the key to safety is to have energy be as affordable and plentiful as possible so as many as possible** can afford heating and air conditioning. For now this means more fossil fuels.
 
-- People who blaming pro-fossil-fuel politicians for hot temperatures evade that:\
+- People who blaming pro-fossil-fuel politicians for hot temperatures evade that:
     1) Cold is more dangerous than heat
     2) Warming is slow, especially in warm places
     3) We need fossil fuels to protect us from cold and heat
