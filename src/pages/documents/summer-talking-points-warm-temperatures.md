@@ -73,7 +73,7 @@ _________________________________________________
 ### References
 
 [^1]:
-    [AP - Last month was hottest February ever recorded. It’s the ninth-straight broken record](https://apnews.com/article/hot-climate-change-records-oceans-0af09f155051b25d245a0fd28fe23af6) 
+    [AP - Last month was hottest February ever recorded. It’s the ninth-straight broken record](https://apnews.com/article/hot-climate-change-records-oceans-0af09f155051b25d245a0fd28fe23af6)
 
     [CNN - The planet just shattered heat records for the ninth month in a row](https://edition.cnn.com/2024/03/06/climate/hottest-february-climate-copernicus-record-intl/index.html)
 
@@ -81,7 +81,7 @@ _________________________________________________
 
     [The Guardian - February was warmest on record globally, say scientists](https://www.theguardian.com/environment/2024/mar/07/february-warmest-on-record-globally-copernicus-climate-change-service)
 
-[2]:
+[^2]:
     [Zhao et al. (2021)](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00081-4/fulltext)
 
     [Bjorn Lomborg: Climate change and deaths from extreme heat and cold](https://financialpost.com/opinion/bjorn-lomborg-climate-change-and-deaths-from-extreme-heat-and-cold)
@@ -90,24 +90,24 @@ _________________________________________________
 
     [Gasparrini et al. (2015) - Mortality risk attributable to high and low ambient temperature: a multicountry observational study](https://x.com/BjornLomborg/status/1611699218053308417)
 
-[3]:
+[^3]:
     [Bjorn Lomborg - Climate Change Saves More Lives Than You’d Think](https://www.wsj.com/articles/climate-change-heat-cold-deaths-medical-journal-health-risk-energy-cost-fossil-fuels-11631741045)
 
     [Zhao et al. (2021)](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00081-4/fulltext)
 
     [Gasparrini et al. (2015) - Mortality risk attributable to high and low ambient temperature: a multicountry observational study](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62114-0/fulltext)
 
-[4]:
+[^4]:
     [NASA - GISS Surface Temperature Analysis (GISTEMP v4)](https://data.giss.nasa.gov/gistemp/)
 
     [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[5]:
+[^5]:
     Equilibrium climate sensitivity defined as a warming in °C per doubling of greenhouse gas concentrations in the atmosphere. The IPCC estimates it to be between 2.5°C and 4°C. Other analysis suggests it to be below 2°C.
     [Climate etc. - Important new paper challenges IPCC’s claims about climate sensitivity](https://judithcurry.com/2022/09/20/important-new-paper-challenges-ipccs-claims-about-climate-sensitivity/)
 
     [Alex Epstein - Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas–Not Less](https://www.amazon.com/dp/0593420411?ref_=cm_sw_r_cp_ud_dp_CGXET0V7XPYG3QQ8J1PK)
 
-[6]: [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
+[^6]: [U.S. National Oceanic and Atmospheric Administration, climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
-[7]: [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
+[^7]: [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
