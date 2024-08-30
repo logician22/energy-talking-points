@@ -42,11 +42,11 @@ ___________________________________________
     - Climate has warmed about 1° C, a mild and manageable amount, over the last 170 years.[^3]
     ![Central Park Temperature Range](/img/central-park-temp.jpg)
     - Other climate effects are hard to discern, but in any case they are overwhelmed by mastery.
-    - At 2°C warming, hurricanes are expected to be less frequent and between 1-10% more intense.[^4]
-    ![Tropical Cyclone Intensities](/img/tropical-cyclone-intensities.jpg)
-    - Fire danger, which depends mainly on mastery, is down from 20 years ago and far down than 100 years ago.[^5]
-    - GDP-adjusted climate-related damages are flat despite many incentives for them to go up.[^6]
-    ![Global Insured Catastrophic Losses vs GDP](/img/image-3-global-insured-catastrophe-losses.jpg)
+        - At 2°C warming, hurricanes are expected to be less frequent and between 1-10% more intense.[^4]
+        ![Tropical Cyclone Intensities](/img/tropical-cyclone-intensities.jpg)
+        - Fire danger, which depends mainly on mastery, is down from 20 years ago and far down than 100 years ago.[^5]
+        - GDP-adjusted climate-related damages are flat despite many incentives for them to go up.[^6]
+        ![Global Insured Catastrophic Losses vs GDP](/img/image-3-global-insured-catastrophe-losses.jpg)
 
 - **Nothing in mainstream climate science suggests climate challenges we can’t master**
     - Even though Earth has gotten ~1°C warmer, more people still die from cold than heat (even in India)!
