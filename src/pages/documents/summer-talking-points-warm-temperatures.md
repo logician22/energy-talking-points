@@ -73,7 +73,7 @@ _________________________________________________
 ### References
 
 [^1]:
-    [AP - Last month was hottest February ever recorded. It’s the ninth-straight broken record](https://apnews.com/article/hot-climate-change-records-oceans-0af09f155051b25d245a0fd28fe23af6)
+    [AP - Last month was hottest February ever recorded. It’s the ninth-straight broken record](https://apnews.com/article/hot-climate-change-records-oceans-0af09f155051b25d245a0fd28fe23af6) 
 
     [CNN - The planet just shattered heat records for the ninth month in a row](https://edition.cnn.com/2024/03/06/climate/hottest-february-climate-copernicus-record-intl/index.html)
 
