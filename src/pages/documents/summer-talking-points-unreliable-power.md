@@ -30,11 +30,11 @@ _________________________________________________
 
 - **The Biden-Harris EPA has been at war with reliable power plants,** above all the coal plants that our grid depends on for 1/6th of its reliable power.
 
-    And they’re doing this **while demand for power is increasing** from data centers and EVs.
+    And they’re doing this **while demand for power is increasing** from data centers and EVs.\
     [How EPA's power plant rule will destroy our grid](https://energytalkingpoints.com/how-epas-power-plant-rule-will-destroy-our-grid/)
     ![EPA vs the Grid](/img/epa-vs-grid.jpg)
 
-- The Biden-Harris EPA’s recent power plant rules will not only **shut down vital coal power plants more quickly**, they will also **prevent new natural gas plants from replacing them.**
+- The Biden-Harris EPA’s recent power plant rules will not only **shut down vital coal power plants more quickly**, they will also **prevent new natural gas plants from replacing them.**\
     [How EPA's power plant rule will destroy our grid]( https://energytalkingpoints.com/how-epas-power-plant-rule-will-destroy-our-grid/)
     ![Greenhouse Gas Standards](/img/greenhouse-gas-standards.jpg)
     [Electricity Emergency](https://energytalkingpoints.com/electricity-emergency/)
