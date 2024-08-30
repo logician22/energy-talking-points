@@ -94,7 +94,7 @@ _________________________________________________
 [^2]: 
     [Institute for Energy Research - EPA Ups Estimates for the Social Cost of Carbon](https://www.instituteforenergyresearch.org/regulation/epa-ups-estimates-for-the-social-cost-of-carbon/)
 
-    A gallon of gasoline emits about 0.0081 metric tonnes of CO2.
+    A gallon of gasoline emits about 0.0081 metric tonnes of CO2.\
     [U.S. EIA - Carbon Dioxide Emissions Coefficients](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
 
 [^3]:
