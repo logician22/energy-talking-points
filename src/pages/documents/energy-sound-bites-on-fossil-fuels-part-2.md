@@ -6,9 +6,9 @@ date: 2019-12-02T17:21:41.589Z
 description: Easy-to-remember points on the benefits of fossil fuels
 featuredimage: /img/3-core-truths-about-ffs.jpg
 ---
-_Originally published: August 20, 2024_
+_Originally published: August 2, 2024_
 
-_Last week I shared Energy Sound Bites to support the first core truth about fossil fuels: We must think of fossil fuels in a balanced way._
+_[Last week](https://energytalkingpoints.com/energy-sound-bites-on-fossil-fuels-part-1/) I shared Energy Sound Bites to support the first core truth about fossil fuels: We must think of fossil fuels in a balanced way._
 
 _Today, I’ll share Energy Sound Bites to support the second core truth:_ ***Only by using fossil fuels can 8 billion people have the energy they need to survive and flourish.***
     ![3 core truths about fossil fuels](/img/3-core-truths-about-ffs.jpg)
