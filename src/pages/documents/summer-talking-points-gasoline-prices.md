@@ -72,7 +72,7 @@ _________________________________________________
 
 - **Biden Gas Gouging Policy #7**
 
-    **Biden has worked to increase gasoline prices by threatening to stop oil and gas mergers.** Mergers, which increase efficiency, benefit domestic production and lower prices. Blocking mergers raises oil prices long-term, which means higher gas prices.
+    **Biden has worked to increase gasoline prices by threatening to stop oil and gas mergers.** Mergers, which increase efficiency, benefit domestic production and lower prices. Blocking mergers raises oil prices long-term, which means higher gas prices.\
     [Why government should leave oil and gas mergers alone](https://energytalkingpoints.com/why-government-should-leave-oil-and-gas-mergers-alone/)
     ![FTC Strikes Again](/img/mergers.png)
 
