@@ -23,7 +23,7 @@ _________________________________________________
 
 - High electricity bills are the **result of government-dictated schemes**—such as the recent IRA—**to build massive, wasteful, unreliable solar and wind infrastructure.**[^2]
 
-- As bad as higher electricity prices seem, they are actually far worse, since **we are also paying huge IRA subsidies** through taxes and inflation that don’t appear on our utility bills.
+- As bad as higher electricity prices seem, they are actually far worse, since **we are also paying huge IRA subsidies** through taxes and inflation that don’t appear on our utility bills.\
     [The Limitless Hidden Costs of the IRA](https://energytalkingpoints.com/irs-subs/)
     ![The Limitless Hidden Costs of the IRA](/img/wsj-ira-tax-credits-unending.png)
 
@@ -31,8 +31,9 @@ _________________________________________________
 
     That’s why electricity prices have gone up even as the cost of natural gas, our leading source of electricity, has gone way down.[^3]
 
-- The solution to high electricity bills is to **end all preferences for unreliable electricity.**
+- The solution to high electricity bills is to **end all preferences for unreliable electricity.**\
     [End Preferences for Unreliable Electricity](https://energytalkingpoints.com/preferences/)
+
     ![End Preferences for Unreliable Electricity](/img/end-preferences-unreliable-electricity.jpg)
 
 
