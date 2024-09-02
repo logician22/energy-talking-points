@@ -47,7 +47,7 @@ _________________________________________________
 
     **Biden has worked to increase gasoline prices by expanding the anti-fossil-fuel ESG divestment movement.** ESG contributed to a 50% decline in oil and gas exploration investments from 2011-2021, resulting in artificially higher prices. Biden is making it worse.\
     [Talking Points on the anti-energy, anti-development, and anti-America ESG movement](https://energytalkingpoints.com/esg-movement/)
-    ![ESG Movement is Anti-Energy](/img/esg-movement.png)
+    ![ESG Movement is Anti-Energy](/img/esg-movement.jpg)
 
 - **Biden Gas Gouging Policy #3**
 
