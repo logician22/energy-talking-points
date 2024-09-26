@@ -5,7 +5,7 @@ title: The Texas heat deaths scam
 date: 2019-11-26T14:26:07.345Z
 description: Fossil fuels have made us far safer than ever from both heat and
   the (far more dangerous) cold.
-featuredimage: /img/wsj-tx-heat-scam.png
+featuredimage: /img/green-joblessness.jpg
 ---
 _Originally published: September 6, 2024_
 
