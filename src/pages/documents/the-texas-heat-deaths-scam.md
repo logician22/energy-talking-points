@@ -47,7 +47,7 @@ _Originally published: September 6, 2024_
 
 - In Texas, grid-gutting policies are causing deadly blackouts and shortages. E.g., [the February 2021 disaster](https://energytalkingpoints.com/texas-electricity-crisis/) was caused by inadequate investment in reliable power plants and their weatherization, which came to a head when unreliable solar/wind inevitably disappeared.
 
-- Anti-fossil-fuel policies increase climate danger by making it expensive or illegal for us to run the fossil fueled climate mastery machines that keep us safe from climate. Thus these policies are effectively anti-climate-safety—or pro-climate-danger—policies.
+- Anti-fossil-fuel policies increase climate danger by making it expensive or illegal for us to run the fossil fueled climate mastery machines that keep us safe from climate. Thus these policies are effectively anti-climate-safety— or pro-climate-danger—policies.
 
 - Texas is not in danger from fossil fuels, which have made climate far safer. The real danger facing Texas is anti-fossil-fuel policies—politically viable only thanks to false media reports of a dangerously hot world—which threaten to neuter their climate mastery capabilities.
 
