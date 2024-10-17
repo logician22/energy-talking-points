@@ -84,21 +84,21 @@ const plugins = [
   },
 ];
 
-// if (process.env.NODE_ENV !== "development") {
-//   plugins.push({
-//     resolve: `gatsby-plugin-google-gtag`,
+if (process.env.NODE_ENV !== "development") {
+  plugins.push({
+    resolve: `gatsby-plugin-google-gtag`,
 
-//     options: {
-//       trackingIds: [process.env.GA_TRACKING_ID],
-//       gtagConfig: {
-//         anonymize_ip: true,
-//         cookie_expires: 0,
-//         head: true,
-//         respect,
-//       },
-//     },
-//   });
-// }
+    options: {
+      trackingIds: [process.env.GA_TRACKING_ID],
+      gtagConfig: {
+        anonymize_ip: true,
+        cookie_expires: 0,
+        head: true,
+        respect,
+      },
+    },
+  });
+}
 
 // // make sure to keep it last in the array)
 // plugins.push("gatsby-plugin-netlify");
@@ -200,6 +200,22 @@ module.exports = {
         ],
       },
     },
+    process.env.NODE_ENV === "development"
+      ? undefined
+      : {
+          resolve: `gatsby-plugin-google-gtag`,
+
+          options: {
+            trackingIds: [process.env.GA_TRACKING_ID],
+            gtagConfig: {
+              anonymize_ip: true,
+              cookie_expires: 0,
+              head: true,
+              respect,
+            },
+          },
+        },
+    "gatsby-plugin-netlify",
     // other plugins
-  ],
+  ].filter(Boolean),
 };
