@@ -69,6 +69,7 @@ const Navbar = class extends React.Component {
                   alt="CIP"
                   style={{
                     maxHeight: 60,
+                    width: "auto",
                     borderRadius: "50%",
                   }}
                 />
@@ -138,7 +139,7 @@ export default () => (
   <StaticQuery
     query={graphql`
       query NavBarQuery {
-        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
+        allMarkdownRemark(sort: { frontmatter: { date: ASC } }) {
           edges {
             node {
               id

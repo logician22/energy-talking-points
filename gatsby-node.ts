@@ -1,12 +1,30 @@
-const _ = require("lodash");
-const path = require("path");
-const { createFilePath } = require("gatsby-source-filesystem");
-const { fmImagesToRelative } = require("gatsby-remark-relative-images");
+import _ from "lodash";
+import path from "path";
+import { createFilePath } from "gatsby-source-filesystem";
+import { type GatsbyNode } from "gatsby";
+import { GraphQLError } from "graphql";
 
-exports.createPages = ({ actions, graphql }) => {
+export const createPages: GatsbyNode["createPages"] = ({
+  actions,
+  graphql,
+}) => {
   const { createPage } = actions;
 
-  return graphql(`
+  return graphql<{
+    allMarkdownRemark: {
+      edges: Array<{
+        node: {
+          id: string;
+          fields: {
+            slug: string;
+          };
+          frontmatter: {
+            templateKey: string;
+          };
+        };
+      }>;
+    };
+  }>(`
     {
       allMarkdownRemark(limit: 1000) {
         edges {
@@ -24,11 +42,11 @@ exports.createPages = ({ actions, graphql }) => {
     }
   `).then((result) => {
     if (result.errors) {
-      result.errors.forEach((e) => console.error(e.toString()));
+      result.errors.forEach((e: GraphQLError) => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
 
-    const posts = result.data.allMarkdownRemark.edges;
+    const posts = result.data!.allMarkdownRemark.edges;
 
     posts.forEach((edge) => {
       const id = edge.node.id;
@@ -48,9 +66,12 @@ exports.createPages = ({ actions, graphql }) => {
   });
 };
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions;
-  fmImagesToRelative(node); // convert image paths for gatsby images
+export const onCreateNode: GatsbyNode["onCreateNode"] = ({
+  node,
+  actions,
+  getNode,
+}) => {
+  const { createNodeField } = actions; // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode, basePath: "documents/" });

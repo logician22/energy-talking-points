@@ -5,7 +5,6 @@ import { graphql, Link } from "gatsby";
 import Markdown from "react-markdown";
 
 import Layout from "../components/Layout";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import Content, { HTMLContent } from "../components/Content";
 import SignUpBar from "../components/SignUpBar";
 import { fullTitle, orderPostEdges } from "../utils";
@@ -23,12 +22,10 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content;
   return (
     <div className="document">
-      <PreviewCompatibleImage
-        imageInfo={{
-          image,
-          alt: `featured image thumbnail for post ${title}`,
-        }}
-        imageStyle={{ maxHeight: 400, borderRadius: 0 }}
+      <img
+        src={image}
+        alt={`featured image thumbnail for post ${title}`}
+        style={{ maxHeight: 400, borderRadius: 0, width: "100%" }}
       />
       <div className="has-background-light">
         <section className="section">
@@ -101,7 +98,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout
       passedData={{
-        image: post.frontmatter.featuredimage.childImageSharp.fixed.src,
+        image: post.frontmatter.featuredimage,
         title: post.frontmatter.title,
         description: post.frontmatter.description,
       }}
@@ -139,7 +136,7 @@ export default BlogPost;
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___date] }
+      sort: { frontmatter: { date: ASC } }
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
     ) {
       edges {
@@ -162,16 +159,7 @@ export const pageQuery = graphql`
         title
         description
         displaytitle
-        featuredimage {
-          childImageSharp {
-            fixed(quality: 75) {
-              src
-            }
-            fluid(maxWidth: 1000, quality: 85) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        featuredimage
       }
     }
   }

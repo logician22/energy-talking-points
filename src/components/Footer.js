@@ -90,7 +90,7 @@ export default () => (
   <StaticQuery
     query={graphql`
       query FooterQuery {
-        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
+        allMarkdownRemark(sort: { frontmatter: { date: ASC } }) {
           edges {
             node {
               id

@@ -1,9 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery } from "gatsby";
+import { Link, graphql, StaticQuery, useStaticQuery } from "gatsby";
 import Markdown from "react-markdown";
 import Fuse from "fuse.js";
-import PreviewCompatibleImage from "./PreviewCompatibleImage";
 import { fullTitle, orderPostEdges, convertToPlainText } from "../utils";
 
 // Don't show search results below this char count
@@ -116,7 +115,7 @@ const SearchExcerpt = ({ post, search }) => {
       <p style={{ fontStyle: "italic", fontWeight: "bold" }}>
         No matching text. Article description:
       </p>
-      <Markdown source={defaultExcerpt(post)} />
+      <Markdown>{defaultExcerpt(post)}</Markdown>
     </>
   );
 };
@@ -143,12 +142,10 @@ const ArticleCard = ({ post, search }) => {
                 to={post.fields.slug}
                 className={`featured-thumbnail ${isSearch ? "in-search" : ""}`}
               >
-                <PreviewCompatibleImage
-                  imageStyle={{ maxWidth: isSearch ? "200px" : "none" }}
-                  imageInfo={{
-                    image: post.frontmatter.featuredimage,
-                    alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                  }}
+                <img
+                  src={post.frontmatter.featuredimage}
+                  alt={`featured image thumbnail for post ${post.frontmatter.title}`}
+                  style={{ maxWidth: isSearch ? "200px" : "100%" }}
                 />
               </Link>
             ) : null}
@@ -259,40 +256,31 @@ BlogRoll.propTypes = {
   }),
 };
 
-export default (props) => (
-  <StaticQuery
-    query={graphql`
-      query BlogRollQuery {
-        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
-          edges {
-            node {
-              excerpt(pruneLength: 400)
-              id
-              fields {
-                slug
-              }
-              rawMarkdownBody
-              frontmatter {
-                title
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
-                description
-                displaytitle
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 120, quality: 60) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
-              }
+export default (props) => {
+  const data = useStaticQuery(graphql`
+    query BlogRollQuery {
+      allMarkdownRemark(sort: { frontmatter: { date: ASC } }) {
+        edges {
+          node {
+            excerpt(pruneLength: 400)
+            id
+            fields {
+              slug
+            }
+            rawMarkdownBody
+            frontmatter {
+              title
+              templateKey
+              date(formatString: "MMMM DD, YYYY")
+              description
+              displaytitle
+              featuredimage
             }
           }
         }
       }
-    `}
-    render={(data, count) => (
-      <BlogRoll data={data} count={count} search={props.search} />
-    )}
-  />
-);
+    }
+  `);
+  console.log(data);
+  return <BlogRoll data={data} search={props.search} />;
+};
