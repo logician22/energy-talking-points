@@ -428,3 +428,10 @@ a.footnote-backref {
     margin: 0 0 1em;
   }
 }
+
+img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import { withPrefix } from "gatsby";
+import "@fontsource/lato/400.css";
 
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";

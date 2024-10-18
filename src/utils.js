@@ -1,4 +1,4 @@
-import marked from "marked";
+import { marked } from "marked";
 import PlainTextRenderer from "marked-plaintext";
 
 export const removeTrailingSlash = (slug) =>
