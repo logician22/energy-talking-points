@@ -4,6 +4,7 @@ import { Link, graphql, StaticQuery } from "gatsby";
 import DownChevron from "./DownChevron";
 import epstein from "../img/epstein.jpeg";
 import { orderPostEdges } from "../utils";
+import { node } from "prop-types";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -50,7 +51,18 @@ const Navbar = class extends React.Component {
     // Show first 5 non-overview pages in header
     const posts = orderPostEdges(edges, false);
 
-    const displayPosts = active ? posts : posts.slice(0, 5);
+    let displayPosts;
+    if (active) {
+      displayPosts = posts;
+    } else {
+      displayPosts = posts.slice(0, 5);
+      while (
+        displayPosts.map(({ node: post }) => post.frontmatter.title).join("")
+          .length > 150
+      ) {
+        displayPosts.pop();
+      }
+    }
 
     const extraPosts = displayPosts.length < posts.length ? posts.slice(5) : [];
 
