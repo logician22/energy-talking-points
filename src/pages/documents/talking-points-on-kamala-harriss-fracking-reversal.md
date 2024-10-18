@@ -4,7 +4,7 @@ displaytitle: Talking points on Kamala Harris's fracking reversal
 title: Talking points on Kamala Harris's fracking reversal
 date: 2019-11-25T14:32:59.050Z
 description: Kamala Harris is still for banning fracking—as is everyone who
-  advocates the net zero agenda
+  advocates the net-zero agenda
 featuredimage: /img/kamala-fracking.jpg
 ---
 _Originally published: September 10, 2024_
