@@ -281,6 +281,6 @@ export default (props) => {
       }
     }
   `);
-  console.log(data);
+
   return <BlogRoll data={data} search={props.search} />;
 };
