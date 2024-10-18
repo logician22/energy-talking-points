@@ -41,7 +41,7 @@ _Originally published: September 6, 2024_
 
 - By blaming small numbers of climate deaths on the fossil fuels that have made the number of climate deaths small in the first place, the anti-fossil-fuel media justify a catastrophist agenda that will make us less safe from climate and far less prosperous overall.
 
-- Across America, the power grid is in decline due to policies that reward unreliable electricity, prematurely shut down coal plants, criminalize nuclear, and force EV use. And it’s about to get worse, as EPA’s power plant rules decrease electricity supply and AI increases demand.
+- Across America, the power grid is in decline due to policies that reward unreliable electricity, prematurely shut down coal plants, criminalize nuclear, and force EV use. And it’s about to get worse, as EPA’s power plant rules decrease electricity supply and AI increases demand.\
     [Tech Giants Self-Made AI Energy Crisis](https://energytalkingpoints.com/tech-giants-self-made-ai-energy-crisis/)
     ![Tech Giants Self-Made AI Energy Crisis](/img/tech-giants-self-made-ai-energy-crisis.jpg)
 
