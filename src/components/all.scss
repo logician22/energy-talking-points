@@ -1,5 +1,5 @@
 @use 'sass:color';
-@import "~bulma/sass/utilities/initial-variables";
+
 
 // Config vars
 // Brand color: #0e7eaf
@@ -11,21 +11,13 @@ $primary-invert: $brand-blue-invert;
 $grey: #202020;
 $body-color: $grey;
 $black: $grey;
+// Colors
+
+$black: hsl(0, 0%, 4%); 
+$white-ter: hsl(0, 0%, 96%);
 
 // Override link color
 $link: $primary;
-
-@keyframes BLINK {
-  0% {
-    background-color: $primary;
-  }
-  50% {
-    background-color: darken($primary, 12);
-  }
-  100% {
-    background-color: $primary;
-  }
-}
 
 .box {
   color: $grey;
@@ -58,7 +50,7 @@ a {
   color: $link;
   transition: color 0.3s ease;
   &:hover {
-    color: darken($brand-blue, 5);
+    color: color.adjust($brand-blue, $lightness: -5%);
   }
 }
 
@@ -172,13 +164,13 @@ a {
   .navbar-brand {
     &:hover,
     &:hover p {
-      color: darken($primary, 5) !important;
+      color: color.adjust($primary, $lightness: 5%) !important;
 
       .icon {
-        color: darken($primary, 5) !important;
+        color: color.adjust($primary, $lightness: 5%) !important;
 
         svg path {
-          fill: darken($primary, 5);
+          fill: color.adjust($primary, $lightness: 5%);
         }
       }
     }
@@ -389,30 +381,6 @@ a.footnote-backref {
   margin-bottom: 0.2em;
 }
 
-.sign-up-bar {
-  background-color: $primary;
-  transition: background-color 0.5s ease;
-  cursor: pointer;
-  text-align: center;
-
-  animation-name: BLINK;
-  animation-duration: 0.6s;
-  animation-iteration-count: 4;
-  animation-timing-function: ease-in-out;
-  animation-delay: 0.8s;
-
-  section.section {
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
-  }
-  h4 {
-    color: white;
-  }
-
-  &:hover {
-    background-color: darken($primary, 7);
-  }
-}
 
 @import "~bulma";
 
