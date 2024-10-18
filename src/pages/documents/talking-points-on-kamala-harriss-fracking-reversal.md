@@ -60,9 +60,9 @@ Truth: **Kamala Harris is still for banning fracking—because she is still for 
 - **When they entered office, Biden and Harris continued to make “net zero by 2050” their guiding goal** by rejoining the Paris Agreement that committed us to it and by announcing a “whole of government” focus on “climate”—code for: rapidly getting rid of fossil fuels.[^5]
     ![Executive Order Clean Energy](/img/executive-order-clean-energy.jpg)
 
-- **In action after action, the Biden-Harris administration has shown us that it will do anything it can get away with politically to rapidly eliminate fossil fuels:** pipeline blocking, Federal leasing bans, LNG prohibitions, power plant shutdowns, EV mandates, SEC rules, etc, etc.
-    [8 ways the Biden administration is working to increase gasoline prices](/img/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices.jpg)
-    ![8 ways the Biden administration is working to increase gasoline prices](https://energytalkingpoints.com/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices/)
+- **In action after action, the Biden-Harris administration has shown us that it will do anything it can get away with politically to rapidly eliminate fossil fuels:** pipeline blocking, Federal leasing bans, LNG prohibitions, power plant shutdowns, EV mandates, SEC rules, etc, etc.\
+    [8 ways the Biden administration is working to increase gasoline prices](https://energytalkingpoints.com/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices)
+    ![8 ways the Biden administration is working to increase gasoline prices](/static/img/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices.jpg)
 
 - **Americans have already paid a high price for the Biden-Harris administration’s net-zero agenda**—high energy bills, power shortages, and inflation.
 
@@ -76,9 +76,9 @@ Truth: **Kamala Harris is still for banning fracking—because she is still for 
 
     But the Biden-Harris EPA has tried to shut down all coal—1/6 of reliable capacity!
 
-    **Were it not for Biden-Harris opponents we’d already have a 3rd-world grid.**[^8]
-    [How EPA's power plant rule will destroy our grid]( /img/how-epa-s-power-plant-rule-will-destroy-our-grid.jpg)
-    ![How EPA's power plant rule will destroy our grid](https://energytalkingpoints.com/how-epas-power-plant-rule-will-destroy-our-grid/)
+    **Were it not for Biden-Harris opponents we’d already have a 3rd-world grid.**[^8]\
+    [How EPA's power plant rule will destroy our grid](https://energytalkingpoints.com/how-epas-power-plant-rule-will-destroy-our-grid/)
+    ![How EPA's power plant rule will destroy our grid](/img/how-epa-s-power-plant-rule-will-destroy-our-grid.jpg)
 
 - **Harris tries to act reassure us that she’s “moderate” because Biden-Harris hasn’t destroyed oil and gas**—e.g., fracking is allowed and oil production has actually increased.
 
