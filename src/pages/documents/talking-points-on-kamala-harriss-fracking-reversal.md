@@ -62,7 +62,7 @@ Truth: **Kamala Harris is still for banning fracking—because she is still for 
 
 - **In action after action, the Biden-Harris administration has shown us that it will do anything it can get away with politically to rapidly eliminate fossil fuels:** pipeline blocking, Federal leasing bans, LNG prohibitions, power plant shutdowns, EV mandates, SEC rules, etc, etc.\
     [8 ways the Biden administration is working to increase gasoline prices](https://energytalkingpoints.com/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices)
-    ![8 ways the Biden administration is working to increase gasoline prices](/static/img/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices.jpg)
+    ![8 ways the Biden administration is working to increase gasoline prices](/img/8-ways-the-biden-administration-is-working-to-increase-gasoline-prices.jpg)
 
 - **Americans have already paid a high price for the Biden-Harris administration’s net-zero agenda**—high energy bills, power shortages, and inflation.
 
