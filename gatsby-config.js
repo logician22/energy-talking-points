@@ -101,13 +101,8 @@ module.exports = {
           }
         }`,
         resolveSiteUrl: () => siteUrl,
-        resolvePages: ({ allSitePage: { nodes: allPages } }) => {
-          return allPages.map((page) => {
-            return { ...page };
-          });
-        },
+        resolvePages: ({ allSitePage: { nodes: allPages } }) => allPages,
         serialize: (node) => {
-          console.log(node);
           return {
             url: node.path,
             changefreq: `daily`,
