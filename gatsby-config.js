@@ -90,7 +90,27 @@ module.exports = {
         id: "GTM-TDDJQMJ",
       },
     },
-    "gatsby-plugin-sitemap",
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        query: `{
+          allSitePage {
+            nodes {
+              path
+            }
+          }
+        }`,
+        resolveSiteUrl: () => siteUrl,
+        resolvePages: ({ allSitePage: { nodes: allPages } }) => allPages,
+        serialize: (node) => {
+          return {
+            url: node.path,
+            changefreq: `daily`,
+            priority: 0.7,
+          };
+        },
+      },
+    },
     process.env.NODE_ENV === "development"
       ? undefined
       : {
