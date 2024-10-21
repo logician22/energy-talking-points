@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery, useStaticQuery } from "gatsby";
+import { Link, graphql, useStaticQuery } from "gatsby";
 import Markdown from "react-markdown";
 import Fuse from "fuse.js";
 import { fullTitle, orderPostEdges, convertToPlainText } from "../utils";
@@ -64,7 +64,7 @@ const articleTitle = (title, displayTitle, search) => {
   }
 
   const highlighted = highlightMatch(text, search);
-
+  console.log(highlighted);
   return highlightMarkdown(highlighted);
 };
 
@@ -194,6 +194,7 @@ const ArticleCard = ({ post, search }) => {
 const SearchRoll = (props) => {
   const { edges, search } = props;
 
+  console.log({ search });
   const nodes = edges.map((p) => ({
     ...p.node,
     body: convertToPlainText(p.node.rawMarkdownBody.split("### References")[0]),

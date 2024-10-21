@@ -1,6 +1,5 @@
 @use 'sass:color';
 
-
 // Config vars
 // Brand color: #0e7eaf
 $brand-blue: #0e7eaf;
@@ -364,21 +363,6 @@ article.blog-list-item {
 
 .article-content ul li + li {
   margin-top: 0.85em;
-}
-
-/* purgecss ignore */
-a.footnote-backref {
-  font-weight: bolder;
-  margin-left: 10px;
-  font-size: 16px;
-  color: color.adjust($color: $brand-blue, $lightness: -5%);
-  position: relative;
-  top: 2px;
-}
-
-/* purgecss ignore */
-.document .footnotes li p:last-of-type {
-  margin-bottom: 0.2em;
 }
 
 

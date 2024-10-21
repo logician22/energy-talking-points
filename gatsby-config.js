@@ -44,12 +44,6 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          // {
-          //   resolve: "gatsby-remark-relative-images",
-          //   options: {
-          //     name: "uploads",
-          //   },
-          // },
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -84,8 +78,10 @@ module.exports = {
     {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
-        develop: false, // Activates purging in npm run develop
+        develop: true, // Activates purging in npm run develop
         purgeOnly: ["/all.scss"], // applies purging only on the bulma css file
+        printRejected: true,
+        whitelist: [".footnote-backref"],
       },
     }, // must be after other CSS plugins
     {
@@ -94,6 +90,7 @@ module.exports = {
         id: "GTM-TDDJQMJ",
       },
     },
+    "gatsby-plugin-sitemap",
     process.env.NODE_ENV === "development"
       ? undefined
       : {

@@ -1,5 +1,4 @@
-import { marked } from "marked";
-import PlainTextRenderer from "marked-plaintext";
+import { marked, Renderer } from "marked";
 
 export const removeTrailingSlash = (slug) =>
   slug[slug.length - 1] === "/" ? slug.slice(0, slug.length - 1) : slug;
@@ -14,22 +13,25 @@ export const orderPostEdges = (edges, startWithOverview = true) => {
   return startWithOverview ? [overview, ...others] : [...others, overview];
 };
 
-export const convertToPlainText = (
-  markdownText,
-  retainBullets = true,
-  options = {}
-) => {
-  const renderer = new PlainTextRenderer();
-  renderer.checkbox = (text) => {
-    return text;
-  };
-  if (retainBullets) {
-    renderer.listitem = (text) => {
-      return `\n- ${text}`;
-    };
-  }
+export const convertToPlainText = (markdownText: string, options = {}) => {
+  const plainTextRenderer = {
+    link({ tokens }): string {
+      const text = this.parser.parseInline(tokens);
+      return text;
+    },
+    image: ({ title, text }): string => "",
+    paragraph: ({ text }): string => text,
+    heading: ({ text }): string => text,
+    blockquote: ({ text }): string => text,
+    listitem: ({ text }): string => `\n - ${text}`,
+    checkbox: ({ checked }): string => (checked ? "[x]" : "[ ]"),
+    code: ({ text }): string => text,
+  } as Renderer;
+
   marked.setOptions(options);
-  const plaintext = marked(markdownText, { renderer });
+  marked.use({ renderer: plainTextRenderer });
+
+  const plaintext = marked(markdownText) as string;
   return (
     plaintext
       // Without footnotes
@@ -40,5 +42,7 @@ export const convertToPlainText = (
       .replace(/&#39;/g, "'")
       // Breaks
       .replace(/<br \/>/g, "")
+      // Or markdown image tags
+      .replace(/!\[.*\]\(.*\)/g, "")
   );
 };
