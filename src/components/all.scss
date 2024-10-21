@@ -1,9 +1,5 @@
 @use 'sass:color';
 
-body {
-  background-color: cornflowerblue;
-}
-
 // Config vars
 // Brand color: #0e7eaf
 $brand-blue: #0e7eaf;
@@ -377,11 +373,6 @@ a.footnote-backref {
   color: color.adjust($color: $brand-blue, $lightness: -5%);
   position: relative;
   top: 2px;
-}
-
-/* purgecss ignore */
-.document .footnotes li p:last-of-type {
-  margin-bottom: 0.2em;
 }
 
 
