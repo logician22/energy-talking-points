@@ -6,6 +6,7 @@ import "@fontsource/lato/400.css";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import "./all.scss";
+import "./footnote.scss";
 import useSiteMetadata from "./SiteMetadata";
 
 const TemplateWrapper = (props) => {
