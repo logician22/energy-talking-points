@@ -96,8 +96,8 @@ _In preparation for the hearing, I wanted to see what the witness in favor of th
 
     [Mitch Rolling and Isaac Orr - Cooking the Books: How Studies Favorable to Wind and Solar Are Propped Up On Unrealistic Cost Assumptions](https://energybadboys.substack.com/p/cooking-the-books-how-studies-favorable)
 
-    Even Lazard, which for years provided dishonest footnotes for deniers of high solar / wind costs, now acknowledges that solar and wind are more expensive than natural gas. They still use flawed analysis, not considering the full system costs of each electricity source.
-    [Lazard - Levelized Cost of Energy+](https://www.lazard.com/research-insights/levelized-cost-of-energyplus/)
+    Even Lazard, which for years provided dishonest footnotes for deniers of high solar / wind costs, now acknowledges that solar and wind are more expensive than natural gas. They still use flawed analysis, not considering the full system costs of each electricity source.\
+    [Lazard - Levelized Cost of Energy+](https://www.lazard.com/research-insights/levelized-cost-of-energyplus/)\
     [Isaac Orr and Mitch Rolling - Lazard's Low-End LCOE Estimates for Solar Are Still Too Optimistic](https://energybadboys.substack.com/p/lazards-low-end-lcoe-estimates-for)
     [Isaac Orr and Mitch Rolling - Cooking the Books 2: Lazard's Levelized Cost of Energy Estimates for Wind](https://energybadboys.substack.com/p/cooking-the-books-2-lazards-levelized)
 
@@ -106,7 +106,7 @@ _In preparation for the hearing, I wanted to see what the witness in favor of th
 [^3]: [U.S. Energy Information Administration - U.S. Natural Gas Electric Power Prices](https://www.eia.gov/dnav/ng/hist/n3045us3m.htm)
 
 [^4]:
-    A 2024 report by the Breakthrough Institute revealed how environmental NGOs have systematically abused the NEPA process to delay and obstruct forest management, one of the most-affected activities by litigation and regulation.
+    A 2024 report by the Breakthrough Institute revealed how environmental NGOs have systematically abused the NEPA process to delay and obstruct forest management, one of the most-affected activities by litigation and regulation.\
     [Breakthrough Institute - Understanding NEPA Litigation](https://thebreakthrough.org/issues/energy/understanding-nepa-litigation)
 
     [Alex Epstein - Maui's wildfire tragedy caused by “green” policies, not warming](https://energytalkingpoints.com/mauis-wildfire-tragedy-caused-by-%E2%80%9Cgreen%E2%80%9D-policies-not-warming/)
