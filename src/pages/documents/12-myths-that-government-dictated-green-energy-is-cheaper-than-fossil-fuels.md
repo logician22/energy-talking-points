@@ -74,7 +74,7 @@ _In preparation for the hearing, I wanted to see what the witness in favor of th
 
     **Truth:** To know the cost of solar and wind one has to look at the full system cost, not the “wholesale electricity costs.” **The full system cost of solar and wind has been disastrous for Texas,** as evidenced by their total failure to provide meaningful electricity during [Winter Storm Uri](https://energytalkingpoints.com/texas-electricity-crisis/), which Texans are still paying a fortune for.[^5]
 
-- ***Myth:** _“The prospect of swiftly declining domestic demand for oil and gas is provoking the industry to build new export facilities, hoping to find overseas markets for liquefied natural gas (LNG).”_
+- **Myth:** _“The prospect of swiftly declining domestic demand for oil and gas is provoking the industry to build new export facilities, hoping to find overseas markets for liquefied natural gas (LNG).”_
 
     **Truth:** Industry is not “hoping” to find markets, **US natural gas is desperately needed across the world!** This includes European countries that desperately need more natural gas to support their unreliable solar and wind capacity on their expensive power grids.[^6]
 
