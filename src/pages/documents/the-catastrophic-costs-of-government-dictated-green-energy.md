@@ -21,8 +21,8 @@ My name is Alex Epstein. I am a non-partisan philosopher and energy expert. I am
 The basic idea of government-dictated green energy is that the government should force us to rapidly replace our use of fossil fuel energy with so-called green energy—above all, solar and wind—such that we reach net-zero GHG emissions by 2050.
 
 There are three basic truths you need to know about the costs of government-dictated green energy:\
-    1) They have been enormous so far
-    2) They would have been catastrophic had it not been for the resistance of their opponents
+    1) They have been enormous so far\
+    2) They would have been catastrophic had it not been for the resistance of their opponents\
     3) They will be apocalyptic if not stopped in the future
 
 All the energy-related problems we have experienced in recent years—higher gasoline prices, higher heating bills, higher electricity bills, and unreliable electricity—are the result of government-dictated green energy policies.
