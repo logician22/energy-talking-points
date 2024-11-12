@@ -88,7 +88,9 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
 
-    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.\Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.
+
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^4]:
     The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019.
@@ -134,7 +136,9 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
 
-    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.\Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.
+
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^19]:
     Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.
