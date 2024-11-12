@@ -35,8 +35,8 @@ featuredimage: /img/subsidies.jpeg
 
 [^2]: [Texas Public Policy Foundation - Federal Energy Subsidies and Support from 2010 to 2019 (p.13)](https://lifepowered.org/wp-content/uploads/2020/07/2020-04-RR-Bennett-LP-Federal-Energy-Subsidies-2.pdf)
 
-[^2]:
+[^3]:
     As an example, the implementation of Renewable Portfolio Standards forces grid operators to use increasing shares of renewable sources, mostly solar and wind by law.\
     [U.S. Energy Information Administration - Renewable energy explained Portfolio standards](https://www.eia.gov/energyexplained/renewable-sources/portfolio-standards.php)
 
-[^3]: [Talking Points on the So-Called Climate Crisis](https://energytalkingpoints.com/climate-crisis/)
+[^4]: [Talking Points on the So-Called Climate Crisis](https://energytalkingpoints.com/climate-crisis/)
