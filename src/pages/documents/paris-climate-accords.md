@@ -29,8 +29,6 @@ Reason #1 why Biden should not rejoin Paris: to do so without Senate authorizati
 * The Paris Accords, an unprecedented commitment to change our economy, is a treaty if there ever was one. Obama had no right to enter it unilaterally, and neither does Biden.
 * Treaties require Senate ratification. The State Dept classifies something as a treaty using 8 criteria, including 1) it affects the whole nation, 2) it requires state law changes, and 3) it requires new federal legislation. These and the other 5 all apply to the Paris Accords.[^13]
 
-<br />
-
 #### Anti-America
 
 Reason #2 why Biden should not rejoin Paris: it goes against US interests.
@@ -38,8 +36,6 @@ Reason #2 why Biden should not rejoin Paris: it goes against US interests.
 * The Paris Climate Accords commit the US to emissions reductions that would make our energy uncompetitively expensive--while China committed to nothing. Joining it was being a sucker, not a leader.
 * The nonpartisan National Economic Research Associates concluded that pursuing the Obama/Biden plan to achieve the Paris Climate Accords would cause rising economic damage reaching $2 trillion a year—about $15,000 a household—by 2040.[^14]
 * The nonpartisan National Economic Research Associates also concluded that pursuing the Obama/Biden plan to achieve the Paris Climate Accords would destroy 6.5 million American industrial jobs by 2040.[^15]
-
-<br />
 
 #### Immoral
 
@@ -54,8 +50,6 @@ Reason #3 why Biden should not rejoin the Paris Climate Accords: it is immoral.
 7. If the world continues using fossil fuels to provide low-cost, reliable, global-scale energy, the result will not be a climate crisis but continued manageable warming, significant greening, and a far better life for billions who will have the power to develop and flourish.
 8. If America tries to rapidly eliminate fossil fuel use by following the Paris Climate Accords we will not prevent a crisis, we will cause a crisis by making energy completely unreliable and unaffordable for American industry and American consumers.
 
-<br />
-
 #### Alternatives
 
 If the US shouldn't rejoin the Paris Climate Accords, what should we do?
@@ -68,8 +62,6 @@ Second, liberate oppressed non-carbon alternatives, above all nuclear energy.
 * America can lower emissions and energy costs by decriminalizing nuclear energy. Nuclear is actually the safest source of energy and the only way to provide reliable non-carbon electricity anywhere in the world. Yet politicians are overregulating it to death.[^24]
 * Ultra-clean, reliable nuclear plants are being shut down despite ultra-low fuel costs. Why? Because of policies like the PTC/ITC wind/solar subsidies, which force us to overpay for unreliable power and underpay for reliable power. And Congress just renewed these abominations![^25]
 * The fossil fuel bans and “renewables only” policies supported by most Democratic politicians will make American energy incredibly unreliable and expensive. That won’t stop CO2 emissions from rising but it will ruin the American economy.
-
-<br />
 
 #### Full cost
 
@@ -92,7 +84,6 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
 
 [^3]:
-
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
@@ -100,7 +91,6 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.\Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^4]:
-
     The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019.
 
 [^5]: [Climate Action Tracker - Pledges and Targets for China](https://climateactiontracker.org/countries/china/targets/)
@@ -112,7 +102,6 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 [^8]: “The vision, unveiled at the United Nations climate conference in Morocco, shows the United States could reduce its carbon emissions by 80% below 2005 levels by 2050, largely by cutting emissions from the electric generating sector.” - [Utility Dive - Obama administration unveils path for deep decarbonization for Paris Climate Accord](https://www.utilitydive.com/news/obama-administration-unveils-path-for-deep-decarbonization-for-paris-climat/430665/)
 
 [^9]:
-
     “As part of the Paris outcome, developed countries were urged to scale-up their level of support with a concrete roadmap to achieve the goal of mobilising US$100 billion per year by 2020 for climate action in developing countries.” - [UNFCCC - Roadmap to US$100 Billion](https://unfccc.int/sites/default/files/resource/climate-finance-roadmap-to-us100-billion.pdf)
 
 [^10]: [EurekaAlert - The truth behind the Paris Agreement climate pledges](https://www.eurekalert.org/pub_releases/2019-11/tca-ttb110119.php)
@@ -120,7 +109,6 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 [^11]: [https://climateactiontracker.org/](https://climateactiontracker.org/)
 
 [^12]:
-
     [New Scientist - Record CO2 emissions drop in 2020 won't do much to halt climate change](https://www.newscientist.com/article/2262513-record-co2-emissions-drop-in-2020-wont-do-much-to-halt-climate-change/)
 
     “A record 7 per cent drop in global carbon emissions this year will make no difference to long-term climate change, say researchers.”
@@ -132,20 +120,16 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
     [NERA - Impacts of Greenhouse Gas Regulations On the Industrial Sector](https://accf.org/wp-content/uploads/2017/03/170316-NERA-ACCF-Full-Report.pdf)
 
 [^15]:
-
     “Taking into account the loss in employment in other non-manufacturing sectors, the job-equivalents impact for the overall industrial sector could be about 1.1 million job-equivalents in 2025 and 6.5 million in 2040.”\
     [NERA - Impacts of Greenhouse Gas Regulations On the Industrial Sector](https://accf.org/wp-content/uploads/2017/03/170316-NERA-ACCF-Full-Report.pdf)
 
 [^16]:
-
     Coal, oil, and gas combined provide over 80% of global energy consumed.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^17]: Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274.
 
-
 [^18]:
-
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
@@ -153,20 +137,17 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown population is assumed to have grown at a steady rate.\Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^19]:
-
     Using the average world population in the 1980s (4.8 billion) and the 2010s (7.3 billion) and the average deaths per year from all meteorological, hydrological, and climatological disasters for both decades (66,697 and 18,342 respectively), the annual deaths rates per one million people from climate-related disasters has declined by over 80% from 13.8 to 2.5.
 
     Disaster deaths from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).\
     Population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^20]:
-
     The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019.
 
     [Climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
 [^21]:
-
     Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
 
     “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.
@@ -176,20 +157,17 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
     Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” - [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://www.nature.com/articles/s43017-019-0001-x)
 
 [^22]:
-
     Combined, China and India have 288 new coal plants (over [300 GW of capacity](https://docs.google.com/spreadsheets/d/1W-gobEQugqTR_PP0iczJCrdaR-vYkJ0DzztSsCJXuKw/edit#gid=822738567)) under construction or in the planning phase as of July 2020.\
     [Global Coal Tracker by Global Energy Monitor](https://docs.google.com/spreadsheets/d/1kXtAw6QvhE14_KRn5lnGoVPsHN3fDZHVMlvz_s_ch1w/edit#gid=165011444)
 
 
 [^23]:
-
     The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
 
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
 
 [^24]:
-
     Nuclear energy is statistically the safest form of energy production by a wide margin, regardless of whether one takes into account speculative health impacts from air pollution, which nuclear technology does not create. No other relevant technologies cause so few casualties per unit of energy produced.
 
     [World Nuclear Association - Safety of Nuclear Power Reactors](https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors.aspx)
@@ -202,24 +180,20 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 [^27]: “The losses become larger in the long run as the “mid-term” deep decarbonization target constrains the economy significantly. The U.S. economy could lose about 6% of its GDP on average between 2034 and 2040 amounting to a loss of greater than $2 trillion annually and a cumulative loss of $14 trillion.”[NERA - Impacts of Greenhouse Gas Regulations On the Industrial Sector](https://accf.org/wp-content/uploads/2017/03/170316-NERA-ACCF-Full-Report.pdf)
 
 [^28]:
-
     “Taking into account the loss in employment in other non-manufacturing sectors, the job-equivalents impact for the overall industrial sector could be about 1.1 million job-equivalents in 2025 and 6.5 million in 2040.”\
     [NERA - Impacts of Greenhouse Gas Regulations On the Industrial Sector](https://accf.org/wp-content/uploads/2017/03/170316-NERA-ACCF-Full-Report.pdf)
 
 
 [^29]:
-
     “At this moment of profound crisis, we have the opportunity to build a more resilient, sustainable economy – one that will put the United States on an irreversible path to achieve net-zero emissions, economy-wide, by no later than 2050.\
     …\
     Move ambitiously to generate clean, American-made electricity to achieve a carbon pollution-free power sector by 2035. This will enable us to meet the existential threat of climate change while creating millions of jobs with a choice to join a union.”\
     [Joe Biden’s Clean Energy Plan](https://joebiden.com/clean-energy/)
 
-
 [^30]:
     “Biden will make a $2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.”[Joe Biden’s Clean Energy Plan](https://joebiden.com/clean-energy/)
 
 [^31]:
-
     “There is only one nation that has done an independent cost estimate of net-zero, namely New Zealand. The Kiwis found the average best-case cost is 16 percent of GDP, or a US cost of more than $5 trillion a year by mid-century.”\
     [Bjorn Lomborg - Joe Biden’s climate-change plans will burn billions, won’t bring change we actually need](https://nypost.com/2021/01/15/joe-bidens-climate-change-plans-will-burn-billions/)
 
