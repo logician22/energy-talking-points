@@ -130,7 +130,7 @@ Originally published on November 16, 2022
     Had such a framework existed we wouldn’t have today’s electricity emergency.
 
 
-###References
+### References
 
 [^1]: [America’s Power - What Others Are Saying About the Potential Reliability Crisis](https://americaspower.org/what-others-are-saying-about-the-potential-reliability-crisis/)
 

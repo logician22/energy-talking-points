@@ -80,7 +80,7 @@ module.exports = {
       options: {
         develop: true, // Activates purging in npm run develop
         purgeOnly: ["/all.scss"], // applies purging only on the bulma css file
-        printRejected: true,
+        // printRejected: true,
         whitelist: [".footnote-backref"],
       },
     }, // must be after other CSS plugins
