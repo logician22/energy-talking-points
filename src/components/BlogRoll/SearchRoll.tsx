@@ -27,11 +27,7 @@ export const SearchRoll = (props: { edges: PostEdge[]; search: string }) => {
   const results = fuse.search(search);
 
   return (
-    <div
-      className="columns is-multiline is-desktop"
-      // Make list a single column, for full-width hits
-      style={{ flexDirection: "column" }}
-    >
+    <div className="flex flex-col gap-6">
       {results.map(({ item: post }) => {
         return (
           <ArticleCard

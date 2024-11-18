@@ -24,7 +24,7 @@ const BlogRoll = (props: {
   const posts = orderPostEdges(edges) || [];
 
   return (
-    <div className={`columns is-multiline`}>
+    <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
       {posts.map(({ node: post }) => (
         <ArticleCard
           post={post as Post & { body?: string }}

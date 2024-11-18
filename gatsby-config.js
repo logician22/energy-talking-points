@@ -68,6 +68,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-postcss",
     {
       resolve: `gatsby-plugin-decap-cms`,
       options: {

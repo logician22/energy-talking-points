@@ -81,7 +81,7 @@ const SearchExcerpt = ({
         {lines
           .slice(0, limit)
           .join("\n\n...\n\n")
-          .concat(limitedLines ? "\n\n..." : "null")}
+          .concat(limitedLines ? "\n\n..." : "")}
       </Markdown>
     </>
   ) : (
@@ -116,10 +116,7 @@ export const ArticleCard = ({
 }) => {
   const isSearch = search.length > SEARCH_THRESHOLD;
   return (
-    <div
-      className={`is-parent column is-${isSearch ? "12" : "6"}`}
-      key={post.frontmatter.title}
-    >
+    <div key={post.frontmatter.title}>
       <article
         className={`blog-list-item tile is-child box notification`}
         style={{
