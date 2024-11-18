@@ -1,11 +1,22 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
+import { debounce } from "lodash";
 
 import Layout from "../components/Layout";
-import BlogRoll from "../components/BlogRoll";
+import BlogRoll from "../components/BlogRoll/index";
 import SignUpBar from "../components/SignUpBar";
 
 const BlogIndexPage = () => {
   const [search, setSearch] = useState("");
+  const [debouncedSearch, setDebouncedSearch] = useState("");
+
+  useEffect(() => {
+    const debounced = debounce(() => {
+      setDebouncedSearch(search);
+    }, 500);
+    debounced();
+    return debounced.cancel;
+  }, [search]);
+
   return (
     <Layout>
       <section className="section has-background-white has-">
@@ -50,7 +61,7 @@ const BlogIndexPage = () => {
                 />
               </div>
             </div>
-            <BlogRoll search={search} />
+            <BlogRoll search={debouncedSearch} />
           </div>
         </div>
       </section>
