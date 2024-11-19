@@ -32,8 +32,8 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
     ![Global Insured Catastrophe Losses as Percent of Global GDP](/img/image-3-global-insured-catastrophe-losses.jpg)
 
 - **3 keys to understanding climate damage statistics:**\
-    **1) Damage should be measured as percentage of GDP** not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)
-    **2) More people today choose to live in damage-prone areas.**
+    **1) Damage should be measured as percentage of GDP** not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)\
+    **2) More people today choose to live in damage-prone areas.**\
     **3) Government bailout policies increase damage.**\
     [Shellenberger Hurricane Damage](https://x.com/shellenberger/status/1577322251602509826)
     ![Shellenberger Hurricane Damage](/img/schellenberger-hurricane-damage.jpg)
@@ -57,7 +57,7 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
 - Myth: Floods are a bigger danger than ever thanks to fossil fuels.
 
     Truth: **Floods are a smaller danger than ever** thanks to fossil-fueled flood control infrastructure and disaster relief.[^5]
-    ![World Death Rate from Floods vs G7 Death Rate from Floods](static/img/flood-deaths.png)
+    ![World Death Rate from Floods vs G7 Death Rate from Floods](/img/flood-deaths.png)
 
 - Myth: Fossil fuels don’t deserve much credit for plummeting climate disaster deaths; it’s “resilience.”
 
