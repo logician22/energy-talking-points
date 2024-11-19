@@ -35,8 +35,9 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
 
     **1) Damage should be measured as percentage of GDP** not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)\
     **2) More people today choose to live in damage-prone areas.**\
-    **3) Government bailout policies increase damage.**\
-    [Shellenberger Hurricane Damage](https://x.com/shellenberger/status/1577322251602509826)
+    **3) Government bailout policies increase damage.**
+
+    [Michael Shellenberger on Hurricane Damage](https://x.com/shellenberger/status/1577322251602509826)
     ![Shellenberger Hurricane Damage](/img/schellenberger-hurricane-damage.jpg)
 
 - Myth: The damage of Milton shows how destructive today’s climate has become.
