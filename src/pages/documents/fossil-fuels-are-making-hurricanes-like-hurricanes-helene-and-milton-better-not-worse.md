@@ -34,9 +34,9 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
 - **3 keys to understanding climate damage statistics:**\
     **1) Damage should be measured as percentage of GDP** not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)
     **2) More people today choose to live in damage-prone areas.**
-    **3) Government bailout policies increase damage.**
-    [Schellenberger Hurricane Damage](https://x.com/shellenberger/status/1577322251602509826)
-    ![Schellenberger Hurricane Damage](/img/schellenberger-hurricane-damage.jpg)
+    **3) Government bailout policies increase damage.**\
+    [Shellenberger Hurricane Damage](https://x.com/shellenberger/status/1577322251602509826)
+    ![Shellenberger Hurricane Damage](/img/schellenberger-hurricane-damage.jpg)
 
 - Myth: The damage of Milton shows how destructive today’s climate has become.
 
@@ -166,9 +166,9 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
 - Commentators love to claim a scientific connection between hurricanes and climate change because these storms are so impactful and could help their political agenda. But hurricanes are a particularly bad example because empirical science doesn’t show a danger increase so far.[^20]
     ![Atlantic Hurricane Evidence](/img/atlantic-hurricane-evidence.jpg)
 
-- One of the few climate researchers who is openly looking at the full impact of fossil fuels on climate, including potential avoided damage, is **meteorologist and hurricane expert Dr. Ryan Maue. What are the chances we see his point about avoided hurricanes in the mainstream news?**
-    [Ryan Maue Hurricanes](/img/ryan-maue-hurricanes.jpg)
-    ![Ryan Maue Hurricanes](https://x.com/RyanMaue/status/1564800150710673409)
+- One of the few climate researchers who is openly looking at the full impact of fossil fuels on climate, including potential avoided damage, is **meteorologist and hurricane expert Dr. Ryan Maue. What are the chances we see his point about avoided hurricanes in the mainstream news?**\
+    [Ryan Maue Hurricanes](https://x.com/RyanMaue/status/1564800150710673409)
+    ![Ryan Maue Hurricanes](/img/ryan-maue-hurricanes.jpg)
 
 - Myth: We can expect fossil fuels to make extreme weather far more dangerous in the future.
 
