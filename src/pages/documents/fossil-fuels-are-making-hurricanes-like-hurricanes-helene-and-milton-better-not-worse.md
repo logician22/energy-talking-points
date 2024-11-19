@@ -31,7 +31,8 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
     Truth: **Despite many incentives for global climate-related damages to go up**—preferences for riskier areas, government bailouts—**GDP-adjusted climate-related damages are flat.**[^2]
     ![Global Insured Catastrophe Losses as Percent of Global GDP](/img/image-3-global-insured-catastrophe-losses.jpg)
 
-- **3 keys to understanding climate damage statistics:**\
+- **3 keys to understanding climate damage statistics:**
+
     **1) Damage should be measured as percentage of GDP** not compared dollar-for-dollar to a poorer past with less wealth at risk. (E.g., Miami Beach)\
     **2) More people today choose to live in damage-prone areas.**\
     **3) Government bailout policies increase damage.**\
