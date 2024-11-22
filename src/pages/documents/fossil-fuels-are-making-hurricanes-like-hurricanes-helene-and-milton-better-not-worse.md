@@ -152,7 +152,7 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
     Truth: **Certain climate attribution “scientists” admit that they are motivated by political goals and shape their “science” accordingly.** E.g., media favorite Friederike Otto wants climate research “on the offensive.”[^18]
     ![Otto WWA Impact Lawsuit](/img/otto-lawsuits.png)
 
-    - Even though there’s no signal of significant fossil fuel impact on hurricanes, the climate catastrophist media and researchers try to still somehow blame fossil fuels for large percentages of hurricane death tolls and damages. Attempts to do so are thoroughly dishonest.
+- Even though there’s no signal of significant fossil fuel impact on hurricanes, the climate catastrophist media and researchers try to still somehow blame fossil fuels for large percentages of hurricane death tolls and damages. Attempts to do so are thoroughly dishonest.
 
 - Myth: Attributions of X% of an extreme weather event to humans are credible.
 
