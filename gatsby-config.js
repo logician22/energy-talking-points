@@ -77,15 +77,6 @@ module.exports = {
     },
     "gatsby-plugin-robots-txt",
     {
-      resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
-      options: {
-        develop: true, // Activates purging in npm run develop
-        purgeOnly: ["/all.scss"], // applies purging only on the bulma css file
-        // printRejected: true,
-        whitelist: [".footnote-backref"],
-      },
-    }, // must be after other CSS plugins
-    {
       resolve: "gatsby-plugin-google-tagmanager",
       options: {
         id: "GTM-TDDJQMJ",
