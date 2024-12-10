@@ -44,7 +44,7 @@ _Originally published: November 13, 2024_
 
 ### Even barely implementing COP 29’s net-zero agenda has been disastrous.
 
-- While COP 28 leaders bemoan how slow their restriction of fossil fuels in pursuit of net-zero has been, **even “slow” restriction has caused a global energy crisis.**
+- While COP 29 leaders bemoan how slow their restriction of fossil fuels in pursuit of net-zero has been, **even “slow” restriction has caused a global energy crisis.**
 
 - Myth: Net-zero policies are new and exciting.
 
