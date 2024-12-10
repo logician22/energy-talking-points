@@ -38,7 +38,7 @@ _Originally published: November 13, 2024_
 
     Truth: **Mainstream science shows that rising CO2 levels will lead to levels of warming and other changes that we can master and flourish with.**
 
-- For the full story on how fossil fuels overall make us far safer from climate and will continue to do so, read this:
+- For the full story on how fossil fuels overall make us far safer from climate and will continue to do so, read this:\
     [The climate safety denial movement](https://energytalkingpoints.com/the-climate-safety-denial-movement/)
     ![The climate safety denial movement](/img/the-climate-safety-denial-movement.jpg)
 
@@ -60,7 +60,7 @@ _Originally published: November 13, 2024_
 
 - If just restricting the growth of fossil fuels in a world that needs far more energy is catastrophic, **what would it mean to reduce CO2 emissions by the 50% many “climate emergency” advocates want by 2030 and the 100% they want by 2050?**
 
-    **Global misery and premature death.**
+    **Global misery and premature death.**\
     [Every "net zero by 2050" myth, refuted](https://energytalkingpoints.com/every-net-zero-by-2050-myth-refuted/)
     ![Every "net zero by 2050" myth, refuted](/img/every-net-zero-by-2050-myth-refuted.jpg)
 
@@ -100,13 +100,13 @@ _Originally published: November 13, 2024_
 
 - **Rejecting net-zero, including the Paris Agreement, and embracing energy freedom requires collaboration among pro-freedom countries** like the US, developing nations such as African nations, and any reasonable energy companies.
 
-- **Developing nations, above all African nations, need to reject net-zero and embrace energy freedom:** the freedom to produce and use all cost-effective sources of energy—including, essentially, fossil fuels—which means rejecting all net-zero targets. Here’s a blueprint for doing it.
+- **Developing nations, above all African nations, need to reject net-zero and embrace energy freedom:** the freedom to produce and use all cost-effective sources of energy—including, essentially, fossil fuels—which means rejecting all net-zero targets. Here’s a blueprint for doing it.\
     [My Message to Leaders at Africa Energy Week 2023](https://energytalkingpoints.com/my-message-to-leaders-at-africa-energy-week-2023/)
     ![My Message to Leaders at Africa Energy Week 2023](/img/my-message-to-leaders-at-african-energy-week-2023.jpg)
 
 - The energy industry and obviously the fossil fuel industry should condemn COP and its net-zero goal. Appalling, ExxonMobil and others are actually calling for the US to stay in the net-zero Paris Agreement!
 
-    Here’s why this is both immoral and impractical.
+    Here’s why this is both immoral and impractical.\
     [The lesson of fossil fuel advocates' failure at COP 28](https://alexepstein.substack.com/p/the-lesson-of-fossil-fuel-advocates)
     ![The lesson of fossil fuel advocates' failure at COP 28](/img/arguing-to-0.jpg)
 
