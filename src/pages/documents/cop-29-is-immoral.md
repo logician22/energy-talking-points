@@ -53,6 +53,7 @@ _Originally published: November 13, 2024_
 - Minuscule net-zero policies causing huge problems:
 
     **US: frequent power shortages** after shutting down fossil fuel power plants.
+
     **EU: deadly fossil fuel dependence** after restricting their domestic fossil fuel industry.
 
     **Poor nations: can't afford fuel** due to global restrictions.[^2]
