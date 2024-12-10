@@ -19,7 +19,7 @@ _Originally published: November 13, 2024_
 
     This is 180° wrong.
 
-- **COP 29’s goal of rapidly eliminating fossil fuels to reach net-zero is deadly** because:\
+- **COP 29’s goal of rapidly eliminating fossil fuels to reach net-zero is deadly** because:
     1) Fossil fuels are making us far safer from climate along with improving every other aspect of life
     2) Even barely implementing COP’s net-zero agenda has been disastrous.
 
