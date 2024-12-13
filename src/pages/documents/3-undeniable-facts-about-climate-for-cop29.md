@@ -9,7 +9,7 @@ featuredimage: /img/3-undeniable-facts-climate-cop29.png
 ---
 _Originally published: November 15, 2024_
 
-    ![3 undeniable facts about climate for #COP29](/img/3-undeniable-facts-climate-cop29.png)
+![3 undeniable facts about climate for #COP29](/img/3-undeniable-facts-climate-cop29.png)
 
 - Climate debates often focus on exactly how much rising CO2 levels will impact the global climate.
 
