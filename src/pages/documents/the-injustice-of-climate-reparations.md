@@ -39,9 +39,9 @@ _Originally published: November 16, 2024_
 
 - **The wealthy world’s fossil fuel use has been particularly beneficial in the realm of climate.**
 
-Over the last 100 years, the death rate from climate-related disasters plummeted by 98% globally.
+    Over the last 100 years, the death rate from climate-related disasters plummeted by 98% globally.
 
-A big reason is millions of lives saved from drought via fossil-fueled crop transport.[^4]
+    A big reason is millions of lives saved from drought via fossil-fueled crop transport.[^4]
     ![Atmospheric CO2 vs climate-related disaster deaths](/img/atmospheric-co2.jpg)
 
 - The “climate reparations” movement **ignores the fact that the wealthy world’s fossil fuel use has made life better, including safer from climate, in the poor world.**
@@ -108,7 +108,7 @@ A big reason is millions of lives saved from drought via fossil-fueled crop tran
     2) **Encourage the poor world to embrace economic freedom and fossil fuels.**
 
     Tell your Representative to do both.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tdDtJvV0WA?si=CE7XFmx7EFCaDlT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7tdDtJvV0WA?si=CE7XFmx7EFCaDlT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### References
