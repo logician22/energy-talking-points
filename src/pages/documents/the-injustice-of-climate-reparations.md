@@ -18,7 +18,7 @@ _Originally published: November 16, 2024_
 
 - What would $1 trillion a year in climate reparations mean for you and your family?
 
-    Assuming the money was paid equally by households considered high income (>$50 per day), your household would have to pay more than $5,000 a year in climate reparations taxes!2
+    Assuming the money was paid equally by households considered high income (>$50 per day), your household would have to pay more than $5,000 a year in climate reparations taxes![^2]
 
 - Climate reparations are based on **two false assumptions:**
     1) Free, wealthy countries, through their fossil fuel use, have made the world worse for poor countries.
@@ -56,7 +56,7 @@ _Originally published: November 16, 2024_
 
 - While it’s not true that the wealthy world has increased climate danger in the poor world—we have reduced it—it is true that **the poor world is more endangered by climate than the wealthy world is.**
 
-- **The solution is for the poor to get rich. Which requires freedom and fossil fuels.**[^5]
+    **The solution is for the poor to get rich. Which requires freedom and fossil fuels.**[^5]
     ![World death rate from floods vs G7 death frate from floods](/img/world-death-rate-from-storms-vs-g7-death-rate-from-storms.png)
 
 ### Escaping poverty requires freedom and fossil fuels
