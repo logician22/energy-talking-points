@@ -62,6 +62,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     **He is abusing the SPR to harm America’s oil security, by depleting it when there isn’t a security threat to cover up the long-term security threat—and high cost—of his anti-oil policies.**
 
 
+
 ###References
 
 [^1]: [U.S. DOE, Office of Cybersecurity, Energy Security, and Emergency Response - Statutory Authority for an SPR Drawdown](https://www.energy.gov/ceser/statutory-authority-spr-drawdown)
