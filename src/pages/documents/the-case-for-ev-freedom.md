@@ -89,6 +89,11 @@ If EVs compete on a truly free market, **Americans will be free to drive whateve
 
 _Steffen Henne and Michelle Hung contributed to this piece._
 
+
+
+
+### References
+
 [^1]: [Alex Epstein - Biden's 67% EV policy: a dictatorial attack on the American driver and the US grid](https://alexepstein.substack.com/p/bidens-67-ev-policy-a-dictatorial)
 
 [^2]:
