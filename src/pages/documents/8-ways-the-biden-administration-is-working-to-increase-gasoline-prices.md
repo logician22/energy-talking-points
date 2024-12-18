@@ -40,14 +40,13 @@ _In fact, this is yet another cynical ploy to disguise that its real goal is rai
 
 - **Biden Gas Gouging Policy #2**
 
-    **Biden has worked to increase gasoline prices by expanding the anti-fossil-fuel ESG divestment movement.** ESG contributed to a 50% decline in oil and gas exploration investments from 2011-2021, resulting in artificially higher prices. Biden is making it worse.
+    **Biden has worked to increase gasoline prices by expanding the anti-fossil-fuel ESG divestment movement.** ESG contributed to a 50% decline in oil and gas exploration investments from 2011-2021, resulting in artificially higher prices. Biden is making it worse.\
     [Talking Points on the anti-energy, anti-development, and anti-America ESG movement](https://energytalkingpoints.com/esg-movement/)
     ![ESG Movement](/img/esg-movement.jpg)
 
 - **Biden Gas Gouging Policy #3**
 
-    **Biden has worked to increase gasoline prices via “climate disclosure rules,”** an oil and gas investment-slashing measure that coerces companies into spouting anti-fossil-fuel propaganda and committing to anti-fossil-fuel plans—plans that will raise gas prices.
-
+    **Biden has worked to increase gasoline prices via “climate disclosure rules,”** an oil and gas investment-slashing measure that coerces companies into spouting anti-fossil-fuel propaganda and committing to anti-fossil-fuel plans—plans that will raise gas prices.\
     [Climate Disclosure Fraud](https://energytalkingpoints.com/the-%E2%80%9Cclimate-disclosure%E2%80%9D-fraud/)
     ![The “climate disclosure” fraud](/img/climate-disclosure-fraud.jpg)
 
@@ -68,8 +67,7 @@ _In fact, this is yet another cynical ploy to disguise that its real goal is rai
 
 - **Biden Gas Gouging Policy #7**
 
-    **Biden has worked to increase gasoline prices by threatening to stop oil and gas mergers.** Mergers, which increase efficiency, benefit domestic production and lower prices. Blocking mergers raises oil prices long-term, which means higher gas prices.
-
+    **Biden has worked to increase gasoline prices by threatening to stop oil and gas mergers.** Mergers, which increase efficiency, benefit domestic production and lower prices. Blocking mergers raises oil prices long-term, which means higher gas prices.\
     [Why government should leave oil and gas mergers alone](https://energytalkingpoints.com/why-government-should-leave-oil-and-gas-mergers-alone/)
     ![Oil and Gas Mergers](/img/oil-and-gas-mergers.jpg)
 
@@ -105,7 +103,7 @@ _Michelle Hung contributed to this piece._
 [^3]: 
     [Institute for Energy Research - EPA Ups Estimates for the Social Cost of Carbon](https://www.instituteforenergyresearch.org/regulation/epa-ups-estimates-for-the-social-cost-of-carbon/)
 
-    A gallon of gasoline emits about 0.0081 metric tonnes of CO2.
+    A gallon of gasoline emits about 0.0081 metric tonnes of CO2.\
     [U.S. EIA - Carbon Dioxide Emissions Coefficients](https://www.eia.gov/environment/emissions/co2_vol_mass.php)
 
 [^4]: 
