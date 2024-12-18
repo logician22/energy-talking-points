@@ -205,7 +205,7 @@ featuredimage: /img/1-fact-check.jpg
     [PolitiFact - More deaths from climate policies than climate change? Scientists say Ramaswamy’s claim is baseless]( https://www.politifact.com/factchecks/2023/aug/24/vivek-ramaswamy/vivek-ramsaswamys-misleading-gop-debate-claim-abou/)
 
 
-   [USA Today - Video wrongly claims past disaster deaths show climate change isn't real | Fact check]( https://www.usatoday.com/story/news/factcheck/2023/11/27/false-claim-disaster-deaths-show-climate-change-not-real-fact-check/71249882007/)
+    [USA Today - Video wrongly claims past disaster deaths show climate change isn't real | Fact check]( https://www.usatoday.com/story/news/factcheck/2023/11/27/false-claim-disaster-deaths-show-climate-change-not-real-fact-check/71249882007/)
 
 
 [^3]:
