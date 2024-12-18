@@ -20,7 +20,6 @@ _A:_ ***“Addressing climate change” is the wrong target;*** _we want to_ ***
     And so far, **our climate mastery has far outpaced any new climate challenges.**
 
 - It’s an irrefutable but little-known fact that **as the world has warmed 1° C, humans have become safer than ever from climate danger.** The rate of climate-related disaster deaths—from storms, floods, temperature extremes, wildfires, and drought—has fallen 98% in the last century.[^1]
-
     ![Atmospheric CO2](/img/3-atmospheric-co2-climate-deaths.jpg)
 
 - Why has climate safety dramatically increased as climate has become warmer?
@@ -42,8 +41,7 @@ _A:_ ***“Addressing climate change” is the wrong target;*** _we want to_ ***
     Which means that **so far fossil fuels have been a climate hero, not villain.**
 
 - Going forward, any **climate impacts from fossil fuels’ CO2 emissions are only a climate problem if they,** totally contrary to our experience so far, **present challenges that overwhelm the climate mastery benefits of fossil fuels.**
-    Mainstream climate science doesn’t show this at all.
-
+    Mainstream climate science doesn’t show this at all.\
     [The climate safety denial movement](https://energytalkingpoints.com/the-climate-safety-denial-movement/)
     ![The climate safety denial movement](/img/1-fact-check.jpg)
 
@@ -135,7 +133,7 @@ _A:_ ***“Addressing climate change” is the wrong target;*** _we want to_ ***
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
@@ -156,5 +154,5 @@ _A:_ ***“Addressing climate change” is the wrong target;*** _we want to_ ***
 
 [^7]: [Roger Pielke Jr. - What the media won't tell you about ... Wildfires](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-783)
 
-[^8]: As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.
+[^8]: As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.\
     [Global Energy Monitor - Coal Plant Tracker, Coal Plants by Country (Power Stations)](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
