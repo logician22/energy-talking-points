@@ -18,7 +18,7 @@ _Originally published: June 3, 2024_
 - The last few years should have made clear that **our prosperity and security depend on having robust domestic oil and gas production.**
 
     E.g., Biden restricted oil production, then, when prices rose, felt compelled to dangerously drain the Strategic Petroleum Reserve and beg Saudi Arabia and Venezuela for oil.\
-    [How Biden’s abuse of the SPR](https://energytalkingpoints.com/spr/)
+    [How Biden’s abuse of the Strategic Petroleum Reserve to win votes harms our energy security](https://energytalkingpoints.com/spr/)
     ![How Biden’s abuse of the SPR](/img/biden-spr.jpg)
 
 - Instead of reversing course on its anti-oil-and-gas agenda, **the Biden administration has added yet another deadly component of it: opposing domestic oil and gas mergers.**
