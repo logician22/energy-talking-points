@@ -118,16 +118,14 @@ _Steffen Henne and Michelle Hung contributed to this piece._
 
 [^2]: [Visual Capitalist - How Mine Permitting Delays Impact the Transition to a Green Economy](https://elements.visualcapitalist.com/how-mine-permitting-delays-impact-the-transition-to-a-green-economy/)
 
-[^3]: 
-
+[^3]:
     [Reuters - Biden administration kills Antofagasta's Minnesota copper project](https://www.reuters.com/business/sustainable-business/biden-administration-kills-antofagastas-minnesota-copper-project-2022-01-26/)
 
     [Mining Technology - Twin Metals Minnesota (TMM) Mine, Minnesota](https://www.mining-technology.com/projects/twin-metals-minnesota-tmm-mine-minnesota/)
 
 [^4]: [U.S. EPA - Final Determination for Pebble Deposit Area](https://www.epa.gov/bristolbay/final-determination-pebble-deposit-area)
 
-[^5]: 
-
+[^5]:
     [Mining.com - Only rare earths miner in US to bypass China in supply deal with Sumitomo](https://www.mining.com/us-only-rare-earths-miner-to-bypass-china-in-supply-deal-with-sumitomo/)
 
     [U.S. DoD - DoD Awards $35 Million to MP Materials to Build U.S. Heavy Rare Earth Separation Capacity](https://www.defense.gov/News/Releases/Release/Article/2941793/dod-awards-35-million-to-mp-materials-to-build-us-heavy-rare-earth-separation-c/)
@@ -136,8 +134,7 @@ _Steffen Henne and Michelle Hung contributed to this piece._
 
 [^7]: [The Heritage Foundation - Rare Earths Supply Chains and Confrontation With China](https://www.heritage.org/defense/commentary/rare-earths-supply-chains-and-confrontation-china)
 
-[^8]: 
-
+[^8]:
     [Financial Times - China targets rare earth export curbs to hobble US defence industry](https://www.ft.com/content/d3ed83f4-19bc-4d16-b510-415749c032c1)
 
     [NBC News - China sanctions 5 U.S. defense companies over Taiwan arms sales](https://www.nbcnews.com/news/world/china-sanctions-5-us-defense-companies-taiwan-arms-sales-rcna132694)
@@ -146,17 +143,15 @@ _Steffen Henne and Michelle Hung contributed to this piece._
 
 [^9]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/finance/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
 
-[^10]: 
-
+[^10]:
     [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
-    “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”
+    “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”\
     [Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
 [^11]: [U.S. DoD - DoD Awards $35 Million to MP Materials to Build U.S. Heavy Rare Earth Separation Capacity](https://www.defense.gov/News/Releases/Release/Article/2941793/dod-awards-35-million-to-mp-materials-to-build-us-heavy-rare-earth-separation-c/)
 
-[^12]: 
-
+[^12]:
     [The Empire State Building - Facts and Figures](https://www.esbnyc.com/about/facts-figures)
 
     [Slate - The Story Behind That Viral Chinese Train Station Video](https://slate.com/business/2018/02/the-story-behind-that-viral-chinese-train-station-video.html)
