@@ -169,7 +169,7 @@ Truth: **Fossil fuels have made us much safer from extreme weather—and the rec
     ![Atlantic Hurricane Evidence](/img/atlantic-hurricane-evidence.jpg)
 
 - One of the few climate researchers who is openly looking at the full impact of fossil fuels on climate, including potential avoided damage, is **meteorologist and hurricane expert Dr. Ryan Maue. What are the chances we see his point about avoided hurricanes in the mainstream news?**\
-    [Ryan Maue Hurricanes](https://x.com/RyanMaue/status/1564800150710673409)
+    [Ryan Maue on Hurricanes](https://x.com/RyanMaue/status/1564800150710673409)
     ![Ryan Maue Hurricanes](/img/ryan-maue-hurricanes.jpg)
 
 - Myth: We can expect fossil fuels to make extreme weather far more dangerous in the future.
