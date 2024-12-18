@@ -67,14 +67,14 @@ _Originally published: May 16, 2024_
 - **In the face of woefully inadequate electricity supply for their AI goals, tech giant CEOs are finally speaking up about the lack of power.**
 
     E.g., Meta CEO Mark Zuckerberg said in an interview that energy will be the #1 bottleneck to AI progress.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9mjuo5oJxsM?si=iEiQRQ8K8QZ7hsHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9mjuo5oJxsM?si=iEiQRQ8K8QZ7hsHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **It is not enough for tech giants to warn us about the lack of reliable power. They need to take responsibility for their anti-fossil-fuel advocacy that helped cause it.** And they need to support energy freedom policies that allow all fuels to compete to provide reliable power.\
     [End preferences for unreliable electricity](https://energytalkingpoints.com/preferences/)
     ![End preferences for unreliable electricity](/img/end-preferences-unreliable-electricity.jpg)
 
 - An example of a tech giant influencer not taking any responsibility for causing the electricity crisis is BlackRock CEO Larry Fink, who pushed companies and governments to adopt "net-zero" policies using mostly solar/wind, but now admits they can't power AI data centers!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z0hFvW7ICYY?si=7cNkxNDtNe7a_zty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/z0hFvW7ICYY?si=7cNkxNDtNe7a_zty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - A better attitude toward electricity was expressed by OpenAI CEO Sam Altman: "There will always be people who wait and sit around and say ‘we shouldn't do AI because we may burn a little more carbon’... the anti-progress streak" and this "is something that we can all fight against.”[^9]
 
@@ -103,7 +103,6 @@ _Originally published: May 16, 2024_
 
 [^4]: [NERC - 2023 Long-Term Reliability Assessments](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx)
 
-
 [^5]: [Bloomberg - Data Centers Now Need a Reactor’s Worth of Power, Dominion Says](https://www.bloomberg.com/news/articles/2024-05-02/data-centers-now-need-a-reactor-s-worth-of-power-dominion-says)
 
 [^6]: 
@@ -112,7 +111,7 @@ _Originally published: May 16, 2024_
     [Lawrence Berkeley National Laboratory - United States Data Center Energy Usage Report (2016)](https://eta.lbl.gov/publications/united-states-data-center-energy)
 
 [^7]: 
-    [NERC - 2023 Long-Term Reliability Assessments]
+    [NERC - 2023 Long-Term Reliability Assessments](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx)
 
     [CA Energy Commission - Electric Generation Capacity and Energy](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data/electric-generation-capacity-and-energy)
 
