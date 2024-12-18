@@ -9,7 +9,7 @@ featuredimage: /img/3-core-truths-about-ffs.jpg
 _Originally published: August 6, 2024_
 
 _Over the last 2 weeks I shared Energy Sound Bites to support two core truths about fossil fuels:_\
-    1) _[We must think about fossil fuels in a balanced way.](https://energytalkingpoints.com/energy-sound-bites-on-fossil-fuels-part-1/)_
+    1) _[We must think about fossil fuels in a balanced way.]\(https://energytalkingpoints.com/energy-sound-bites-on-fossil-fuels-part-1/)_
     2) _[Only by using fossil fuels can 8 billion people have the energy they need to survive and flourish.](https://energytalkingpoints.com/energy-sound-bites-on-fossil-fuels-part-2/)_
 
 _Today, I’ll share Energy Sound Bites to support the third core truth:_ ***The climate positives of fossil fuels far outweigh the climate negatives.***
