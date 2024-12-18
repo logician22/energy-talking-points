@@ -25,8 +25,7 @@ _A:_ ***Government should eliminate all special preferences and all special puni
 
 - Pro-fossil-fuel opponents of carbon capture are right that **much support for carbon capture ends up conceding climate catastrophism**—and that this is a mistake.
 
-    **Fossil fuels supporters need to refute catastrophism,** above all by arguing that fossil fuels make us safer than ever from climate via climate mastery.
-
+    **Fossil fuels supporters need to refute catastrophism,** above all by arguing that fossil fuels make us safer than ever from climate via climate mastery.\
     [“What should government do to address climate change?”](https://energytalkingpoints.com/what-should-government-do-to-address-climate-change/)
     ![“What Should Governments do to Address Climate Change”](/img/what-should-governments-do-to-address-climate-change.JPG)
 
