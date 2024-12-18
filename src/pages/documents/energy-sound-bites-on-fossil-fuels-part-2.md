@@ -101,13 +101,13 @@ _Michelle Hung contributed to this piece._
 [^4]: [Bundesnetzagentur - SMARD](https://www.smard.de/home)
 
 [^5]:
-    Global primary energy consumption in 2023 was 619 EJ or about 471 TWh (= 471,000,000 MWh) per day. According to Tesla Megapacks cost about $226,000 per MWh without considering utility-scale maintenance and installation (2024 prices).
+    Global primary energy consumption in 2023 was 619 EJ or about 471 TWh (= 471,000,000 MWh) per day. According to Tesla Megapacks cost about $226,000 per MWh without considering utility-scale maintenance and installation (2024 prices).\
     [Tesla - Order Megapack](https://www.tesla.com/megapack/design)
 
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
 [^6]:
-    Fossil fuel use in 2018 according to BP (now data is curated by the Energy Institute) was 11,743.6 million tons oil equivalent ≈ 136,500,000 GWh, 1GW capacity at near maximum capacity factor ≈ 8,760 GWh/y → 15,582 GW, reactor reactor capacity needed → distributed over 3,650 days (10 years) → 4.2 GW per day.
+    Fossil fuel use in 2018 according to BP (now data is curated by the Energy Institute) was 11,743.6 million tons oil equivalent ≈ 136,500,000 GWh, 1GW capacity at near maximum capacity factor ≈ 8,760 GWh/y → 15,582 GW, reactor reactor capacity needed → distributed over 3,650 days (10 years) → 4.2 GW per day.\
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
 [^7]:
