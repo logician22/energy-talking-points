@@ -81,7 +81,7 @@ _Originally published: May 7, 2024_
 - **For decades, many fossil fuel companies have increasingly expressed opinions that concede climate catastrophism**, fail to articulate the unique benefits of fossil fuels, and even endorsed the catastrophic policy of “net zero by 2050.”
 
     ***This*** **is what they should be criticized for.**\
-    [YAF Case Against Net Zero](https://x.com/AlexEpstein/status/1744833998126260623)
+    [YAF The Case Against Net Zero](https://x.com/AlexEpstein/status/1744833998126260623)
     ![YAF Case Against Net Zero](/img/yaf-case-aginst-net-zero.jpg)
 
 - **Fossil fuel companies should say two things when threatened** for expressing pro-fossil-fuel opinions: **1) We have a 1st Amendment right to our opinions on energy and climate, and 2) We are now going to talk a lot more about the benefits, including climate benefits, of our industry.**
@@ -100,7 +100,7 @@ _Originally published: May 7, 2024_
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
