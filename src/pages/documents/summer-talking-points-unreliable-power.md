@@ -24,7 +24,7 @@ _________________________________________________
 
     This is absurd; **countries with much hotter temperatures than ours, like Singapore, are easily able to have a reliable grid.**[^2]
 
-- **The real cause of reliable problems is the obvious: government-dictated “green energy” policies** that punish reliable fossil fuels and nuclear, while privileging unreliable solar and wind.
+- **The real cause of reliability problems is the obvious: government-dictated “green energy” policies** that punish reliable fossil fuels and nuclear, while privileging unreliable solar and wind.
 
 - Since at any given time **solar and wind can go near zero, using them to replace reliable power doesn’t work.** E.g., during February 2021’s winter storm, TX solar and wind were totally out to lunch—but they’d taken tens of $billions that could have gone to reliable, resilient power.[^3]
 
