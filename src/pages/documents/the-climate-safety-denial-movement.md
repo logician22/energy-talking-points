@@ -187,87 +187,125 @@ featuredimage: /img/1-fact-check.jpg
 
 
 
-### References 
+### References
+
+
 
 [^1]: [Reuters - Fact Check: Drop in climate-related disaster deaths not evidence against climate ‘emergency’](https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
+
+
 
 [^2]:
     [Reuters - Fact Check: Drop in climate-related disaster deaths not evidence against climate ‘emergency’]( https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
 
+
     [NYT - Fact-Checking Vivek Ramaswamy on the Campaign Trail]( https://www.nytimes.com/2023/08/26/us/politics/vivek-ramaswamy-2024-campaign-fact-check.html)
+
 
     [PolitiFact - More deaths from climate policies than climate change? Scientists say Ramaswamy’s claim is baseless]( https://www.politifact.com/factchecks/2023/aug/24/vivek-ramaswamy/vivek-ramsaswamys-misleading-gop-debate-claim-abou/)
 
-    [USA Today - Video wrongly claims past disaster deaths show climate change isn't real | Fact check]( https://www.usatoday.com/story/news/factcheck/2023/11/27/false-claim-disaster-deaths-show-climate-change-not-real-fact-check/71249882007/)
+
+   [USA Today - Video wrongly claims past disaster deaths show climate change isn't real | Fact check]( https://www.usatoday.com/story/news/factcheck/2023/11/27/false-claim-disaster-deaths-show-climate-change-not-real-fact-check/71249882007/)
+
 
 [^3]:
     [UC San Diego - The Keeling Curve]( https://keelingcurve.ucsd.edu/)
 
+
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
+
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
 
 [^4]:
     [UC San Diego - The Keeling Curve]( https://keelingcurve.ucsd.edu/)
 
+
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
+
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
 
 [^5]:
     [Bjorn Lomborg on Twitter](https://twitter.com/BjornLomborg/status/1433478298894491650?s=20)
 
+
     [Michael Shellenberger on Twitter](https://twitter.com/shellenberger/status/1570776506384908295?s=20)
 
+
 [^6]: [Reuters - Fact Check: Drop in climate-related disaster deaths not evidence against climate ‘emergency’](https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
+
 
 [^7]:
     [UC San Diego - The Keeling Curve]( https://keelingcurve.ucsd.edu/)
 
+
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+
+
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
+
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
 
     [PolitiFact - More deaths from climate policies than climate change? Scientists say Ramaswamy’s claim is baseless](https://www.politifact.com/factchecks/2023/aug/24/vivek-ramaswamy/vivek-ramsaswamys-misleading-gop-debate-claim-abou/)
 
+
 [^8]: [Reuters - Fact Check: Drop in climate-related disaster deaths not evidence against climate ‘emergency’](https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
+
 
 [^9]: [Reuters - Fact Check: Drop in climate-related disaster deaths not evidence against climate ‘emergency’](https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
 
 [^10]: [Bjorn Lomborg on Twitter](https://x.com/BjornLomborg/status/1433478298894491650?s=20)
+
 
 [^11]:
     Image by Roger Pielke Jr.
 
     [Centre for Research on the Epidemiology of Disasters](https://www.yumpu.com/en/document/view/4492291/thirty-years-of-natural-disasters-1974-2003-the-numbers-em-dat)
 
+
 [^12]:
     [Ryan N. Maue - Climate Atlas, Global Tropical Cyclone Activity](https://climatlas.com/tropical/)
 
+
     [Roger Pielke Jr. - U.S. Hurricane Overview 2023](https://rogerpielkejr.substack.com/p/us-hurricane-overview-2023)
 
+
 [^13]: [Roger Pielke Jr. - Global Disaster Losses: 1990-2023](https://rogerpielkejr.substack.com/p/global-disaster-losses1990-2023)
+
 
 [^14]:
     [NOAA - U.S. struck with historic number of billion-dollar disasters in 2023](https://www.noaa.gov/news/us-struck-with-historic-number-of-billion-dollar-disasters-in-2023)
 
+
     [Roger Pielke Jr. - "Billion Dollar Disasters" are a National Embarrassment](https://rogerpielkejr.substack.com/p/billion-dollar-disasters-are-a-national)
+
 
 [^15]:
     [Reuters - Fact Check: Drop in climate-related disaster deaths not evidence against climate ‘emergency’](https://www.reuters.com/fact-check/drop-climate-related-disaster-deaths-not-evidence-against-climate-emergency-2023-09-19/)
 
+
     [World Bank Data - World GDP (constant 2015 US$)](https://data.worldbank.org/indicator/NY.GDP.MKTP.KD)
+
 
 [^16]: [NYT - Fact-Checking Vivek Ramaswamy on the Campaign Trail](https://www.nytimes.com/2023/08/26/us/politics/vivek-ramaswamy-2024-campaign-fact-check.html)
