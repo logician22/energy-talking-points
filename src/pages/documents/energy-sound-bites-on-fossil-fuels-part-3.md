@@ -105,7 +105,7 @@ _Michelle Hung contributed to this piece._
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
@@ -139,5 +139,5 @@ _Michelle Hung contributed to this piece._
 [^10]: [IPCC AR6, WG1](https://www.ipcc.ch/report/ar6/wg1/)
 
 [^11]: 
-    ‘The actual research on which the New York Times article is based mentions in its introduction that “coastal defenses are not considered” in its approach. That’s fine for an academic paper, but it’s ludicrous for the media to use its findings to produce claims of “20 million people underwater,” or for campaigners to suggest that this gives us reason to all become “alarmist.” The study shows that today, 110 million people are “underwater” regularly. In reality, almost every one of them is well protected. The real story here is the triumph of ingenuity and adaptation.’
+    ‘The actual research on which the New York Times article is based mentions in its introduction that “coastal defenses are not considered” in its approach. That’s fine for an academic paper, but it’s ludicrous for the media to use its findings to produce claims of “20 million people underwater,” or for campaigners to suggest that this gives us reason to all become “alarmist.” The study shows that today, 110 million people are “underwater” regularly. In reality, almost every one of them is well protected. The real story here is the triumph of ingenuity and adaptation.’\
     [Bjorn Lomborg - False Alarm, p. 22](https://www.amazon.de/dp/1541647467?ref=cm_sw_r_cp_ud_dp_CZ3A4NXATZA2WT59Q99Q&ref_=cm_sw_r_cp_ud_dp_CZ3A4NXATZA2WT59Q99Q&social_share=cm_sw_r_cp_ud_dp_CZ3A4NXATZA2WT59Q99Q)
