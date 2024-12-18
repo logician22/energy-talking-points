@@ -26,8 +26,7 @@ _Originally published: May 22, 2024_
 
 ### 2. EV and AI demand will make the electricity crisis far worse
 
-- At the same time that demand from data centers is projected to skyrocket in order to power energy-hungry AI, **the Administration has pledged to add massive artificial demand through EV mandates.**
-
+- At the same time that demand from data centers is projected to skyrocket in order to power energy-hungry AI, **the Administration has pledged to add massive artificial demand through EV mandates.**\
     [Biden's EV mandate - a dictatorial attack](https://energytalkingpoints.com/bidens-ev-mandate-a-dictatorial-attack-on-the-american-driver-and-the-us-grid/)
     ![Biden’s EV Mandate](/img/biden-ev-mandate.jpg)
 
@@ -146,7 +145,7 @@ _Originally published: May 22, 2024_
 _Michelle Hung and Steffen Henne contributed to this piece._
 
 
-###References
+### References
 
 [^1]: [NERC - 2023 Long-Term Reliability Assessment](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx)
 
@@ -162,8 +161,7 @@ _Michelle Hung and Steffen Henne contributed to this piece._
 
 [^7]: [U.S. DOE - IRA and carbon management opportunities in tribal nations](https://www.energy.gov/sites/default/files/2023-03/IRA-and-Carbon-Management-Opportunities-in-Tribal-Nations.pdf)
 
-[^8]: 
-
+[^8]:
     [Institute for Energy Economics and Financial Analysis - U.S. on track to close half of coal capacity by 2026](https://ieefa.org/resources/us-track-close-half-coal-capacity-2026#:~:text=The%20United%20States%20is%20rapidly,capacity%2C%20which%20peaked%20in%202011.)
 
     [U.S. EIA - Electric Power Monthly](https://www.eia.gov/electricity/data.php)
@@ -172,14 +170,12 @@ _Michelle Hung and Steffen Henne contributed to this piece._
 
 [^9]: [U.S. EIA - Capacity Factors for Utility Scale Generators Primarily Using Fossil Fuels](https://www.eia.gov/electricity/annual/html/epa_04_08_a.html)
 
-[^10]: 
-
+[^10]:
     [U.S. EIA - Henry Hub Natural Gas Spot Price](https://www.eia.gov/dnav/ng/hist/rngwhhdm.htm)
 
     [U.S. Office of Energy Efficiency & Renewable Energy - Hydrogen Storage](https://www.energy.gov/eere/fuelcells/hydrogen-storage)
 
 [^11]: [U.S. EIA - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/balancing_authority/ERCO)
-
 
 [^12]: [U.S. EIA - Solar and battery storage to make up 81% of new U.S. electric-generating capacity in 2024](https://www.eia.gov/todayinenergy/detail.php?id=61424)
 
