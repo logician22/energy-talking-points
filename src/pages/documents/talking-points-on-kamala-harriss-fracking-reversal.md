@@ -14,7 +14,7 @@ Myth: Kamala Harris used to be for banning fracking, but now she supports fracki
 Truth: **Kamala Harris is still for banning fracking—because she is still for the** ***net-zero agenda that requires banning fracking*** along with all other fossil fuel activities.
     ![Kamala Ban Fracking Still True](/img/kamala-ban-fracking-still-true.jpg)
 
-- **Kamala Harris**, who in 2019 said, “There is no question I am in favor of banning fracking,” **now tells voters in fracking-dependent states like Pennsylvania that she is no longer wants to ban fracking.**
+- **Kamala Harris**, who in 2019 said, “There is no question I am in favor of banning fracking,” **now tells voters in fracking-dependent states like Pennsylvania that she no longer wants to ban fracking.**
 
     **They shouldn’t believe her**, since Harris’s net-zero agenda _requires_ banning fracking.[^1]
 
