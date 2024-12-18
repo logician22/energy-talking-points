@@ -94,8 +94,7 @@ So he's circumventing the legislative process by **having the SEC coerce compani
 
     Because the energy industry powers every other industry, bad energy plans harm all of us.
 
-- **We've already seen from the ESG movement how pushing companies against fossil fuels harms everyone.** From 2011-2021, ESG contributed to oil and gas exploration investments declining 50%. Less investment = less supply = higher energy prices = higher prices for everything.[^11]
-
+- **We've already seen from the ESG movement how pushing companies against fossil fuels harms everyone.** From 2011-2021, ESG contributed to oil and gas exploration investments declining 50%. Less investment = less supply = higher energy prices = higher prices for everything.[^11]\
     [The ESG movement is anti-energy, anti-development, and anti-America](https://energytalkingpoints.com/esg-movement/)
     ![ESG  Movement](/img/esg-movement-link.JPG)
 
@@ -129,7 +128,7 @@ So he's circumventing the legislative process by **having the SEC coerce compani
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
