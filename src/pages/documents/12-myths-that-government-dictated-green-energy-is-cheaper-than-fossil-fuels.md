@@ -98,7 +98,7 @@ _In preparation for the hearing, I wanted to see what the witness in favor of th
 
     Even Lazard, which for years provided dishonest footnotes for deniers of high solar / wind costs, now acknowledges that solar and wind are more expensive than natural gas. They still use flawed analysis, not considering the full system costs of each electricity source.\
     [Lazard - Levelized Cost of Energy+](https://www.lazard.com/research-insights/levelized-cost-of-energyplus/)\
-    [Isaac Orr and Mitch Rolling - Lazard's Low-End LCOE Estimates for Solar Are Still Too Optimistic](https://energybadboys.substack.com/p/lazards-low-end-lcoe-estimates-for)
+    [Isaac Orr and Mitch Rolling - Lazard's Low-End LCOE Estimates for Solar Are Still Too Optimistic](https://energybadboys.substack.com/p/lazards-low-end-lcoe-estimates-for)\
     [Isaac Orr and Mitch Rolling - Cooking the Books 2: Lazard's Levelized Cost of Energy Estimates for Wind](https://energybadboys.substack.com/p/cooking-the-books-2-lazards-levelized)
 
 [^2]: [Alex Epstein - The limitless hidden costs of the IRA](https://energytalkingpoints.com/irs-subs/)
