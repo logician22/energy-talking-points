@@ -199,7 +199,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
     Energy freedom gives billions more people the energy they need to flourish and unleashes truly cost-effective alternatives.
 
 
-###References
+### References
 
 [^1]:
     [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
@@ -215,7 +215,7 @@ featuredimage: /img/city-skyline-during-night-time.jpg
 [^2]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
 [^3]:
-    As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.
+    As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.\
     [Global Energy Monitor - Coal Plant Tracker, Coal Plants by Country (Power Stations)](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
 
 [^4]: [Alex Epstein - The ultimate debunking of “solar and wind are cheaper than fossil fuels.”](https://alexepstein.substack.com/p/the-ultimate-debunking-of-solar-and)
