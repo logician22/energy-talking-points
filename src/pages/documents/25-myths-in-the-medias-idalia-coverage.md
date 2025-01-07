@@ -158,13 +158,13 @@ _Here are answers to the media's top 25 extreme weather myths._[^1]
       
     **Truth: We will be far safer from that event thanks to fossil fuels. And we are also alive with our current life expectancy thanks to fossil fuels.**
   
-###References
+### References
 
 [^1]: [Reuters - Biden says climate crisis is undeniable after Hurricane Idalia damage](https://www.reuters.com/world/us/biden-says-climate-crisis-is-undeniable-after-hurricane-idalia-damage-2023-08-30/)
 
 [^2]: For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at the University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
@@ -172,7 +172,7 @@ _Here are answers to the media's top 25 extreme weather myths._[^1]
 
 [^3]: For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at the University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
@@ -208,7 +208,7 @@ _Here are answers to the media's top 25 extreme weather myths._[^1]
 
 [^14]: For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at the University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
@@ -222,27 +222,27 @@ _Here are answers to the media's top 25 extreme weather myths._[^1]
 
 [^17]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
 [^18]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
 [^19]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^20]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^21]: For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](https://energytalkingpoints.com/efp/www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at the University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
