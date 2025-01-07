@@ -306,7 +306,8 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
 [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
-[^2]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+[^2]:
+    [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
@@ -321,7 +322,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 [^4]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
 [^5]: Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.  
-    According to Tesla Megapacks cost about $413,000 per MWh.
+    According to Tesla Megapacks cost about $413,000 per MWh.\
     [Tesla - Order Megapack](https://www.tesla.com/megapack/design)   
 
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
@@ -332,7 +333,8 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
 [^8]: [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
 
-[^9]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
+[^9]:
+    [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
     “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”  
     [Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
@@ -341,7 +343,8 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
 [^11]: [USA Today News - 'The world is going to end in 12 years if we don't address climate change,' Ocasio-Cortez says](https://eu.usatoday.com/story/news/politics/onpolitics/2019/01/22/ocasio-cortez-climate-change-alarm/2642481002/)
 
-[^12]: [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
+[^12]:
+    [Maddison Database 2010 at the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen](https://www.rug.nl/ggdc/historicaldevelopment/maddison/)
 
     [World Bank Data](https://data.worldbank.org/)
 
@@ -353,7 +356,8 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
     [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
 
-[^15]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+[^15]:
+    [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
