@@ -121,7 +121,7 @@ My goal in testifying and answering your questions today, as well as in my work 
 [^6]:
     [CNBC - Keystone pipeline officially canceled after Biden revokes key permit](https://www.cnbc.com/2021/06/09/tc-energy-terminates-keystone-xl-pipeline-project.html)
 
- ﻿   [Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
+    [Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
 
 [^7]: [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
 
