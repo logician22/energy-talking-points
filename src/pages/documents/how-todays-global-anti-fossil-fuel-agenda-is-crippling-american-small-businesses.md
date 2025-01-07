@@ -46,7 +46,6 @@ Fossil fuel investments are long-term commitments that require confidence in a p
 **Punishing restrictions and onerous taxes specifically on fossil fuel production are common in developed countries**, suppressing supply from the freest nations on the globe.
 
 One of the many punishments President Biden has inflicted on the supposedly-preferred fossil fuel industry was his early moratorium on issuing oil and gas leases on Federal lands. And **the Biden administration continues to delay and decline holding lease sales**.[^5]
-
 ![Federal Oil leases slow to a trickle under Biden](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96300f0-7353-434d-88b6-57aaa00a6104_1456x819.jpeg)
 
 #### **The costs of punishing fossil fuel transport**
@@ -102,22 +101,25 @@ In my supplemental testimony, I have also included a document, [“The Energy Fr
 
 My goal in testifying and answering your questions today, as well as in my work more broadly, is to give pro-freedom legislators, businesses, and other influencers the resources they need to fight for the energy freedom that all Americans and our businesses need to flourish.
 
-###References
+### References
 
 [^1]: [U.S. Energy Information Administration - Oil and petroleum products explained, Where our oil comes from](https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from.php)
 
 [^2]: [Alex Epstein - How a fake climate emergency created a real energy emergency](https://energytalkingpoints.com/fake-emergency/)
 
-[^3]: “The order establishes the National Climate Task Force, assembling leaders from across 21 federal agencies and departments to enable a whole-of-government approach to combatting the climate crisis.”\
+[^3]:
+    “The order establishes the National Climate Task Force, assembling leaders from across 21 federal agencies and departments to enable a whole-of-government approach to combatting the climate crisis.”\
     [The White House - FACT SHEET: President Biden Takes Executive Actions to Tackle the Climate Crisis at Home and Abroad, Create Jobs, and Restore Scientific Integrity Across Federal Government, January 27, 2021](https://www.whitehouse.gov/briefing-room/statements-releases/2021/01/27/fact-sheet-president-biden-takes-executive-actions-to-tackle-the-climate-crisis-at-home-and-abroad-create-jobs-and-restore-scientific-integrity-across-federal-government/)
 
 [^4]: [SEC - SEC Proposes Rules to Enhance and Standardize Climate-Related Disclosures for Investors](https://www.sec.gov/news/press-release/2022-46)
 
-[^5]: [WSJ - Federal Oil Leases Slow to a Trickle Under Biden](https://www.wsj.com/articles/federal-oil-leases-slow-to-a-trickle-under-biden-11662230816)
+[^5]:
+    [WSJ - Federal Oil Leases Slow to a Trickle Under Biden](https://www.wsj.com/articles/federal-oil-leases-slow-to-a-trickle-under-biden-11662230816)
 
     [The White House - Executive Order on Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
 
-[^6]: [CNBC - Keystone pipeline officially canceled after Biden revokes key permit](https://www.cnbc.com/2021/06/09/tc-energy-terminates-keystone-xl-pipeline-project.html)
+[^6]:
+    [CNBC - Keystone pipeline officially canceled after Biden revokes key permit](https://www.cnbc.com/2021/06/09/tc-energy-terminates-keystone-xl-pipeline-project.html)
 
  ﻿   [Competitive Enterprise Institute - Lessons from the Demise of ANWR and Keystone XL](https://cei.org/blog/lessons-from-the-demise-of-anwr-and-keystone-xl/)
 
@@ -125,7 +127,8 @@ My goal in testifying and answering your questions today, as well as in my work 
 
 [^8]: [Alex Epstein - Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
-[^9]: [The Babylon Bee - State With No Electricity Orders Everyone To Drive Cars That Run On Electricity](https://babylonbee.com/news/state-with-no-electricity-orders-everyone-to-drive-cars-that-run-on-electricity)
+[^9]:
+    [The Babylon Bee - State With No Electricity Orders Everyone To Drive Cars That Run On Electricity](https://babylonbee.com/news/state-with-no-electricity-orders-everyone-to-drive-cars-that-run-on-electricity)
 
     [CAISO - California ISO issues Flex Alert for today, Aug. 31](http://www.caiso.com/Documents/california-iso-issues-flex-alert-for-today-aug-31.pdf)
 
