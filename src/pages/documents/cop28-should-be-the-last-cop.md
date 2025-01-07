@@ -250,7 +250,7 @@ PS Here’s my friend [Jusper Machogu’s message to COP](https://twitter.com/Ju
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
@@ -265,7 +265,7 @@ PS Here’s my friend [Jusper Machogu’s message to COP](https://twitter.com/Ju
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](www.emdat.be) (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
@@ -310,7 +310,7 @@ PS Here’s my friend [Jusper Machogu’s message to COP](https://twitter.com/Ju
     [Reuters - Dakota Access pipeline suffers U.S. Supreme Court setback](https://www.reuters.com/business/energy/us-supreme-court-turns-away-dakota-pipeline-operators-appeal-2022-02-22/)
 
 [^18]:
-    As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.
+    As of July 2023, China has over 300 new coal-fired power stations in various planning and construction phases.\
     [Global Energy Monitor - Coal Plant Tracker, Coal Plants by Country (Power Stations)](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)
 
 [^19]: [Robert Bryce - A Question of Power: Electricity and the Wealth of Nations](https://www.amazon.com/Question-Power-Electricity-Wealth-Nations/dp/1610397495/)
@@ -321,7 +321,7 @@ PS Here’s my friend [Jusper Machogu’s message to COP](https://twitter.com/Ju
 
 [^22]:
     Global primary energy consumption in 2022 was 604.04 EJ or about 460 TWh (= 460,000,000 MWh) per day.
-    According to Tesla Megapacks cost about $413,000 per MWh.
+    According to Tesla Megapacks cost about $413,000 per MWh.\
     [Tesla - Order Megapack](https://www.tesla.com/megapack/design)
 
     [Energy Institute - Statistical Review of World Energy](https://www.energyinst.org/statistical-review)
