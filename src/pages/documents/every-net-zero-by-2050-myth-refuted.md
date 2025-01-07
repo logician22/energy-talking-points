@@ -208,8 +208,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
   ![World rate from storms vs G7 death rate from storms](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F541a993d-f80d-4152-8fe0-9dcf5448c715_1600x1043.png)
 * *Myth: The decline in climate disaster deaths is due to storm warning systems, not fossil fuels.*  
 
-  Truth:  
-
+  Truth:
   1. Fossil fuels power storm warning and evacuation systems.  
   2. Drought, not storm, deaths are the leading source of climate death reduced.[^17]
      ![Atmospheric CO2 vs Death rate from drought](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7fdead3-6569-487e-a750-e75a9113d948_6108x3983.png)
@@ -302,7 +301,7 @@ _Below I have included **all the “net zero” myths I covered last night**, an
 
   **QED**
 
-###References
+### References
 
 [^1]: [Reuters - ANALYSIS-Fuel crisis cuts electricity in Bangladesh, sparking energy debate](https://www.reuters.com/article/bangladesh-energy-politics-idUSL8N2YZ1A2)
 
