@@ -162,7 +162,7 @@ featuredimage: /img/climate.jpeg
     
 -   Instead of giving our leaders limitless, dictatorial emergency powers to address the non-dire, non-temporary, and not-in-our-control rise in CO2 levels, we should adopt energy freedom policies that promote energy abundance and low-carbon energy innovation.[![A pro-human, pro-freedom policy for CO2 emissions](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20ec4fe6-7139-4154-9d4f-e91556f185c6_3400x2400.png)](https://energytalkingpoints.com/co2-policy/)
 
-###References
+### References
 
 [^1]: [Zhao et al. (2021)](https://doi.org/10.1016/S2542-5196(21)00081-4)
 
@@ -177,13 +177,14 @@ featuredimage: /img/climate.jpeg
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”  
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
-[^3]: [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
+[^3]:
+    [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
     Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-    Population estimates for the 1920s from the [Maddison Database 2010]      (https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
     Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
