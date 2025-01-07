@@ -129,13 +129,13 @@ featuredimage: /img/alex-epstein.jpg
 
   Deprioritizing water release in favor of “green” concerns
 
-###References
+### References
 
 [^1]: [NASA - GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/)
 
 [^2]: [NPR - The Final Days Of Hawaiian Sugar](https://www.npr.org/sections/thesalt/2016/12/17/505861855/the-final-days-of-hawaiian-sugar)
 
-   [Michael Shellenberger - Renewables Mania And Woke Dogma Behind Hawaii Fire, Not Climate Change](https://public.substack.com/p/renewables-mania-and-woke-dogma-behind)
+    [Michael Shellenberger - Renewables Mania And Woke Dogma Behind Hawaii Fire, Not Climate Change](https://public.substack.com/p/renewables-mania-and-woke-dogma-behind)
 
 [^3]: [Honolulu Civil Beat - Hawaii Has Long Shortchanged Wildfire Protection: ‘We Could Have Saved Lives’](https://www.civilbeat.org/2023/08/hawaii-has-long-shortchanged-wildfire-protection-we-could-have-saved-lives/)
 
