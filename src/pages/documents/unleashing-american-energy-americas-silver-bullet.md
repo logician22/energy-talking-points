@@ -46,7 +46,7 @@ _Originally published: January 13, 2025_
 
 - **To aid America in unleashing American energy, I've created the Energy Freedom Plan**—a comprehensive plan that includes hundreds of high-leverage policy changes for every aspect of energy, from drilling to pipelines to electricity to nuclear to rare earth elements.
 
-- **The Energy Freedom Plan is based on 5 game-changing goals:**\
+- **The Energy Freedom Plan is based on 5 game-changing goals:**
     1) **Unleash responsible development**
     2) **End preferences for unreliable electricity**
     3) **Set environmental standards using cost-benefit analysis**
