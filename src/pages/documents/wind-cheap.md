@@ -258,7 +258,7 @@ featuredimage: /img/green-joblessness.jpg
 
     Yet such false generalization is driving our energy policy.
 
-###References
+### References
 
 [^1]: [ScienceNewsExplores - Green energy is cheaper than fossil fuels, a new study finds](https://www.snexplores.org/article/green-energy-cheaper-than-fossil-fuels-climate)
 
@@ -344,7 +344,7 @@ featuredimage: /img/green-joblessness.jpg
 
 [^19]: [IEA - The Role of Critical Minerals in Clean Energy Transitions](https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions)
 
-    “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”
+    “Meeting such unprecedented mineral demands will require opening far more mines than now exist, and far faster than at any time in history. (The global average time from the qualification of a property to bringing a new mine into operation is 16 years.)”\
     [Mark Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
 [^20]: [Energy Monitor - Data shows how the cost of energy transition minerals has soared since 2020](https://www.energymonitor.ai/finance/risk-management/data-shows-how-the-cost-of-energy-transition-minerals-has-soared-since-2020/)
