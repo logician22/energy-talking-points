@@ -88,7 +88,7 @@ _Originally published: January 13, 2025_
 
 ### References
 
-[^1]: [https://www.epa.gov/air-trends](https://www.epa.gov/air-trends)
+[^1]: [U.S. Environmental Protection Agency - National Air Quality: Status and Trends of Key Air Pollutants](https://www.epa.gov/air-trends)
 
 [^2]:
     [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
