@@ -86,7 +86,7 @@ featuredimage: /img/sunset.jpg
       
     And it is despicable that **the media are ignoring the anti-reliability policies causing the problem** **and instead** **praising unreliable solar and wind**.
     
-###References
+### References
 
 [^1]: [Bloomberg - In Texas Heat Wave, Air Conditioners Keep Humming on Renewable Power](https://www.bloomberg.com/news/articles/2023-06-28/in-record-texas-heat-wave-acs-keep-humming-on-renewable-power)
 
