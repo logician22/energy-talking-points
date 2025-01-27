@@ -9,8 +9,6 @@ description: I've spent the last 18 months compiling the highest-leverage ways
   to unleash American energy. Here are the results.
 featuredimage: /img/city-skyline-during-night-time.jpg
 ---
-I've spent the last 18 months compiling the highest-leverage ways to unleash American energy. Here are the results.
-
 _Originally Published: January 19, 2025_
 
 _I've spent the last 18 months talking to the some of the smartest energy researchers, lawyers, policymakers, and business leaders about the highest-leverage ways to unleash American energy._
