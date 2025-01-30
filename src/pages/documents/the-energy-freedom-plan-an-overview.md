@@ -192,4 +192,4 @@ _The strangulation of nuclear has made it 10 times more expensive than it needs 
 
 **Please share these 25 policy changes—the heart of The Energy Freedom Plan—with your favorite politicians. The more our leaders know about the path to unleashing American energy, the better.**
 
-**And if anyone from Congress or the new administration wants to learn more,** **[email me.](alex@alexepstein.com)**
+**And if anyone from Congress or the new administration wants to learn more,** **[email me.](mailto:alex@alexepstein.com)**
