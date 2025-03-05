@@ -31,7 +31,7 @@ featuredimage: /img/flaring.jpeg
 
 [^1]: [U.S. Energy Information Administration - Natural gas venting and flaring in North Dakota and Texas increased in 2019](https://www.eia.gov/todayinenergy/detail.php?id=46176)
 
-[^2]: [https://www.eia.gov/todayinenergy/detail.php?id=43435](https://www.eia.gov/todayinenergy/detail.php?id=43435)
+[^2]: [U.S. Energy Information Administration - North Dakota flared 19% of its natural gas production in 2019](https://www.eia.gov/todayinenergy/detail.php?id=43435)
 
 [^3]:
     “Arguing that the U.S. Army Corps of Engineers skirted federal environmental laws when it issued a federal permit to Kinder Morgan, the Sierra Club is asking U.S. District Court Judge Robert Pitman for an injunction to stop ongoing construction on the Permian Highway Pipeline, a 430-mile project to move natural gas from the Permian Basin of West Texas to the Katy Hub near Houston.”\
