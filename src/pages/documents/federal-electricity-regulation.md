@@ -3,10 +3,12 @@ templateKey: blog-post
 displaytitle: Talking Points on Federal Electricity Regulation
 title: Federal Electricity Regulation
 date: 2020-10-10T01:00:41.494Z
-description:  |
-  _**Q:** Is the solution to TX's reliability problems to join the national grid and be regulated by the Federal government?_
+description: >
+  _**Q:** Is the solution to TX's reliability problems to join the national grid
+  and be regulated by the Federal government?_
 
-  **A:** No, because the Federal government is pursuing policies that are \*even more anti-reliability than TX's\*. The solution is pro-reliability policies.
+
+  **A:** No, because the Federal government is pursuing policies that are _even more anti-reliability than TX's._ The solution is pro-reliability policies.
 featuredimage: /img/federal-regulation.jpeg
 ---
 
@@ -65,7 +67,6 @@ featuredimage: /img/federal-regulation.jpeg
 [^5]: [AP - Fuel constraints could hit New England grid by 2024](https://apnews.com/article/archive-5e1ecb334e284462ab17c885265d9b0c)
 
 [^6]:
-
     “The five-member Federal Energy Regulatory Commission is poised to play a pivotal role fulfilling Biden’s clean-energy ambitions, including his vow to strip greenhouse gas emissions from the power sector over the next 14 years. FERC could help Biden deliver on those promises by fostering carbon prices on electricity, propelling a massive build-out of high-voltage power lines and making it harder to build natural gas pipelines.”
 
     [Bloomberg](https://www.bloomberg.com/news/articles/2021-01-29/biden-s-secret-weapon-to-cleaning-up-energy-is-spelled-ferc)\
