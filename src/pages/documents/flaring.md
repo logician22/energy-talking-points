@@ -3,7 +3,10 @@ templateKey: blog-post
 displaytitle: Talking Points on Flaring
 title: Flaring
 date: 2020-10-10T01:00:41.494Z
-description: The widely-condemned "flaring" of natural gas is a vital safety measure that decreases the energy efficiency of US drilling by less than 1%. And that number would be far lower without the infrastructure-blocking of anti-fossil fuel activists who claim to oppose flaring.
+description: The widely-condemned "flaring" of natural gas is a vital safety
+  measure that decreases the energy efficiency of US drilling by less than 1%.
+  And that number would be far lower without the infrastructure-blocking of
+  anti-fossil fuel activists who claim to oppose flaring.
 featuredimage: /img/flaring.jpeg
 ---
 
@@ -30,7 +33,6 @@ featuredimage: /img/flaring.jpeg
 [^2]: [https://www.eia.gov/todayinenergy/detail.php?id=43435](https://www.eia.gov/todayinenergy/detail.php?id=43435)
 
 [^3]:
-
     “Arguing that the U.S. Army Corps of Engineers skirted federal environmental laws when it issued a federal permit to Kinder Morgan, the Sierra Club is asking U.S. District Court Judge Robert Pitman for an injunction to stop ongoing construction on the Permian Highway Pipeline, a 430-mile project to move natural gas from the Permian Basin of West Texas to the Katy Hub near Houston.”\
     [Houston Chronicle](https://www.houstonchronicle.com/business/energy/article/Kinder-Morgan-Texas-Hill-Country-pipeline-billion-15358513.php)
 
@@ -40,7 +42,6 @@ featuredimage: /img/flaring.jpeg
 [^4]: [Bloomberg - Grim Day for Pipelines Shows They’re Almost Impossible to Build](https://www.bloomberg.com/news/articles/2020-07-06/demise-of-gas-project-shows-u-s-pipelines-becoming-unbuildable)
 
 [^5]:
-
     Based on data from the Texas Railroad Commission, in 2020 (Jan-Oct) 103,786,233 Mcf of natural gas (≈ 107,626 billion Btu) were flared in the state. Oil and condensate production was 1,434,003,914 bbl, natural gas production from oil and gas wells was 8,536,653,563 Mcf for a total of about 17,023,464 billion Btu of energy content.\
     [Texas Railroad Commissions - Monthly Oil & Gas Production](https://www.rrc.state.tx.us/oil-and-gas/research-and-statistics/production-data/texas-monthly-oil-gas-production/)
 
