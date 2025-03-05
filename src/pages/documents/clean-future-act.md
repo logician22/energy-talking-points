@@ -35,14 +35,13 @@ featuredimage: /img/clean-futures-act.jpeg
 
 [^1]:
     The U.S. Energy Information Administration in its reference case projects an overall increase of CO2 emissions for the world while America continues to reduce emissions slightly. As of 2017 US CO2 emissions were less than 15% of the global total.
-
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=10-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.3-10-IEO2019~Reference-d080819.26-10-IEO2019&ctype=linechart&sourcekey=0)The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
-
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
-
     [U.S. Environmental Protection Agency - Global Greenhouse Gas Emissions Data](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data)
 
-[^2]: As of January 2021, China and India are planning or constructing over 280 new coal-fired power plants with a combined capacity of over 300 GW.[Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
+[^2]:
+    As of January 2021, China and India are planning or constructing over 280 new coal-fired power plants with a combined capacity of over 300 GW.
+    [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
 
 [^3]:
     A prime example of this is Germany, where policies similar to US federal and state policies have lead to a significant increase in electricity generation from solar and wind since 2000:
