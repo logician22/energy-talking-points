@@ -54,10 +54,11 @@ featuredimage: /img/federal-regulation.jpeg
 ### References
 
 [^1]:
-    In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.”
+    In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.”\
     [Utility Drive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/)
 
-[^2]: TX’s neighboring states are New Mexico, Oklahoma, Arkansas, and Louisiana with combined generation of 285 TWh in 2019, 59% of what’s generated in TX. Even with enough transmission capacity, this is a big gamble as a backup even if they don’t suffer their own weather problems.[U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_03_07.html)
+[^2]: TX’s neighboring states are New Mexico, Oklahoma, Arkansas, and Louisiana with combined generation of 285 TWh in 2019, 59% of what’s generated in TX. Even with enough transmission capacity, this is a big gamble as a backup even if they don’t suffer their own weather problems.\
+    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_03_07.html)
 
 [^3]:
     Most states have Renewable Portfolio Standards, which effectively demand more solar and wind on their grids by law.
