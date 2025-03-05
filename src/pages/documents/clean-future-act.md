@@ -35,7 +35,8 @@ featuredimage: /img/clean-futures-act.jpeg
 
 [^1]:
     The U.S. Energy Information Administration in its reference case projects an overall increase of CO2 emissions for the world while America continues to reduce emissions slightly. As of 2017 US CO2 emissions were less than 15% of the global total.\
-    [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=10-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.3-10-IEO2019~Reference-d080819.26-10-IEO2019&ctype=linechart&sourcekey=0)\
+    [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=10-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.3-10-IEO2019~Reference-d080819.26-10-IEO2019&ctype=linechart&sourcekey=0)
+
     The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)\
     [U.S. Environmental Protection Agency - Global Greenhouse Gas Emissions Data](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data)
@@ -57,8 +58,7 @@ featuredimage: /img/clean-futures-act.jpeg
     [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
 [^4]:
-    Nuclear energy is statistically the safest form of energy production by a wide margin, regardless of whether one takes into account speculative health impacts from air pollution, which nuclear technology does not create. No other relevant technologies cause so few casualties per unit of energy produced.
-
+    Nuclear energy is statistically the safest form of energy production by a wide margin, regardless of whether one takes into account speculative health impacts from air pollution, which nuclear technology does not create. No other relevant technologies cause so few casualties per unit of energy produced.\
     [World Nuclear Association - Safety of Nuclear Power Reactors](https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors.aspx)\
     [Lovering et al. (2016) - Historical construction costs of global nuclear power reactors](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
 
@@ -72,22 +72,22 @@ featuredimage: /img/clean-futures-act.jpeg
     [U.S. Energy Information Administration - Electric Power Annual table 3.1.A](https://www.eia.gov/electricity/annual/html/epa_03_01_a.html)
 
 [^8]:
-    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.
+    Public generation of electricity was over 488 terawatt-hours in Germany for 2020, solar and wind combined generated over 37%. In 2002 they generated just over 3%.\
     [Fraunhofer ISE energy-charts.de](https://energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&year=2020)
 
-    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jan 2021 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2018 was $0.1301 per kWh.
+    The average US household price in 2018 was $0.1301 per kWh.\
     [U.S. Energy Information Administration Electric Power Annual table 5](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
 [^9]: [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/beta/electricity/gridmonitor/dashboard/electric_overview/balancing_authority/ERCO)
 
 [^10]:
-    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.
+    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
-    China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.
+    China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.\
     [Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)
 
     [Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)
