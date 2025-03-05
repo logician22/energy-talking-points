@@ -55,21 +55,21 @@ featuredimage: /img/federal-regulation.jpeg
 
 [^1]:
     In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.”
-
     [Utility Drive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/)
 
 [^2]: TX’s neighboring states are New Mexico, Oklahoma, Arkansas, and Louisiana with combined generation of 285 TWh in 2019, 59% of what’s generated in TX. Even with enough transmission capacity, this is a big gamble as a backup even if they don’t suffer their own weather problems.[U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_03_07.html)
 
-[^3]:  Most states have Renewable Portfolio Standards, which effectively demand more solar and wind on their grids by law.[U.S. Energy Information Administration - Renewable energy explained, Portfolio standards](https://www.eia.gov/energyexplained/renewable-sources/portfolio-standards.php)
+[^3]:
+    Most states have Renewable Portfolio Standards, which effectively demand more solar and wind on their grids by law.
+    [U.S. Energy Information Administration - Renewable energy explained, Portfolio standards](https://www.eia.gov/energyexplained/renewable-sources/portfolio-standards.php)
 
 [^4]: [Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^5]: [AP - Fuel constraints could hit New England grid by 2024](https://apnews.com/article/archive-5e1ecb334e284462ab17c885265d9b0c)
 
 [^6]:
-    “The five-member Federal Energy Regulatory Commission is poised to play a pivotal role fulfilling Biden’s clean-energy ambitions, including his vow to strip greenhouse gas emissions from the power sector over the next 14 years. FERC could help Biden deliver on those promises by fostering carbon prices on electricity, propelling a massive build-out of high-voltage power lines and making it harder to build natural gas pipelines.”
-
-    [Bloomberg](https://www.bloomberg.com/news/articles/2021-01-29/biden-s-secret-weapon-to-cleaning-up-energy-is-spelled-ferc)\
+    “The five-member Federal Energy Regulatory Commission is poised to play a pivotal role fulfilling Biden’s clean-energy ambitions, including his vow to strip greenhouse gas emissions from the power sector over the next 14 years. FERC could help Biden deliver on those promises by fostering carbon prices on electricity, propelling a massive build-out of high-voltage power lines and making it harder to build natural gas pipelines.”\
+    [Bloomberg - Biden's Secret Weapon to Cleaning Up Energy Is Spelled FERC](https://www.bloomberg.com/news/articles/2021-01-29/biden-s-secret-weapon-to-cleaning-up-energy-is-spelled-ferc)\
     [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/beta/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
 [^7]: [U.S. Energy Information Administration - Nuclear and coal will account for majority of U.S. generating capacity retirements in 2021](https://www.eia.gov/todayinenergy/detail.php?id=46436)
