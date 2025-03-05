@@ -26,6 +26,7 @@ featuredimage: /img/flaring.jpeg
 12. Anyone who complains about US flaring but opposes US pipeline-building reveals that their goal is to destroy the use of fossil fuels, not to prevent the wasting of fossil fuels.
 13. The US does not need new restrictions on flaring, it needs to liberate infrastructure-building from anti-fossil fuel activists so that the highly efficient US oil and gas industry can become even more efficient.
 
+
 ### References
 
 [^1]: [U.S. Energy Information Administration - Natural gas venting and flaring in North Dakota and Texas increased in 2019](https://www.eia.gov/todayinenergy/detail.php?id=46176)
