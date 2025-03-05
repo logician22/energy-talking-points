@@ -108,7 +108,7 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
 [^10]: [EurekaAlert - The truth behind the Paris Agreement climate pledges](https://www.eurekalert.org/pub_releases/2019-11/tca-ttb110119.php)
 
-[^11]: [https://climateactiontracker.org/](https://climateactiontracker.org/)
+[^11]: [Climate Action Tracker](https://climateactiontracker.org/)
 
 [^12]:
     [New Scientist - Record CO2 emissions drop in 2020 won't do much to halt climate change](https://www.newscientist.com/article/2262513-record-co2-emissions-drop-in-2020-wont-do-much-to-halt-climate-change/)
