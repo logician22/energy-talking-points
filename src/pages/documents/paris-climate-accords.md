@@ -113,7 +113,7 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 [^11]: [Climate Action Tracker](https://climateactiontracker.org/)
 
 [^12]:
-        “A record 7 per cent drop in global carbon emissions this year will make no difference to long-term climate change, say researchers.”\
+    “A record 7 per cent drop in global carbon emissions this year will make no difference to long-term climate change, say researchers.”\
     [New Scientist - Record CO2 emissions drop in 2020 won't do much to halt climate change](https://www.newscientist.com/article/2262513-record-co2-emissions-drop-in-2020-wont-do-much-to-halt-climate-change/)
 
 [^13]: [Heritage Foundation - The Paris Agreement Is a Treaty and Should Be Submitted to the Senate](https://www.heritage.org/environment/report/the-paris-agreement-treaty-and-should-be-submitted-the-senate)
