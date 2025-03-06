@@ -82,7 +82,6 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
 [^2]: [UNFCCC - The Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)
 
-
 [^3]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
 
@@ -97,23 +96,25 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
 [^5]: [Climate Action Tracker - Pledges and Targets for China](https://climateactiontracker.org/countries/china/targets/)
 
-[^6]: “...the final submissions are not enforceable, and carry no consequences beyond “shame” for noncompliance—a fact bizarrely taken for granted by all involved.” - [Why the Paris climate deal is meaningless by Oren Cass](https://www.politico.com/agenda/story/2015/11/why-the-paris-climate-deal-is-meaningless-000326/)
+[^6]: “...the final submissions are not enforceable, and carry no consequences beyond “shame” for noncompliance—a fact bizarrely taken for granted by all involved.”\
+    [Why the Paris climate deal is meaningless by Oren Cass](https://www.politico.com/agenda/story/2015/11/why-the-paris-climate-deal-is-meaningless-000326/)
 
 [^7]: [Climate Action Tracker - Pledges And Targets for United States](https://climateactiontracker.org/countries/usa/targets/)
 
-[^8]: “The vision, unveiled at the United Nations climate conference in Morocco, shows the United States could reduce its carbon emissions by 80% below 2005 levels by 2050, largely by cutting emissions from the electric generating sector.” - [Utility Dive - Obama administration unveils path for deep decarbonization for Paris Climate Accord](https://www.utilitydive.com/news/obama-administration-unveils-path-for-deep-decarbonization-for-paris-climat/430665/)
+[^8]: “The vision, unveiled at the United Nations climate conference in Morocco, shows the United States could reduce its carbon emissions by 80% below 2005 levels by 2050, largely by cutting emissions from the electric generating sector.”\
+    [Utility Dive - Obama administration unveils path for deep decarbonization for Paris Climate Accord](https://www.utilitydive.com/news/obama-administration-unveils-path-for-deep-decarbonization-for-paris-climat/430665/)
 
 [^9]:
-    “As part of the Paris outcome, developed countries were urged to scale-up their level of support with a concrete roadmap to achieve the goal of mobilising US$100 billion per year by 2020 for climate action in developing countries.” - [UNFCCC - Roadmap to US$100 Billion](https://unfccc.int/sites/default/files/resource/climate-finance-roadmap-to-us100-billion.pdf)
+    “As part of the Paris outcome, developed countries were urged to scale-up their level of support with a concrete roadmap to achieve the goal of mobilising US$100 billion per year by 2020 for climate action in developing countries.”\
+    [UNFCCC - Roadmap to US$100 Billion](https://unfccc.int/sites/default/files/resource/climate-finance-roadmap-to-us100-billion.pdf)
 
 [^10]: [EurekaAlert - The truth behind the Paris Agreement climate pledges](https://www.eurekalert.org/pub_releases/2019-11/tca-ttb110119.php)
 
 [^11]: [Climate Action Tracker](https://climateactiontracker.org/)
 
 [^12]:
+        “A record 7 per cent drop in global carbon emissions this year will make no difference to long-term climate change, say researchers.”\
     [New Scientist - Record CO2 emissions drop in 2020 won't do much to halt climate change](https://www.newscientist.com/article/2262513-record-co2-emissions-drop-in-2020-wont-do-much-to-halt-climate-change/)
-
-    “A record 7 per cent drop in global carbon emissions this year will make no difference to long-term climate change, say researchers.”
 
 [^13]: [Heritage Foundation - The Paris Agreement Is a Treaty and Should Be Submitted to the Senate](https://www.heritage.org/environment/report/the-paris-agreement-treaty-and-should-be-submitted-the-senate)
 
@@ -147,17 +148,13 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
     Population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
 [^20]:
-    The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019.
-
+    The [decadally smoothed data from the UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/time_series/HadCRUT.4.6.0.0.annual_ns_avg_smooth.txt) (column 1 contains the year, column 2 the decadally smoothed temperature anomaly data in °C) shows an increase of 0.974°C between 1850 and 2019.\
     [Climate.gov - Climate change rule of thumb: cold "things" warming faster than warm things](https://www.climate.gov/news-features/blogs/beyond-data/climate-change-rule-thumb-cold-things-warming-faster-warm-things)
 
 [^21]:
-    Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.
-
-    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.
-
-    …
-
+    Regional trends vary, but overall the world's leaf area increased by 5.4 million square kilometers, or an amazon rainforest worth of greening, between 2000 and 2017 alone with over 1/3 of vegetated land showing an increase while only 5% showed a loss of green vegetation.\
+    “Long-term satellite records reveal a significant global greening of vegetated areas since the 1980s, which recent data suggest has continued past 2010.\
+    …\
     Global vegetation models suggest that CO2 fertilization is the main driver of global vegetation greening.” - [Piao, S., Wang, X., Park, T. et al. Characteristics, drivers and feedbacks of global greening. Nat Rev Earth Environ 1, 14–27 (2020)](https://www.nature.com/articles/s43017-019-0001-x)
 
 [^22]:
@@ -166,22 +163,22 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
 
 
 [^23]:
-    The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.
-
+    The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
 
 [^24]:
-    Nuclear energy is statistically the safest form of energy production by a wide margin, regardless of whether one takes into account speculative health impacts from air pollution, which nuclear technology does not create. No other relevant technologies cause so few casualties per unit of energy produced.
-
+    Nuclear energy is statistically the safest form of energy production by a wide margin, regardless of whether one takes into account speculative health impacts from air pollution, which nuclear technology does not create. No other relevant technologies cause so few casualties per unit of energy produced.\
     [World Nuclear Association - Safety of Nuclear Power Reactors](https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/safety-of-nuclear-power-reactors.aspx)
 
 
 [^25]: [Talking Points on Wind Production Tax Credit](https://energytalkingpoints.com/wind-production-tax-credit/)
 
-[^26]: “...the United States intends to achieve an economy-wide target of reducing its greenhouse gas emissions by 26-28 per cent below its 2005 level in 2025 and to make best efforts to reduce its emissions by 28%.…This target is consistent with a straight line emission reduction pathway from 2020 to deep, economy-wide emission reductions of 80% or more by 2050.”[UNFCCC - First Nationally Determined Contributions Submission by the US](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/United%20States%20of%20America%20First/U.S.A.%20First%20NDC%20Submission.pdf)
+[^26]: “...the United States intends to achieve an economy-wide target of reducing its greenhouse gas emissions by 26-28 per cent below its 2005 level in 2025 and to make best efforts to reduce its emissions by 28%.…This target is consistent with a straight line emission reduction pathway from 2020 to deep, economy-wide emission reductions of 80% or more by 2050.”\
+    [UNFCCC - First Nationally Determined Contributions Submission by the US](https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/United%20States%20of%20America%20First/U.S.A.%20First%20NDC%20Submission.pdf)
 
-[^27]: “The losses become larger in the long run as the “mid-term” deep decarbonization target constrains the economy significantly. The U.S. economy could lose about 6% of its GDP on average between 2034 and 2040 amounting to a loss of greater than $2 trillion annually and a cumulative loss of $14 trillion.”[NERA - Impacts of Greenhouse Gas Regulations On the Industrial Sector](https://accf.org/wp-content/uploads/2017/03/170316-NERA-ACCF-Full-Report.pdf)
+[^27]: “The losses become larger in the long run as the “mid-term” deep decarbonization target constrains the economy significantly. The U.S. economy could lose about 6% of its GDP on average between 2034 and 2040 amounting to a loss of greater than $2 trillion annually and a cumulative loss of $14 trillion.”\
+    [NERA - Impacts of Greenhouse Gas Regulations On the Industrial Sector](https://accf.org/wp-content/uploads/2017/03/170316-NERA-ACCF-Full-Report.pdf)
 
 [^28]:
     “Taking into account the loss in employment in other non-manufacturing sectors, the job-equivalents impact for the overall industrial sector could be about 1.1 million job-equivalents in 2025 and 6.5 million in 2040.”\
@@ -195,7 +192,8 @@ The Paris Climate Accords is an immoral, self-destructive agreement that on pape
     [Joe Biden’s Clean Energy Plan](https://joebiden.com/clean-energy/)
 
 [^30]:
-    “Biden will make a $2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.”[Joe Biden’s Clean Energy Plan](https://joebiden.com/clean-energy/)
+    “Biden will make a $2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.”\
+    [Joe Biden’s Clean Energy Plan](https://joebiden.com/clean-energy/)
 
 [^31]:
     “There is only one nation that has done an independent cost estimate of net-zero, namely New Zealand. The Kiwis found the average best-case cost is 16 percent of GDP, or a US cost of more than $5 trillion a year by mid-century.”\
