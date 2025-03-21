@@ -46,7 +46,7 @@ That’s why climate disaster deaths have declined 98% over 100 years![^4]
 
 - By falsely claiming that fossil fuels “endanger” human health, welfare, and climate safety when they were—and have continued to be—a net benefit, **EPA has justified giving itself totalitarian powers that, if not stopped, will crater the US economy.**
 
-- **Drawing on its bogus “endangerment” finding, the Biden EPA passed GHG rules that effectively ban all coal plants and new natural gas plants**—by requiring them to capture at least 90% of GHGs, which no plant has ever done at all, let alone cost-effectively.
+- **Drawing on its bogus “endangerment” finding, the Biden EPA passed GHG rules that effectively ban all coal plants and new natural gas plants**—by requiring them to capture at least 90% of GHGs, which no plant has ever done at all, let alone cost-effectively.\
     [How EPA's power plant rule will destroy our grid](https://energytalkingpoints.com/how-epas-power-plant-rule-will-destroy-our-grid/)
     ![How EPA's power plant rule will destroy our grid](/img/epa-link.png)
 
