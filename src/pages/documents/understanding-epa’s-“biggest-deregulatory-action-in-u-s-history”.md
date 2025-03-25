@@ -176,7 +176,7 @@ _Originally published: March 13, 2025_
 [^14]: [U.S. Environmental Protection Agency - What is the GHGRP?](https://www.epa.gov/ghgreporting/what-ghgrp)
 
 [^15]: 
-    The Inflation Reduction Act also gave anti-fossil-fuel bureaucrats/activists a new level of destructive power via $10s of billions for anti-fossil-fuel “environmental justice” causes. According to a WH-commissioned environmental justice report we must “sunset investment by 2030 in fossil fuels, plastics…and nuclear energy”!
+    The Inflation Reduction Act also gave anti-fossil-fuel bureaucrats/activists a new level of destructive power via $10s of billions for anti-fossil-fuel “environmental justice” causes. According to a WH-commissioned environmental justice report we must “sunset investment by 2030 in fossil fuels, plastics…and nuclear energy”!\
     [U.S. Environmental Protection Agency - White House Environmental Justice Advisory Council Final Recommendations Cover Letter May 21, 2021](https://www.epa.gov/environmentaljustice/white-house-environmental-justice-advisory-council-final-recommendations-cover)
 
     [U.S. Environmental Protection Agency - About the Office of Environmental Justice and External Civil Rights](https://www.epa.gov/aboutepa/about-office-environmental-justice-and-external-civil-rights)
