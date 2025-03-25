@@ -83,7 +83,7 @@ _Originally published: March 13, 2025_
 
 12. **“Reconsideration of exceptional events rulemaking”**
 
-    This EPA policy requires states to undergo complex procedures for exempting prescribed fires from strict air quality standards.11
+    This EPA policy requires states to undergo complex procedures for exempting prescribed fires from strict air quality standards.[^11]
 
     Revisiting it is vital for enabling safe, controlled burns that prevent catastrophic wildfires.
 
