@@ -18,7 +18,7 @@ _Originally published: March 20, 2025_
 - The UN’s International Maritime Organization (IMO) is supposed to ensure safe shipping around the world.
 
     Instead, it’s **pushing a carbon tax on shipping fuel, with proposals ranging from $19 to $150/ton of CO2**—the equivalent of adding $1.29 to the price of gasoline![^2]
-    ![Shipping levy](static//shipping-lvy-amount.png)
+    ![Shipping levy](/img/shipping-lvy-amount.png)
 
 - **A $150/ton carbon tax on shipping would double fuel costs for large ships.**
 
