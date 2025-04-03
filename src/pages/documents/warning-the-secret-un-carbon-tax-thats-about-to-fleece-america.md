@@ -8,7 +8,7 @@ description: Next week, the UN votes on an ocean carbon tax that would spike the
   Biden climate policy to quietly take effect.
 featuredimage: /img/paris-accords.jpeg
 ---
-_Originally published: March 20, 2025_
+_Originally published: March 28, 2025_
 
 **Next week, the UN votes on an ocean carbon tax that would spike the price of food, fuel, and everyday essentials—hitting America the hardest.**
 
