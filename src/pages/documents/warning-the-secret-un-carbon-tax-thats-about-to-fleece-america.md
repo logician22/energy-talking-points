@@ -62,7 +62,7 @@ _Michelle Hung contributed to this piece._
 [^2]: [https://www.ics-shipping.org/wp-content/uploads/2025/01/ISWG-GHG-18_2_5-Consolidation-of-the-proposals-for-an-economic-element-of-the-mid-term-measures-based-on-a-GHG-levy_contribution-as-at-9-Jan.pdf](https://www.ics-shipping.org/wp-content/uploads/2025/01/ISWG-GHG-18_2_5-Consolidation-of-the-proposals-for-an-economic-element-of-the-mid-term-measures-based-on-a-GHG-levy_contribution-as-at-9-Jan.pdf)
 
 [^3]:
-    [https://www.insee.fr/en/statistiques/serie/010751333](https://www.insee.fr/en/statistiques/serie/010751333)\
+    [https://www.insee.fr/en/statistiques/serie/010751333](https://www.insee.fr/en/statistiques/serie/010751333)
 
     [https://safety4sea.com/wp-content/uploads/2020/11/Marine-Benchmark-Maritime-CO2-Emissions-2020_11.pdf](https://safety4sea.com/wp-content/uploads/2020/11/Marine-Benchmark-Maritime-CO2-Emissions-2020_11.pdf)
 
