@@ -2,7 +2,7 @@
 templateKey: blog-post
 displaytitle: "WARNING: The secret UN carbon tax that's about to fleece America"
 title: "WARNING: The secret UN carbon tax that's about to fleece America"
-date: 2019-11-13T02:00:00.000Z
+date: 2019-11-12T03:00:00.000Z
 description: Next week, the UN votes on an ocean carbon tax that would spike the
   price of many consumer goods. The Trump administration must not allow this
   Biden climate policy to quietly take effect.
@@ -13,12 +13,12 @@ _Originally published: March 20, 2025_
 **Next week, the UN votes on an ocean carbon tax that would spike the price of food, fuel, and everyday essentials—hitting America the hardest.**
 
 **Here’s what the administration and Congress can do to stop this in its tracks.**[^1]
-    [IMO Shipping Emissions Levy](/img/earth-org-imo-fuel-policy.png)
+    ![IMO Shipping Emissions Levy](/img/earth-org-imo-fuel-policy.png)
 
 - The UN’s International Maritime Organization (IMO) is supposed to ensure safe shipping around the world.
 
     Instead, it’s **pushing a carbon tax on shipping fuel, with proposals ranging from $19 to $150/ton of CO2**—the equivalent of adding $1.29 to the price of gasoline![^2]
-    [Shipping levy](static//shipping-lvy-amount.png)
+    ![Shipping levy](static//shipping-lvy-amount.png)
 
 - **A $150/ton carbon tax on shipping would double fuel costs for large ships.**
 
@@ -29,12 +29,12 @@ _Originally published: March 20, 2025_
 - Since the US is the world’s largest importer of goods, with $3.2 trillion in imports including $760 billion for consumer goods per year, **an ocean carbon tax would disproportionately raise prices for US consumers and businesses.**
 
     An ocean carbon tax is a tax on America most of all.[^4]
-    [US imports volume](/img/us-imports.png)
+    ![US imports volume](/img/us-imports.png)
 
 - **The idea of a maritime carbon tax originates in the “2023 GHG IMO Strategy,” a Biden-backed document that commits UN members to a goal of net-zero international shipping emissions by 2050.**
 
     The Trump administration must not allow this Biden climate policy to quietly take effect.[^5]
-    [IMO net zero strategy](/img/imo-net-zero.png)
+    ![IMO net zero strategy](/img/imo-net-zero.png)
 
 - **How the state department can stop the ocean carbon tax**
 
@@ -51,7 +51,7 @@ _Originally published: March 20, 2025_
 - Recent reports indicate that the EU may push to replace the ocean carbon tax with a cap-and-trade system.
 
     While marginally less damaging, this policy would still be toxic for America and the global economy, and the US should vehemently oppose it.[^6]
-    [EU backs down on shipping levy](/img/guardian-eu-baclks-down-on-levy.png)
+    ![EU backs down on shipping levy](/img/guardian-eu-baclks-down-on-levy.png)
 
 _Michelle Hung contributed to this piece._
 
@@ -62,7 +62,7 @@ _Michelle Hung contributed to this piece._
 [^2]: [https://www.ics-shipping.org/wp-content/uploads/2025/01/ISWG-GHG-18_2_5-Consolidation-of-the-proposals-for-an-economic-element-of-the-mid-term-measures-based-on-a-GHG-levy_contribution-as-at-9-Jan.pdf](https://www.ics-shipping.org/wp-content/uploads/2025/01/ISWG-GHG-18_2_5-Consolidation-of-the-proposals-for-an-economic-element-of-the-mid-term-measures-based-on-a-GHG-levy_contribution-as-at-9-Jan.pdf)
 
 [^3]:
-    [https://www.insee.fr/en/statistiques/serie/010751333](https://www.insee.fr/en/statistiques/serie/010751333)
+    [https://www.insee.fr/en/statistiques/serie/010751333](https://www.insee.fr/en/statistiques/serie/010751333)\
 
     [https://safety4sea.com/wp-content/uploads/2020/11/Marine-Benchmark-Maritime-CO2-Emissions-2020_11.pdf](https://safety4sea.com/wp-content/uploads/2020/11/Marine-Benchmark-Maritime-CO2-Emissions-2020_11.pdf)
 
