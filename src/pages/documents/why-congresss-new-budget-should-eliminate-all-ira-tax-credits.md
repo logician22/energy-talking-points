@@ -7,19 +7,15 @@ description: All the IRA "tax credits" are subsidies for inferior, often totally
   unprofitable forms of energy.
 featuredimage: /img/congress.jpg
 ---
-Why Congress's new budget should eliminate all IRA "tax credits"
-
-**All the IRA "tax credits" are subsidies for inferior, often totally unprofitable forms of energy.**
-
 _Originally published: April 25, 2025_
 
 **Congress’s new budget should eliminate all IRA “tax credits” because:**
-    1) **They are subsidies**
-    2) **They promote inferior energy**
-    3) **They raise energy costs**
-    4) **They make energy unreliable**
-    5) **They increase our debt**
-    6) **They make our economy less productive**
+    1) **They are subsidies**\
+    2) **They promote inferior energy**\
+    3) **They raise energy costs**\
+    4) **They make energy unreliable**\
+    5) **They increase our debt**\
+    6) **They make our economy less productive**\
     7) **They don't lower CO2 emissions**
 
 ### Truth 1: IRA energy tax credits are really just subsidies
@@ -54,9 +50,9 @@ _Originally published: April 25, 2025_
 
 - **The IRA’s “45Q” subsidies will give companies $34-210 billion to capture CO2 and pump it underground**—a process companies would use very little on a free market since it’s so costly. E.g., carbon capture for a coal plant makes the coal more than 5 times more expensive![^5]
 
-- **The IRA’s “45V” subsidies give companies $33-100 billion for hydrogen fuel—**which would exist very little in a free market because it’s so expensive to make. Hydrogen costs 2-3 times what gasoline does for the same distance traveled, even at the current low level of demand! And favored “green” hydrogen is even more![^6]
+- **The IRA’s “45V” subsidies give companies $33-100 billion for hydrogen fuel**—which would exist very little in a free market because it’s so expensive to make. Hydrogen costs 2-3 times what gasoline does for the same distance traveled, even at the current low level of demand! And favored “green” hydrogen is even more![^6]
 
- - **The IRA’s “45Z” subsidies will give companies $43 billion for various “clean fuel” projects, mostly biofuels—**which would be used far less in a free market since they are expensive to produce and compete with food for cropland.[^7]
+ - **The IRA’s “45Z” subsidies will give companies $43 billion for various “clean fuel” projects, mostly biofuels**—which would be used far less in a free market since they are expensive to produce and compete with food for cropland.[^7]
 
 - **The IRA’s “25C”, “25D” and “45L” subsidies will pay (mostly wealthy) property owners $28-276 billion to use government-favored “energy efficiency” technologies** like solar panels and heat pumps that they wouldn’t otherwise use or be willing to pay for.[^8]
 
@@ -64,7 +60,7 @@ _Originally published: April 25, 2025_
 
 - **By forcing taxpayers to prop up inefficient energy production, all the IRA subsidies make energy more expensive.** But we don’t always see the full cost because we’re paying much of it in taxes and inflation.
 
-- **All the IRA subsidies involve taking money from taxpayers—**including the most efficient energy producers—**and giving it to companies to produce inefficient, often totally unprofitable, forms of energy.**
+- **All the IRA subsidies involve taking money from taxpayers**—including the most efficient energy producers—**and giving it to companies to produce inefficient, often totally unprofitable, forms of energy.**
 
     **The result is always less efficient production and therefore higher costs.**
 
