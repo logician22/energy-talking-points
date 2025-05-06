@@ -9,7 +9,7 @@ featuredimage: /img/congress.jpg
 ---
 _Originally published: April 25, 2025_
 
-**Congress’s new budget should eliminate all IRA “tax credits” because:**
+**Congress’s new budget should eliminate all IRA “tax credits” because:**\
     1) **They are subsidies**\
     2) **They promote inferior energy**\
     3) **They raise energy costs**\
