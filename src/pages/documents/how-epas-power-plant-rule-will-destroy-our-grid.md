@@ -132,20 +132,16 @@ featuredimage: /img/blackout.jpeg
 [^8]:
     [Institute for Energy Economics and Financial Analysis - U.S. on track to close half of coal capacity by 2026](https://ieefa.org/resources/us-track-close-half-coal-capacity-2026#:~:text=The%20United%20States%20is%20rapidly,capacity%2C%20which%20peaked%20in%202011.)
 
-```
-[U.S. EIA - Electric Power Monthly](https://www.eia.gov/electricity/data.php)
+    [U.S. EIA - Electric Power Monthly](https://www.eia.gov/electricity/data.php)
 
-[U.S. EIA - What is U.S. electricity generation by energy source?](https://www.eia.gov/tools/faqs/faq.php?id=427&t=3)
-```
+    [U.S. EIA - What is U.S. electricity generation by energy source?](https://www.eia.gov/tools/faqs/faq.php?id=427&t=3)
 
 [^9]: [U.S. EIA - Capacity Factors for Utility Scale Generators Primarily Using Fossil Fuels](https://www.eia.gov/electricity/annual/html/epa_04_08_a.html)
 
 [^10]:
     [U.S. EIA - Henry Hub Natural Gas Spot Price](https://www.eia.gov/dnav/ng/hist/rngwhhdm.htm)
 
-```
-[U.S. Office of Energy Efficiency & Renewable Energy - Hydrogen Storage](https://www.energy.gov/eere/fuelcells/hydrogen-storage)
-```
+    [U.S. Office of Energy Efficiency & Renewable Energy - Hydrogen Storage](https://www.energy.gov/eere/fuelcells/hydrogen-storage)
 
 [^11]: [U.S. EIA - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/balancing_authority/ERCO)
 
@@ -160,16 +156,14 @@ featuredimage: /img/blackout.jpeg
 [^16]: 
     [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
 
-```
-For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 per year during the 2010s.
 
-Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – www.emdat.be (D. Guha-Sapir).
 
-Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, population is assumed to have grown at a steady rate.
 
-Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+    Population estimates for the 2010s come from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
 
-[Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
-```
+    [Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
 
 [^17]: [Our World in Data - Annual CO₂ emissions by world region](https://ourworldindata.org/grapher/annual-co-emissions-by-region)
