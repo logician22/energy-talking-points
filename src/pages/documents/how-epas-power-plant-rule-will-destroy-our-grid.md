@@ -49,7 +49,7 @@ featuredimage: /img/blackout.jpeg
     ![EPA BSER CCS 90%](/img/epa-concludes.jpg)
 * Per the Clean Air Act, **EPA must pass rules based on “adequately demonstrated and available” tech.** If this means anything, it’s that there are commercial plants that meet the rules’ standards (“demonstrated”) and do so cost-effectively (“available”). **Neither is remotely the case.**
     ![EPA Adequately Demonstrated](/img/adequately-demonstrated.jpg)
-* **Of the >3000 fossil fuel power plants in North America, exactly two of them—**one in Saskatchewan and another in Texas—**have generating units that currently use CCS on a commercial scale.** Both units capture far less than 90% of their emissions, and do so at enormous cost.
+* **Of the >3000 fossil fuel power plants in North America, exactly two of them—** one in Saskatchewan and another in Texas—**have generating units that currently use CCS on a commercial scale.** Both units capture far less than 90% of their emissions, and do so at enormous cost.
 * Over its 9 years of operation, the coal-fired Boundary Dam Unit 3 in Saskatchewan was able to use CCS to capture 57% of its total CO2 (and 0% of the CO2 from the other two units in the plant), never once reaching its goal of 90%.[^4]
     ![Boundary Dam 3 Annual](/img/boundary-dam-co2.jpg)
 * From 2017-2019, the “Petra Nova” project in Texas captured 26% of the CO2 from Unit 8 of the W.A. Parish plant (by capturing 70% of its own technical capacity)—excluding emissions from gas-powered Petra Nova itself.[^5]
