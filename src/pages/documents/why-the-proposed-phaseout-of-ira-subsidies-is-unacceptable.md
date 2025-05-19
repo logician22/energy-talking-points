@@ -91,7 +91,7 @@ _In truth, the bill is not a real attempt at repealing the Inflation Reduction A
 - In a grandfathering scenario, only the following projects should be included:
 
     — Projects with construction completed or significant construction started\
-    – Projects that already made >10% of the project expenditures\
+    — Projects that already made >10% of the project expenditures\
     — Projects that entered into legally binding agreements with suppliers or clients, where the termination of such agreements would result in them having to pay >10% of the project expenditures in penalties.
 
     Projects at the permitting stage shouldn’t be accepted.
