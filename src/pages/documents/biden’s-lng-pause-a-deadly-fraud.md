@@ -97,9 +97,9 @@ _Michelle Hung and Steffen Henne contributed to this piece._
 
 ### References 
 [^1]:
-    [U.S. Energy Information Administration - U.S. Natural Gas Gross Withdrawals](www.eia.gov/dnav/ng/hist/ngm_epg0_fgw_nus_mmcfdm.htm)
+    [U.S. Energy Information Administration - U.S. Natural Gas Gross Withdrawals](http://www.eia.gov/dnav/ng/hist/ngm_epg0_fgw_nus_mmcfdm.htm)
 
-    [U.S. Energy Information Administration - Natural gas explained, How much natural gas is left](www.eia.gov/energyexplained/natural-gas/how-much-gas-is-left.php)
+    [U.S. Energy Information Administration - Natural gas explained, How much natural gas is left](http://www.eia.gov/energyexplained/natural-gas/how-much-gas-is-left.php)
 
 [^2]:
     [EQT - Nationwide Poll Shows Nearly 70% of All Voters Support Increasing Natural Gas Production](https://media.eqt.com/investor-relations/news/news-release-details/2022/Nationwide-Poll-Shows-Nearly-70-of-All-Voters-Support-Increasing-Natural-Gas-Production/default.aspx)
