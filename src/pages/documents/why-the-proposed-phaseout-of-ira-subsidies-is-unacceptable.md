@@ -60,7 +60,7 @@ _In truth, the bill is not a real attempt at repealing the Inflation Reduction A
 
 - **There isn’t even a promise to start phasing out the most damaging IRA subsidies, those for solar and wind, until after Trump is President!**
 
-    For the next 4 years government will keep giving grid-destroying 10-year subsidies for new solar and wind projects!4
+    For the next 4 years government will keep giving grid-destroying 10-year subsidies for new solar and wind projects![^4]
 
 - **The most important responsibility for Republicans regarding the IRA is to cut all existing and future subsidies for solar and wind,** as these subsidies flood our grid with unreliable electricity.
 
