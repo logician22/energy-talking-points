@@ -82,7 +82,7 @@ _In truth, the bill is not a real attempt at repealing the Inflation Reduction A
 - Myth: “Repeals and phases out every green corporate welfare subsidy in the Democrats’ Inflation Act.”
 
     Truth: Carbon capture and “clean fuel” subsidies (e.g., biofuels) are not repealed or phased out—and the “phased out” subsidies will easily be reversed by a future Congress.[^7]
-    ![The One, Big, Beautiful Bill](/img/the-one-big-beautiful-bill.webpstatic/img/the-one-big-beautiful-bill.webp)
+    ![The One, Big, Beautiful Bill](/img/the-one-big-beautiful-bill.webp)
 
 ### An infinitely better compromise: End all subsidies now but grandfather in existing projects
 
