@@ -210,7 +210,7 @@ For more on the myth that solar/wind can rapidly replace fossil fuels, read this
     Please share this article with climate and energy experts and encourage them to speak up.
 
 
-###References
+### References
 
 [^1]: [IPCC - Synthesis Report of the Sixth Assessment Report](https://www.ipcc.ch/ar6-syr/)
 
