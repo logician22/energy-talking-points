@@ -348,7 +348,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 [^5]: [CNBC - California bans the sale of new gas-powered cars by 2035](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
 
-    [UtilityDive - New York begins implementation of 2035 ban on new gas-powered cars and trucks, following California lead](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
+    [UtilityDive - New York begins implementation of 2035 ban on new gas-powered cars and trucks, following California lead](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
 
 [^6]: [Breitbart - Joe Biden Promises Environmentalist: ‘Look into My Eyes; I Guarantee You, We Are Going to End Fossil Fuel’](https://www.breitbart.com/politics/2019/09/07/joe-biden-promises-environmentalist-look-into-my-eyes-i-guarantee-you-we-are-going-to-end-fossil-fuel/)
 
