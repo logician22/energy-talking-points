@@ -346,7 +346,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 
 [^4]: [Alex Epstein - It's time for Larry Fink to come clean about fossil fuels](https://alexepstein.substack.com/p/its-time-for-larry-fink-to-come-clean)
 
-[^5]: [CNBC - California bans the sale of new gas-powered cars by 2035](https://www.cnbc.com/2022/08/25/california-bans-the-sale-of-new-gas-powered-cars-by-2035.html)
+[^5]: [CNBC - California bans the sale of new gas-powered cars by 2035](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
 
     [UtilityDive - New York begins implementation of 2035 ban on new gas-powered cars and trucks, following California lead](https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/https://www.utilitydive.com/news/new-york-2035-ban-new-gas-powered-cars-trucks-ICE-vehicles/633041/)
 
