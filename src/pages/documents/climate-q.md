@@ -110,7 +110,7 @@ Here are answers to 10 popular loaded climate questions.
         [![The IPCC's perversion of science](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8f8e1cc-3564-4a17-aa40-722f42b87fcf_1600x900.png)](https://energytalkingpoints.com/syr/)
     -   For more on the political—and religious—nature of the Intergovernmental Panel on Climate Change, read [this](https://energytalkingpoints.com/the-truth-about-the-un-ipcc/).
 
-###References
+### References
 
 [^1]: “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”  
 
