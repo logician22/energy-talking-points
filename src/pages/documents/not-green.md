@@ -114,7 +114,7 @@ _The goal of “green energy” is to_ **_pretend to support abundant energy_** 
 -   To understand why fossil fuels are so valuable for the foreseeable future, and why their benefits far outweigh their negative side-effects including climate side-effects, read this summary of my book Fossil Future.
 [![The irrefutable case for a Fossil Future](https://substackcdn.com/image/fetch/w_1300,h_650,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFbgFr11UcAI8ayW.jpg)](https://energytalkingpoints.com/irrefutable-ff/)
 
-###References
+### References
 
 [^1]: [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
