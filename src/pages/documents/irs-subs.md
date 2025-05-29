@@ -114,7 +114,7 @@ featuredimage: /img/turbines.jpg
     The IRA fraud must end.
 
 
-###References
+### References
 
 [^1]: [The White House - Building a clean energy economy](https://www.whitehouse.gov/wp-content/uploads/2022/12/Inflation-Reduction-Act-Guidebook.pdf)
 
