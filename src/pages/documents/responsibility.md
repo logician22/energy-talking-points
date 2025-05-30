@@ -157,7 +157,7 @@ featuredimage: /img/blackout.jpeg
     ![coal production decline](/img/gas-and-coal-prices3.jpeg)
 
 
-###References
+### References
 
 [^1]: [Alex Epstein - Talking Points on skyrocketing oil and gasoline prices](https://alexepstein.substack.com/p/talking-points-on-skyrocketing-oil)
 
