@@ -91,7 +91,7 @@ featuredimage: /img/spr-depletion.png
 - I hope that this hearing is a step toward reversing this dangerous state of affairs, and I welcome any and all questions.
 
 
-###References
+### References
 
 [^1]:
     [U.S. DOE, Office of Cybersecurity, Energy Security, and Emergency Response - Statutory Authority for an SPR Drawdown](https://www.energy.gov/ceser/statutory-authority-spr-drawdown)
