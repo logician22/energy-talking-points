@@ -62,7 +62,7 @@ featuredimage: /img/green-joblessness.jpg
 -   To deny the blatant reality that solar and wind cannot outcompete fossil fuels, opponents of fossil fuels use **a fallacy I’ve never seen anyone identify in this context: “false generalization”—taking something that’s true in rare circumstances and falsely generalizing it to all circumstances.**
     
 
-#### The fallacy of false generalization
+### The fallacy of false generalization
 
 -   Claims that solar and wind are cheaper than fossil fuels **take rare use-cases in which solar and wind are, or might be, cheaper** and then **falsely generalize that they are always cheaper**—even though they’re usually expensive or impossible.
     
