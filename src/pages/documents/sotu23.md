@@ -94,7 +94,7 @@ featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
     [4 energy hearings the House should hold](https://energytalkingpoints.com/hearings/)
 
 
-###References
+### References
 
 [^1]: [White House - Remarks of President Joe Biden – State of the Union Address as Prepared for Delivery](https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/)
 
