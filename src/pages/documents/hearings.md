@@ -92,7 +92,7 @@ Originally published on January 7, 2023
 Please share this piece with your representatives and encourage them to take action! If they want to contact me directly about these ideas they can reach me at alex at alexepstein dot com.
 
 
-###References
+### References
 
 [^1]: [Lovering et al. (2016) - Historical construction costs of global nuclear power reactors](https://www.sciencedirect.com/science/article/pii/S0301421516300106)
 
