@@ -74,7 +74,7 @@ Originally published on January 26, 2023
 
 [^1]: [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1607966762968154115)
 
-[^3]: [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1386815954181632000)
+[^2]: [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1386815954181632000)
 
 [^3]:
     [BP - Statistical Review of World Energy](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
