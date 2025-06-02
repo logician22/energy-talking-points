@@ -93,7 +93,7 @@ Originally published on January 13, 2023
     **Tell them that you are interested in any valid science they want to offer you voluntarily—but that you will fight them to the death when they use pseudoscience to take away our freedom to produce and use energy.**
 
 
-###References
+### References
 
 [^1]:
     [WSJ - Biden Is Coming for Your Gas Stove](https://www.wsj.com/articles/biden-is-coming-for-your-gas-stove-consumer-product-safety-commission-richard-trumka-environmental-protection-agency-11673303864)
