@@ -70,7 +70,7 @@ Originally published on January 26, 2023
     ![Musk energy rhetoric](/img/musk-rethoric.png)
 
 
-###References
+### References
 
 [^1]: [Elon Musk on Twitter](https://twitter.com/elonmusk/status/1607966762968154115)
 
