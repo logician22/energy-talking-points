@@ -156,7 +156,7 @@ Originally published on December 7, 2022
     [Should World Governments Enact Net-Zero-By-2050 Policies?, a debate by John Doggett and Alex Epstein](https://youtu.be/naAXRHbhU3c)
 
 
-###References
+### References
 
 [^1]:
     [Alex Epstein - How a fake climate emergency created a real energy emergency](https://energytalkingpoints.com/fake-emergency/)
