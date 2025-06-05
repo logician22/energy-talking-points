@@ -99,7 +99,7 @@ O﻿riginally published on December 2, 2022
     Tell your Representative to do both.
 
 
-###References
+### References
 
 [^1]: [Scientific American - COP27 Summit Yields ‘Historic Win’ for Climate Reparations but Falls Short on Emissions Reductions](https://www.scientificamerican.com/article/cop27-summit-yields-historic-win-for-climate-reparations-but-falls-short-on-emissions-reductions/)
 
