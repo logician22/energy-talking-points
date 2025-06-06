@@ -126,7 +126,7 @@ Originally published on November 10, 2022
     We need energy freedom.
 
 
-###References
+### References
 
 [^1]: [U.S. Energy Information Administration - Weekly U.S. Ending Stocks of Distillate Fuel Oil](https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WDISTUS1&f=W)
 
