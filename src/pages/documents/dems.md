@@ -117,7 +117,7 @@ Originally published on Oct 26, 2022
     **The party needs to take responsibility and reverse course.**
 
 
-###References
+### References
 
 [^1]: [Boston 25 News - Another New England-based utility company announces massive rate hike ahead of winter season](https://www.boston25news.com/news/local/another-new-england-based-utility-company-announces-massive-rate-hike-ahead-winter-season/E3WPDVLPJVEVFIBBXUBPKCRZKY/)
 
