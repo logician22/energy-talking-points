@@ -259,7 +259,7 @@ Originally published on October 21, 2022
 - To maximize your understanding of the future of energy, read my new book [Fossil Future: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not-ebook/dp/B098M3Y7VC?&tag=thoughtful0f-20).
 
 
-###References
+### References
 
 [^1]:
     [UC San Diego - The Keeling Curve](https://keelingcurve.ucsd.edu/)
