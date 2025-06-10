@@ -107,7 +107,7 @@ Originally published on September 28, 2022
     - [12 myths about the terrible “Inflation Reduction Act,” refuted](https://energytalkingpoints.com/ira-myths/)
 
 
-###References
+### References
 
 [^1]: [Alex Epstein - The Energy Freedom Platform](https://energytalkingpoints.com/efp/)
 
