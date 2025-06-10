@@ -173,7 +173,7 @@ Nothing could be further from the truth.
     ![CNN 100% solar community](/img/cnn-hurricane-solar.png)
 
 
-###References
+### References
 
 [^1]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
