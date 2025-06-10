@@ -125,7 +125,7 @@ featuredimage: /img/blackout.jpeg
     [The Energy Freedom Platform](https://alexepstein.substack.com/p/the-energy-freedom-platform)
 
 
-###References
+### References
 
 [^1]:
     [NYT - ‘Crippling’ Energy Bills Force Europe’s Factories to Go Dark](https://www.nytimes.com/2022/09/19/business/europe-energy-crisis-factories.html)
