@@ -223,6 +223,6 @@ Originally published on September 21, 2022
 
 [^14]: [Congress.gov - H.R.5376 - Inflation Reduction Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/5376/text)
 
-[^15]: [U.S. Environmental Protection Agency - White House Environmental Justice Advisory Council Final Recommendations Cover Letter May 21, 2021](https://www.epa.gov/environmentaljustice/white-house-environmental-justice-advisory-council-final-recommendations-cover)
+[^15]: [U.S. Environmental Protection Agency - White House Environmental Justice Advisory Council Final Recommendations Cover Letter May 21, 2021](https://www.epa.gov/sites/default/files/2021-05/documents/white_house_environmental_justice_advisory_council_final_recommendations_cover_letter_may_21_2021.pdf)
 
 [^16]: [Alex Epstein - 12 myths about the terrible “Inflation Reduction Act,” refuted](https://energytalkingpoints.com/ira-myths/)
