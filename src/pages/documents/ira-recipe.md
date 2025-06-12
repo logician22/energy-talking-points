@@ -119,8 +119,9 @@ Originally published on September 21, 2022
 
     The IRA does exactly this and thus poses a **truly dire threat to our grid and our prosperity.**
 
-- Step 4 of the Inflation Reduction Act's recipe for destroying American energy
-**Give more power to anti-fossil-fuel activists**
+- Step 4 of the Inflation Reduction Act's recipe for destroying American energy:
+
+    **Give more power to anti-fossil-fuel activists**
 
     “Environmental justice” activists have handicapped US energy, especially crucial infrastructure like pipelines.
 
