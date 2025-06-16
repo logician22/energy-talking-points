@@ -8,9 +8,9 @@ description: Last month, President Biden issued a "net zero" Executive Order
   little pushback.
 featuredimage: /img/bidens-oil-and-gas-moratorium.jpeg
 ---
-**The Biden Administration recently issued an Executive Order that commits the Federal Government to reduce emissions 65% by 2030 and be “net zero” by 2050.
+**The Biden Administration recently issued an Executive Order that commits the Federal Government to reduce emissions 65% by 2030 and be “net zero” by 2050.**
 
-This commitment is suicidal because 3/4 of government energy use is for defense—and most of that must come from fossil fuels.**[^1]
+**This commitment is suicidal because 3/4 of government energy use is for defense—and most of that must come from fossil fuels.**[^1]
 
 - Our government has a sacred **obligation to do everything it can to protect our lives and freedom—including those of our troops**. Joe Biden recently **violated this obligation flagrantly** by committing the Federal government to wildly inferior “net zero” energy sources.
 
