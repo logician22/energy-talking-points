@@ -41,7 +41,7 @@ The **cause of Europe’s energy insecurity**, which has rendered it **impotent 
 
     We must **abandon Europe-copying [anti-energy policies like Build Back Better](https://alexepstein.substack.com/p/intellectual-ammunition-to-keep-build)**.
 
-- Ominously, many anti-fossil fuel-forces in Europe and in the US, are not admitting their mistakes but instead claiming we need to further abandon fossil fuels in favor of unreliable solar and wind. Here’s why this is exactly wrong.[^10]
+- Ominously, many anti-fossil fuel-forces in Europe and in the US, are not admitting their mistakes but instead claiming we need to further abandon fossil fuels in favor of unreliable solar and wind. Here’s why this is exactly wrong.[^11]
 ![White House tweets about EVs](/img/wh-tweet.jpeg)
 
 - The **best protection against energy insecurity** is not the illusion of independence that solar and wind provide but the **freedom to produce all kinds of energy**, including fossil fuels, domestically, and the **freedom to trade all kinds of energy** with other civilized countries.
@@ -90,4 +90,6 @@ The **cause of Europe’s energy insecurity**, which has rendered it **impotent 
 
     [Federal Ministry of Economic Affairs and Climate Action - Final decision to launch the coal-phase out – a project for a generation](https://www.bmwi.de/Redaktion/EN/Pressemitteilungen/2020/20200703-final-decision-to-launch-the-coal-phase-out.html)
 
-[^10]: [Alex Epstein on Twitter](https://twitter.com/AlexEpstein/status/1504487042016632833)
+[^10]: [Alex Epstein - How the Biden Administration threatens energy security](https://energytalkingpoints.com/biden-energy-security/)
+
+[^11]: [Alex Epstein on Twitter](https://twitter.com/AlexEpstein/status/1504487042016632833)
