@@ -69,12 +69,10 @@ A Proud Gas Producer
 ![Warren letter3a](/img/warren03a.jpg)
 ![Warren letter3b](/img/warren03b.jpg)
 
-You can read the letter in PDF form [here](https://industrialprogress.com/wp-content/uploads/2021/12/Warren-open-letter-signed.pdf) and in talking point form [here](https://twitter.com/AlexEpstein/status/1468198120886444033).
+You can read the letter in PDF form [here](/img/warren-open-letter.pdf) and in talking point form [here](https://twitter.com/AlexEpstein/status/1468198120886444033).
 
 Here’s the Twitter version of my letter. If you use Twitter, please share it with Senator Warren ([@SenWarren](https://twitter.com/senwarren)). If enough people bring attention to this letter there’s a good chance Senator Warren will feel compelled to respond.
 https://twitter.com/AlexEpstein/status/1468198120886444033
-
-
 
 ### References
 
@@ -93,7 +91,6 @@ https://twitter.com/AlexEpstein/status/1468198120886444033
     [U.S. Department of Energy - Gas Hydrates](https://www.energy.gov/fecm/science-innovation/oil-gas-research/methane-hydrate)
 
 [^3]:
-    
     [Detroit News - Elizabeth Warren adds her voice to calls for Line 5's shutdown](https://detroitnews.com/story/news/politics/2020/02/26/elizabeth-warren-calls-line-5-shutdown/4885611002/)
 
     [Enbridge - The impact of a Line 5 shutdown](https://www.enbridge.com/~/media/Enb/Documents/Factsheets/FS_Without_Line5_econ_impact.pdf)
