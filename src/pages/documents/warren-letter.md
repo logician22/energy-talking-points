@@ -7,7 +7,7 @@ description: Senator Warren blamed natural gas CEOs for rising prices. Here’s
   how I would respond if I were them.
 featuredimage: /img/warrenofficial_portrait.jpg
 ---
-**I sent this letter to Elizabeth Warren in response to what I regard as an egregiously unjust attack on the natural gas industry. It contains many talking points that can be used in any discussion of natural gas prices this winter. You can read the letter in PDF form [here](https://industrialprogress.com/wp-content/uploads/2021/12/Warren-open-letter-signed.pdf).**
+**I sent this letter to Elizabeth Warren in response to what I regard as an egregiously unjust attack on the natural gas industry. It contains many talking points that can be used in any discussion of natural gas prices this winter. You can read the letter in PDF form [here](/img/warren-open-letter.pdf).**
 
 Dear Senator Warren,
 
