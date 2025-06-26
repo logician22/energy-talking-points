@@ -18,7 +18,7 @@ featuredimage: /img/esg.jpeg
 
 - The only way well-paying jobs are sustainable in the long-term is if they are highly productive. For example, the reason US oil-and-gas extractions jobs pay very well is that they produce an average of $2 million per worker annually. Nothing in wind or solar can compare.[^2]
 
-- Workers involved in generating electricity from natural gas and coal produce 9 times more electricity per person than workers generating electricity from wind and solar. And the fossil fuel electricity, unlike solar and wind, is highly reliable.[3]
+- Workers involved in generating electricity from natural gas and coal produce 9 times more electricity per person than workers generating electricity from wind and solar. And the fossil fuel electricity, unlike solar and wind, is highly reliable.[^3]
 
 - Reason #2 why the reconciliation bill will destroy productive US jobs: the "green jobs" it seeks to create will mostly exist in China, which has a huge competitive advantage in mining, processing, and manufacturing.
 
