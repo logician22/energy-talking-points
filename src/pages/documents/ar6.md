@@ -38,7 +38,7 @@ https://twitter.com/AlexEpstein/status/1424810764636856323
 - Inconvenient Truth 7: Thanks in part to CO2 fertilization, but in larger part to fossil fueled productivity, humanity has never been better fed than today. There is no danger of not being able to feed humanity if we have low-cost, reliable, global-scale energy.[^7]
 
 - To learn the big-picture truth about fossil fuels and climate, read my recent Congressional testimony.
-https://energytalkingpoints.com/alex-epstein-congressional-testimony-for-may-19-2021/
+    [https://energytalkingpoints.com/alex-epstein-congressional-testimony-for-may-19-2021/](https://energytalkingpoints.com/alex-epstein-congressional-testimony-for-may-19-2021/)
 
 ### References
 
