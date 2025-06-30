@@ -47,10 +47,10 @@ https://energytalkingpoints.com/alex-epstein-congressional-testimony-for-may-19-
 [^2]: [IPCC AR6 Summary for Policymakers p. 14](https://www.ipcc.ch/report/ar6/wg1/) 
 
 [^3]:
-    [UK Met Office HadCRUT5 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut5/)\
+    [UK Met Office HadCRUT5 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut5/)
 
-“The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”
-[Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
+    “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”
+    [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
 [^4]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%--from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
