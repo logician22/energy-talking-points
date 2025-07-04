@@ -216,53 +216,53 @@ _Michelle Hung, Steffen Henne, and Daniil Gorbatenko contributed to this piece._
 
 ### References
 
-[1]: [North American Electric Reliability Corporation - 2024 Long-Term Reliability Assessment](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx)
+[^1]: [North American Electric Reliability Corporation - 2024 Long-Term Reliability Assessment](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx)
 
-[2]: 
+[^2]: 
     [The Hill - Trump Energy secretary: Clean energy tax credits a ‘big mistake’](https://thehill.com/policy/energy-environment/5260769-chris-wright-clean-energy-credits-mistake/)
 
     [CBS4 Local - Trump energy secretary says net zero emissions by 2050 is 'sinister' goal](https://cbs4local.com/news/nation-world/trump-energy-secretary-says-net-zero-emissions-by-2050-is-sinister-chris-wright-department-of-energy-arc-forum-carbon-greenhouse-gas-pollution)
 
-[3]: [Utility Dive - US data center electricity demand could double by 2030, driven by artificial intelligence: EPRI](https://www.utilitydive.com/news/artificial-intelligence-doubles-data-center-demand-2030-EPRI/717467/)
+[^3]: [Utility Dive - US data center electricity demand could double by 2030, driven by artificial intelligence: EPRI](https://www.utilitydive.com/news/artificial-intelligence-doubles-data-center-demand-2030-EPRI/717467/)
 
-[4]: 
+[^4]: 
     [U.S. Energy Information Administration - U.S. electricity prices continue steady increase](https://www.eia.gov/todayinenergy/detail.php?id=65284)
 
     [U.S. Energy Information Administration - U.S. Natural Gas Electric Power Price](https://www.eia.gov/dnav/ng/hist/n3045us3a.htm)
 
-[5]: [Isaac Orr and Mitch Rolling - Wind and Solar up to 12 TIMES More Expensive Than Natural Gas in New England](https://energybadboys.substack.com/p/wind-and-solar-up-to-12-times-more)
+[^5]: [Isaac Orr and Mitch Rolling - Wind and Solar up to 12 TIMES More Expensive Than Natural Gas in New England](https://energybadboys.substack.com/p/wind-and-solar-up-to-12-times-more)
 
-[6]: [Alex Epstein - Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
+[^6]: [Alex Epstein - Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
 
-[7]: [Goldman Sachs - The US is poised for an energy revolution](https://www.goldmansachs.com/insights/articles/the-us-is-poised-for-an-energy-revolution)
+[^7]: [Goldman Sachs - The US is poised for an energy revolution](https://www.goldmansachs.com/insights/articles/the-us-is-poised-for-an-energy-revolution)
 
-[8]: [Federal Reserve Bank of St. Louis - Net domestic investment: Private: Domestic business](https://fred.stlouisfed.org/series/W790RC1Q027SBEA)
+[^8]: [Federal Reserve Bank of St. Louis - Net domestic investment: Private: Domestic business](https://fred.stlouisfed.org/series/W790RC1Q027SBEA)
 
-[9]: [U.S. Bureau of Labor Statistics - Civilian unemployment rate](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
+[^9]: [U.S. Bureau of Labor Statistics - Civilian unemployment rate](https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm)
 
-[10]: [CATO Institute - The Budgetary Cost of the Inflation Reduction Act’s Energy Subsidies](https://www.cato.org/policy-analysis/budgetary-cost-inflation-reduction-acts-energy-subsidies#)
+[^10]: [CATO Institute - The Budgetary Cost of the Inflation Reduction Act’s Energy Subsidies](https://www.cato.org/policy-analysis/budgetary-cost-inflation-reduction-acts-energy-subsidies#)
 
-[11]: [U.S. Treasury - Debt to the Penny](https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny)
+[^11]: [U.S. Treasury - Debt to the Penny](https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny)
 
-[12]: [GovTrack.us - H.R. 5376: Inflation Reduction Act of 2022](https://www.govtrack.us/congress/votes/117-2022/s325)
+[^12]: [GovTrack.us - H.R. 5376: Inflation Reduction Act of 2022](https://www.govtrack.us/congress/votes/117-2022/s325)
 
-[13]: 
+[^13]: 
     [Axios - Trump wants to "terminate" green spending. Here's what could stand in his way](https://www.axios.com/2024/10/28/trump-climate-law-ira-pullback)
 
     [E&E News - Trump attacks EVs, ‘green new scam’ in RNC speech](https://www.eenews.net/articles/trump-attacks-evs-green-new-scam-in-rnc-speech-cw/)
 
-[14]: [Isaac Orr and Mitch Rolling - GOP's "Phase Out" of IRA Subsidies Isn't Good Enough](https://energybadboys.substack.com/p/gops-phase-out-of-ira-subsidies-isnt)
+[^14]: [Isaac Orr and Mitch Rolling - GOP's "Phase Out" of IRA Subsidies Isn't Good Enough](https://energybadboys.substack.com/p/gops-phase-out-of-ira-subsidies-isnt)
 
-[15]: 
+[^15]: 
     [American Clean Power Association - ACP Statement: House Passage of Cuts to Clean Energy Tax Credits a Threat to Economic and Energy Security](https://cleanpower.org/news/acp-statement-house-passage-of-cuts-to-clean-energy-tax-credits-a-threat-to-economic-and-energy-security/)
 
     [PV Tech - US renewable energy credits face steep cliff edge in ‘One, Big, Beautiful Bill’](https://www.pv-tech.org/us-renewable-energy-credits-face-steep-cliff-edge-in-one-big-beautiful-bill/)
 
-[16]: 
+[^16]: 
     [U.S. House Committee on Ways & Means - Full Committee Markup of Legislative proposals to comply with the reconciliation directive included in section 2001 of the Concurrent Resolution on the Budget for Fiscal Year 2025, H. Con. Res. 14.](https://waysandmeans.house.gov/event/full-committee-markup-of-legislative-proposals-to-comply-with-the-reconciliation-directive-included-in-section-2001-of-the-concurrent-resolution-on-the-budget-for-fiscal-year-2025-h-con-res-14/)
 
     [Congress.gov - H.R.1 - One Big Beautiful Bill Act](https://www.congress.gov/bill/119th-congress/house-bill/1/text)
 
     [U.S. Senate Committee on Finance - Reconciliation proposal](https://www.finance.senate.gov/tax-reform-2025)
 
-[17]: [Solar Power World - Draft budget kills residential ITC, preserves large-scale and manufacturing credits](https://www.solarpowerworldonline.com/2025/05/draft-budget-kills-residential-itc-preserves-large-scale-and-manufacturing-credits/)
+[^17]: [Solar Power World - Draft budget kills residential ITC, preserves large-scale and manufacturing credits](https://www.solarpowerworldonline.com/2025/05/draft-budget-kills-residential-itc-preserves-large-scale-and-manufacturing-credits/)
