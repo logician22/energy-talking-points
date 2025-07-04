@@ -210,7 +210,8 @@ Our massive subsidization of solar and wind, which the IRA brought to new levels
 - Unfortunately, there are no ways in which the Senate Finance proposal strengthened the House bill’s modest IRA subsidy cuts. It **only weakened or eliminated the House’s cuts.** If not changed this will mean **catastrophic and avoidable damage to our grid and our budget.**
 
 ### Detailed breakdown of costs, savings, and benefits of different IRA options
-    ![The Senate’s options for IRA subsidies](/img/senate-options-ira-subsidies-ii.jpg)
+
+![The Senate’s options for IRA subsidies](/img/senate-options-ira-subsidies-ii.jpg)
 
 _Michelle Hung, Steffen Henne, and Daniil Gorbatenko contributed to this piece._
 
