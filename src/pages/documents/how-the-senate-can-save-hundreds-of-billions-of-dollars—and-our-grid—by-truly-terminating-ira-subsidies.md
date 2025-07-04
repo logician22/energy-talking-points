@@ -66,7 +66,7 @@ Our massive subsidization of solar and wind, which the IRA brought to new levels
 
 - **Lobbyist myth: Getting rid of solar/wind subsidies will cause electricity prices to go up.**
 
-- ***Truth: Getting rid of them is necessary to make electricity prices go down.*** Solar and wind subsidies have already caused total electricity prices to go up, along with imposing the far greater cost of a less reliable grid. (Remember that Texas electricity seemed cheap until Uri, when solar and wind were out to lunch but TX had spent 10s of billions of dollars on them instead of weatherizing its reliable power plants and having more of them.6) No matter what we do, subsidizing solar/wind, by defunding reliable generation, has already baked in more increases and reliability problems down the road. The only way to start lowering prices is to stop the subsidies now and get back to building truly low-cost, reliable generation.
+- ***Truth: Getting rid of them is necessary to make electricity prices go down.*** Solar and wind subsidies have already caused total electricity prices to go up, along with imposing the far greater cost of a less reliable grid. (Remember that Texas electricity seemed cheap until Uri, when solar and wind were out to lunch but TX had spent 10s of billions of dollars on them instead of weatherizing its reliable power plants and having more of them.[^6] No matter what we do, subsidizing solar/wind, by defunding reliable generation, has already baked in more increases and reliability problems down the road. The only way to start lowering prices is to stop the subsidies now and get back to building truly low-cost, reliable generation.
 
 ### All the IRA subsidies make our economy less productive
 
@@ -89,7 +89,7 @@ Our massive subsidization of solar and wind, which the IRA brought to new levels
 
 ### The only way to truly “terminate” IRA subsidies as promised is to end eligibility during Trump’s term using a strict “placed in service” deadline
 
-- “Terminating” the “Green New Deal” or “Green New Scam”—the IRA subsidies, which every Republican Senator voted against in 202212—was rightly a **leading promise in the Republican platform** and in President Trump’s campaign.[^13]
+- “Terminating” the “Green New Deal” or “Green New Scam”—the IRA subsidies, which every Republican Senator voted against in 2022[^12]—was rightly a **leading promise in the Republican platform** and in President Trump’s campaign.[^13]
 
 - History shows us that **it is difficult to truly terminate “green” subsidies;** witness the Production Tax Credit (used mostly for wind) which has been extended for over 30 years since it was first passed in 1992![^14]
     ![Production Tax Credit Extensions Since 1992](/img/production-tax-credit-extenssions.jpg)
