@@ -43,7 +43,7 @@ The claim that a "Clean Energy Standard" will lower global CO2 emissions is a jo
 
 Anyone who cares about CO2 emissions must recognize that the only non-carbon energy source that has a chance of outcompeting fossil fuels and lowering global emissions is nuclear energy. Nuclear is incredibly safe, incredibly reliable, and can be generated anywhere in the world.
 
-Unfortunately, nuclear has become ultra-expensive in the US because politicians (mostly Dems) have demonized it and virtually criminalized it through endless unscientific regulations--along with wind/solar favors+subsidies, like the "PTC," that defund reliable nuclear plants.[10]
+Unfortunately, nuclear has become ultra-expensive in the US because politicians (mostly Dems) have demonized it and virtually criminalized it through endless unscientific regulations--along with wind/solar favors+subsidies, like the "PTC," that defund reliable nuclear plants.[^10]
 
 US policy is so anti-nuclear that virtually no one will attempt to build a nuclear plant in this country--and in 2021 utilities are planning to shut down a record amount of our existing low-carbon, low-cost, reliable nuclear power plants![^11]
 
