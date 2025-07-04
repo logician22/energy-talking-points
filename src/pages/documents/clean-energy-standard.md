@@ -98,7 +98,7 @@ When we look at the decline of nations throughout history we wonder: How could t
 [^8]:
     [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
 
-    As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.
+    As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.\
     [Global Energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/)\
     [America’s Power - China’s Coal Fleet Continues to Grow](https://americaspower.org/chinas-coal-fleet-continues-to-grow/)
 
