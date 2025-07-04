@@ -66,8 +66,10 @@ When we look at the decline of nations throughout history we wonder: How could t
     [Energy Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^2]:
-    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)\
-    [Utility Dive - Clean electricity standard lands spot in $3.5 trillion Democratic-backed infrastructure deal](https://www.utilitydive.com/news/clean-electricity-standard-lands-spot-in-35-trillion-democratic-backed-in/603363/)\
+    [U.S. Energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/)
+
+    [Utility Dive - Clean electricity standard lands spot in $3.5 trillion Democratic-backed infrastructure deal](https://www.utilitydive.com/news/clean-electricity-standard-lands-spot-in-35-trillion-democratic-backed-in/603363/)
+
     [U.S. Energy Information Administration - EIA projects generation from coal and nuclear power plants will plateau after 2025](https://www.eia.gov/todayinenergy/detail.php?id=42755)
 
 [^3]:
