@@ -95,7 +95,7 @@ When you hear scary claims about a “climate crisis,” keep in mind that clima
 
 After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths—deaths from extreme temperatures, droughts, wildfires, storms, and floods—has decreased by _98%_ over the last century.[^13]
 
-Fossil fuels were supposed to make climate far more dangerous in the last 40 years but they have actually made it far safer by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought.
+Fossil fuels were supposed to make climate far more dangerous in the last 40 years but they have actually made it far safer by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought.[^14]
 
 #### How to empower Puerto Rico
 
