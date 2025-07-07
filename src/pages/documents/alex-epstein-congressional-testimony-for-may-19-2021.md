@@ -208,8 +208,10 @@ It's not too late to change course. If we liberate every energy industry, includ
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
 [^4]: [World Bank Data - Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)](https://data.worldbank.org/indicator/SI.POV.DDAY)
+
 [^5]:
-    [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)\
+    [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
+
     [Our World in Data - Global poverty in an unequal world: Who is considered poor in a rich country? And what does this mean for our understanding of global poverty?](https://ourworldindata.org/higher-poverty-global-line)
 
 [^6]: [Alex Epstein - Talking Points on Fracking](https://energytalkingpoints.com/fracking/)
@@ -252,7 +254,8 @@ It's not too late to change course. If we liberate every energy industry, includ
     [U.S. Energy Information Administration - Nuclear and coal will account for majority of U.S. generating capacity retirements in 2021](https://www.eia.gov/todayinenergy/detail.php?id=46436)
 
 [^13]:
-    [S&P Global - Biden issues broad moratorium on oil and gas leases on federal lands and waters](https://www.spglobal.com/platts/en/market-insights/latest-news/oil/012721-biden-issues-broad-moratorium-on-oil-and-gas-leases-on-federal-lands-and-waters)\
+    [S&P Global - Biden issues broad moratorium on oil and gas leases on federal lands and waters](https://www.spglobal.com/platts/en/market-insights/latest-news/oil/012721-biden-issues-broad-moratorium-on-oil-and-gas-leases-on-federal-lands-and-waters)
+
     [The White House - Executive Order on Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
 
 [^14]: [Office of Natural Resources Revenue](https://revenuedata.doi.gov/query-data?dataType=Revenue)
