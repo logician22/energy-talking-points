@@ -7,7 +7,6 @@ description: This is Alex Epstein's testimony for a hearing by the House Natural
   Resources Committee on May 19, 2021.
 featuredimage: /img/alex-epstein.jpg
 ---
-
 ## Extended written testimony
 
 Thank you for inviting me to testify. I want to begin by challenging the basic assumption of this hearing, which is that the US government is harming Americans and the world by giving unjust preferences to the highly destructive oil and gas industry. I believe this is 100% wrong.
@@ -28,7 +27,7 @@ While we are told that wind and solar can provide low-cost, reliable energy just
 
 The more wind and solar that grids use, the higher their electricity prices. German households have seen prices double in 20 years due to wasteful, unreliable solar and wind infrastructure. Their electricity prices are 3X ours — which are already too high due to wind and solar.[^1]
 
-But wait, what about the claim by Elon Musk and others that with enough batteries, unreliable wind/solar will work? Using Musk's best battery prices, the batteries necessary to store just 3 days of the world's energy would cost \***400 trillion dollars**\* — that's 4.5 times global GDP![^2]
+But wait, what about the claim by Elon Musk and others that with enough batteries, unreliable wind/solar will work? Using Musk's best battery prices, the batteries necessary to store just 3 days of the world's energy would cost **400 trillion dollars** — that's 4.5 times global GDP![^2]
 
 The fossil fuel industry is the only industry that can produce low-cost, reliable energy for 8 billion people in the next several decades. That's why globally, fossil fuel use is 4X all other energy use combined — and why oil, gas, and coal use is exploding in the developing world.[^3]
 
@@ -202,20 +201,23 @@ It's not too late to change course. If we liberate every energy industry, includ
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
     As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.\
-    [Global energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)[America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
+    [Global Energy Monitor - Coal Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)\
+    [America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
 
     The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
     [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
 
 [^4]: [World Bank Data - Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)](https://data.worldbank.org/indicator/SI.POV.DDAY)
 [^5]:
-    [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)
+    [IEA - Access to affordable, reliable, sustainable and modern energy for all](https://www.iea.org/reports/sdg7-data-and-projections)\
     [Our World in Data - Global poverty in an unequal world: Who is considered poor in a rich country? And what does this mean for our understanding of global poverty?](https://ourworldindata.org/higher-poverty-global-line)
 
 [^6]: [Alex Epstein - Talking Points on Fracking](https://energytalkingpoints.com/fracking/)
+
 [^7]:
     “As University of California physicist John Holdren has said, it is possible that carbon-dioxide climate-induced famines could kill as many as a billion people before the year 2020.”\
-    Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274.
+    Paul Ehrlich, The Machinery of Nature (New York: Simon & Schuster, 1986), 274.\
+    [Robert L. Bradley, Jr. - Halloween: Malthusian Tricks](https://www.instituteforenergyresearch.org/climate-change/halloween-malthusian-tricks/)
 
 [^8]:
     For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
@@ -225,34 +227,38 @@ It's not too late to change course. If we liberate every energy industry, includ
     Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
 
     Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
     [Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)
 
 [^9]:
-    The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.
+    The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.\
     [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
 
     “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
     [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
 
 [^10]: [Vijay Jayaraj - An Open Letter to John Kerry from People Living in Energy Poverty](https://townhall.com/columnists/vijayjayaraj/2021/04/17/untitled-n2588091)
+
 [^11]:
     [Texas Public Policy Foundation - Federal Energy Subsidies and Support from 2010 to 2019 (p.13)](https://lifepowered.org/wp-content/uploads/2020/07/2020-04-RR-Bennett-LP-Federal-Energy-Subsidies-2.pdf)
 
     “Despite renewable energy receiving almost half the federal subsidies, EIA reported that fossil energy in the form of coal, oil, natural gas and natural gas plant liquids made up 78.1 percent of primary energy production in FY 2016.…In FY 2016, certain tax provisions related to oil and natural gas yielded positive revenue flow for the government, resulting in a negative net subsidy of $773 million for oil and natural gas, based on estimates from the U.S. Department of Treasury.”\
-    [Institute for Energy Research - EIA Report: Renewable Energy Still Dominates Energy Subsidies](https://www.instituteforenergyresearch.org/renewable/eia-report-renewable-energy-still-dominates-energy-subsidies/)\
+    [Institute for Energy Research - EIA Report: Renewable Energy Still Dominates Energy Subsidies](https://www.instituteforenergyresearch.org/renewable/eia-report-renewable-energy-still-dominates-energy-subsidies/)
+
     [Terry Dinan - U.S. House of Representatives testimony, 2017 (p. 4)](https://www.cbo.gov/system/files/115th-congress-2017-2018/reports/52521-energytestimony.pdf)
 
 [^12]:
-    More US nuclear power capacity is scheduled to go offline that coal power capacity in 2021.
-
+    More US nuclear power capacity is scheduled to go offline that coal power capacity in 2021.\
     [U.S. Energy Information Administration - Nuclear and coal will account for majority of U.S. generating capacity retirements in 2021](https://www.eia.gov/todayinenergy/detail.php?id=46436)
 
 [^13]:
     [S&P Global - Biden issues broad moratorium on oil and gas leases on federal lands and waters](https://www.spglobal.com/platts/en/market-insights/latest-news/oil/012721-biden-issues-broad-moratorium-on-oil-and-gas-leases-on-federal-lands-and-waters)\
-    [The White House - Executive Order on Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
+    [The White House - Executive Order on Protecting Public Health and the Environment and Restoring Science to Tackle the Climate Crisis](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/)
 
 [^14]: [Office of Natural Resources Revenue](https://revenuedata.doi.gov/query-data?dataType=Revenue)
-[^15]: [API - New Analysis Shows Ban On Leasing And Development On Federal Lands And Waters Would Threaten U.S. Energy Security, American Jobs And Environmental Progress](https://www.api.org/news-policy-and-issues/news/2020/09/09/ban-on-leasing-and-development-on-federal-lands-and-waters)
+
+[^15]: [API - A Federal Leasing and Development Ban Threatens America’s Energy Security and Economic Growth, Undermines Environmental Progress](https://www.api.org/news-policy-and-issues/exploration-and-production/federal-leasing-and-development-ban-study)
+
 [^16]:
     In 2019 the US oil and gas extraction industry employed over 143,000 people (12 month arithmetic average) according to the [Bureau of Labor Statistics](https://www.bls.gov/iag/tgs/iag211.htm).
 
@@ -271,7 +277,8 @@ It's not too late to change course. If we liberate every energy industry, includ
     China has a tight grip on many critical minerals in the rare earth category, controlling the mining of a large share and processing of close to 100% of them.\
     [Power Hour - Maxwell Goldberg on Our Dangerous Material Dependence on China](https://youtu.be/xsViTP-9IcY)
 
-    [Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)\
+    [Investingnews.com - 10 Top Countries for Rare Earth Metal Production](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-producing-countries/)
+
     [Defensenews.com - The collapse of American rare earth mining — and lessons learned](https://www.defensenews.com/opinion/commentary/2019/11/12/the-collapse-of-american-rare-earth-mining-and-lessons-learned/)
 
     In 2019 more than 8 times as much solar PV module capacity was imported as manufactured in the US. Most of the US imports come from Southeast Asia and China has a tight grip on key mineral production, refining, and across the supply chains of components.\
@@ -279,7 +286,8 @@ It's not too late to change course. If we liberate every energy industry, includ
     [U.S. Energy Information Administration - U.S. imports of solar photovoltaic modules mainly come from Asia](https://www.eia.gov/todayinenergy/detail.php?id=34952)
 
 [^18]:
-    [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)\
+    [Mark P. Mills - Green Energy’s Overseas Dependence](https://www.manhattan-institute.org/green-energy-depends-overseas-materials-components)
+
     [Mark P. Mills - If You Want ‘Renewable Energy,’ Get Ready to Dig](https://www.wsj.com/articles/if-you-want-renewable-energy-get-ready-to-dig-11565045328)
 
 [^19]:
@@ -291,21 +299,28 @@ It's not too late to change course. If we liberate every energy industry, includ
 
     New York state has an average industrial electricity rate of 5.61 cents per kWh, 17.6% lower than the US average for states because of its cross-subsidized ReCharge program. All other sector rates in NY are significantly higher than the US average.\
     [ReCharge NY](https://www.nypa.gov/services/incentives-and-grants/recharge-ny)\
-    [Politico - For some users, cheap electricity in high-priced New York](https://www.politico.com/states/new-york/albany/story/2015/05/for-some-users-cheap-electricity-in-high-priced-new-york-088975)\
+    [Politico - For some users, cheap electricity in high-priced New York](https://www.politico.com/states/new-york/albany/story/2015/05/for-some-users-cheap-electricity-in-high-priced-new-york-088975)
+
     [U.S. energy Information Administration - Electric Power Annual](https://www.eia.gov/electricity/annual/html/epa_02_10.html)
 
 [^21]: [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
+
 [^22]:
-    [Alex Epstein - Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)\
+    [Alex Epstein - Talking Points on the Texas Electricity Crisis](https://energytalkingpoints.com/texas-electricity-crisis/)
+
     [Alex Epstein - Talking Points on California Blackouts](https://energytalkingpoints.com/california-blackouts/)
 
 [^23]: [Alex Epstein - Talking Points on Green Energy Jobs](https://energytalkingpoints.com/green-energy-jobs/)
+
 [^24]:
     China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^25]: [WSJ - How to Add Gas to U.S.-China Climate Cooperation](https://www.wsj.com/articles/how-to-add-gas-to-u-s-china-climate-cooperation-11619402874#:~:text=In%20early%202021%2C%20China%20had,of%20Germany's%20entire%20coal%20fleet)
+
 [^26]: [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
+
 [^27]:
-    [Reuters - China's 2020 crude oil imports hit record on stockpiling, new refineries](https://www.reuters.com/article/china-economy-trade-crude-idUSL1N2JP07X)\
-    [World Oil - China inks 25-year oil investment deal with Iran, straining U.S. ties](https://www.worldoil.com/news/2021/3/26/china-inks-25-year-oil-investment-deal-with-iran-straining-us-ties)
+    [Reuters - China's 2020 crude oil imports hit record on stockpiling, new refineries](https://www.reuters.com/article/china-economy-trade-crude-idUSL1N2JP07X)
+
+    [World Oil - China inks 25-year oil investment deal with Iran, straining U.S. ties](https://worldoil.com/news/2021/3/26/china-inks-25-year-oil-investment-deal-with-iran-straining-u-s-ties/)
