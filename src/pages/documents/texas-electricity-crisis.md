@@ -119,7 +119,7 @@ Don't be distracted from the fact that "unreliables" failed everywhere. That's t
 
 [^8]:
     [Alberta.ca - Current and Historical Alberta Weather Station Data Viewer](https://acis.alberta.ca/weather-data-viewer.jsp)\
-    [NOAA, National Weather Service](https://w2.weather.gov/climate/xmacis.php?wfo=fwd)
+    [NOAA, National Weather Service](https://www.weather.gov/wrh/Climate?wfo=fwd)
 
 [^9]: [Canada Energy Regulator - Provincial and Territorial Energy Profiles – Alberta](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-alberta.html)
 
