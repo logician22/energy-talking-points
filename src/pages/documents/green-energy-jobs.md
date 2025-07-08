@@ -142,7 +142,7 @@ featuredimage: /img/green-joblessness.jpg
 
 [^10]:
     “Together, these steps will unleash a clean energy revolution in America, create good paying union jobs that cannot be outsourced, and spur the installation of millions of solar panels – including utility-scale, rooftop, and community solar systems – and tens of thousands of wind turbines – including thousands of turbines off our coasts – in Biden’s first term.”\
-    [The Biden Plan to build a modern, sustainable infrastructure and an equitable clean energy future](https://joebiden.com/clean-energy/)
+    [The American Presidency Project - The Biden Plan to Build a Modern, Sustainable Infrastructure and an Equitable Clean Energy](https://www.presidency.ucsb.edu/documents/biden-campaign-press-release-the-biden-plan-build-modern-sustainable-infrastructure-and)
 
 [^11]:
     “...we find that electricity prices are 11% higher seven years after RPS passage, largely due to indirect grid integration costs (e.g., transmission and intermittency).”\
@@ -166,5 +166,6 @@ featuredimage: /img/green-joblessness.jpg
     Plastics Granulating Services (PGS), based in Kilburn in Adelaide's inner-north, said it had seen its monthly power bills increase from $80,000 to $180,000 over the past 18 months.”
     [ABC News Australia - SA plastics recycling business closes due to \$100k hike in power bills](https://www.abc.net.au/news/2017-06-27/sa-recycling-business-power-bills-rise-causing-closure/8654638)
 
-[^16]: [Global Energy Institute - What if... Hydraulic Fracturing was Banned? (2020 Edition)](https://www.globalenergyinstitute.org/what-if-hydraulic-fracturing-was-banned-2020-edition)
+[^16]: [Global Energy Institute - What if... Hydraulic Fracturing was Banned? (2020 Edition)](https://www.uschamber.com/assets/documents/gei/hf_ban_report_final.pdf)
+
 [^17]: [Talking Points on Joe Biden's Energy Plan](https://energytalkingpoints.com/bidens-energy-plan/)
