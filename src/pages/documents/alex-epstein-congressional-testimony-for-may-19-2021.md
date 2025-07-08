@@ -47,7 +47,7 @@ What about the idea that the oil and gas industry should be condemned for the CO
 
 When you hear scary claims about a “climate crisis,” keep in mind that climate catastrophists have been claiming climate crisis for 40 years. For example, President Obama's science advisor John Holdren predicted in the 1980s that we could have up to 1 billion climate deaths today.[^7]
 
-After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths—deaths from extreme temperatures, droughts, wildfires, storms, and floods—has decreased by \***98%**\* over the last century.[^8]
+After 40 years of “climate crisis” predictions by climate catastrophists, human beings are safer than ever from climate. In fact, the rate of climate disaster deaths—deaths from extreme temperatures, droughts, wildfires, storms, and floods—has decreased by **98%** over the last century.[^8]
 
 Fossil fuels were supposed to make climate far more dangerous in the last 40 years but they have actually made it far safer by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought.
 
@@ -141,15 +141,15 @@ When I decided to look at the full impact of the oil and gas industry myself, wi
 
 What are the positives of the oil and gas industry? Along with the coal industry, the other part of the fossil fuel industry, they are the only industry that can in the near future produce the low-cost, reliable energy that 8 billion people need to survive and flourish — to live to their highest potential.
 
-Unreliable solar and wind can’t come close to fossil fuels. That's why globally, fossil fuel use is 4 times all other energy use combined — and why oil, gas, and coal use is exploding in the developing world.[^3]
+Unreliable solar and wind can’t come close to fossil fuels. That's why globally, fossil fuel use is 4 times all other energy use combined — and why oil, gas, and coal use is exploding in the developing world.[^28]
 
 How positive is the impact of an industry that produces low-cost, reliable energy for billions of people? If you care about human life, nothing is more positive. Energy is the industry that powers every other industry. The lower cost energy is, the lower cost everything is.
 
-Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty — less than $2 a day — has gone from more than 4 in 10 to less than 1 in 10.[^4]
+Low-cost, reliable energy produced by the fossil fuel industry has made humanity so productive that since 1980, the fraction of people living in extreme poverty — less than $2 a day — has gone from more than 4 in 10 to less than 1 in 10.[^29]
 
-Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable — 1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^9]
+Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been mild and easily masterable — 1 degree Celsius, mostly in the colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^30]
 
-Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths — deaths from extreme temperatures, droughts, wildfires, storms, and floods — has decreased by 98% over the last century.[^8]
+Fossil fuels have actually made us far safer from climate by providing low-cost energy for the amazing machines that protect us against storms, protect us against extreme temperatures, and alleviate drought. That’s why the rate of climate disaster deaths — deaths from extreme temperatures, droughts, wildfires, storms, and floods — has decreased by 98% over the last century.[^31]
 
 The global leader of the life-giving fossil fuel industry is the highly innovative US oil and gas industry, which has helped billions of people climb out of poverty and can help billions more — if our government stops unjustly punishing it.
 
@@ -159,7 +159,7 @@ This Administration and Congress promise to make the situation far worse by puni
 
 Punishing US oil and gas even more than we already do will harm America and harm most of the world — by preventing billions from having lower-cost, more reliable energy. The only people it won't harm are the leaders of dictatorships that seek to overtake America, such as China.
 
-China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind — that is made using Chinese fossil fuels, which produce 85% of Chinese energy.[^17] In 2020 China added 38 GW of coal plants and has 247 GW (enough to power 3 Texases) in development.[^3] All designed to last 40+ years.[^26]
+China has a clear strategy of running its economy on fossil fuels, while encouraging others to run on inferior, unreliable solar and wind — that is made using Chinese fossil fuels, which produce 85% of Chinese energy. In 2020 China added 38 GW of coal plants and has 247 GW (enough to power 3 Texases) in development. All designed to last 40+ years.[^32]
 
 America is not being a leader by punishing our ultra-productive oil and gas industry and rewarding the China-based, unreliable solar-and-wind industry. We are being a sucker — a sucker whose economy and security will collapse.
 
@@ -327,3 +327,44 @@ It's not too late to change course. If we liberate every energy industry, includ
     [Reuters - China's 2020 crude oil imports hit record on stockpiling, new refineries](https://www.reuters.com/article/china-economy-trade-crude-idUSL1N2JP07X)
 
     [World Oil - China inks 25-year oil investment deal with Iran, straining U.S. ties](https://worldoil.com/news/2021/3/26/china-inks-25-year-oil-investment-deal-with-iran-straining-u-s-ties/)
+
+[^28]:
+    Oil, coal, and natural gas provided over 80% of the global energy consumed in 2019.
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
+    As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.\
+    [Global Energy Monitor - Coal Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)\
+    [America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
+
+    The largest increase in energy consumption is projected to come from non-OECD countries, but this might be underestimating future growth potential for the poorest regions in Africa.\
+    [U.S. EIA International Energy Outlook 2019 reference case](https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-IEO2019&region=0-0&cases=Reference&start=2010&end=2050&f=A&linechart=~Reference-d080819.25-1-IEO2019~Reference-d080819.26-1-IEO2019~Reference-d080819.3-1-IEO2019&ctype=linechart&sourcekey=0)
+
+[^29]: [World Bank Data - Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)](https://data.worldbank.org/indicator/SI.POV.DDAY)
+
+[^30]:
+    The decadally smoothed data from the UK Met Office HadCRUT4 dataset shows an increase of 0.974°C between 1850 and 2019.\
+    [UK Met Office HadCRUT4 dataset](https://www.metoffice.gov.uk/hadobs/hadcrut4/)
+
+    “The best estimate of CO2 concentration in the global atmosphere 540 million years ago is 7,000 ppm, with a wide margin of error.”\
+    [Patrick Moore - THE POSITIVE IMPACT OF HUMAN CO2 EMISSIONS ON THE SURVIVAL OF LIFE ON EARTH](https://fcpp.org/wp-content/uploads/2016/06/Moore-Positive-Impact-of-Human-CO2-Emissions.pdf)
+
+[^31]:
+    For every million people on earth, annual deaths from climate-related causes (extreme temperature, drought, flood, storms, wildfires) declined 98%—from an average of 247 per year during the 1920s to 2.5 in per year during the 2010s.
+
+    Data on disaster deaths come from EM-DAT, CRED / UCLouvain, Brussels, Belgium – [www.emdat.be](http://www.emdat.be) (D. Guha-Sapir).
+
+    Population estimates for the 1920s from the [Maddison Database 2010](https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010) come from the Groningen Growth and Development Centre, Faculty of Economics and Business at University of Groningen. For years not shown, the population is assumed to have grown at a steady rate.
+
+    Latest population estimates from [World Bank Data](https://data.worldbank.org/indicator/SP.POP.TOTL).
+
+    [Bjorn Lomborg - Welfare in the 21st century: Increasing development, reducing inequality, the impact of climate change, and the cost of climate policies](https://www.sciencedirect.com/science/article/pii/S0040162520304157)
+
+[^32]:
+    As of January 2021, China is planning or constructing over 200 new coal-fired power plants with a combined capacity of over 247 GW.\
+    [Global Energy Monitor - Coal Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-tables/)\
+    [America’s Power - China’s Coal Fleet Continues to Grow](https://www.americaspower.org/chinas-coal-fleet-continues-to-grow/)
+
+    China’s primary energy consumption from coal, oil, and natural gas was over 85% of the total in 2019.\
+    [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+
+    [David Wojick - CHINA LOVES COAL FAR MORE THAN WIND](https://www.heartland.org/news-opinion/news/china-loves-coal-far-more-than-wind)
