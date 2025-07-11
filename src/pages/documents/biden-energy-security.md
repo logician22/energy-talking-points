@@ -89,7 +89,7 @@ featuredimage: /img/energy-security.jpeg
 
 [^9]:
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
-    [BDEW Strompreisanalyse July 2020 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
+    [BDEW Strompreisanalyse July 2020](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
     [The Guardian - Thousands of people in the UK are dying from the cold, and fuel poverty is to blame](https://www.theguardian.com/commentisfree/2020/feb/27/dying-cold-europe-fuel-poverty-energy-spending)
 
