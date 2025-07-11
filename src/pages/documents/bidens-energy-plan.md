@@ -24,11 +24,14 @@ featuredimage: /img/dark-city.jpg
 ### References
 
 [^1]:
-    Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%). [Fraunhofer ISE energy-charts.de](https://www.energy-charts.de/energy_pie.htm?year=2019)
+    Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%).\
+    [Fraunhofer ISE energy-charts.de](https://www.energy-charts.de/energy_pie.htm?year=2019)
 
-    German household electricity prices have more than doubled to over 0.3€ per kWh (\$0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid. [BDEW Strompreisanalyse Jan 2020 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
+    German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
+    [BDEW Strompreisanalyse Jan 2020 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
 
-    The average US household price in 2018 was \$0.1287 per kWh. [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
+    The average US household price in 2018 was \$0.1287 per kWh.\
+    [U.S. Energy Information Administration Electric Power Annual table 5a](https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf)
 
 [^2]:
     “Biden will make a $2 trillion accelerated investment, with a plan to deploy those resources over his first term, setting us on an irreversible course to meet the ambitious climate progress that science demands.”\
@@ -43,9 +46,11 @@ featuredimage: /img/dark-city.jpg
 [^4]:
     In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.” -[Utility Drive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/)
 
-    For example, a 2019 story concerning Texas notes, “As wind power slowed, ERCOT instituted its first level of emergency alerts, calling on small industrial and commercial generators to pour power onto the grid, and requesting power from Mexico from which an additional 60 MW were imported on Aug. 15. Installed capacity numbers for electricity from intermittent sources such as wind and solar mean very little when they fail to produce as wind did in the middle of the hot Texas summer.” -[Power Magazine, September 19, 2019](https://www.powermag.com/texas-impending-reliability-issues-with-wind-power/)
+    For example, a 2019 story concerning Texas notes, “As wind power slowed, ERCOT instituted its first level of emergency alerts, calling on small industrial and commercial generators to pour power onto the grid, and requesting power from Mexico from which an additional 60 MW were imported on Aug. 15. Installed capacity numbers for electricity from intermittent sources such as wind and solar mean very little when they fail to produce as wind did in the middle of the hot Texas summer.”\
+    [Power Magazine, September 19, 2019](https://www.powermag.com/texas-impending-reliability-issues-with-wind-power/)
 
-    In the U.S. northeast, grid operator ISO-NE warned, the grid is likely to be at risk of fuel shortages and rolling blackouts thanks to limited natural gas pipeline capacity. “In the coming years as more oil, coal, and nuclear leave the system, keeping the lights on in New England will become an even more tenuous proposition.” -ISO New England, [2018 Regional Electricity Outlook](https://www.iso-ne.com/static-assets/documents/2018/02/2018_reo.pdf).
+    In the U.S. northeast, grid operator ISO-NE warned, the grid is likely to be at risk of fuel shortages and rolling blackouts thanks to limited natural gas pipeline capacity. “In the coming years as more oil, coal, and nuclear leave the system, keeping the lights on in New England will become an even more tenuous proposition.”\
+    [ISO New England - 2018 Regional Electricity Outlook](https://www.iso-ne.com/static-assets/documents/2018/02/2018_reo.pdf).
 
 [^5]:
     In a [Democratic primary debate in March 2020](https://www.washingtonexaminer.com/policy/energy/joe-biden-says-no-new-fracking-for-oil-and-gas) Joe Biden agreed to a radical “no new fracking” policy to attract Democratic voters. While most of the US unconventional oil and gas operations take place on private lands, even a federal policy banning new development would be a substantial hit on domestic energy production.
@@ -53,15 +58,22 @@ featuredimage: /img/dark-city.jpg
     Joe Biden’s [energy plan](https://www.presidency.ucsb.edu/documents/biden-campaign-press-release-the-biden-plan-build-modern-sustainable-infrastructure-and) also calls for a net-zero CO2 emissions economy wide by no later than 2050. His [climate plan](https://www.cbsnews.com/news/biden-rolls-out-climate-policy/) also promises aggressive new methane emission limits. Effectively, this amounts to a ban and early retirement of coal, gas, and oil for electricity generation ([over 60%](https://www.eia.gov/tools/faqs/faq.php?id=427&t=3) of the current total), as there is no cost-effective technology available to capture CO2 from fuel combustion, even though Biden tried to [backpedal](https://www.forbes.com/sites/davidblackmon/2020/07/11/joe-biden-tries-to-clean-up-his-fracking-problem-in-pennsylvania/) on the direct attacks against fracking recently.
 
 [^6]:
-    “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.” -[U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847&t=6)“The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.” -[U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
+    “The U.S. Energy Information Administration (EIA) estimates that in 2019, about 2.81 billion barrels (or 7.7 million barrels per day) of crude oil were produced directly from tight oil resources in the United States. This was equal to about 63% of total U.S. crude oil production in 2019.”\
+    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=847&t=6)
 
-    “More than 95% of U.S. natural gas and oil wells today are developed using hydraulic fracturing.” American Petroleum Institute - [AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)\
+    “The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.”\
+    [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
+
+    “More than 95% of U.S. natural gas and oil wells today are developed using hydraulic fracturing.”\
+    [American Petroleum Institute - AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)\
 
 [^7]:
     An analysis by the American Petroleum Institute estimates that a ban on hydraulic fracturing and federal leasing would create over \$7 trillion in economic damages between 2020 and 2030 and cost over 7 million jobs.\
-    American Petroleum Institute - [AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
+    [American Petroleum Institute - AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
 
-[^8]: OPEC and especially Saudi Arabia have had a big impact on the price of internationally traded oil. [OPEC Crude Oil Supply](https://www.eia.gov/finance/markets/crudeoil/supply-opec.php)
+[^8]: OPEC and especially Saudi Arabia have had a big impact on the price of internationally traded oil.\
+    [OPEC Crude Oil Supply](https://www.eia.gov/finance/markets/crudeoil/supply-opec.php)
+
 [^9]:
     China is already the leading emitter of greenhouse gases, at twice the emissions of the US. All reasonable predictions of future emissions anticipate the overwhelming majority of future emissions coming from developing countries that are trying to close the gap in wealth and energy consumption.
 
