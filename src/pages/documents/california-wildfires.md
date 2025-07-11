@@ -64,13 +64,11 @@ featuredimage: /img/fire.jpg
     “There are likely more land regions where the number of heavy precipitation events has increased than where it has decreased. Extreme precipitation events over most of the midlatitude land masses and over wet tropical regions will very likely become more intense and more frequent”\
     [IPCC Special Report Climate Change and Land, chapter 2 p. 137](https://www.ipcc.ch/srccl/)
 
-    In California no trend has manifested with regard to precipitation in the annual data since 1895.
-
+    In California no trend has manifested with regard to precipitation in the annual data since 1895.\
     [National Oceanic and Atmospheric Administration’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/cag/statewide/time-series/4/pcp/ann/12/1895-2019?base_prd=true&begbaseyear=1895&endbaseyear=2019&trend=true&trend_base=10&begtrendyear=1895&endtrendyear=2019)
 
 [^6]:
-    The Palmer drought severity index shows an increase in drought severity since the late 19th century with particularly wet episodes during the early 1980s and 1990s.
-
+    The Palmer drought severity index shows an increase in drought severity since the late 19th century with particularly wet episodes during the early 1980s and 1990s.\
     [National Oceanic and Atmospheric Administration’s National Centers for Environmental Information](https://www.ncdc.noaa.gov/cag/statewide/time-series/4/pdsi/all/12/1895-2019?base_prd=true&begbaseyear=1895&endbaseyear=2019&trend=true&trend_base=10&begtrendyear=1895&endtrendyear=2019)
 
 [^7]:
@@ -84,7 +82,8 @@ featuredimage: /img/fire.jpg
 
     [Mercury News - California drought: Past dry periods have lasted more than 200 years, scientists say](https://www.mercurynews.com/2014/01/25/california-drought-past-dry-periods-have-lasted-more-than-200-years-scientists-say/)
 
-    “The past 150 years have been unusually wet when viewed over the past 2000 years, so the 20th century was a wetter century, and this is when all of our water development, population growth and agricultural industry were established, and so it’s possible the climate may now be shifting to a drier regime” [Lynn Ingram, professor of Earth and Planetary Science at UC Berkeley in 2014](https://mavensnotebook.com/2014/11/03/paleoclimate/)
+    “The past 150 years have been unusually wet when viewed over the past 2000 years, so the 20th century was a wetter century, and this is when all of our water development, population growth and agricultural industry were established, and so it’s possible the climate may now be shifting to a drier regime”\
+    [Lynn Ingram, professor of Earth and Planetary Science at UC Berkeley in 2014](https://mavensnotebook.com/2014/11/03/paleoclimate/)
 
 [^8]:
     California’s San Onofre nuclear power plant was shut down in 2013 despite only requiring the replacement of a steam generator for less than \$700 million.\
