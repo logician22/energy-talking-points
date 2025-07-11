@@ -45,7 +45,7 @@ featuredimage: /img/1-in-5.jpeg
 
 [^3]:
     Combined, China and India have 284 new coal plants (over 188 GW of capacity) under construction or in the planning phase as of January 2021.\
-    [Global Coal Plant Tracker by Global Energy Monitor](https://globalenergymonitor.org/projects/global-coal-plant-tracker/summary-data/)
+    [Global Energy Monitor - Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/)
 
 [^4]:
     [JunkScience.com - New York City/New Jersey subway PM2.5 levels 77 times greater than EPA standards; No bodies found](https://junkscience.com/2021/02/new-york-city-new-jersey-subway-pm2-5-levels-77-times-greater-than-epa-standards-no-bodies-found/#more-104316)
