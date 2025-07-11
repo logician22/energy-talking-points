@@ -24,8 +24,8 @@ featuredimage: /img/dark-city.jpg
 ### References
 
 [^1]:
-    Public generation of electricity was over 518 terawatt-hours in Germany for 2019, solar and wind combined generated over 173 terawatt-hours (33.4%).\
-    [Fraunhofer ISE energy-charts.de](https://www.energy-charts.de/energy_pie.htm?year=2019)
+    Public generation of electricity was over 520 terawatt-hours in Germany for 2019, solar and wind combined generated over 165 terawatt-hours (31.7%).\
+    [Fraunhofer ISE energy-charts.de](https://www.energy-charts.info/charts/energy_pie/chart.htm?l=en&c=DE&interval=year&year=2019)
 
     German household electricity prices have more than doubled to over 0.3€ per kWh ($0.35 per kWh depending on currency exchange rate) since 2000 when the modern renewable energy law started to massively incentivize solar and wind capacity on the German grid.\
     [BDEW Strompreisanalyse Jan 2020 p. 7](https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/)
@@ -44,7 +44,8 @@ featuredimage: /img/dark-city.jpg
     [The American Presidency Project - Biden Campaign Press Release - The Biden Plan to Build a Modern, Sustainable Infrastructure and an Equitable Clean Energy Future](https://www.presidency.ucsb.edu/documents/biden-campaign-press-release-the-biden-plan-build-modern-sustainable-infrastructure-and)
 
 [^4]:
-    In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.” -[Utility Drive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/)
+    In Texas, the grid’s reserve margin—the amount of capacity it has above expected peak demand—has shrunk so much that the Public Utilities Commission of Texas called the situation “very scary.”\
+    [Utility Dive, January 22, 2019](https://www.utilitydive.com/news/texas-regulators-direct-higher-plant-payments-amid-capacity-crunch-concerns-1/546540/)
 
     For example, a 2019 story concerning Texas notes, “As wind power slowed, ERCOT instituted its first level of emergency alerts, calling on small industrial and commercial generators to pour power onto the grid, and requesting power from Mexico from which an additional 60 MW were imported on Aug. 15. Installed capacity numbers for electricity from intermittent sources such as wind and solar mean very little when they fail to produce as wind did in the middle of the hot Texas summer.”\
     [Power Magazine, September 19, 2019](https://www.powermag.com/texas-impending-reliability-issues-with-wind-power/)
@@ -65,7 +66,7 @@ featuredimage: /img/dark-city.jpg
     [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
 
     “More than 95% of U.S. natural gas and oil wells today are developed using hydraulic fracturing.”\
-    [American Petroleum Institute - AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)\
+    [American Petroleum Institute - AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
 
 [^7]:
     An analysis by the American Petroleum Institute estimates that a ban on hydraulic fracturing and federal leasing would create over \$7 trillion in economic damages between 2020 and 2030 and cost over 7 million jobs.\
