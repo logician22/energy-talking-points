@@ -58,7 +58,6 @@ featuredimage: /img/blackout.jpeg
 [^3]: [Michael Shellenberger - Why California’s Climate Policies Are Causing Electricity Blackouts, Forbes August 15, 2020](https://www.forbes.com/sites/michaelshellenberger/2020/08/15/why-californias-climate-policies-are-causing-electricity-black-outs/)
 
 [^4]: 
-
     A key tool in mandating solar and wind on US state grids are so-called Renewable Portfolio Standards, which the majority of US states have already adopted. These standards require the local regulators to ensure that state-wide electricity to come from renewables by a certain share within a specific time frame. This can be up to 100% as California and New York require by 2050. Theoretically this would often include sources like hydro, geothermal or biomass by local rules. However, unreliable solar and wind are the only sources that have the potential to scale up as quickly.
 
     Another significant policy that favors unreliable wind is the wind energy Production Tax Credit, which provides a financial incentive to prioritize wind electricity over other sources, and damages the economic viability of the reliable backbone of America’s electric grid, particularly coal and nuclear.\
@@ -85,7 +84,6 @@ featuredimage: /img/blackout.jpeg
     [2020 Talking Points on Wind Production Tax Credit](https://energytalkingpoints.com/wind-production-tax-credit/)
 
 [^6]: 
-
     Between 2009 and 2018 California’s electricity rates rose almost 4 times faster than the national average. So much, that by 2018 the California industrial electricity rate -typically the cheapest type- was more expensive than the average US residential rate -typically the most expensive type.\
     [U.S. Energy Information Administration - Electricity data browser, Average retail price of electricity, 2009-2018](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=0,1&geo=g00000000004&endsec=e&linechart=ELEC.PRICE.US-RES.A~ELEC.PRICE.CA-RES.A~ELEC.PRICE.CA-COM.A~ELEC.PRICE.CA-IND.A~ELEC.PRICE.US-COM.A~ELEC.PRICE.US-IND.A&columnchart=ELEC.PRICE.US-RES.A&map=ELEC.PRICE.US-RES.A&freq=A&start=2010&end=2019&chartindexed=0&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0)
 
