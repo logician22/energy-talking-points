@@ -104,7 +104,7 @@ featuredimage: /img/energy-security.jpeg
     [Global Energy Monitor - Global Coal Plant Tracker, Coal Plants by Country, July 2020](https://globalenergymonitor.org/projects/global-coal-plant-tracker/)
 
     During the pandemic year 2020 China managed to increase its coal production to the highest level since 2014. This is necessary to keep Chinese citizens warm during winter and to manufacture the solar panels John Kerry said US workers should manufacture after losing their competitive oil & gas jobs.\
-    [The Global Warming Policy Forum - China’s 2020 coal output rises to highest since 2015, undermining climate pledges](https://www.thegwpf.com/chinas-2020-coal-output-rises-to-highest-since-2015-undermining-climate-pledges/)
+    [Mining.com - China coal output rises to highest since 2015](https://www.mining.com/web/chinas-2020-coal-output-rises-to-highest-since-2015-undermining-climate-pledges/)
 
 [^12]:
     [David Wojik - China loves coal far more than wind](https://www.cfact.org/2021/01/11/china-loves-coal-far-more-than-wind/)\
