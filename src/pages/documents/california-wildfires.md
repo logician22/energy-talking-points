@@ -39,13 +39,13 @@ featuredimage: /img/fire.jpg
 
 [^2]:
     “Approximately 1.8 million ha burned annually in California prehistorically (pre 1800).”\
-    [Stephens et al. (2007) - Prehistoric fire area and emissions from California's forests, woodlands, shrublands, and grasslands](https://www.sciencedirect.com/science/article/abs/pii/S0378112707004379) <https://doi.org/10.1016/j.foreco.2007.06.005>1.8 million ha ≈ 4.4 million acres
+    [Stephens et al. (2007) - Prehistoric fire area and emissions from California's forests, woodlands, shrublands, and grasslands](https://www.sciencedirect.com/science/article/abs/pii/S0378112707004379)
 
     Between 2010 and 2019 the average annual area burned in California was 775,323 acres, compared to 4.4 million acres estimated for times before 1800, 259,823 acres in 2019, and over 1.2 million acres so far (late August 2020) burned in 2020.
 
-    [CAL FIRE - California Wildfires and Acres for all Jurisdictions 1987 to 2018](https://www.fire.ca.gov/media/11397/fires-acres-all-agencies-thru-2018.pdf)
+    [CAL FIRE - California Wildfires and Acres for all Jurisdictions 1987 to 2018](https://web.archive.org/web/20200918044557/https://www.fire.ca.gov/media/11397/fires-acres-all-agencies-thru-2018.pdf)
 
-    [CAL FIRE - 2019 Fire Statistics](https://www.fire.ca.gov/stats-events/)
+    [CAL FIRE - 2019 Fire Statistics Archive](https://www.fire.ca.gov/incidents/2019)
 
     [LA Times - Over 1 million California acres have burned since July as monster fires rage in Bay Area](https://www.latimes.com/california/story/2020-08-22/more-than-a-million-acres-have-burned-in-california-since-july-as-monster-fires-rage-around-bay-area)
 
