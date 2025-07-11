@@ -36,21 +36,19 @@ featuredimage: /img/lighted-gas-range-oven.jpg
     “The U.S. Energy Information Administration (EIA) estimates that in 2019, U.S. dry shale gas production was about 25.28 trillion cubic feet (Tcf), and equal to about 75% of total U.S. dry natural gas production in 2019.”\
     [U.S. Energy Information Administration](https://www.eia.gov/tools/faqs/faq.php?id=907&t=8)
 
-    “More than 95% of U.S. natural gas and oil wells today are developed using hydraulic fracturing.” American Petroleum Institute - [AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
+    “More than 95% of U.S. natural gas and oil wells today are developed using hydraulic fracturing.”\
+    [American Petroleum Institute - AMERICA’S PROGRESS AT RISK: An Economic Analysis of a Ban on Fracking and Federal Leasing for Natural Gas and Oil Development](https://www.api.org/~/media/Files/Oil-and-Natural-Gas/Hydraulic-Fracturing/2020/fracking-ban-study-americas-progress-at-risk.pdf)
 
 [^3]:
-    Oil provided 33% of global energy consumption in 2019, which makes it the leading source of energy, followed by coal and natural gas.
-
+    Oil provided 33% of global energy consumption in 2019, which makes it the leading source of energy, followed by coal and natural gas.\
     [BP Statistical Review of World Energy 2020](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 
 [^4]:
-    Global transportation energy from oil and oil-derived fuels was 2,588,513 thousand tonnes of oil equivalent or 92% of the total 2,808,148 thousand tonnes of oil equivalent in 2017.
-
+    Global transportation energy from oil and oil-derived fuels was 2,588,513 thousand tonnes of oil equivalent or 92% of the total 2,808,148 thousand tonnes of oil equivalent in 2017.\
     [IEA World Energy Balances](https://www.iea.org/data-and-statistics/data-tables?country=WORLD&energy=Balances&year=2017)
 
 [^5]:
-    The peak of crude oil imports by the US in 2007 occurred during the week of May 18 with 10,597 Mbbl (thousands of barrels) per day or over 445 million gallons per day.
-
+    The peak of crude oil imports by the US in 2007 occurred during the week of May 18 with 10,597 Mbbl (thousands of barrels) per day or over 445 million gallons per day.\
     [U.S. Energy Information Administration - Petroleum and other Liquids, Weekly Imports & Exports](https://www.eia.gov/dnav/pet/pet_move_wkly_dc_NUS-Z00_mbblpd_4.htm)
 
 [^6]:
@@ -93,8 +91,7 @@ featuredimage: /img/lighted-gas-range-oven.jpg
     [Independent Petroleum Association of America](https://www.ipaa.org/fracking/#studies)
 
 [^13]:
-    A 2009 study by the U.S. Geological Survey looking into the water quality of private wells found that “More than one in five (23 percent) of the sampled wells contained one or more contaminants at a concentration greater than a human-health benchmark” and\ “Contaminants most often found at concentrations greater than human-health benchmarks were inorganic chemicals, with all but nitrate derived primarily from natural sources”
-
+    A 2009 study by the U.S. Geological Survey looking into the water quality of private wells found that “More than one in five (23 percent) of the sampled wells contained one or more contaminants at a concentration greater than a human-health benchmark” and\ “Contaminants most often found at concentrations greater than human-health benchmarks were inorganic chemicals, with all but nitrate derived primarily from natural sources”\
     [U.S. Geological Survey - Quality of Water from Domestic Wells in Principal Aquifers of the United States, 1991–2004](https://pubs.usgs.gov/circ/circ1332/includes/circ1332.pdf)
 
 [^14]:
