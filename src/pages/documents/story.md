@@ -130,7 +130,7 @@ I also took my views to anti-fossil-fuel protests, including Occupy Wall Street 
 
 I did debates and crashed protests to **prove a point: my pro-human way of thinking about energy is right,** my conclusion that we need more fossil fuels is right, and **my conviction in these things is far greater than the conformist pseudo-conviction of the anti-fossil-fuel movement.**
 
-In 2013, an agent watched my debate with Bill McKibben and was impressed. He read an [essay I had written](https://industrialprogress.com/wp-content/uploads/2013/10/The-Moral-Case-for-Fossil-Fuels.pdf) on “the moral case for fossil fuels” and thought he could get a major publisher to pick it up. I was skeptical, but he was right—and a game-changing book was born.
+In 2013, an agent watched my debate with Bill McKibben and was impressed. He read an [essay I had written](/img/the-moral-case-for-fossil-fuels.pdf) on “the moral case for fossil fuels” and thought he could get a major publisher to pick it up. I was skeptical, but he was right—and a game-changing book was born.
 
 
 ***Part 4: The Moral Case for Fossil Fuels—influential and vindicated, yet ignored by the mainstream***
