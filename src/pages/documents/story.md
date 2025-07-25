@@ -138,7 +138,7 @@ In 2013, an agent watched my debate with Bill McKibben and was impressed. He rea
 **I was given 6 months to write** *The Moral Case for Fossil Fuels* and somehow I did this. Two big helps were my researcher Steffen Henne, who knows a ton and is good at catching errors, and my philosopher friend Greg Salmieri, who helped me quickly clarify my thinking.
 ![Moral Case for Fossil Fuels](/img/moral-case.jpg)
 
-For a book that took 6 months and many did not expect to succeed, *The Moral Case for Fossil Fuels* did incredibly well, becoming a *New York Times* bestseller. It influenced many elected officials as well as many CEOs—some of whom [finally started standing up for their beleaguered industry](https://industrialprogress.com/exclusive-interview-with-adam-anderson-new-talking-points-on-solar-and-wind-subsidies/).
+For a book that took 6 months and many did not expect to succeed, *The Moral Case for Fossil Fuels* did incredibly well, becoming a *New York Times* bestseller. It influenced many elected officials as well as many CEOs—some of whom [finally started standing up for their beleaguered industry](https://youtu.be/JMA3MQIpKLw?si=fck_EwfzWcGefKnR).
 
 Most importantly, the book was right. It **correctly predicted that any negative impacts of fossil fuel use would be outweighed by the unique benefits of fossil fuels to human flourishing**—including their unrivaled ability to provide low-cost, reliable energy to billions.
 
