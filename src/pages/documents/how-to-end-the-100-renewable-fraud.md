@@ -101,7 +101,7 @@ _Michelle Hung, Steffen Henne, and Daniil Gorbatenko contributed to this piece._
 [^2]: [FTC Press Release, October 1, 2012](https://www.ftc.gov/news-events/news/press-releases/2012/10/ftc-issues-revised-green-guides)
 
 [^3]:
-    “A marketer should not make unqualified renewable energy claims, directly or by implication, if fossil fuel, or electricity derived from fossil fuel, is used to manufacture any part of the advertised item or is used to power any part of the advertised service, **unless the marketer has matched such non-renewable energy use with renewable energy certificates.”**
+    “A marketer should not make unqualified renewable energy claims, directly or by implication, if fossil fuel, or electricity derived from fossil fuel, is used to manufacture any part of the advertised item or is used to power any part of the advertised service, **unless the marketer has matched such non-renewable energy use with renewable energy certificates.”**\
     [FTC - Green Guides](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf)
 
 [^4]: [EPA - Green Power Partnership National Top 100](https://www.epa.gov/greenpower/green-power-partnership-national-top-100)
