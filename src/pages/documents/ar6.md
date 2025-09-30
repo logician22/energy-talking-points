@@ -22,7 +22,7 @@ featuredimage: /img/paris-accords.jpeg
 
 - The UN report says nothing about whether its predictions will be catastrophic for humanity. But given what we know about human beings ability to master climate danger, we can be sure that even if the unlikely scenarios come true they will not be due to 7 "Inconvenient Truths."
 
-- Inconvenient Truth 1: UN spokespeople have a 50-year track record of making 180° wrong catastrophe predictions. They are *catastrophizers* who wildly overstate the negative side-effects of industry and ignore the huge benefits, including climate mastery.
+- Inconvenient Truth 1: UN spokespeople have a 50-year track record of making 180° wrong catastrophe predictions. They are *catastrophizers* who wildly overstate the negative side-effects of industry and ignore the huge benefits, including climate mastery.\
     https://twitter.com/AlexEpstein/status/1424810764636856323
 
 - Inconvenient Truth 2: Fossil fuels' CO2 emissions have contributed to the warming of the last 170 years, but that warming has been slow and masterable—1 degree Celsius, mostly in colder parts of the world. And life on Earth thrived when CO2 levels were more than 5 times today's.[^3]
