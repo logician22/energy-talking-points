@@ -13,7 +13,6 @@ _This is the first of 11 “Alex Notes” on my book [Fossil Future](https://www
 _(Some of you will remember that I started creating “Alex notes” as part of the Fossil Future book launch, but never got past Part 1. I’m doing them a bit differently this time around, and most importantly I’ll finish them!_
 
 _Also, for those who preordered Fossil Future or who are premium subscribers to this newsletter, I’m doing a special live event “How to talk to anyone about climate change” on October 23. The invite will come to you next week.)_
-
 _______________________________________________________________
 
 **Our “knowledge system”—the people and institutions we rely upon to research, synthesize, disseminate, and evaluate expert knowledge—consistently ignores the massive, life-or-death benefits of fossil fuels.**
