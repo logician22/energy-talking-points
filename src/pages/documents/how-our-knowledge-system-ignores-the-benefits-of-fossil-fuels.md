@@ -8,7 +8,7 @@ featuredimage: /img/benefits_of_fossil_fuels.jpg
 ---
 _Originally published: September 30, 2025_
 
-_This is the first of 11 “Alex Notes” on my book Fossil Future—like Cliff’s Notes, but actually written by the author. Enjoy!_
+_This is the first of 11 “Alex Notes” on my book [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/?tag=thoughtful0f-20)—like Cliff’s Notes, but actually written by the author. Enjoy!_
 
 _(Some of you will remember that I started creating “Alex notes” as part of the Fossil Future book launch, but never got past Part 1. I’m doing them a bit differently this time around, and most importantly I’ll finish them!_
 
