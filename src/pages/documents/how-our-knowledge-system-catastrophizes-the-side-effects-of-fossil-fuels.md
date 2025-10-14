@@ -30,7 +30,7 @@ _______________________________________________________________
 
     The 180-degree wrong prediction of increasing climate-related disaster deaths was the result of the error of catastrophizing, which consists of:
 
-    **1) dramatically overstating a negative side-effect**
+    **1) dramatically overstating a negative side-effect**\
     **2) ignoring our ability to master that side-effect**
 
 - **The “Expert” Prediction of Rapid Catastrophic Global Cooling**
