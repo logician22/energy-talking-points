@@ -8,10 +8,9 @@ description: Our leading institutions are operating on an “anti-impact
   impact, as intrinsically immoral and inevitably self-destructive.
 featuredimage: /img/carbon-tax.jpg
 ---
-
 _Originally published: October 14, 2025_
 
-_This is the third of 11 “Alex Notes” on my book [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/?tag=thoughtful0f-20)—like Cliff’s Notes, but actually written by the author. (See #[1](https://energytalkingpoints.com/how-our-knowledge-system-ignores-the-benefits-of-fossil-fuels/) and #[2](https://energytalkingpoints.com/how-our-knowledge-system-catastrophizes-the-side-effects-of-fossil-fuels/))._
+_This is the third of 11 “Alex Notes” on my book [Fossil Future](https://www.amazon.com/Fossil-Future-Flourishing-Requires-Gas-Not/dp/0593420411/?tag=thoughtful0f-20)—like Cliff’s Notes, but actually written by the author. (See [#1](https://energytalkingpoints.com/how-our-knowledge-system-ignores-the-benefits-of-fossil-fuels/) and [#2](https://energytalkingpoints.com/how-our-knowledge-system-catastrophizes-the-side-effects-of-fossil-fuels/))._
 _______________________________________________________________
 
 **Why are leading institutions so biased against fossil fuels?**
