@@ -23,9 +23,9 @@ _Originally published: October 21, 2025_
 
 - **Tesla under Elon Musk’s leadership has consistently advocated for EV subsidies in various forms,** including:
 
-    1) Biden’s EV mandate (the most extreme form of subsidy)
-    2) Biden’s EV subsidies (a direct EV subsidy)
-    3) Biden’s heightened “CAFE” standards (an indirect EV subsidy)
+    1. Biden’s EV mandate (the most extreme form of subsidy)
+    2. Biden’s EV subsidies (a direct EV subsidy)
+    3. Biden’s heightened “CAFE” standards (an indirect EV subsidy)
 
 - **1) Tesla supported Biden’s EV mandate**
 
@@ -62,12 +62,12 @@ _Originally published: October 21, 2025_
 
 - A common refrain from Elon is that people should definitely believe he is opposed to EV subsidies because Tesla, being superior to its competitors, would benefit if all the EV subsidies went away.
 
-    But if this is the case, why does Tesla keep lobbying for more subsidies?
+    But if this is the case, why does Tesla keep lobbying for more subsidies?[^8]
     ![Musk on X – Take away the subsidies](/img/musk-ev-subsidies-ii.jpg)
 
 * Elon Musk’s commentary about the recent cuts to EV subsidies in the “Big Beautiful Bill” would have you believe that EVs are no longer subsidized at all.
 
-    In reality, **EVs still receive massive direct and indirect subsidies via a complex web of federal and state policies.**
+    In reality, **EVs still receive massive direct and indirect subsidies via a complex web of federal and state policies.**[^9]
     ![Musk on X - Big Beautiful Bill energy subsidies](/img/musk-ev-subsidies-iii.jpg)
 
 - EV subsidies are so much further from dead than most people realize.
@@ -75,13 +75,13 @@ _Originally published: October 21, 2025_
     **Here’s a list of 9 federal policies currently still in existence that directly or indirectly subsidize EVs in America.**
     ![9 Federal policies that still force Americans to subsidize EVs](/img/federal-ev-subsidies.png)
 
-- See this 2025 paper by the American Energy Institute, which finds that **the average EV car receives between $90,331 and $148,904 in subsidies** (!) when accounting for the entire web of government subsidies, preferences, and mandates for EVs.[^8]
+- See this 2025 paper by the American Energy Institute, which finds that **the average EV car receives between $90,331 and $148,904 in subsidies** (!) when accounting for the entire web of government subsidies, preferences, and mandates for EVs.[^10]
     ![EV costs socialized to gasoline vehicle owners, taxpayers, and utility ratepayers](/img/ev-subsidies.jpg)
 
 - Even though Tesla has consistently advocated for various kinds of EV subsidies, Elon Musk has totally failed to acknowledge this. Instead he:
 
-    1) Insists that he remains opposed to EV subsidies
-    2) Pretends EV subsidies aren’t a huge contributor to his business and net worth
+    1. Insists that he remains opposed to EV subsidies
+    2. Pretends EV subsidies aren’t a huge contributor to his business and net worth
 
 - **I support eliminating all subsidies of any sort, including the many EV subsidies still in existence.**
 
@@ -106,4 +106,8 @@ _Originally published: October 21, 2025_
 
 [^7]: [Inside EVs - The U.S. Had A Record Year For EV Sales In 2024. Here’s How](https://insideevs.com/news/747197/ev-sales-2024-tesla-us/)
 
-[^8]: [American Energy Institute - Behind the Wheel: The Hidden Hands Driving the EV Mandate](https://americanenergyinstitute.com/docs/2025-03-EV-Mandate-Isaac-Bennett-Lewis.pdf)
+[^8]: [Elon Musk on X.com](https://x.com/elonmusk/status/1813112958157005259)
+
+[^9]: [Elon Musk on X.com](https://x.com/elonmusk/status/1948533440560988622)
+
+[^10]: [American Energy Institute - Behind the Wheel: The Hidden Hands Driving the EV Mandate](https://americanenergyinstitute.com/docs/2025-03-EV-Mandate-Isaac-Bennett-Lewis.pdf)
