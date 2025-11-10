@@ -15,7 +15,7 @@ _______________________________________________________________
 
 **Truth: Fossil fuels have made the planet incomparably more livable, by fueling an unprecedented increase in humanity’s productive ability.**
 
-(A summary of _Fossil Future_ Ch 4, part 1 of 3)
+(A summary of _Fossil Future_ Chapter 4, part 1 of 3)
     ![Hockey sticks of human flourishing](/img/hydrocarbons-and-human-flourishing-hockey-sticks.png)
 
 - **The Full Benefits of Continuing Fossil Fuel Use**
