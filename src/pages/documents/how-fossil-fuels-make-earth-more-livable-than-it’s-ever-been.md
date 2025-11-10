@@ -3,7 +3,7 @@ templateKey: blog-post
 displaytitle: How fossil fuels make Earth more livable than it’s ever been
 title: How fossil fuels make Earth more livable than it’s ever been
 date: 2019-10-29T02:00:00.000Z
-description: A summary of Fossil Future Chapter 4, part 1 of 3
+description: A summary of Fossil Future, Chapter 4, part 1 of 3
 featuredimage: /img/carbon-tax.jpg
 ---
 _Originally published: October 24, 2025_
@@ -15,7 +15,7 @@ _______________________________________________________________
 
 **Truth: Fossil fuels have made the planet incomparably more livable, by fueling an unprecedented increase in humanity’s productive ability.**
 
-(A summary of _Fossil Future_ Chapter 4, part 1 of 3)
+(A summary of _Fossil Future_, Chapter 4, part 1 of 3)
     ![Hockey sticks of human flourishing](/img/hydrocarbons-and-human-flourishing-hockey-sticks.png)
 
 - **The Full Benefits of Continuing Fossil Fuel Use**
