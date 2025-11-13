@@ -37,7 +37,7 @@ _Originally published: September 21, 2025_
     When Apple buys RECs, it foists the blame for Apple’s fossil fuel use onto ratepayers and less wealthy (or less dishonest) companies.
 
 - In practice, **the Obama Green Guides have enabled hundreds of companies to falsely and absurdly claim to be “100% renewable” while running mostly on fossil fuels**—and foist the blame for their fossil fuel usage onto citizens and other companies.[^4]
-    ![ Green power partnership 100 green power users] (/img/epa_green_power_partnerships.jpg)
+    ![Green power partnership 100 green power users](/img/epa_green_power_partnerships.jpg)
 
 - The EPA estimates that between 2014 and 2023, “voluntary” REC sales—i.e., those not mandated by policies like state renewable standards—generated $3-5 billion for the US “renewable” energy industry.[^5]
 
