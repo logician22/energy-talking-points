@@ -3,9 +3,7 @@ templateKey: blog-post
 displaytitle: The root cause of our leading institutions' bias against fossil fuels
 title: The root cause of our leading institutions' bias against fossil fuels
 date: 2019-10-31T02:00:00.000Z
-description: Our leading institutions are operating on an “anti-impact
-  framework” that causes them to view fossil fuels, which are inherently high
-  impact, as intrinsically immoral and inevitably self-destructive.
+description: A summary of Fossil Future, Chapter 3
 featuredimage: /img/carbon-tax.jpg
 ---
 _Originally published: October 14, 2025_
