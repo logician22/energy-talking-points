@@ -96,7 +96,7 @@ _Originally published: December 12, 2025_
 
     - Myth: Permitting certainty will result in a gold rush of new subsidy collection, e.g., for offshore wind.
 
-    Truth: **The timetable on the “Big Beautiful Bill” subsidy cuts will severely restrain a subsidy rush.** Subsidies can only be collected by projects “placed in service” by the end of 2027 or “in construction” by July 5, 2026—and the admin has added considerably stricter “in construction” requirements.[^7]
+        Truth: **The timetable on the “Big Beautiful Bill” subsidy cuts will severely restrain a subsidy rush.** Subsidies can only be collected by projects “placed in service” by the end of 2027 or “in construction” by July 5, 2026—and the admin has added considerably stricter “in construction” requirements.[^7]
 
     - Myth: Permitting certainty under the SPEED Act prevents the admin from withdrawing unlawful or dangerous permits.
 
@@ -135,7 +135,7 @@ _Originally published: December 12, 2025_
 
 1. **Amend the SPEED Act before passing it out of the House, to further narrow the scope of review to a reasonable level and to further limit standing to legitimate plaintiffs.**
 
-    a. Narrow the scope of NEPA review to impacts that federal agencies have the legal authority to regulate—avoiding time-consuming review of impacts from paleontology to traffic patterns that agencies cannot even control. _This has been proposed by Rep. Scott Perry (R-PA-10)._[^12]
+    a) Narrow the scope of NEPA review to impacts that federal agencies have the legal authority to regulate—avoiding time-consuming review of impacts from paleontology to traffic patterns that agencies cannot even control. _This has been proposed by Rep. Scott Perry (R-PA-10)._[^12]
 
     b. Narrow which “significant effects” require an “environmental impact statement” under NEPA to those which concretely harm human health or property—avoiding the most onerous reviews for projects that do not threaten human life. _This has been proposed by Rep. Chip Roy (R-TX-21)._[^13]
 
