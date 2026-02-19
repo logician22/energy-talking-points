@@ -28,7 +28,7 @@ _Originally published: February 4, 2026_
 
 ### It’s time for an honest conversation about government-dictated ethanol
 
-## Congress’s new council discussing whether to expand government-dictated ethanol—by exempting E15 from the Clean Air Act—is cause for an honest conversation on an issue dominated by special interest pandering.
+#### Congress’s new council discussing whether to expand government-dictated ethanol—by exempting E15 from the Clean Air Act—is cause for an honest conversation on an issue dominated by special interest pandering.
 
 - Congress recently formed the “E15 Rural Domestic Energy Council” to discuss corn ethanol policy, including whether to exempt summer use of “E15”—gasoline blended with 15% ethanol—from restrictions under the Clean Air Act.
 
@@ -52,7 +52,7 @@ _Originally published: February 4, 2026_
 
 ### Government-dictated ethanol doesn’t lower costs, increase security, or improve our environment
 
-## All the practical arguments for government-dictated ethanol are invalid; it does not make fuel cheaper, help our security, or improve our environment—just the opposite.
+#### All the practical arguments for government-dictated ethanol are invalid; it does not make fuel cheaper, help our security, or improve our environment—just the opposite.
 
 - Myth: Government-dictated ethanol makes driving cheaper.
 
@@ -97,7 +97,7 @@ _Originally published: February 4, 2026_
 
 ### The right path forward: allow ethanol, including E15, to compete on a free market—no mandates, no subsidies
 
-## The only reasonable path forward on ethanol, including E15, is a phaseout of government-dictated ethanol, ending with truly free fuel choice—including the choice to use E15.
+#### The only reasonable path forward on ethanol, including E15, is a phaseout of government-dictated ethanol, ending with truly free fuel choice—including the choice to use E15.
 
 - **The only real “argument” for government-dictated ethanol is that the special interests who depend on it are incredibly addicted to it and incredibly powerful over a large swath of elected officials.**
 
