@@ -170,7 +170,7 @@ _Here’s a roadmap for how Republicans and Democrats can still come together to
 
 - Republicans should eagerly **agree to some form of permitting certainty in exchange for passing the SPEED and PERMIT Acts,** as well as other reforms to fix permitting under the Clean Air Act (today a major obstacle to electricity growth) or the Endangered Species Act (today a major obstacle to potentially any project).
 
-- **The bipartisan FREEDOM Act (H.R. 7329)19, which significantly limits permit delays and revocations at each stage of the permitting process, is a great option for permitting certainty reform.** _This bill is led by Rep. Josh Harder (D-CA), and co-sponsored by Rep. Michael Lawler (R-NY), Rep. Don Bacon (R-NY), Rep. Chuck Edwards (R-NC), Rep. Adam Gray (D-CA), and Rep. Kristen McDonald Rivet (D-MI)._
+- **The bipartisan FREEDOM Act (H.R. 7329)[^19], which significantly limits permit delays and revocations at each stage of the permitting process, is a great option for permitting certainty reform.** _This bill is led by Rep. Josh Harder (D-CA), and co-sponsored by Rep. Michael Lawler (R-NY), Rep. Don Bacon (R-NY), Rep. Chuck Edwards (R-NC), Rep. Adam Gray (D-CA), and Rep. Kristen McDonald Rivet (D-MI)._
 
 - Myth: Opponents of subsidies should support unpredictable and lengthy permitting for subsidized projects.
 
@@ -192,7 +192,7 @@ _Here’s a roadmap for how Republicans and Democrats can still come together to
 
 - **The vast majority of the transmission proposals thus far amount to large subsidies for wind and solar developers** and thus should be rejected in tech-neutral permitting reform. This includes the last Senate’s (not passed) Energy Permitting Reform Act of 2024 (S.4753)[^20] and the various Democrat proposals on the table.
 
-- **If the transmission-subsidizing proposals pass, they’ll make our electricity price problems much worse.** Note that one of the top two contributors to rising electricity prices over the past two decades has been rising transmission costs21—which thanks to bad policy occurred even when demand was flat and objective new transmission needs were modest.
+- **If the transmission-subsidizing proposals pass, they’ll make our electricity price problems much worse.** Note that one of the top two contributors to rising electricity prices over the past two decades has been rising transmission costs[^21]—which thanks to bad policy occurred even when demand was flat and objective new transmission needs were modest.
 
 ###### Transmission-specific language is legitimate and positive if it optimizes for the lowest price of reliable power to consumers, not wind/solar-favoring criteria such as unreliable “wholesale” cost or “congestion relief”
 
