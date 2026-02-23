@@ -7,7 +7,7 @@ title: New Mexico's "Clear Horizons Act" would destroy its oil industry and
 date: 2019-10-25T02:00:00.000Z
 description: New Mexico lawmakers are considering a “net-zero by 2050” mandate
   that would shut down the oil industry. This would harm not only the state of
-  New Mexico but the entire US
+  New Mexico but the entire US.
 featuredimage: /img/oil-jack-image.png
 ---
 _Originally published: February 6, 2026_
@@ -82,7 +82,7 @@ _Originally published: February 6, 2026_
 
 - By requiring costly emissions reductions across the NM economy, **the “Clear Horizons Act” is guaranteed to raise the cost of living in NM.**
 
-    The people of New Mexico (which has a median household income of $64,140, the fourth lowest in the country) cannot afford that.15
+    The people of New Mexico (which has a median household income of $64,140, the fourth lowest in the country) cannot afford that.[^15]
 
 - Myth: The “Clear Horizons Act” makes New Mexicans more resilient to climate danger.
 
