@@ -81,10 +81,7 @@ Overbuilding, even putting aside storage, is a huge expense. **Every 10X you ove
 **Multi-day storage:** When you’re dealing with extended periods of suppressed output for solar and wind, even if you do a 10X overbuild you still need batteries to handle solar’s nights + multi-day disappearances and wind’s long lulls. Every day of battery storage costs about $6,000/kW, so for 3-7 days you’re talking $18,000-$42,000/kW (the higher part of the range is more realistic for solar).[^17]
 
 To see all this for yourself, **ask any elite AI what it would take** (and cost) for just solar, wind, and batteries (or just solar and batteries if you just like solar) **to meet year-round demand, including winter peak demand, in a given region. This is the standard needed** to provide real capacity that could truly replace fossil fuel capacity, whether you are talking about 1% or 100% of capacity. Here’s my prompting template.
-
-    Prompting template
-
-    Prompting template line 2
+![Solar Wind AI prompt](/img/solar-wind-prompting-template.png)
 
 Here are queries from [Gemini 3 Pro Deep Think](https://gemini.google.com/share/e24d81bcfd64),[^18] [ChatGPT 5.2 Pro](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157),[^19] and [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)[^20] calculating the cost of just solar+batteries, since that is the scheme we are most prominently told is our savior, in the Mid-Atlantic (“PJM” region), which is the biggest grid in the US.
 
