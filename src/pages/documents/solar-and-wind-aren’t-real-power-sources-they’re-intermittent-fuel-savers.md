@@ -34,7 +34,7 @@ Arguably, the single most important time for a power source to operate reliably 
 We commonly hear about the impressive “capacity” growth of wind and solar.[^7] But this is a perversion of the proper meaning of “capacity.” For traditional, reliable power plants—nuclear, coal, gas, oil—“capacity” is the amount of electricity it can generate on-demand, when needed. For solar and wind, “capacity” is the maximum potential electricity it can generate when there are perfect weather conditions. Storm Fern showed how **in real-world conditions, solar and wind’s “capacity” is an illusion.**
     ![Musk tweet solar will utterly dominate](/img/musk_solar_promotion.jpg)
 
-**Wind frequently provided very little electricity at times of high demand** during Storm Fern. For example, the Mid-Atlantic grid (“PJM”) and the Midwest grid (“MISO”) each had at least one morning of peak demand where wind performed at around (and sometimes lower than) 10% of its supposed “capacity.” And for a 6-hour mid-day period on 1/29 in MISO, wind provided only around 2% of its “capacity.”
+**Wind frequently provided very little electricity at times of high demand** during Storm Fern. For example, the Mid-Atlantic grid (“PJM”) and the Midwest grid (“MISO”) each had at least one morning of peak demand where wind performed at around (and sometimes lower than) 10% of its supposed “capacity.” And for a 6-hour mid-day period on 1/29 in MISO, wind provided only around 2% of its “capacity.”[^8]
     ![Wind generation in MISO during Storm Fern](/img/wind_generation_fern.jpg)
 
 As badly as wind performed during Storm Fern, solar—which Elon Musk and his acolytes treat as infinitely superior to wind—performed far, far worse. As often happens during winter storms, **solar was mostly or totally useless during the times of highest demand** (evening and early morning).
@@ -80,8 +80,17 @@ Overbuilding, even putting aside storage, is a huge expense. **Every 10X you ove
 
 **Multi-day storage:** When you’re dealing with extended periods of suppressed output for solar and wind, even if you do a 10X overbuild you still need batteries to handle solar’s nights + multi-day disappearances and wind’s long lulls. Every day of battery storage costs about $6,000/kW, so for 3-7 days you’re talking $18,000-$42,000/kW (the higher part of the range is more realistic for solar).[^17]
 
-To see all this for yourself, **ask any elite AI what it would take** (and cost) for just solar, wind, and batteries (or just solar and batteries if you just like solar) **to meet year-round demand, including winter peak demand, in a given region. This is the standard needed** to provide real capacity that could truly replace fossil fuel capacity, whether you are talking about 1% or 100% of capacity. Here’s my prompting template.
-![Solar Wind AI prompt](/img/solar-wind-prompting-template.png)
+To see all this for yourself, **ask any elite AI what it would take** (and cost) for just solar, wind, and batteries (or just solar and batteries if you just like solar) **to meet year-round demand, including winter peak demand, in a given region. This is the standard needed** to provide real capacity that could truly replace fossil fuel capacity, whether you are talking about 1% or 100% of capacity. Here’s my prompting template.\
+
+    What is the ideal mix of self-sufficient [solar+batteries OR wind+batteries OR solar/wind+ batteries] to meet year-round demand, including winter peak demand, in [region]?
+
+    *Do not use any subsidies as part of your calculation,* only use unsubsidized prices.
+
+    How much “overbuilding” of the intermittent generation is needed, and how much battery storage (measured in winter peak hourly demand * 24 hours) is needed?
+
+    The system *must be able to handle the most adverse weather conditions* (least favorable toward solar/wind generation) of the last 30 years, including the recent Storm Fern.
+
+    The system should have the standard 15% reserve margin. As part of your analysis, give me the cost of the system per KW of dispatchable capacity (peak demand plus the 15% reserve margin).
 
 Here are queries from [Gemini 3 Pro Deep Think](https://gemini.google.com/share/e24d81bcfd64),[^18] [ChatGPT 5.2 Pro](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157),[^19] and [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)[^20] calculating the cost of just solar+batteries, since that is the scheme we are most prominently told is our savior, in the Mid-Atlantic (“PJM” region), which is the biggest grid in the US.
 
@@ -203,29 +212,31 @@ _Itamar Feldman, Daniil Gorbatenko, Steffen Henne, and Michelle Hung contributed
 
 [^7]: [Elon Musk on X](https://x.com/elonmusk/status/2022551590478000473)
 
-[^8]: Florida Municipal Power Agency, data from [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
+[^8]: [GridStatus.io](https://www.gridstatus.io/), data from Midcontinent Independent System Operator (MISO)
 
-[^9]: [GridStatus.io](https://www.gridstatus.io/), data from Independent System Operator New England (ISO-NE)
+[^9]: Florida Municipal Power Agency, data from [U.S. Energy Information Administration - Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48)
 
-[^10]: [GridStatus.io](https://www.gridstatus.io/), data from Independent System Operator New England (ISO-NE), New York Independent System Operator (NYISO), Midcontinent Independent System Operator (MISO), Electric Reliability Council of Texas (ERCOT), Southwest Power Pool (SPP), PJM Interconnection (PJM)
+[^10]: [GridStatus.io](https://www.gridstatus.io/), data from Independent System Operator New England (ISO-NE)
 
-[^11]: [Mitch Rolling and Isaac Orr - Watt, Me Worry? Record-Setting "Capacity" Can't Keep the Lights On](https://energybadboys.substack.com/p/watt-me-worry-record-setting-capacity)
+[^11]: [GridStatus.io](https://www.gridstatus.io/), data from Independent System Operator New England (ISO-NE), New York Independent System Operator (NYISO), Midcontinent Independent System Operator (MISO), Electric Reliability Council of Texas (ERCOT), Southwest Power Pool (SPP), PJM Interconnection (PJM)
 
-[^12]: 
+[^12]: [Mitch Rolling and Isaac Orr - Watt, Me Worry? Record-Setting "Capacity" Can't Keep the Lights On](https://energybadboys.substack.com/p/watt-me-worry-record-setting-capacity)
+
+[^13]: 
     [Alex Epstein - America’s energy crisis is mostly US Democrats’ fault](https://alexepstein.substack.com/p/americas-energy-crisis-is-mostly)
 
     [U.S. Energy Information Administration - Planned retirements of U.S. coal-fired electric-generating capacity to increase in 2025](https://www.eia.gov/todayinenergy/detail.php?id=64604)
 
-[^13]:
+[^14]:
     [Isaac Orr and Mitch Rolling - The Renewable IN-FERN-O](https://substack.com/@energybadboys/p-186129982)
 
     [The Wall Street Journal - U.S. Cold Snap Kills Dozens and Leaves Thousands Without Power](https://www.wsj.com/us-news/climate-environment/u-s-cold-snap-kills-dozens-and-leaves-thousands-without-power-413e77b0)
 
-[^14]: [U.S. National Weather Service - January 2010 Historic Winter Storm](https://www.weather.gov/fgz/2010HistoricWinterStorm)
+[^15]: [U.S. National Weather Service - January 2010 Historic Winter Storm](https://www.weather.gov/fgz/2010HistoricWinterStorm)
 
-[^15]: [PNNL - Energy Droughts” in Wind and Solar Can Last Nearly a Week, Research Shows](https://www.pnnl.gov/news-media/energy-droughts-wind-and-solar-can-last-nearly-week-research-shows)
+[^16]: [PNNL - Energy Droughts” in Wind and Solar Can Last Nearly a Week, Research Shows](https://www.pnnl.gov/news-media/energy-droughts-wind-and-solar-can-last-nearly-week-research-shows)
 
-[^16]: 
+[^17]: 
     [SEIA. - Solar Market Insight Report Q3 2025](https://seia.org/research-resources/solar-market-insight-report-q3-2025/). NREL recently estimated the capital cost of 1 watt of solar at $1.253 per watt for single-axis tracking panels, which means $12,500 per kW.
 
     [Berkeley Lab - Land-based wind market report, 2024 edition](https://eta-publications.lbl.gov/sites/default/files/2024-09/land-based_wind_market_report_2024_edition.pdf). LBL recently reported the capital cost per kW for lowest cost wind projects at $1,320 per kW. NREL recently estimated the capital cost of 1 watt of wind at $1.5, which means $15,000 per kW.
@@ -234,18 +245,18 @@ _Itamar Feldman, Daniil Gorbatenko, Steffen Henne, and Michelle Hung contributed
 
     [S&P Global. US gas-fired turbine wait times as much as seven years; costs up sharply](https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/052025-us-gas-fired-turbine-wait-times-as-much-as-seven-years-costs-up-sharply)
 
-[^17]: 
+[^18]: 
     [NREL. Cost Projections for Utility-Scale Battery Storage: 2025 Update](https://docs.nrel.gov/docs/fy25osti/93281.pdf). NREL estimated the capital cost of 1 kWh of 4h storage systems at around $300 per kWh, which means $1200 per kW for 4h endurance. Scaling to 24h per day gives $7200.
 
     (While this reference puts battery storage costs at $7,200/day, I am using the more optimistic number of $6,000/day which some projects today claim to be achieving.)
 
-[^18]: [Gemini 3 Pro Deep Think - “What is the ideal mix of self-sufficient solar+batteries to meet year-round demand, including winter peak demand, in PJM?...”](https://gemini.google.com/share/e24d81bcfd64)
+[^19]: [Gemini 3 Pro Deep Think - “What is the ideal mix of self-sufficient solar+batteries to meet year-round demand, including winter peak demand, in PJM?...”](https://gemini.google.com/share/e24d81bcfd64)
 
-[^19]: [ChatGPT 5.2 Pro - “What is the ideal mix of self-sufficient solar+batteries to meet year-round demand, including winter peak demand, in PJM?...”](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157)
+[^20]: [ChatGPT 5.2 Pro - “What is the ideal mix of self-sufficient solar+batteries to meet year-round demand, including winter peak demand, in PJM?...”](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157)
 
-[^20]: [Grok 4 Heavy - “What is the ideal mix of self-sufficient solar+batteries to meet year-round demand, including winter peak demand, in PJM?...”](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)
+[^21]: [Grok 4 Heavy - “What is the ideal mix of self-sufficient solar+batteries to meet year-round demand, including winter peak demand, in PJM?...”](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)
 
-[^21]: 
+[^22]: 
     [U.S. Energy Information Administration - U.S. Natural Gas Electric Power Price.](https://www.eia.gov/dnav/ng/hist/n3045us3m.htm) Assumptions:
 
     - Long-term natural gas prices for electric power generation are $3 per thousand cubic feet (≈MMBtu).
@@ -257,40 +268,40 @@ _Itamar Feldman, Daniil Gorbatenko, Steffen Henne, and Michelle Hung contributed
 
     - → $1,829.58 per kW capacity
 
-[^22]: [Lars Schernikau - The Battery Storage Delusion: Utility-Scale Batteries Are No Silver Bullet](https://energyanalytics.org/the-battery-storage-delusion/)
+[^23]: [Lars Schernikau - The Battery Storage Delusion: Utility-Scale Batteries Are No Silver Bullet](https://energyanalytics.org/the-battery-storage-delusion/)
 
-[^23]: 
+[^24]: 
     [National Renewable Energy Laboratory - Utility-Scale PV](https://energyanalytics.org/the-battery-storage-delusion/)
 
     [National Renewable Energy Laboratory - Residential PV](https://atb.nrel.gov/electricity/2024b/residential_pv)
 
-[^24]: [National Renewable Energy Laboratory - Land-Based Wind](https://atb.nrel.gov/electricity/2024/land-based_wind)
+[^25]: [National Renewable Energy Laboratory - Land-Based Wind](https://atb.nrel.gov/electricity/2024/land-based_wind)
 
-[^25]: [U.S. Department of Energy - Solar Photovoltaic System Cost Benchmarks](https://www.energy.gov/eere/solar/solar-photovoltaic-system-cost-benchmarks)
+[^26]: [U.S. Department of Energy - Solar Photovoltaic System Cost Benchmarks](https://www.energy.gov/eere/solar/solar-photovoltaic-system-cost-benchmarks)
 
-[^26]:
+[^27]:
     [Mark P. Mills - The “Energy Transition” Delusion A Reality Reset](https://manhattan.institute/article/the-energy-transition-delusion)
 
     [National Renewable Energy Laboratory - Cost Projections for Utility-Scale Battery Storage: 2025 Update](https://docs.nrel.gov/docs/fy25osti/93281.pdf)
 
-[^27]: [Elon Musk on X](https://x.com/elonmusk/status/2017610984563818577)
+[^28]: [Elon Musk on X](https://x.com/elonmusk/status/2017610984563818577)
 
-[^28]: [Gemini 3 Pro Deep Think - “...in what circumstances if any is it economic to use solar?...”](https://gemini.google.com/share/fc31298c385a)
+[^29]: [Gemini 3 Pro Deep Think - “...in what circumstances if any is it economic to use solar?...”](https://gemini.google.com/share/fc31298c385a)
 
-[^29]: [ChatGPT 5.2 Pro - “...in what circumstances if any is it economic to use solar?...”](https://chatgpt.com/share/6994d099-bb7c-800a-a8c3-8b4ddf7bc408)
+[^30]: [ChatGPT 5.2 Pro - “...in what circumstances if any is it economic to use solar?...”](https://chatgpt.com/share/6994d099-bb7c-800a-a8c3-8b4ddf7bc408)
 
-[^30]: [Grok 4 Heavy - “...in what circumstances if any is it economic to use solar?...”](https://grok.com/share/c2hhcmQtMi1jb3B5_f54ce14b-9bdf-4c97-af0d-d1a5a9d48e07)
+[^31]: [Grok 4 Heavy - “...in what circumstances if any is it economic to use solar?...”](https://grok.com/share/c2hhcmQtMi1jb3B5_f54ce14b-9bdf-4c97-af0d-d1a5a9d48e07)
 
-[^31]: [Solar and Storage Industry (SEIA) on X](https://x.com/SEIA/status/2023411545309360154?referrer=grok-com)
+[^32]: [Solar and Storage Industry (SEIA) on X](https://x.com/SEIA/status/2023411545309360154?referrer=grok-com)
 
-[^32]: [Jesse Jenkins on X](https://x.com/JesseJenkins/status/1504146383833600004)
+[^33]: [Jesse Jenkins on X](https://x.com/JesseJenkins/status/1504146383833600004)
 
-[^33]:
+[^34]:
     [U.S. Energy Information Administration - Average retail price of electricity / all sectors](https://www.eia.gov/electricity/data/browser/#/topic/7?agg=2,0,1&geo=g&freq=M&start=200101&end=202511&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=)
 
     [U.S. Energy Information Administration - U.S. Natural Gas Electric Power Price](https://www.eia.gov/dnav/ng/hist/n3045us3m.htm)
 
-[^34]:
+[^35]:
     [Reuters - Power plant outages surge in Eastern US amid restricted gas supplies and frigid weather](https://www.reuters.com/business/energy/power-prices-surge-winter-storm-spikes-demand-us-data-center-alley-2026-01-25/)
 
     [S&P Global - US wholesale power prices reach record highs in winter storm, retail electricity outages continue](https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/012726-us-wholesale-power-prices-reach-record-highs-in-winter-storm-retail-electricity-outages-continue)
@@ -299,24 +310,24 @@ _Itamar Feldman, Daniil Gorbatenko, Steffen Henne, and Michelle Hung contributed
 
     [U.S. EIA - Short Term Energy Outlook](https://www.eia.gov/outlooks/steo/data.php)
 
-[^35]:
+[^36]:
     The only exception to the point that solar/wind aren’t really capacity is that there are supply-flexible consumers that are truly okay with only getting energy when the sun shines, the wind blows, and/or with whatever batteries have stored from previous solar/wind.
 
     Insofar as there are supply-flexible consumers so non-demanding that solar/wind/batteries alone can accommodate them—which so far has proven rare—then those loads should create private or quasi-private generation for this “capacity” so it doesn’t affect reliable, on-demand power for the rest of us.
 
-[^36]: [Elon Musk on X](https://x.com/elonmusk/status/2002337063765754318)
+[^37]: [Elon Musk on X](https://x.com/elonmusk/status/2002337063765754318)
 
-[^37]: [Elon Musk on X](https://x.com/elonmusk/status/2017610984563818577)
+[^38]: [Elon Musk on X](https://x.com/elonmusk/status/2017610984563818577)
 
-[^38]: [Joshua D. Rhodes on X](https://x.com/joshdr83/status/2023486895133790573?referrer=grok-com)
+[^39]: [Joshua D. Rhodes on X](https://x.com/joshdr83/status/2023486895133790573?referrer=grok-com)
 
-[^39]: [New York Times - The Clean Energy Future Is Arriving Faster Than You Think](https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html)
+[^40]: [New York Times - The Clean Energy Future Is Arriving Faster Than You Think](https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html)
 
-[^40]: [Elon Musk on X](https://x.com/elonmusk/status/1949867302264221755)
+[^41]: [Elon Musk on X](https://x.com/elonmusk/status/1949867302264221755)
 
-[^41]: [Elon Musk on X](https://x.com/elonmusk/status/1957617330068005048)
+[^42]: [Elon Musk on X](https://x.com/elonmusk/status/1957617330068005048)
 
-[^42]:
+[^43]:
     [Alex Epstein - Tech giants’ self-made AI energy crisis](https://x.com/elonmusk/status/1957617330068005048)
 
     [Apple Newsroom - Apple now globally powered by 100 percent renewable energy](https://www.apple.com/newsroom/2018/04/apple-now-globally-powered-by-100-percent-renewable-energy/)
