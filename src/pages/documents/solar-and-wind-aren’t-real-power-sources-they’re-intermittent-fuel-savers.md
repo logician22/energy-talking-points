@@ -39,19 +39,19 @@ We commonly hear about the impressive “capacity” growth of wind and solar.[^
 
 As badly as wind performed during Storm Fern, solar—which Elon Musk and his acolytes treat as infinitely superior to wind—performed far, far worse. As often happens during winter storms, **solar was mostly or totally useless during the times of highest demand** (evening and early morning).
 
-Observe that in Florida, which was hit later than other states by Storm Fern’s cold, solar provided zero help during its intense evening peak demand on 1/31 and 2/1, barely any help during the morning peak of 2/1, and zero help during its highest demand time of all, the morning peak of 2/2. **Solar’s real “capacity” was obviously zero.**[^8]
+Observe that in Florida, which was hit later than other states by Storm Fern’s cold, solar provided zero help during its intense evening peak demand on 1/31 and 2/1, barely any help during the morning peak of 2/1, and zero help during its highest demand time of all, the morning peak of 2/2. **Solar’s real “capacity” was obviously zero.**[^9]
     ![Florida 100% Gas, Coal, Diesel & Nuke - Monday Peak](/img/florida_electricity.jpg)
 
-Not only did solar predictably disappear when needed most, during evenings and early mornings, it also underperformed during the day—meaning **it could not reliably charge the batteries we are told are solar’s savior.** Observe that in New England, solar performed far, far lower than its “capacity” for days on end, to the point that burning wood and trash often provided significantly more electricity than solar.[^9]
+Not only did solar predictably disappear when needed most, during evenings and early mornings, it also underperformed during the day—meaning **it could not reliably charge the batteries we are told are solar’s savior.** Observe that in New England, solar performed far, far lower than its “capacity” for days on end, to the point that burning wood and trash often provided significantly more electricity than solar.[^10]
     ![Power generation from solar vs. wood and trash on ISO New England during Storm Fern](/img/solar_wood_fern.jpg)
 
-We are often told that if you combine solar and wind together, they’re somehow reliable. But this is not true, as Storm Fern painfully illustrated. For long stretches of time in most affected grids, **solar/wind combined generated less than 10% of their supposed “capacity”**—meaning that even together they couldn’t be relied upon to provide power or charge batteries.[^10]
+We are often told that if you combine solar and wind together, they’re somehow reliable. But this is not true, as Storm Fern painfully illustrated. For long stretches of time in most affected grids, **solar/wind combined generated less than 10% of their supposed “capacity”**—meaning that even together they couldn’t be relied upon to provide power or charge batteries.[^11]
     ![Solar and wind frequently generated less than 10% of their "capacity"](/img/solar_wind_capacity.jpg)
 
-The only reason that the lights and heat stayed on around the country during Storm Fern is that **we have, barely, kept enough reliable capacity to provide all the power when solar and wind disappear.** But just barely, and at great cost, since the anti-fossil-fuel policies urged by solar/wind propagandists have reduced the supply of reliable power plants and supporting infrastructure.[^11]
+The only reason that the lights and heat stayed on around the country during Storm Fern is that **we have, barely, kept enough reliable capacity to provide all the power when solar and wind disappear.** But just barely, and at great cost, since the anti-fossil-fuel policies urged by solar/wind propagandists have reduced the supply of reliable power plants and supporting infrastructure.[^12]
     ![U.S. Electric Generating Capacity (GW) Since 2004: Firm vs Intermittent](/img/us_electricity_firm_vs_intermittent.jpg)
 
-Had we not shut down so many coal plants and suppressed so many pipelines and prevented so many gas plants,[^12] Storm Fern’s demand could have been easily and cheaply met. Instead, it **strained grids, spiked power prices, and spiked heating prices when solar/wind failed to deliver.**[^13]
+Had we not shut down so many coal plants and suppressed so many pipelines and prevented so many gas plants,[^13] Storm Fern’s demand could have been easily and cheaply met. Instead, it **strained grids, spiked power prices, and spiked heating prices when solar/wind failed to deliver.**[^14]
 
 Storm Fern was a perfect litmus test for purported replacements of fossil fuels. If a type of “power” or “capacity” cannot reliably contribute to preventing Americans from freezing to death during a week of nationwide cold weather, whatever else it is doing it is absolutely not replacing fossil fuels. Solar and wind failed that test.
 
@@ -68,7 +68,7 @@ Winter storms, which affect some 2/3 of the US, are one reason solar and wind ca
 
 **In the Southeast there’s barely any wind,** so wind turbines are rare in the first place. But there are plenty of tropical storms to wipe out most solar for a week. **In sunny California, an atmospheric river or other precipitation event can wipe out most solar generation for a week or more,** or cause a multi-day period where the output from both solar and wind is very low.
 
-Even in sun-drenched Arizona, which you might think has reliable solar, we’ve seen that storms can render solar useless for prolonged periods. In January of 2010 a series of **three low-pressure systems wiped out most of Arizona’s solar for 6 days!**[^14] The bottom line: Weather fluctuations throughout the country are simply devastating for attempts at self-sufficient solar/wind/battery generation.[^15]
+Even in sun-drenched Arizona, which you might think has reliable solar, we’ve seen that storms can render solar useless for prolonged periods. In January of 2010 a series of **three low-pressure systems wiped out most of Arizona’s solar for 6 days!**[^15] The bottom line: Weather fluctuations throughout the country are simply devastating for attempts at self-sufficient solar/wind/battery generation.[^16]
 
 ### The only way to make solar or wind reliable power sources is to pay so much for “overbuilding” and multi-day storage that it costs 10-20X gas power
 
@@ -76,9 +76,9 @@ The only way you can rely on just solar, wind, and batteries to provide on-deman
 
 **Overbuilding:** One way to partially compensate for solar and wind’s erratic performance is to build so much of them that even when their output is low (such as 1/10th its maximum potential) you still have enough power to meet demand—and plenty of surplus to charge batteries for when even your overbuilt solar and wind can’t meet demand (such as solar every night or when the wind almost totally dies down).
 
-Overbuilding, even putting aside storage, is a huge expense. **Every 10X you overbuild solar costs you $12,500/kW and wind costs you $13,200/kW, vs. the $1,000/kW natural gas power cost** before anti-fossil-fuel policies created artificial shortages and drove the price to $2,400/kW.[^16]
+Overbuilding, even putting aside storage, is a huge expense. **Every 10X you overbuild solar costs you $12,500/kW and wind costs you $13,200/kW, vs. the $1,000/kW natural gas power cost** before anti-fossil-fuel policies created artificial shortages and drove the price to $2,400/kW.[^17]
 
-**Multi-day storage:** When you’re dealing with extended periods of suppressed output for solar and wind, even if you do a 10X overbuild you still need batteries to handle solar’s nights + multi-day disappearances and wind’s long lulls. Every day of battery storage costs about $6,000/kW, so for 3-7 days you’re talking $18,000-$42,000/kW (the higher part of the range is more realistic for solar).[^17]
+**Multi-day storage:** When you’re dealing with extended periods of suppressed output for solar and wind, even if you do a 10X overbuild you still need batteries to handle solar’s nights + multi-day disappearances and wind’s long lulls. Every day of battery storage costs about $6,000/kW, so for 3-7 days you’re talking $18,000-$42,000/kW (the higher part of the range is more realistic for solar).[^18]
 
 To see all this for yourself, **ask any elite AI what it would take** (and cost) for just solar, wind, and batteries (or just solar and batteries if you just like solar) **to meet year-round demand, including winter peak demand, in a given region. This is the standard needed** to provide real capacity that could truly replace fossil fuel capacity, whether you are talking about 1% or 100% of capacity. Here’s my prompting template.\
 
@@ -92,15 +92,15 @@ To see all this for yourself, **ask any elite AI what it would take** (and cost)
 
     The system should have the standard 15% reserve margin. As part of your analysis, give me the cost of the system per KW of dispatchable capacity (peak demand plus the 15% reserve margin).
 
-Here are queries from [Gemini 3 Pro Deep Think](https://gemini.google.com/share/e24d81bcfd64),[^18] [ChatGPT 5.2 Pro](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157),[^19] and [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)[^20] calculating the cost of just solar+batteries, since that is the scheme we are most prominently told is our savior, in the Mid-Atlantic (“PJM” region), which is the biggest grid in the US.
+Here are queries from [Gemini 3 Pro Deep Think](https://gemini.google.com/share/e24d81bcfd64),[^19] [ChatGPT 5.2 Pro](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157),[^20] and [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)[^21] calculating the cost of just solar+batteries, since that is the scheme we are most prominently told is our savior, in the Mid-Atlantic (“PJM” region), which is the biggest grid in the US.
 
 **Gemini** estimates that powering PJM on solar+batteries would cost $7.24 trillion in capital costs and **$41,970/kW.** ChatGPT estimates $5.70 trillion in capital costs and **$33,300/kW.** Grok estimates $4.09 trillion in capital costs and **$23,700/kW. Compared to $1,000/kW for a natural gas plant!** (Note: I generally find Grok, which is led by Elon Musk, to be the least objective AI about the limits of solar and batteries.)
 
 To do a rough apples-to-apples cost comparison of natural gas vs. solar/wind/batteries, you also have to add
 
-- For natural gas: Maintenance and (most expensive) the net-present-value cost of the fuel for natural gas (maybe $2K/kW over 30 years without anti-fossil-fuel policies).[^21]
+- For natural gas: Maintenance and (most expensive) the net-present-value cost of the fuel for natural gas (maybe $2K/kW over 30 years without anti-fossil-fuel policies).[^22]
 
-- For solar/wind/batteries: Full equipment replacements after 10-20 years if the batteries do the heavy lifting of balancing the grid with frequent cycling[^22] (at least $5K/kW, probably much more)—as well as transmission infrastructure (unless you want residential systems that cost at least 2-3X more if you take into account the lower efficiency per panel because of the suboptimal rooftop placement).[^23]
+- For solar/wind/batteries: Full equipment replacements after 10-20 years if the batteries do the heavy lifting of balancing the grid with frequent cycling[^23] (at least $5K/kW, probably much more)—as well as transmission infrastructure (unless you want residential systems that cost at least 2-3X more if you take into account the lower efficiency per panel because of the suboptimal rooftop placement).[^24]
 
 Bottom line: Solar/wind/battery’s replacement and other costs over time will far outweigh the fuel cost of gas.
 
@@ -110,13 +110,13 @@ Because the lifetime cost of self-sufficient solar/wind/batteries, let alone the
 
 What about the supposedly “exponential” decline in wind turbine, solar panel, and battery prices? **If you look at the full cost of wind, solar, and battery systems there is nothing on the horizon that will make them remotely plausible as standalone power sources.**
 
-For wind turbines, there is no longer anything resembling an exponential price decline.[^24] Solar panels will likely continue to decline in price—how fast is unclear—but panels are now only about 15-30% of a solar project’s costs; the rest are materials, structures, and labor needed to make a project work, and these won’t decline anywhere near exponentially.[^25]
+For wind turbines, there is no longer anything resembling an exponential price decline.[^25] Solar panels will likely continue to decline in price—how fast is unclear—but panels are now only about 15-30% of a solar project’s costs; the rest are materials, structures, and labor needed to make a project work, and these won’t decline anywhere near exponentially.[^26]
 
-Batteries will likely continue to decline in price—which is great for many applications, including the reliable storage of reliable electricity sources. Most of the cost drops will be in the battery cells themselves, although those drops will be limited by the costs of the mined materials involved.[^26] As with solar there are significant other materials, structures, and labor to make a system work that won’t rapidly go down in price. Thus standalone solar/wind/battery capacity remains a remote fantasy.
+Batteries will likely continue to decline in price—which is great for many applications, including the reliable storage of reliable electricity sources. Most of the cost drops will be in the battery cells themselves, although those drops will be limited by the costs of the mined materials involved.[^27] As with solar there are significant other materials, structures, and labor to make a system work that won’t rapidly go down in price. Thus standalone solar/wind/battery capacity remains a remote fantasy.
 
 ### Solar and wind shouldn’t be thought of as reliable power sources, but rather intermittent fuel-savers for reliable power sources
 
-If solar and wind are not replacements for fossil fuel power, what are they? After all, they are doing something—witness charts showing large amounts of “generation” in a day or the largest growth in “generation” and “capacity” over time.[^27] That “something” is saving fuel for reliable power sources.
+If solar and wind are not replacements for fossil fuel power, what are they? After all, they are doing something—witness charts showing large amounts of “generation” in a day or the largest growth in “generation” and “capacity” over time.[^28] That “something” is saving fuel for reliable power sources.
     ![Musk tweet - solar is the source of energy](/img/musk_solar_the_source.jpg)
 
 Any grid, to be responsible, needs an amount of reliable, on-demand power that exceeds by a comfortable margin (a “reserve margin”) its expected “peak demand.” Solar and wind cannot provide this reliable power. But they can **save reliable power fuel whenever and to whatever extent there is sunshine and wind.**
@@ -143,23 +143,23 @@ While solar and wind, as intermittent fuel-savers, provide a certain kind of val
 
 ### In practice, solar/wind’s fuel savings are almost always dwarfed by their huge infrastructure costs—which, along with restrictions on fossil fuels, have increased prices
 
-If you ask state-of-the-art AIs (e.g., [Gemini 3 Pro Deep Think](https://gemini.google.com/share/fc31298c385a),[^28] [ChatGPT 5.2 Pro](https://chatgpt.com/share/6994d099-bb7c-800a-a8c3-8b4ddf7bc408),[^29] [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_f54ce14b-9bdf-4c97-af0d-d1a5a9d48e07)),[^30] they will have trouble finding cases in the US where solar or wind has made economic sense. (The best cases are where anti-fossil-fuel policies have artificially inflated natural gas costs, which is an argument against those policies.)
+If you ask state-of-the-art AIs (e.g., [Gemini 3 Pro Deep Think](https://gemini.google.com/share/fc31298c385a),[^29] [ChatGPT 5.2 Pro](https://chatgpt.com/share/6994d099-bb7c-800a-a8c3-8b4ddf7bc408),[^30] [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_f54ce14b-9bdf-4c97-af0d-d1a5a9d48e07)),[^31] they will have trouble finding cases in the US where solar or wind has made economic sense. (The best cases are where anti-fossil-fuel policies have artificially inflated natural gas costs, which is an argument against those policies.)
 
-Let’s pause on this: even though solar and wind theoretically have value as intermittent fuel-savers, the hundreds of billions spent on them in the US so far have mostly amounted to burning other people’s money and have created no economic value whatsoever. Think about that when you see a chart celebrating rising solar “generation” or “output,” i.e., fuel savings.[^31]
+Let’s pause on this: even though solar and wind theoretically have value as intermittent fuel-savers, the hundreds of billions spent on them in the US so far have mostly amounted to burning other people’s money and have created no economic value whatsoever. Think about that when you see a chart celebrating rising solar “generation” or “output,” i.e., fuel savings.[^32]
     ![Texas solar energy output](/img/texas_solar.jpg)
 
-Note that many leading opponents of fossil fuels know that solar/wind are not reliable power sources but intermittent fuel-savers—they just believe that, for “climate” reasons, it’s valuable to spend a lot of money saving fuel since in doing so you reduce emissions from the fuel. That’s an intellectually coherent view, but it’s **not honest to pretend their goal is to lower costs and that their policies haven’t raised costs.**[^32]
+Note that many leading opponents of fossil fuels know that solar/wind are not reliable power sources but intermittent fuel-savers—they just believe that, for “climate” reasons, it’s valuable to spend a lot of money saving fuel since in doing so you reduce emissions from the fuel. That’s an intellectually coherent view, but it’s **not honest to pretend their goal is to lower costs and that their policies haven’t raised costs.**[^33]
     ![Jesse Jenkins Solar Wind](/img/jesse_jenkins_solar_wind.jpg)
 
-If we recognize that almost the entire solar/wind infrastructure and reliable capacity deterioration costs have not been remotely offset by fuel savings and have amounted to just burning money (often in the form of subsidies) we start to see why **electricity prices have gone up when declining prices of natural gas—the grid’s number one fuel source—should have driven them down.**[^33]
+If we recognize that almost the entire solar/wind infrastructure and reliable capacity deterioration costs have not been remotely offset by fuel savings and have amounted to just burning money (often in the form of subsidies) we start to see why **electricity prices have gone up when declining prices of natural gas—the grid’s number one fuel source—should have driven them down.**[^34]
     ![U.S. natural gas price to electric power vs. average retail electricity price](/img/us_gas_electric_prices.jpg)
 
 The other big reason electricity prices have gone up is that, in large part due to “solar and wind can replace fossil fuels” propaganda, the **government has destroyed, disallowed, and discouraged fossil fuel power,** massively driving up the cost of reliable power.
 
-Reliable power shortages forced grids to operate close to their limits during Storm Fern, which increased wholesale electricity prices and will lead to significantly higher electricity bills for tens of millions of households in the near future. Lack of gas pipelines means that in a country with endless natural gas we’ll have regions like New England with sky-high gas bills.[^34]
+Reliable power shortages forced grids to operate close to their limits during Storm Fern, which increased wholesale electricity prices and will lead to significantly higher electricity bills for tens of millions of households in the near future. Lack of gas pipelines means that in a country with endless natural gas we’ll have regions like New England with sky-high gas bills.[^35]
     ![Average US residential winter natural gas expenditures](/img/winter_gas_prices.jpg)
 
-Bottom line: **solar and wind “power” have not at all replaced fossil fuel power, but they have made power more expensive.** And the idea that solar and wind are replacements, and thus that it’s costless to punish reliable fossil fuel power, has made power more expensive to an even greater degree.[^35]
+Bottom line: **solar and wind “power” have not at all replaced fossil fuel power, but they have made power more expensive.** And the idea that solar and wind are replacements, and thus that it’s costless to punish reliable fossil fuel power, has made power more expensive to an even greater degree.[^36]
 
 ### All energy discussions, analyses, and policy-making must totally stop treating solar and wind as reliable power sources and instead treat them as intermittent fuel-savers
 
@@ -167,25 +167,25 @@ Solar and wind shouldn’t be referred to as “capacity” or even “power,”
 
 Solar and wind must never be spoken of as replacements or alternatives to fossil fuels as long as their intermittency issues are not solved at their own expense. As Storm Fern demonstrated, **they do not, and cannot, power our grids, and pretending that they can was a major factor in creating today’s reliable power shortage.**
 
-When you see a country’s amount or percentage of **solar/wind “generation” going up** quickly—know that the same amount of reliable power capacity is needed, you’re **just seeing a decrease in fuel use.**[^36]
+When you see a country’s amount or percentage of **solar/wind “generation” going up** quickly—know that the same amount of reliable power capacity is needed, you’re **just seeing a decrease in fuel use.**[^37]
     ![Musk tweet - China solar power progress](/img/musk_tweet_china_solar.jpg)
 
-When you see a country’s amount or percentage of solar/wind **“capacity” going up**—know that **it’s not real, reliable, on-demand capacity,** it’s the peak momentary fuel savings possible for a weather-determined device.[^37]
+When you see a country’s amount or percentage of solar/wind **“capacity” going up**—know that **it’s not real, reliable, on-demand capacity,** it’s the peak momentary fuel savings possible for a weather-determined device.[^38]
     ![Musk tweet - solar is the source of energy](/img/musk_solar_the_source.jpg)
 
-When you see a day in which **a large percentage of a state or country’s electricity is labeled “solar” or “wind”**—know that the same amount of reliable, on-demand power plant capacity is needed, you’re **just seeing a decrease in fuel use** that day.[^38]
+When you see a day in which **a large percentage of a state or country’s electricity is labeled “solar” or “wind”**—know that the same amount of reliable, on-demand power plant capacity is needed, you’re **just seeing a decrease in fuel use** that day.[^39]
     ![Joshua Rhodes - Texas 77% renewables](/img/joshua_rhodes_texas_renewables.jpg)
 
-When you see the cost of solar and/or wind power is shown on a chart as lower than **the cost of fossil fuels or nuclear power—know that you’re seeing an accounting fraud, because the cost of an intermittent fuel-saving device is paid on top of the cost of an on-demand power source,** not instead of it.[^39]
+When you see the cost of solar and/or wind power is shown on a chart as lower than **the cost of fossil fuels or nuclear power—know that you’re seeing an accounting fraud, because the cost of an intermittent fuel-saving device is paid on top of the cost of an on-demand power source,** not instead of it.[^40]
     ![The Cost of Renewable Energy Has Plummeted](/img/cost_renewables_plummeted.jpg)
 
-When you see that a new solar and wind project is said to “power” some large number of homes or factories or data centers—know that the solar and wind are “powering” nothing by themselves, since they **are entirely dependent on on-demand power sources.** Better to think of them as **“coalar” (coal+solar) or “golar” (gas+solar)** or “cwind” (coal + wind) or “gwind” (gas + wind).[^40]
+When you see that a new solar and wind project is said to “power” some large number of homes or factories or data centers—know that the solar and wind are “powering” nothing by themselves, since they **are entirely dependent on on-demand power sources.** Better to think of them as **“coalar” (coal+solar) or “golar” (gas+solar)** or “cwind” (coal + wind) or “gwind” (gas + wind).[^41]
     ![Musk tweet – solar desert](/img/musk_solar_desert.jpg)
 
-When you see that **solar/wind power on a certain percentage of the Earth’s surface is said to be sufficient to power the world** many times over—know that this is **nonsense because the power is not on-demand** and we need on-demand power.[^41]
+When you see that **solar/wind power on a certain percentage of the Earth’s surface is said to be sufficient to power the world** many times over—know that this is **nonsense because the power is not on-demand** and we need on-demand power.[^42]
     ![Musk tweet – Small solar patch in Spain powers Europe](/img/musk_solar_spain.jpg)
 
-When you see that companies claim to be “powered by **100% renewable energy,”** know that they **are actually powered by reliable, on-demand power sources,** but they are using accounting fraud to take credit for the intermittent fuel savings of others.[^42]
+When you see that companies claim to be “powered by **100% renewable energy,”** know that they **are actually powered by reliable, on-demand power sources,** but they are using accounting fraud to take credit for the intermittent fuel savings of others.[^43]
     ![Apple now globally powered by 100 percent renewable enrergy](/img/apple_100_percent_renewable.jpg)
 
 To my economist friends and grid operators: start doing solar/wind cost analysis in terms of whether they are a cost-effective or cost-ineffective fuel-saving measure. That’ll lead to good decisions. Nothing good comes from pretending that solar and wind are real, reliable power sources.
