@@ -82,15 +82,15 @@ Overbuilding, even putting aside storage, is a huge expense. **Every 10X you ove
 
 To see all this for yourself, **ask any elite AI what it would take** (and cost) for just solar, wind, and batteries (or just solar and batteries if you just like solar) **to meet year-round demand, including winter peak demand, in a given region. This is the standard needed** to provide real capacity that could truly replace fossil fuel capacity, whether you are talking about 1% or 100% of capacity. Here’s my prompting template.
 
-   ###### What is the ideal mix of self-sufficient [solar+batteries OR wind+batteries OR solar/wind+ batteries] to meet year-round demand, including winter peak demand, in [region]?
+- What is the ideal mix of self-sufficient [solar+batteries OR wind+batteries OR solar/wind+ batteries] to meet year-round demand, including winter peak demand, in [region]?
 
-   ###### *Do not use any subsidies as part of your calculation,* only use unsubsidized prices.
+    *Do not use any subsidies as part of your calculation,* only use unsubsidized prices.
 
-   ###### How much “overbuilding” of the intermittent generation is needed, and how much battery storage (measured in winter peak hourly demand * 24 hours) is needed?
+    How much “overbuilding” of the intermittent generation is needed, and how much battery storage (measured in winter peak hourly demand * 24 hours) is needed?
 
-   ###### The system *must be able to handle the most adverse weather conditions* (least favorable toward solar/wind generation) of the last 30 years, including the recent Storm Fern.
+    The system *must be able to handle the most adverse weather conditions* (least favorable toward solar/wind generation) of the last 30 years, including the recent Storm Fern.
 
-   ###### The system should have the standard 15% reserve margin. As part of your analysis, give me the cost of the system per KW of dispatchable capacity (peak demand plus the 15% reserve margin).
+    The system should have the standard 15% reserve margin. As part of your analysis, give me the cost of the system per KW of dispatchable capacity (peak demand plus the 15% reserve margin).
 
 Here are queries from [Gemini 3 Pro Deep Think](https://gemini.google.com/share/e24d81bcfd64),[^19] [ChatGPT 5.2 Pro](https://chatgpt.com/share/69926783-65c4-800a-95d3-7e62bdfa9157),[^20] and [Grok 4 Heavy](https://grok.com/share/c2hhcmQtMi1jb3B5_c3775855-9496-4e80-8372-94e508749803?rid=d13c0df4-46df-4aea-bad4-26e70a92f963)[^21] calculating the cost of just solar+batteries, since that is the scheme we are most prominently told is our savior, in the Mid-Atlantic (“PJM” region), which is the biggest grid in the US.
 
