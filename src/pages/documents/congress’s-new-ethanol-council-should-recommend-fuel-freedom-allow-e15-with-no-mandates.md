@@ -18,7 +18,7 @@ _Originally published: February 4, 2026_
 
     Congress’s new council discussing whether to expand government-dictated ethanol—by exempting E15 from the Clean Air Act—is cause for an honest conversation on an issue dominated by special interest pandering.
 
-2. **Government-dictated ethanol doesn’t lower costs, increase security, or improve our environment
+2. **Government-dictated ethanol doesn’t lower costs, increase security, or improve our environment**
 
     All the practical arguments for government-dictated ethanol are invalid; it does not make fuel cheaper, help our security, or improve our environment—just the opposite.**
 
@@ -123,7 +123,7 @@ _Originally published: February 4, 2026_
 
 - **The ideal compromise for the E15 council is: everyone should agree to year-round E15 and other blends of ethanol in exchange for phasing out the ethanol mandate and eliminating ethanol subsidies.**
 
-- **Congress has the power to phase out the RFS, and should use it. **A reasonable path forward is to cap volumes at 2025 actual production levels, then reduce by 20 percentage points a year for 5 years until it’s gone.**
+- Congress has the power to phase out the RFS, and should use it. **A reasonable path forward is to cap volumes at 2025 actual production levels, then reduce by 20 percentage points a year for 5 years until it’s gone.**
 
 - Once the ethanol mandate is gone, it’s possible the ethanol industry will find innovative ways to earn market share. E.g., if government doesn’t dictate that ethanol be blended above needed quantities in gasoline, maybe we will see high-performance E100 vehicles. **Everyone who feels enthusiasm about ethanol economically should welcome freer fuel choice that will unleash whatever potential it has.**
 
