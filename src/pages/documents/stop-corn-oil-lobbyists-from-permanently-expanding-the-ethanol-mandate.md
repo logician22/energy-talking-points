@@ -24,9 +24,8 @@ Tomorrow, Congress is voting on the absurdly-named “Nationwide Consumer and Fu
 
 The new bill permanently expands the ethanol mandate by
 
-    1) Congressionally loosening the air quality rules that currently serve as a check on how much ethanol can be forcibly injected into our cars
-
-    2) forcing more small refiners to comply with the mandate by significantly reducing their “small refinery exemptions.”
+    1. Congressionally loosening the air quality rules that currently serve as a check on how much ethanol can be forcibly injected into our cars
+    2. forcing more small refiners to comply with the mandate by significantly reducing their “small refinery exemptions.”
 
 Advocates of expanding the ethanol mandate not only have the gall to pretend they are increasing freedom when they are reducing it, they are also pretending they will lower fuel prices when in fact expanding the ethanol mandate can only raise prices.
 
