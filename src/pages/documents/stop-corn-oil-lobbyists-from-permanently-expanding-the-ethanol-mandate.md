@@ -13,6 +13,8 @@ _Originally published: May 12, 2026_
 **The corn lobby, joined by many oil lobbyists, is pushing a bill to expand the ethanol mandate by 1) loosening air quality rules and 2) imposing the mandate on small refineries. This will raise fuel costs.**
 
 **Stop corn + oil lobbyists from permanently expanding the ethanol mandate!**
+
+
 ![Vote NO on expanding the ethanol mandate](/img/corn-robbery.jpg)
 
 ### Congress is voting tomorrow on whether to expand the ethanol mandate
