@@ -32,8 +32,6 @@ Advocates of expanding the ethanol mandate not only have the gall to pretend the
 
 _Note: I use “the ethanol mandate” as shorthand for the Renewable Fuel Standard, which mandates the use of ethanol as well as certain other biofuels._
 
-[Tell Your Rep to Vote NO]
-
 ### The ethanol mandate directly increases the price of fuel by forcing us to buy ethanol when it’s more expensive
 
 The ethanol mandate forces around 7.5 billion gallons of ethanol into gasoline each year that would likely not be used in a free market (assuming most gasoline would be E5 in a free market). Thus, **when ethanol is more expensive than gasoline, the mandate raises costs by 7.5 billion times the price differential of ethanol and gasoline.**[^1]
