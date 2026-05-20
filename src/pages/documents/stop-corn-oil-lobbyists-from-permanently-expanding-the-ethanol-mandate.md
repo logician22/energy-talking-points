@@ -142,7 +142,6 @@ _Michelle Hung, Daniil Gorbatenko, and Steffen Henne contributed to this piece._
 
 [^13]:
     In 2025, Americans used about 136.72 billion gallons of gasoline, including 136.53 billion gallons of finished motor gasoline.
-
     [EIA - Gasoline explained](https://www.eia.gov/energyexplained/gasoline/use-of-gasoline.php)
 
     EPA set the total Renewable Volume Obligation at 25.82 billion gallons of which 10.82 billion represent the advanced biofuel mandate and the remaining 15 billion the conventional ethanol mandate.
