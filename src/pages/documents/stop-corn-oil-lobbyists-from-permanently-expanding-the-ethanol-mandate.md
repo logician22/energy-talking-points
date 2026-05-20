@@ -106,7 +106,7 @@ _Michelle Hung, Daniil Gorbatenko, and Steffen Henne contributed to this piece._
     [U.S. Energy Information Administration - Gasoline explained](https://www.eia.gov/energyexplained/gasoline/use-of-gasoline.php)
 
 [^2]:
-    In 2025 Iowa ethanol was about $1.64 on average or $2.45 on an energy-equivalent basis with pure gasoline. Pure gasoline (RBOB blendstock) was around $2.
+    In 2025 Iowa ethanol was about $1.64 on average or $2.45 on an energy-equivalent basis with pure gasoline. Pure gasoline (RBOB blendstock) was around $2.\
     [FarmDoc Daily - Trends in the Operational Efficiency of the U.S. Ethanol Industry: 2025 Update](https://farmdocdaily.illinois.edu/2026/02/trends-in-the-operational-efficiency-of-the-u-s-ethanol-industry-2025-update.html)
 
 [^3]: [Monroe, Kass, McConnell (2019) - Potential Impacts of Increased Ethanol Blend-Level in Gasoline on Distribution and Retail Infrastructure](file:///C:/Users/Ryan/Downloads/USDRIVE_FWG_PotentialImpactsIncreasedEthanolBlend-Level.pdf)
@@ -141,8 +141,8 @@ _Michelle Hung, Daniil Gorbatenko, and Steffen Henne contributed to this piece._
     [X.com - Rep. Adrian Smith](https://www.agri-pulse.com/articles/22076-year-round-e15-sales-likely-to-be-addressed-in-funding-bill)
 
 [^13]:
-    In 2025, Americans used about 136.72 billion gallons of gasoline, including 136.53 billion gallons of finished motor gasoline.
+    In 2025, Americans used about 136.72 billion gallons of gasoline, including 136.53 billion gallons of finished motor gasoline.\
     [EIA - Gasoline explained](https://www.eia.gov/energyexplained/gasoline/use-of-gasoline.php)
 
-    EPA set the total Renewable Volume Obligation at 25.82 billion gallons of which 10.82 billion represent the advanced biofuel mandate and the remaining 15 billion the conventional ethanol mandate.
+    EPA set the total Renewable Volume Obligation at 25.82 billion gallons of which 10.82 billion represent the advanced biofuel mandate and the remaining 15 billion the conventional ethanol mandate.\
     [U.S. EPA - Final Renewable Fuel Standards for 2026 and 2027](https://www.epa.gov/renewable-fuel-standard/final-renewable-fuel-standards-2026-and-2027)
