@@ -101,14 +101,12 @@ _Michelle Hung, Daniil Gorbatenko, and Steffen Henne contributed to this piece._
 
 [^1]: 
     US consumption of ethanol in fuel was 14.3 billion gallons under an effective E10 mandate. Gasoline fuel consumption in 2025 was 136.7 gallons. Under a reasonable assumption that a free market would prefer E5 with only 5% ethanol blended into gasoline to boost octane rating, there would only be about 6.8 billion gallons of ethanol fuel consumed. The difference to the actually consumed ethanol is 7.5 billion gallons.
-
     [Renewables fuels Association - U.S. Ethanol Production Set a Record in 2025, New Data Show](https://ethanolrfa.org/media-and-news/category/news-releases/article/2026/03/u-s-ethanol-production-set-a-record-in-2025-new-data-show)
 
     [U.S. Energy Information Administration - Gasoline explained](https://www.eia.gov/energyexplained/gasoline/use-of-gasoline.php)
 
 [^2]:
     In 2025 Iowa ethanol was about $1.64 on average or $2.45 on an energy-equivalent basis with pure gasoline. Pure gasoline (RBOB blendstock) was around $2.
-
     [FarmDoc Daily - Trends in the Operational Efficiency of the U.S. Ethanol Industry: 2025 Update](https://farmdocdaily.illinois.edu/2026/02/trends-in-the-operational-efficiency-of-the-u-s-ethanol-industry-2025-update.html)
 
 [^3]: [Monroe, Kass, McConnell (2019) - Potential Impacts of Increased Ethanol Blend-Level in Gasoline on Distribution and Retail Infrastructure](file:///C:/Users/Ryan/Downloads/USDRIVE_FWG_PotentialImpactsIncreasedEthanolBlend-Level.pdf)
@@ -147,6 +145,5 @@ _Michelle Hung, Daniil Gorbatenko, and Steffen Henne contributed to this piece._
 
     [EIA - Gasoline explained](https://www.eia.gov/energyexplained/gasoline/use-of-gasoline.php)
 
-    EPA set the total Renewable Volume Obligation at 25.82 billion gallons of which 10.82 billion represent the advanced biofuel mandate and the remaining 15 billion the conventional ethanol mandate
-
+    EPA set the total Renewable Volume Obligation at 25.82 billion gallons of which 10.82 billion represent the advanced biofuel mandate and the remaining 15 billion the conventional ethanol mandate.
     [U.S. EPA - Final Renewable Fuel Standards for 2026 and 2027](https://www.epa.gov/renewable-fuel-standard/final-renewable-fuel-standards-2026-and-2027)
