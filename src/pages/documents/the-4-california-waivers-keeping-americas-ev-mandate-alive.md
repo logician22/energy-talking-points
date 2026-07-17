@@ -10,59 +10,59 @@ featuredimage: /img/epa-4-waivers-obligation-cra.png
 ---
 _Originally published: July 13, 2026_
 
-America’s EV mandate is not dead, thanks to 4 “waivers” that California holds from the Clean Air Act, which let it impose vehicle GHG standards on the whole country.
+**America’s EV mandate is not dead, thanks to 4 “waivers” that California holds from the Clean Air Act, which let it impose vehicle GHG standards on the whole country.**
 
-Congress has an opportunity to get rid of these waivers, but they need to act before the midterm election![^1]
+**Congress has an opportunity to get rid of these waivers, but they need to act before the midterm election!**[^1]
 ![EPA fulfills mandate to subject CA air regulation waivers to Congressional Research Act](/img/epa-4-waivers-obligation-cra.png)
 
-- *No government should use vehicle GHG standards to mandate EVs.*
+- **No government should use vehicle GHG standards to mandate EVs.**
 
-    *1) There is no “climate crisis” requiring lower GHG emissions*—and even if there were, forced EVs (which have high-emissions supply chains) wouldn’t help
+    1) **There is no “climate crisis” requiring lower GHG emissions**—and even if there were, forced EVs (which have high-emissions supply chains) wouldn’t help
 
-    *2) People should be free to drive whatever vehicle they choose*[^2]
+    2) **People should be free to drive whatever vehicle they choose**[^2]
 
-- *As of February 12, 2026, America no longer has national vehicle GHG standards.*
+- **As of February 12, 2026, America no longer has national vehicle GHG standards.**
 
-    But *letting states set their own vehicle GHG standards effectively creates national standards,* because automakers must shift their nationwide fleets toward EVs to comply with individual states’ rules.[^3]
+    But **letting states set their own vehicle GHG standards effectively creates national standards,** because automakers must shift their nationwide fleets toward EVs to comply with individual states’ rules.[^3]
 
-- *The Clean Air Act normally bars states from having vehicle GHG standards. But EPA gave CA “waivers” to set its own standards, which other states are allowed to adopt.*
+- **The Clean Air Act normally bars states from having vehicle GHG standards. But EPA gave CA “waivers” to set its own standards, which other states are allowed to adopt.**
 
     Today, more than a dozen states have adopted parts of CA’s standards, covering ~40% of the US new car market.[^4]
     ![CA waiver adoption under section 177 of the CAA](/img/carb-section-177-adoption-dashboard.png)
 
-- *Congress can put an end to California’s vehicle GHG standards using a law called the Congressional Review Act (CRA).* It allows Congress to disapprove agency rules by issuing a “joint resolution” that is not subject to the ordinary 60-vote filibuster.[^5]
+- **Congress can put an end to California’s vehicle GHG standards using a law called the Congressional Review Act (CRA).** It allows Congress to disapprove agency rules by issuing a “joint resolution” that is not subject to the ordinary 60-vote filibuster.[^5]
 
-- *The EPA could theoretically rescind California’s “waivers” on its own. But it would be far better for Congress to do so,* because once Congress disapproves a rule under the CRA, a future EPA cannot reissue a substantially similar rule without new legislation.[^6]
+- **The EPA could theoretically rescind California’s “waivers” on its own. But it would be far better for Congress to do so,** because once Congress disapproves a rule under the CRA, a future EPA cannot reissue a substantially similar rule without new legislation.[^6]
 
 _Here are the 4 California “waivers” Congress should put an end to, and how each one imposes an EV mandate on Americans:_
 
-- *1: Waiver for California’s GHG Emission Standards for New Motor Vehicles*
+- **1: Waiver for California’s GHG Emission Standards for New Motor Vehicles**
 
-    This waiver let CA enact vehicle GHG standards in 2009, before federal standards for model year 2012 went into effect, and *today it lets CA enforce the Biden admin’s EV mandate even after its repeal.*[^7]
+    This waiver let CA enact vehicle GHG standards in 2009, before federal standards for model year 2012 went into effect, and *today it lets CA enforce the Biden admin’s EV mandate even after its repeal.**[^7]
     ![CA 2009 GHG waiver](/img/epa-cra-ca-waiver-1-2009.jpg)
 
-- *2: Waiver for California’s Advanced Clean Car (ACC I) Program**
+- **2: Waiver for California’s Advanced Clean Car (ACC I) Program**
 
-    *This waiver gives CA permission to*
-    - *effectively require automakers to sell ~15% EVs/hybrids* or buy expensive credits
-    - *enforce GHG standards for model years 2017-2025* as strict or stricter than federal standards[^8]
+    **This waiver gives CA permission to**
+    - **effectively require automakers to sell ~15% EVs/hybrids** or buy expensive credits
+    - **enforce GHG standards for model years 2017-2025** as strict or stricter than federal standards[^8]
     ![CA ACC1 waiver 2013](/img/carb-ca-waiver-2-2012.png)
 
-- 3: *Reinstatement of the Waiver for California’s Advanced Clean Car (ACC I) Program*
+- 3: **Reinstatement of the Waiver for California’s Advanced Clean Car (ACC I) Program**
 
-    The first Trump admin already withdrew the key parts of CA’s ACC I waiver, but the Biden admin reinstated the waiver in 2022. *Congress should repeal both the original waiver and its reinstatement.*[^9]
+    The first Trump admin already withdrew the key parts of CA’s ACC I waiver, but the Biden admin reinstated the waiver in 2022. **Congress should repeal both the original waiver and its reinstatement.**[^9]
 
-- *4: California’s Small Off-Road Engine (SORE) Authorization*
+- **4: California’s Small Off-Road Engine (SORE) Authorization**
 
-    *This authorization gives CA permission to require zero exhaust emissions for small off-road engines,* including lawn/garden equipment, beginning with model year 2024—plus later on, certain generators and pressure washers.[^10]
+    **This authorization gives CA permission to require zero exhaust emissions for small off-road engines,** including lawn/garden equipment, beginning with model year 2024—plus later on, certain generators and pressure washers.[^10]
     ![CA SORE waiver 2022](/img/carb-ca-waiver-4-2021.png)
 
 - EPA has already submitted the 4 CA “waivers” to Congress for review under the Congressional Review Act.
 
-    Congress has until around December 10 to respond, but strategically *Congressional leadership should act before the midterm election so they have control over it.*[^11]
+    Congress has until around December 10 to respond, but strategically **Congressional leadership should act before the midterm election so they have control over it.**[^11]
     ![EPA fulfills mandate to subject CA air regulation waivers to Congressional Research Act](/img/epa-4-waivers-obligation-cra.png)
 
-- *Tell your Congressman to introduce and pass “joint resolutions” rejecting each California “waiver,” and to do it before the end of the 119th Congress.*
+- **Tell your Congressman to introduce and pass “joint resolutions” rejecting each California “waiver,” and to do it before the end of the 119th Congress.**
 
     If they don’t, an EV mandate from California will continue to dictate what kinds of cars all Americans are allowed to drive!
 
@@ -86,7 +86,7 @@ _Here are the 4 California “waivers” Congress should put an end to, and how 
 [^5]: [Congressional Research Service - The Congressional Review Act (CRA): Frequently Asked Questions](https://www.congress.gov/crs-product/R43992)
 
 [^6]:
-    “A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.”
+    “A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.”\
     [Cornell Law School, Legal Information Institute - 5 U.S. Code § 801(b)(2)](https://www.law.cornell.edu/uscode/text/5/801)
 
 [^7]:
