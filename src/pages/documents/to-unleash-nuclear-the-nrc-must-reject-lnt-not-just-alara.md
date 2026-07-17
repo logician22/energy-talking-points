@@ -50,7 +50,7 @@ _Originally published: July 14, 2026_
 
 _Michelle Hung, Steffen Henne, and Daniil Gorbatenko contributed to this piece._
 
-###References
+### References
 
 [^1]: [Ars Technica - NRC is (sort of) getting rid of “as low as reasonably achievable” standard](https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/)
 
