@@ -66,6 +66,7 @@ _Here are the 4 California “waivers” Congress should put an end to, and how 
 
     If they don’t, an EV mandate from California will continue to dictate what kinds of cars all Americans are allowed to drive!
 
+_Michelle Hung, Steffen Henne, and Daniil Gorbatenko contributed to this piece._
 
 ### References
 
