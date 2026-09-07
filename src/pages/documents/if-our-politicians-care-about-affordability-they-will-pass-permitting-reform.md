@@ -54,13 +54,13 @@ The only way Trump and Congress can leave a lasting legacy is for Congress to pa
 
 ### References
 
-[^1] [Marquette University - New Marquette Law School Poll national survey finds inflation and cost of living the most important issue; economy next most important](https://law.marquette.edu/poll/2026/08/05/new-marquette-law-school-poll-national-survey-finds-inflation-and-cost-of-living-the-most-important-issue-economy-next-most-important)
+[^1]: [Marquette University - New Marquette Law School Poll national survey finds inflation and cost of living the most important issue; economy next most important](https://law.marquette.edu/poll/2026/08/05/new-marquette-law-school-poll-national-survey-finds-inflation-and-cost-of-living-the-most-important-issue-economy-next-most-important)
 
-[^2] [McKinsey & Company - Unlocking US federal permitting: A sustainable growth imperative](https://www.mckinsey.com/industries/public-sector/our-insights/unlocking-us-federal-permitting-a-sustainable-growth-imperative)
+[^2]: [McKinsey & Company - Unlocking US federal permitting: A sustainable growth imperative](https://www.mckinsey.com/industries/public-sector/our-insights/unlocking-us-federal-permitting-a-sustainable-growth-imperative)
 
-[^3] [Council on Environmental Quality - Environmental Impact Statement Timelines (2010-2024)](https://nepa.gov/sites/default/files/documents/CEQ_EIS_Timeline_Report_2025-1-13.pdf)
+[^3]: [Council on Environmental Quality - Environmental Impact Statement Timelines (2010-2024)](https://nepa.gov/sites/default/files/documents/CEQ_EIS_Timeline_Report_2025-1-13.pdf)
 
-[^4]
+[^4]:
     Natural gas delivered to New England power plants costs $2.4/MMBtu more than the national average and sets the region’s real-time electricity price for 79% of load. At a 7.8 MMBtu/MWh heat rate, that premium adds about 1.9-2.7¢/kWh, costing the average residential customer $137-195 more per year.
 
     Residential natural gas in New England cost $23.46/Mcf in 2025 versus $18 nationally. At average annual consumption of 71.7 Mcf, that adds about $391 per customer.
@@ -76,7 +76,7 @@ The only way Trump and Congress can leave a lasting legacy is for Congress to pa
 
     [EIA - Natural gas delivered to consumers by sector, 2020-2024](https://www.eia.gov/naturalgas/annual/pdf/table_015.pdf)
 
-[^5]
+[^5]:
     As an example, in ISO-NE, transmission-related costs went from less than 2 ¢/kWh in 2010 to 3.7 ¢/kWh in 2025. Over the same period, the average retail electricity price across all sectors in NE rose from 14.89¢/kWh to 23.03¢/kWh. This means that transmission cost increases accounted for more than 20% of the retail price increase in ISO-NE.
     [LBNL - Retail Electricity Price Trends and Drivers: Data Update−2026 Edition](https://emp.lbl.gov/sites/default/files/2026-03/Retail%20Price%20Trends_2026%20edition.pdf)
 
