@@ -65,7 +65,7 @@ The only way Trump and Congress can leave a lasting legacy is for Congress to pa
 
     Residential natural gas in New England cost $23.46/Mcf in 2025 versus $18 nationally. At average annual consumption of 71.7 Mcf, that adds about $391 per customer.
 
-    Combined, the average New England household would save about $528-586 per year if natural gas were at national average prices.
+    Combined, the average New England household would save about $528-586 per year if natural gas were at national average prices.\
     [ISO-New England - 2025 Annual Markets Report](https://www.iso-ne.com/static-assets/documents/100035/2025-annual-markets-report.pdf)
 
     [EIA - Natural gas prices](https://www.eia.gov/dnav/ng/ng_pri_sum_a_epg0_peu_dmcf_a.htm)
@@ -77,7 +77,7 @@ The only way Trump and Congress can leave a lasting legacy is for Congress to pa
     [EIA - Natural gas delivered to consumers by sector, 2020-2024](https://www.eia.gov/naturalgas/annual/pdf/table_015.pdf)
 
 [^5]:
-    As an example, in ISO-NE, transmission-related costs went from less than 2 ¢/kWh in 2010 to 3.7 ¢/kWh in 2025. Over the same period, the average retail electricity price across all sectors in NE rose from 14.89¢/kWh to 23.03¢/kWh. This means that transmission cost increases accounted for more than 20% of the retail price increase in ISO-NE.
+    As an example, in ISO-NE, transmission-related costs went from less than 2 ¢/kWh in 2010 to 3.7 ¢/kWh in 2025. Over the same period, the average retail electricity price across all sectors in NE rose from 14.89¢/kWh to 23.03¢/kWh. This means that transmission cost increases accounted for more than 20% of the retail price increase in ISO-NE.\
     [LBNL - Retail Electricity Price Trends and Drivers: Data Update−2026 Edition](https://emp.lbl.gov/sites/default/files/2026-03/Retail%20Price%20Trends_2026%20edition.pdf)
 
     [EIA - Electric Power Annual 2011, Table 2.10](http://large.stanford.edu/courses/2013/ph240/bechstein1/docs/epa.pdf)
